@@ -1,0 +1,1 @@
+{"description":"This function uploads a local data frame into a remote data source, creating\nthe table definition as needed. Wherever possible, the new object will be\ntemporary, limited to the current connection to the source.\n","example_call":"copy_to(dest, df, name = deparse(substitute(df)), overwrite = FALSE,"}

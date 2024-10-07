@@ -1,0 +1,1 @@
+{"description":"A list_of object is a list where each element has the same type.\nModifying the list with $, [, and [[ preserves the constraint\nby coercing all input items.\n","example_call":"vec_ptype2.vctrs_list_of(x, y, ..., x_arg = \"\", y_arg = \"\")"}

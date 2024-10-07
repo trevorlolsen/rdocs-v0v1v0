@@ -1,0 +1,1 @@
+{"description":"Provides an estimate of the memory that is being used to store an R object.\n","example_call":"object.size(x)"}

@@ -1,0 +1,1 @@
+{"description":"Useful for experimenting with format strings and for documentation.\nIt creates a progress bar, iterates it until it terminates and saves the\nprogress updates.\n","example_call":"cli_progress_demo(name = NULL, status = NULL, type = c(\"iterator\", \"tasks\","}

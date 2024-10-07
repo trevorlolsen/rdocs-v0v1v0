@@ -1,0 +1,1 @@
+{"description":"Deprecated. Instead create a config object directly using\nconfig(token = my_token).\n","example_call":"sign_oauth1.0(app, token = NULL, token_secret = NULL, as_header = TRUE,"}

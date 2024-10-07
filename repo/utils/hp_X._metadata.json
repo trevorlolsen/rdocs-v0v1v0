@@ -1,0 +1,1 @@
+{"description":"These functions provide access to documentation.\nDocumentation on a topic with name name (typically, an R\nobject or a data set) can be displayed by either help(\"name\") or\n?name.\n","example_call":"?(e1, e2)"}

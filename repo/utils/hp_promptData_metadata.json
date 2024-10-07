@@ -1,0 +1,1 @@
+{"description":"Generates a shell of documentation for a data set.\n","example_call":"promptData(object, filename = NULL, name = NULL)"}

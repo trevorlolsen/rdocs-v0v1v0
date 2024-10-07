@@ -1,0 +1,1 @@
+{"description":"Arbitrary colour gradient palette (continuous)\n","example_call":"pal_gradient_n(colours, values = NULL, space = \"Lab\")"}

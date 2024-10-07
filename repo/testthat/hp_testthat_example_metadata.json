@@ -1,0 +1,1 @@
+{"description":"testthat_examples() retrieves path to directory of test files,\ntestthat_example() retrieves path to a single test file.\n","example_call":"testthat_example(filename)"}

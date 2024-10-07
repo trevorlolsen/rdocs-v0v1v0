@@ -1,0 +1,1 @@
+{"description":"Perform k-means clustering on a data matrix.\n","example_call":"kmeans(x, centers, iter.max = 10L, nstart = 1L, algorithm = c(\"Hartigan-Wong\","}

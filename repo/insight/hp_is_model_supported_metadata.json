@@ -1,0 +1,1 @@
+{"description":"Small helper that checks if a model is a supported\n(regression) model object. supported_models() prints a list\nof currently supported model classes.\n","example_call":"is_model_supported(x)"}

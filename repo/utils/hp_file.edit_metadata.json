@@ -1,0 +1,1 @@
+{"description":"Edit one or more files in a text editor.","example_call":"file.edit(..., title = file, editor = getOption(\"editor\"), fileEncoding = \"\")"}

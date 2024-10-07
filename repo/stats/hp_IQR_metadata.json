@@ -1,0 +1,1 @@
+{"description":"computes interquartile range of the x values.","example_call":"IQR(x, na.rm = FALSE, type = 7)"}

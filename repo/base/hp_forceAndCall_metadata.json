@@ -1,0 +1,1 @@
+{"description":"Call a function with a specified number of leading arguments forced\nbefore the call if the function is a closure.\n","example_call":"forceAndCall(n, FUN, ...)"}

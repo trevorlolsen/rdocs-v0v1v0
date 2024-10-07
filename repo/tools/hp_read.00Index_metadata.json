@@ -1,0 +1,1 @@
+{"description":"Read item/description information from <U+2018>00Index<U+2019>-like files.  Such\nfiles are description lists rendered in tabular form, and currently\nused for the <U+2018>INDEX<U+2019> and <U+2018>demo/00Index<U+2019> files of add-on\npackages.\n","example_call":"read.00Index(file)"}

@@ -1,0 +1,1 @@
+{"description":"Distribution function, quantile function and random generation for the\ndistribution of the Smirnov statistic.","example_call":"psmirnov(q, sizes, z = NULL, alternative = c(\"two.sided\", \"less\","}

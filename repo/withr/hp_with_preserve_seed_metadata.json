@@ -1,0 +1,1 @@
+{"description":"with_seed() runs code with a specific random seed and resets it afterwards.\n","example_call":"with_preserve_seed(code)"}

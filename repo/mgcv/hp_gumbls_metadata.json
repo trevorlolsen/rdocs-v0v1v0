@@ -1,0 +1,1 @@
+{"description":"The gumbls family implements Gumbel location scale additive models in which the location and scale parameters (see details) can depend on additive smooth predictors. Useable only with gam, the linear predictors are specified via a list of formulae.\n","example_call":"gumbls(link = list(\"identity\", \"log\"), b = -7)"}

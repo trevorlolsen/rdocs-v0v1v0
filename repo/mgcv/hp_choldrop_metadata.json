@@ -1,0 +1,1 @@
+{"description":"Given a Cholesky factor, R, of a matrix, A, choldrop finds the Cholesky factor of A[-k,-k],\nwhere k is an integer. cholup finds the factor of A + uu^T (update) or A - uu^T (downdate).\n","example_call":"choldrop(R, k)"}

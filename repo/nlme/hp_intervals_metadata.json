@@ -1,0 +1,1 @@
+{"description":"Confidence intervals on the parameters associated with the model\nrepresented by object are obtained. This function is generic;\nmethod functions can be written to handle specific classes of\nobjects. Classes which already have methods for this function include:\ngls, lme, and lmList. \n","example_call":"intervals(object, level = 0.95, ...)"}

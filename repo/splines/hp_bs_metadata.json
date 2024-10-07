@@ -1,0 +1,1 @@
+{"description":"Generate the B-spline basis matrix for a polynomial spline.\n","example_call":"bs(x, df = NULL, knots = NULL, degree = 3, intercept = FALSE,"}

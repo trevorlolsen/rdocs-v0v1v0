@@ -1,0 +1,1 @@
+{"description":"Color palettes based on the HCL (and HSV) color space to replace\nbase R palettes.\n","example_call":"diverge_hsv(n, h = c(240, 0), s = 1, v = 1, power = 1, gamma = NULL,"}

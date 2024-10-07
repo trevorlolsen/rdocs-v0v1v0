@@ -1,0 +1,1 @@
+{"description":" Creates a prediction matrix for a soap film smooth object,\nmapping the coefficients of the smooth to the linear predictor component for\nthe smooth.  This is the Predict.matrix method function required by gam.\n","example_call":"Predict.matrix.sw(object, data)"}

@@ -1,0 +1,1 @@
+{"description":"Helper functions to generate functions to use as slots for the\nStyleHtml@funs classes.  These are functions that return\nfunctions.\n","example_call":"cont_f(class = character())"}

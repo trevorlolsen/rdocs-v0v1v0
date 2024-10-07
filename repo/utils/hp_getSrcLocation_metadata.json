@@ -1,0 +1,1 @@
+{"description":"These functions extract information from source references.\n","example_call":"getSrcLocation(x, which = c(\"line\", \"column\", \"byte\", \"parse\"), first = TRUE)"}

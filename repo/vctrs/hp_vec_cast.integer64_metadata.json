@@ -1,0 +1,1 @@
+{"description":"A integer64 is a 64 bits integer vector, implemented in the bit64 package.\n","example_call":"vec_cast.integer64(x, to, ...)"}

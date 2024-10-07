@@ -1,0 +1,1 @@
+{"description":"This function returns a text that can be used as alt-text in webpages etc.\nCurrently it will use the alt label, added with <U+2060>+ labs(alt = <...>)<U+2060>, or\na return an empty string, but in the future it might try to generate an alt\ntext from the information stored in the plot.\n","example_call":"get_alt_text(p, ...)"}

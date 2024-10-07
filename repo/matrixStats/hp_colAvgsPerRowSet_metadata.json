@@ -1,0 +1,1 @@
+{"description":"Applies a row-by-row (column-by-column) averaging function to equally-sized\nsubsets of matrix columns (rows).  Each subset is averaged independently of\nthe others.\n","example_call":"colAvgsPerRowSet(X, W = NULL, cols = NULL, S, FUN = colMeans, ..., na.rm = NA,"}

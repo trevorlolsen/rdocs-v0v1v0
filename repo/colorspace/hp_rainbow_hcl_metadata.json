@@ -1,0 +1,1 @@
+{"description":"Color palettes based on the HCL (and HSV) color space to replace\nbase R palettes.\n","example_call":"rainbow_hcl(n, c = 50, l = 70, start = 0, end = 360 * (n - 1)/n,"}

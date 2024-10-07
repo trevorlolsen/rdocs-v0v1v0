@@ -1,0 +1,1 @@
+{"description":"Displays the argument names and corresponding default values of a\n(non-primitive or primitive) function.\n","example_call":"args(name)"}

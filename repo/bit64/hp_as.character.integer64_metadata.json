@@ -1,0 +1,1 @@
+{"description":"Methods to coerce integer64 to other atomic types. \n'as.bitstring' coerces to a human-readable bit representation (strings of zeroes and ones). \nThe methods format, as.character, as.double,\nas.logical, as.integer do what you would expect.\n","example_call":"as.character.integer64(x, ...)"}

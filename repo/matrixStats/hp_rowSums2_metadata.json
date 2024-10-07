@@ -1,0 +1,1 @@
+{"description":"Calculates the sum for each row (column) in a matrix.\n","example_call":"rowSums2(x, rows = NULL, cols = NULL, na.rm = FALSE, dim. = dim(x),"}

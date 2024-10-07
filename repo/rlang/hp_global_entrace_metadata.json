@@ -1,0 +1,1 @@
+{"description":"global_entrace() enriches base errors, warnings, and messages\nwith rlang features.\n","example_call":"global_entrace(enable = TRUE, class = c(\"error\", \"warning\", \"message\"))"}

@@ -1,0 +1,1 @@
+{"description":"Fit a regression to the good points in the dataset, thereby\nachieving a regression estimator with a high breakdown point.\nlmsreg and ltsreg are compatibility wrappers.\n","example_call":"ltsreg(...)"}

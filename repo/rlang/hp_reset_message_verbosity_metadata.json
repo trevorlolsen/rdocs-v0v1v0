@@ -1,0 +1,1 @@
+{"description":"These functions are equivalent to base functions base::stop(),\nbase::warning(), and base::message(). They signal a condition\n(an error, warning, or message respectively) and make it easy to\nsupply condition metadata:\n","example_call":"reset_message_verbosity(id)"}

@@ -1,0 +1,1 @@
+{"description":"Standardizes order of columns for dataframes and other objects from\neasystats and broom ecosystem packages.\n","example_call":"standardize_column_order(data, ...)"}

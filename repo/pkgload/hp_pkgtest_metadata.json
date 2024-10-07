@@ -1,0 +1,1 @@
+{"description":"devtools comes with some simple packages for testing. This function\nreturns the path to them.\n","example_call":"pkgtest(package)"}

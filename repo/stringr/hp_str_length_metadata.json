@@ -1,0 +1,1 @@
+{"description":"str_length() returns the number of codepoints in a string. These are\nthe individual elements (which are often, but not always letters) that\ncan be extracted with str_sub().\n","example_call":"str_length(string)"}

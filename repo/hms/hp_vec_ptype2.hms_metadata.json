@@ -1,0 +1,1 @@
+{"description":"Double dispatch methods to support vctrs::vec_ptype2().\n","example_call":"vec_ptype2.hms(x, y, ..., x_arg = \"\", y_arg = \"\")"}

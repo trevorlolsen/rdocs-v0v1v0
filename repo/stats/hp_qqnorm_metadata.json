@@ -1,0 +1,1 @@
+{"description":"qqnorm is a generic function the default method of which\nproduces a normal QQ plot of the values in y.\nqqline adds a line to a <U+201C>theoretical<U+201D>, by default\nnormal, quantile-quantile plot which passes through the probs\nquantiles, by default the first and third quartiles.\n","example_call":"qqnorm(y, ...)"}

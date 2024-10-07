@@ -1,0 +1,1 @@
+{"description":"Fast version of setdiff(rx[1]:rx[2], y).\n","example_call":"bit_rangediff(rx, y, revx = FALSE, revy = FALSE)"}

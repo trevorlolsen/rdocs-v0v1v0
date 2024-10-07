@@ -1,0 +1,1 @@
+{"description":"Guess if cell references are in R1C1 or A1 format.\n","example_call":"guess_fo(x, fo = c(\"R1C1\", \"A1\"))"}

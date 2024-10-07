@@ -1,0 +1,1 @@
+{"description":"This is a low level interface to pivoting, inspired by the cdata package,\nthat allows you to describe pivoting with a data frame.\n","example_call":"pivot_wider_spec(data, spec, ..., names_repair = \"check_unique\", id_cols = NULL,"}

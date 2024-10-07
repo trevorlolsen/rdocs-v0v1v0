@@ -1,0 +1,1 @@
+{"description":"UTF-8 text encoding and validation.\n","example_call":"as_utf8(x, normalize = FALSE)"}

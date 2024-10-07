@@ -1,0 +1,1 @@
+{"description":"This function computes the standard deviation of the values in\nx.\nIf na.rm is TRUE then missing values are removed before\ncomputation proceeds.\n","example_call":"sd(x, na.rm = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"This function fits a linear model using generalized least\nsquares. The errors are allowed to be correlated and/or have unequal\nvariances.  \n","example_call":"gls(model, data = sys.frame(sys.parent()), correlation = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"Produces a graphical display of (by default) the current\ngrid viewport tree.  It is also possible to display only\nspecific viewports.  Each viewport is drawn as a rectangle\nand the leaf viewports are labelled with the viewport name.\n","example_call":"showViewport(vp = NULL, recurse = TRUE, depth = NULL, newpage = FALSE,"}

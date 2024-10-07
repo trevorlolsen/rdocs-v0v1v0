@@ -1,0 +1,1 @@
+{"description":"If getOption(pager) is set to the default value, checks whether\nSys.getenv(\"PAGER\") appears to be less by trying to run the\npager with the <U+201C>version<U+201D> and parsing the output.  If\ngetOption(pager) is not the default value, then checks whether it\npoints to the less program by the same mechanism.\n","example_call":"pager_is_less()"}

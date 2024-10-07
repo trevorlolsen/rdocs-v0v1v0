@@ -1,0 +1,1 @@
+{"description":"Directories for storing R-related user-specific data, configuration\nand cache files.\n","example_call":"R_user_dir(package, which = c(\"data\", \"config\", \"cache\"))"}

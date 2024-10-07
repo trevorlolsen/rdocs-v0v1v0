@@ -1,0 +1,1 @@
+{"description":"These are (related to) the default panel functions for cloud\nand wireframe.\n","example_call":"ltransform3dMatrix(screen, R.mat = diag(4))"}

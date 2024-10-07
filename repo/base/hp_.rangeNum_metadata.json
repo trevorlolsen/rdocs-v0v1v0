@@ -1,0 +1,1 @@
+{"description":"range returns a vector containing the minimum and maximum of\nall the given arguments.\n","example_call":".rangeNum(..., na.rm, finite, isNumeric)"}

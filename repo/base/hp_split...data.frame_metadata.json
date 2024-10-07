@@ -1,0 +1,1 @@
+{"description":"split divides the data in the vector x into the groups\ndefined by f.  The replacement forms replace values\ncorresponding to such a division.  unsplit reverses the effect of\nsplit.\n","example_call":"split<-.data.frame(x, f, drop = FALSE, ..., value)"}

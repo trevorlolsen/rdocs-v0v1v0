@@ -1,0 +1,1 @@
+{"description":"In order to pinpoint missing functionality, the R core team uses\nthese functions for missing R functions and not yet used arguments of\nexisting R functions (which are typically there for compatibility\npurposes).\n","example_call":".NotYetImplemented()"}

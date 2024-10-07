@@ -1,0 +1,1 @@
+{"description":"This creates an object that can perform the Advanced Encryption\nStandard (AES) block cipher.\n","example_call":"AES(key, mode = c(\"ECB\", \"CBC\", \"CFB\", \"CTR\"), IV = NULL,"}

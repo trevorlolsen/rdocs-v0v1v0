@@ -1,0 +1,1 @@
+{"description":"Add a progress bar.\n","example_call":"progress(type = c(\"down\", \"up\"), con = stdout())"}

@@ -1,0 +1,1 @@
+{"description":"enquo() and enquos() defuse function arguments.\nA defused expression can be examined, modified, and injected into\nother expressions.\n","example_call":"enquos(..., .named = FALSE, .ignore_empty = c(\"trailing\","}

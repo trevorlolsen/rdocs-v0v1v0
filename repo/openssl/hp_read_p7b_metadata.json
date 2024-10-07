@@ -1,0 +1,1 @@
+{"description":"PKCS7 and PKCS12 are container formats for storing multiple certificates and/or keys.\n","example_call":"read_p7b(file, der = is.raw(file))"}

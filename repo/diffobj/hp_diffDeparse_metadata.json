@@ -1,0 +1,1 @@
+{"description":"Perform diff on the character vectors produced by deparseing\nthe objects.  Each element counts as a line.  If an element contains newlines\nit will be split into elements new lines by the newlines.\n","example_call":"diffDeparse(target, current, ...)"}

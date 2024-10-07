@@ -1,0 +1,1 @@
+{"description":"charmatch seeks matches for the elements of its first argument\namong those of its second.\n","example_call":"charmatch(x, table, nomatch = NA_integer_)"}

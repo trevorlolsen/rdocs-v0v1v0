@@ -1,0 +1,1 @@
+{"description":"Show the ANSI color table on the screen\n","example_call":"show_ansi_colors(colors = num_colors())"}

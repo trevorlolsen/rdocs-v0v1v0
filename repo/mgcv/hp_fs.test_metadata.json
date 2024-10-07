@@ -1,0 +1,1 @@
+{"description":"Implements a finite area test function based on one proposed by Tim Ramsay (2002).\n","example_call":"fs.test(x, y, r0 = 0.1, r = 0.5, l = 3, b = 1, exclude = TRUE)"}

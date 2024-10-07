@@ -1,0 +1,1 @@
+{"description":"env_poke() will assign or reassign a binding in env if create\nis TRUE. If create is FALSE and a binding does not already\nexists, an error is issued.\n","example_call":"env_poke(env = caller_env(), nm, value, inherit = FALSE, create = !inherit)"}

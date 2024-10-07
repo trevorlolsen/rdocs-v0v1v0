@@ -1,0 +1,1 @@
+{"description":"Find (recursively) dependencies or reverse dependencies of packages.\n","example_call":"package_dependencies(packages = NULL, db = NULL, which = \"strong\", recursive = FALSE,"}

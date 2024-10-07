@@ -1,0 +1,1 @@
+{"description":"Switches between number_format() and scientific_format() based on a set of\nheuristics designed to automatically generate useful labels across a wide\nrange of inputs\n","example_call":"label_number_auto()"}

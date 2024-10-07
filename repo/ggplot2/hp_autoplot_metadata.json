@@ -1,0 +1,1 @@
+{"description":"autoplot() uses ggplot2 to draw a particular plot for an object of a\nparticular class in a single command. This defines the S3 generic that\nother classes and packages can extend.\n","example_call":"autoplot(object, ...)"}

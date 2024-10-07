@@ -1,0 +1,1 @@
+{"description":"Registers an R function to be called upon garbage collection of\nobject or (optionally) at the end of an R session.\n","example_call":"reg.finalizer(e, f, onexit = FALSE)"}

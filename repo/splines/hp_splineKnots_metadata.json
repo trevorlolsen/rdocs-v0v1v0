@@ -1,0 +1,1 @@
+{"description":"Return the knot vector corresponding to a spline object.\n","example_call":"splineKnots(object)"}

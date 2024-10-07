@@ -1,0 +1,1 @@
+{"description":"INTERNAL routine to apply initial Sl re-parameterization to model matrix X,\nor, if inverse==TRUE, to apply inverse re-parametrization to parameter vector \nor covariance matrix.\n","example_call":"Sl.inirep(Sl, X, l = 0, r = 0, nt = 1)"}

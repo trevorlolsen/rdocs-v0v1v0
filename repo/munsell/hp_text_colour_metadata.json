@@ -1,0 +1,1 @@
+{"description":"Get the appropriate text colour for writing on a munsell colour.\n","example_call":"text_colour(cols)"}

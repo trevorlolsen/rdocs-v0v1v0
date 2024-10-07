@@ -1,0 +1,1 @@
+{"description":"Return the R home directory, or the full path to a component of the\nR installation.\n","example_call":"R.home(component = \"home\")"}

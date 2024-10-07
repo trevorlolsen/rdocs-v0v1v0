@@ -1,0 +1,1 @@
+{"description":"Interrupt the execution of an expression and allow the inspection of\nthe environment where browser was called from.\n","example_call":"browser(text = \"\", condition = NULL, expr = TRUE, skipCalls = 0L)"}

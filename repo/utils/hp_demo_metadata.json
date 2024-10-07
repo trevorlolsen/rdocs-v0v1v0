@@ -1,0 +1,1 @@
+{"description":"demo is a user-friendly interface to running some demonstration\nR scripts.  demo() gives the list of available topics.\n","example_call":"demo(topic, package = NULL, lib.loc = NULL, character.only = FALSE,"}

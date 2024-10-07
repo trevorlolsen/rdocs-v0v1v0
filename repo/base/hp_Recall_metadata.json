@@ -1,0 +1,1 @@
+{"description":"Recall is used as a placeholder for the name of the function\nin which it is called.  It allows the definition of recursive\nfunctions which still work after being renamed, see example below.\n","example_call":"Recall(...)"}

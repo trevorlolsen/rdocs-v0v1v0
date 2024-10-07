@@ -1,0 +1,1 @@
+{"description":"Creates a SHA1 hash of data using either HMAC or RSA.\n","example_call":"sha1_hash(key, string, method = \"HMAC-SHA1\")"}

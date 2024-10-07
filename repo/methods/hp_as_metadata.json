@@ -1,0 +1,1 @@
+{"description":"Coerce an object to a given class.\n","example_call":"as(object, Class, strict = TRUE, ext = possibleExtends(thisClass,"}

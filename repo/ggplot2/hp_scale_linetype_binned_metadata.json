@@ -1,0 +1,1 @@
+{"description":"Default line types based on a set supplied by Richard Pearson,\nUniversity of Manchester. Continuous values can not be mapped to\nline types unless scale_linetype_binned() is used. Still, as linetypes has\nno inherent order, this use is not advised.\n","example_call":"scale_linetype_binned(name = waiver(), ..., na.value = \"blank\")"}

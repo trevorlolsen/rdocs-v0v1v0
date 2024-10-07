@@ -1,0 +1,1 @@
+{"description":"Encode and decode binary data into a base64 string. Character vectors are\nautomatically collapsed into a single string.\n","example_call":"base64_encode(bin, linebreaks = FALSE)"}

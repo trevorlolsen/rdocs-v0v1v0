@@ -1,0 +1,1 @@
+{"description":"Provides some basic information on a given time zone identifier.\n","example_call":"stri_timezone_info(tz = NULL, locale = NULL, display_type = \"long\")"}

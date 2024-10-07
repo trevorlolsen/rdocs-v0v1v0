@@ -1,0 +1,1 @@
+{"description":"It always starts by finding by walking up the path until it finds the\nroot directory, i.e. a directory containing DESCRIPTION. If it\ncannot find the root directory, or it can't find the specified path, it\nwill throw an error.\n","example_call":"package_file(..., path = \".\")"}

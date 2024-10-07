@@ -1,0 +1,1 @@
+{"description":"dev_example is a replacement for example. run_example\nis a low-level function that takes a path to an Rd file.\n","example_call":"run_example(path, run_donttest = FALSE, run_dontrun = FALSE, env = new.env(parent = globalenv()),"}

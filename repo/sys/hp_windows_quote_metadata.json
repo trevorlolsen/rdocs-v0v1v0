@@ -1,0 +1,1 @@
+{"description":"Quotes and escapes shell arguments when needed so that they get properly parsed\nby most Windows programs. This function is used internally to automatically quote\nsystem commands, the user should normally not quote arguments manually.\n","example_call":"windows_quote(args)"}

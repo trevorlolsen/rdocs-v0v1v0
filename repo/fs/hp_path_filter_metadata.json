@@ -1,0 +1,1 @@
+{"description":"Filter paths\n","example_call":"path_filter(path, glob = NULL, regexp = NULL, invert = FALSE, ...)"}

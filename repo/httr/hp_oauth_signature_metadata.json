@@ -1,0 +1,1 @@
+{"description":"For advanced use only. Occassionally needed for sites that use some\ncomponents of the OAuth spec, but not all of them (e.g. 2-legged oauth)\n","example_call":"oauth_signature(url, method = \"GET\", app, token = NULL, token_secret = NULL,"}

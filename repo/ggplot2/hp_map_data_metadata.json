@@ -1,0 +1,1 @@
+{"description":"Easily turn data from the maps package into a data frame suitable\nfor plotting with ggplot2.\n","example_call":"map_data(map, region = \".\", exact = FALSE, ...)"}

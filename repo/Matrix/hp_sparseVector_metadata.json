@@ -1,0 +1,1 @@
+{"description":"User friendly construction of sparse vectors,\ni.e., objects inheriting from class\nsparseVector, from indices and values of its\nnon-zero entries.\n","example_call":"sparseVector(x, i, length)"}

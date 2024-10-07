@@ -1,0 +1,1 @@
+{"description":"Read some or all text lines from a connection.\n","example_call":"readLines(con = stdin(), n = -1L, ok = TRUE, warn = TRUE, encoding = \"unknown\","}

@@ -1,0 +1,1 @@
+{"description":"Perform a one- or two-sample Kolmogorov-Smirnov test.\n","example_call":"ks.test(x, ...)"}

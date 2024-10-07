@@ -1,0 +1,1 @@
+{"description":"Send PUT request to server.\n","example_call":"PUT(url = NULL, config = list(), ..., body = NULL, encode = c(\"multipart\","}

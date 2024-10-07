@@ -1,0 +1,1 @@
+{"description":"det calculates the determinant of a matrix.  determinant\nis a generic function that returns separately the modulus of the determinant,\noptionally on the logarithm scale, and the sign of the determinant.\n","example_call":"determinant.matrix(x, logarithm = TRUE, ...)"}

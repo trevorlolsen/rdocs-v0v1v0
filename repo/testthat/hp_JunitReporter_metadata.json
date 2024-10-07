@@ -1,0 +1,1 @@
+{"description":"This reporter includes detailed results about each test and summaries,\nwritten to a file (or stdout) in jUnit XML format. This can be read by\nthe Jenkins Continuous Integration System to report on a dashboard etc.\nRequires the xml2 package.\n","example_call":"NULL"}

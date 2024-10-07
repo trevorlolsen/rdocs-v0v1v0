@@ -1,0 +1,1 @@
+{"description":"When a function is removed from R it should be replaced by a function\nwhich calls .Defunct.\n","example_call":".Defunct(new, package = NULL, msg)"}

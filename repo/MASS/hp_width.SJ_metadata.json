@@ -1,0 +1,1 @@
+{"description":"Uses the method of Sheather & Jones (1991) to select the bandwidth of\na Gaussian kernel density estimator.\n","example_call":"width.SJ(x, nb = 1000, lower = 0.1 * hmax, upper = hmax, method = c(\"ste\","}

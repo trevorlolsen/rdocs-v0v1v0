@@ -1,0 +1,1 @@
+{"description":"Finding the top level environment from an environment\nenvir and its enclosing environments.\n","example_call":"topenv(envir = parent.frame(), matchThisEnv = getOption(\"topLevelEnvironment\"))"}

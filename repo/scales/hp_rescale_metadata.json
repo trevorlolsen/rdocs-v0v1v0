@@ -1,0 +1,1 @@
+{"description":"Rescale continuous vector to have specified minimum and maximum\n","example_call":"rescale(x, to, from, ...)"}

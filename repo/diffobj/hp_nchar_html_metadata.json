@@ -1,0 +1,1 @@
+{"description":"Very simple implementation that will fail if there are any <U+201C>><U+201D> in the\nHTML that are not closing tags, and assumes that HTML entities are all one\ncharacter wide.  Also, spaces are counted as one width each because the\nHTML output is intended to be displayed inside <PRE> tags.\n","example_call":"nchar_html(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"str_trim() removes whitespace from start and end of string; str_squish()\nremoves whitespace at the start and end, and replaces all internal whitespace\nwith a single space.\n","example_call":"str_squish(string)"}

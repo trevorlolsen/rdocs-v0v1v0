@@ -1,0 +1,1 @@
+{"description":"This is the default panel function for xyplot. Also see\npanel.superpose.  The default panel functions for\nsplom and qq are essentially the same function.\n","example_call":"panel.splom(..., identifier = \"splom\")"}

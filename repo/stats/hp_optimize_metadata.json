@@ -1,0 +1,1 @@
+{"description":"The function optimize searches the interval from\nlower to upper for a minimum or maximum of\nthe function f with respect to its first argument.\n","example_call":"optimize(f, interval, ..., lower = min(interval), upper = max(interval),"}

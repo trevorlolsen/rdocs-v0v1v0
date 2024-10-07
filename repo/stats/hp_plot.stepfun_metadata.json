@@ -1,0 +1,1 @@
+{"description":"Method of the generic plot for stepfun\nobjects and utility for plotting piecewise constant functions.\n","example_call":"plot.stepfun(x, xval, xlim, ylim = range(c(y, Fn.kn)), xlab = \"x\","}

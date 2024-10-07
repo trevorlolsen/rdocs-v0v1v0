@@ -1,0 +1,1 @@
+{"description":"Make syntactically valid names out of character vectors.\n","example_call":"make.names(names, unique = FALSE, allow_ = TRUE)"}

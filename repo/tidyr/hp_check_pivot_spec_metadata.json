@@ -1,0 +1,1 @@
+{"description":"check_pivot_spec() is a developer facing helper function for validating\nthe pivot spec used in pivot_longer_spec() or pivot_wider_spec(). It is\nonly useful if you are extending pivot_longer() or pivot_wider() with\nnew S3 methods.\n","example_call":"check_pivot_spec(spec, call = caller_env())"}

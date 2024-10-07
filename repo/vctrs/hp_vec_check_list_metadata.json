@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"vec_check_list(x, ..., arg = caller_arg(x), call = caller_env())"}

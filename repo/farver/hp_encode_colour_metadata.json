@@ -1,0 +1,1 @@
+{"description":"This is a version of grDevices::rgb() that works with the standard colour\nformat used in farver (matrix or data.frame with colours in rows). It further\nsupport taking input from any colour space.\n","example_call":"encode_colour(colour, alpha = NULL, from = \"rgb\", white = \"D65\")"}

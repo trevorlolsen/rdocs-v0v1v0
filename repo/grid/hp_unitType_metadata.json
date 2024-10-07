@@ -1,0 +1,1 @@
+{"description":"This function returns the units of a unit object.\n","example_call":"unitType(x, recurse = FALSE)"}

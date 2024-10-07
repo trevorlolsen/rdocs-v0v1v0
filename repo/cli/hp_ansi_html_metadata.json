@@ -1,0 +1,1 @@
+{"description":"Convert ANSI styled text to HTML\n","example_call":"ansi_html(x, escape_reserved = TRUE, csi = c(\"drop\", \"keep\"))"}

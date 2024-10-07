@@ -1,0 +1,1 @@
+{"description":"stri_remove_empty (alias stri_omit_empty)\nremoves all empty strings from a character vector,\nand, if na_empty is TRUE, also gets rid of all missing\nvalues.\n","example_call":"stri_omit_empty(x, na_empty = FALSE)"}

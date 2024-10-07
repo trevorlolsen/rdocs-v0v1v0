@@ -1,0 +1,1 @@
+{"description":"display() is a generic function to export data frames\ninto various table formats (like plain text, markdown, ...). print_md()\nusually is a convenient wrapper for display(format = \"markdown\").\nSimilar, print_html() is a shortcut for display(format = \"html\").\nSee the documentation for the specific objects' classes.\n","example_call":"print_md(x, ...)"}

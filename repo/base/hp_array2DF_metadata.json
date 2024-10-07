@@ -1,0 +1,1 @@
+{"description":"array2DF converts an array, including list arrays commonly\nreturned by tapply, into data frames for use in further\nanalysis or plotting functions.\n","example_call":"array2DF(x, responseName = \"Value\", sep = \"\", base = list(LETTERS),"}

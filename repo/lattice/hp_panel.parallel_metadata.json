@@ -1,0 +1,1 @@
+{"description":"This is the default panel function for parallel.\n","example_call":"panel.parallel(x, y, z, subscripts, groups = NULL, col = superpose.line$col,"}

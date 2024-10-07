@@ -1,0 +1,1 @@
+{"description":"Conversion of UTF-8 encoded character vectors to and from integer\nvectors representing a UTF-32 encoding.\n","example_call":"intToUtf8(x, multiple = FALSE, allow_surrogate_pairs = FALSE)"}

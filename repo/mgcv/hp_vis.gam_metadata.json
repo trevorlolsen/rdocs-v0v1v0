@@ -1,0 +1,1 @@
+{"description":" Produces perspective or contour plot views of gam model\npredictions, fixing all but the values in view to the  values supplied in cond. \n","example_call":"vis.gam(x, view = NULL, cond = list(), n.grid = 30, too.far = 0,"}

@@ -1,0 +1,1 @@
+{"description":"Utilities for searching the help system.\n","example_call":"hsearch_db(package = NULL, lib.loc = NULL, types = getOption(\"help.search.types\"),"}

@@ -1,0 +1,1 @@
+{"description":"All positions are rendered and it is up to the facet to decide which to use\n","example_call":"render_strips(x = NULL, y = NULL, labeller, theme)"}

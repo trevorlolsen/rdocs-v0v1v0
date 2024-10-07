@@ -1,0 +1,1 @@
+{"description":"Computes the Discrete Fourier Transform (DFT) of an array with a fast\nalgorithm, the <U+201C>Fast Fourier Transform<U+201D> (FFT).\n","example_call":"fft(z, inverse = FALSE)"}

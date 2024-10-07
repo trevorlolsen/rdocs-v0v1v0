@@ -1,0 +1,1 @@
+{"description":"DEPRECATED: please use mime::guess_type instead.\n","example_call":"guess_media(x)"}

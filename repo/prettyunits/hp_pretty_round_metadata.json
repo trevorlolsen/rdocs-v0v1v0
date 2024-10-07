@@ -1,0 +1,1 @@
+{"description":"Round a value to a defined number of digits printing out trailing zeros, if\napplicable\n","example_call":"pretty_round(x, digits = 0, sci_range = Inf, sci_sep = \"e\")"}

@@ -1,0 +1,1 @@
+{"description":"In a terminal, <U+2060>\\\\r<U+2060> moves the cursor to the first position of the\nsame line. It is also supported by most R IDEs. <U+2060>\\\\r<U+2060> is typically\nused to achieve a more dynamic, less cluttered user interface, e.g.\nto create progress bars.\n","example_call":"is_dynamic_tty(stream = \"auto\")"}

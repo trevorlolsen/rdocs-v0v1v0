@@ -1,0 +1,1 @@
+{"description":"The extractor function is applied to each object in ..., with\nthe result being converted to a vector. A map attribute is\nincluded to indicate which pieces of the returned vector correspond to\nthe original objects in dots.\n","example_call":"allCoef(..., extract = coef)"}

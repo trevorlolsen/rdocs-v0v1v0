@@ -1,0 +1,1 @@
+{"description":"Functions to check if an object is a data frame, or coerce it if possible.\n","example_call":"as.data.frame.character(x, ..., stringsAsFactors = FALSE)"}

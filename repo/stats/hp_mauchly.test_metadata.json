@@ -1,0 +1,1 @@
+{"description":"Tests whether a Wishart-distributed covariance matrix (or\ntransformation thereof) is proportional to a given matrix.\n","example_call":"mauchly.test(object, ...)"}

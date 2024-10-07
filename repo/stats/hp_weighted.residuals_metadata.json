@@ -1,0 +1,1 @@
+{"description":"Computed weighted residuals from a linear model fit.\n","example_call":"weighted.residuals(obj, drop0 = TRUE)"}

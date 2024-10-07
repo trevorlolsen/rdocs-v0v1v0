@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the binomial distribution with parameters size\nand prob.\n","example_call":"qbinom(p, size, prob, lower.tail = TRUE, log.p = FALSE)"}

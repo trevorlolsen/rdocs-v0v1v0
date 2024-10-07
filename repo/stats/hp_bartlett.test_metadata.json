@@ -1,0 +1,1 @@
+{"description":"Performs Bartlett's test of the null that the variances in each of the\ngroups (samples) are the same.\n","example_call":"bartlett.test(x, ...)"}

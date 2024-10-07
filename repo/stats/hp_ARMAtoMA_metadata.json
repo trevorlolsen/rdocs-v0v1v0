@@ -1,0 +1,1 @@
+{"description":"Convert ARMA process to infinite MA process.\n","example_call":"ARMAtoMA(ar = numeric(), ma = numeric(), lag.max)"}

@@ -1,0 +1,1 @@
+{"description":"This operator extracts or sets attributes for regular objects and\nS4 fields for S4 objects.\n","example_call":"%@%<-(x, name, value)"}

@@ -1,0 +1,1 @@
+{"description":"Display a fixed map on a plot. This function predates the geom_sf()\nframework and does not work with sf geometry columns as input. However,\nit can be used in conjunction with geom_sf() layers and/or\ncoord_sf() (see examples).\n","example_call":"annotation_map(map, ...)"}

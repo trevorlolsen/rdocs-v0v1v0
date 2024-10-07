@@ -1,0 +1,1 @@
+{"description":"Moves the hue of a munsell colour in the direction purple->blue->green->yellow->red->purple\n","example_call":"pbgyr(col, steps = 1)"}

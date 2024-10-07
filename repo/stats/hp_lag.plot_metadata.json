@@ -1,0 +1,1 @@
+{"description":"Plot time series against lagged versions of themselves.\nHelps visualizing <U+2018>auto-dependence<U+2019> even when auto-correlations\nvanish.\n","example_call":"lag.plot(x, lags = 1, layout = NULL, set.lags = 1L:lags, main = NULL,"}

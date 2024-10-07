@@ -1,0 +1,1 @@
+{"description":"The function terms is a generic function\nwhich can be used to extract terms objects\nfrom various kinds of R data objects.\n","example_call":"terms(x, ...)"}

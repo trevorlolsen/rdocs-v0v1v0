@@ -1,0 +1,1 @@
+{"description":"Use relocate() to change column positions, using the same syntax as\nselect() to make it easy to move blocks of columns at once.\n","example_call":"relocate(.data, ..., .before = NULL, .after = NULL)"}

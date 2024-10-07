@@ -1,0 +1,1 @@
+{"description":"switch evaluates EXPR and accordingly chooses one of the\nfurther arguments (in ...).\n","example_call":"switch(EXPR, ...)"}

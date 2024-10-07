@@ -1,0 +1,1 @@
+{"description":"Performs a Fligner-Killeen (median) test of the null that the\nvariances in each of the groups (samples) are the same.\n","example_call":"fligner.test(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Uses unbiased cross-validation to select the bandwidth of a Gaussian\nkernel density estimator.\n","example_call":"ucv(x, nb = 1000, lower = 0.1 * hmax, upper = hmax)"}

@@ -1,0 +1,1 @@
+{"description":"Transform a vector into a format that will be sorted in descending order.\nThis is useful within arrange().\n","example_call":"desc(x)"}

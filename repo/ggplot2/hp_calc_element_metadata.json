@@ -1,0 +1,1 @@
+{"description":"Calculate the element properties, by inheriting properties from its parents\n","example_call":"calc_element(element, theme, verbose = FALSE, skip_blank = FALSE,"}

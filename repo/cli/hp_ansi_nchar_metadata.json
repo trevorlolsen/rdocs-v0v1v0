@@ -1,0 +1,1 @@
+{"description":"This is a color-aware counterpart of utf8_nchar(). By default it\ncounts Unicode grapheme clusters, instead of code points.\n","example_call":"ansi_nchar(x, type = c(\"chars\", \"bytes\", \"width\", \"graphemes\","}

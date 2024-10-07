@@ -1,0 +1,1 @@
+{"description":"See vignette(\"special-files\") to learn about the various files that\ntestthat works with.\n","example_call":"test_local(path = \".\", reporter = NULL, ..., load_package = \"source\")"}

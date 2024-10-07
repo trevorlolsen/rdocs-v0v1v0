@@ -1,0 +1,1 @@
+{"description":"cut_interval() makes n groups with equal range, cut_number()\nmakes n groups with (approximately) equal numbers of observations;\ncut_width() makes groups of width width.\n","example_call":"cut_number(x, n = NULL, ...)"}

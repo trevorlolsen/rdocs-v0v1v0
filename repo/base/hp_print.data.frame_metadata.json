@@ -1,0 +1,1 @@
+{"description":"Print a data frame.\n","example_call":"print.data.frame(x, ..., digits = NULL, quote = FALSE, right = TRUE,"}

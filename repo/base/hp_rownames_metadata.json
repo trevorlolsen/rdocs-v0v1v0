@@ -1,0 +1,1 @@
+{"description":"Retrieve or set the row or column names of a matrix-like object.\n","example_call":"rownames(x, do.NULL = TRUE, prefix = \"row\")"}

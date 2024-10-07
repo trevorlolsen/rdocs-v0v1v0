@@ -1,0 +1,1 @@
+{"description":"Separates a single variable into multiple new variables.\n","example_call":"data_separate(data, select = NULL, new_columns = NULL, separator = \"[^[:alnum:]]+\","}

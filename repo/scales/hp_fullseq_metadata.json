@@ -1,0 +1,1 @@
+{"description":"Generate sequence of fixed size intervals covering range.\n","example_call":"fullseq(range, size, ...)"}

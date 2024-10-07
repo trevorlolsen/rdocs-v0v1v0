@@ -1,0 +1,1 @@
+{"description":"Identifies columns of a matrix X2 which are linearly\ndependent on columns of a matrix X1. Primarily of use in setting up \nidentifiability constraints for nested GAMs. \n","example_call":"fixDependence(X1, X2, tol = .Machine$double.eps^0.5, rank.def = 0,"}

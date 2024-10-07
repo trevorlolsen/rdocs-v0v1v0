@@ -1,0 +1,1 @@
+{"description":"Reads a file in Data Interchange Format (DIF) and creates a\ndata frame from it.  DIF is a format for data matrices such as\nsingle spreadsheets. \n","example_call":"read.DIF(file, header = FALSE, dec = \".\", numerals = c(\"allow.loss\","}

@@ -1,0 +1,1 @@
+{"description":"This set of functions allows you to modify colours as given by strings,\nwhithout first decoding them. For large vectors of colour values this should\nprovide a considerable speedup.\n","example_call":"get_channel(colour, channel, space = \"rgb\", white = \"D65\", na_value = NA)"}

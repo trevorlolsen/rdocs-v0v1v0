@@ -1,0 +1,1 @@
+{"description":"Transformation of R colors by simulating color vision deficiencies,\nbased on a CVD transform matrix.\n","example_call":"interpolate_cvd_transform(cvd, severity = 1)"}

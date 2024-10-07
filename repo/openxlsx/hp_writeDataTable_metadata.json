@@ -1,0 +1,1 @@
+{"description":"Write to a worksheet and format as an Excel table\n","example_call":"writeDataTable(wb, sheet, x, startCol = 1, startRow = 1, xy = NULL,"}

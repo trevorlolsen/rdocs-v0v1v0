@@ -1,0 +1,1 @@
+{"description":"Repeat the character strings in a character vector a given number of\ntimes (i.e., concatenate the respective numbers of copies of the\nstrings).\n","example_call":"strrep(x, times)"}

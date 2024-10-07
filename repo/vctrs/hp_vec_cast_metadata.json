@@ -1,0 +1,1 @@
+{"description":"vec_cast() provides directional conversions from one type of\nvector to another. Along with vec_ptype2(), this generic forms\nthe foundation of type coercions in vctrs.\n","example_call":"vec_cast(x, to, ..., x_arg = caller_arg(x), to_arg = \"\", call = caller_env())"}

@@ -1,0 +1,1 @@
+{"description":"Generate individual vectors of the types supported by vroom\n","example_call":"gen_factor(n, levels = NULL, ordered = FALSE, num_levels = gen_integer(1L,"}

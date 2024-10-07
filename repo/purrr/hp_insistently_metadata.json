@@ -1,0 +1,1 @@
+{"description":"insistently() takes a function and modifies it to retry after given\namount of time whenever it errors.\n","example_call":"insistently(f, rate = rate_backoff(), quiet = TRUE)"}

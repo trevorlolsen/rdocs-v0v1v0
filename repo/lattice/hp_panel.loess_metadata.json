@@ -1,0 +1,1 @@
+{"description":"A predefined panel function that can be used to add a LOESS smooth\nbased on the provided data.\n","example_call":"panel.loess(x, y, span = 2/3, degree = 1, family = c(\"symmetric\","}

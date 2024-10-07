@@ -1,0 +1,1 @@
+{"description":"Generate a single-page HTML reference manual from the Rd sources\ncontained in an installed or source R package.\n","example_call":"pkg2HTML(package, dir = NULL, lib.loc = NULL, outputEncoding = \"UTF-8\","}

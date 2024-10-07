@@ -1,0 +1,1 @@
+{"description":"Evaluate a promise, capturing all types of output.\n","example_call":"evaluate_promise(code, print = FALSE)"}

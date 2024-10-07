@@ -1,0 +1,1 @@
+{"description":"These are experimental sparse smoothing functions, and should \nbe left well alone!\n","example_call":"spasm.smooth(object, X, residual = FALSE, block = 0)"}

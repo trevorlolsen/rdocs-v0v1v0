@@ -1,0 +1,1 @@
+{"description":"An earlier method for printing matrices, provided for S compatibility.\n","example_call":"prmatrix(x, rowlab = dn[[1]], collab = dn[[2]], quote = TRUE,"}

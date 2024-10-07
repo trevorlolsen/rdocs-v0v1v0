@@ -1,0 +1,1 @@
+{"description":"Calibrate binomial assays, generalizing the calculation of LD50.\n","example_call":"dose.p(obj, cf = 1:2, p = 0.5)"}

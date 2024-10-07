@@ -1,0 +1,1 @@
+{"description":"These functions are reexported as tibble::num() and tibble::set_num_opts().\n","example_call":"set_num_opts(x, ..., sigfig = NULL, digits = NULL, label = NULL,"}

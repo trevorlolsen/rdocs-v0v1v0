@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"group_by_at(.tbl, .vars, .funs = list(), ..., .add = FALSE, .drop = group_by_drop_default(.tbl))"}

@@ -1,0 +1,1 @@
+{"description":"Either a string formatted as code or NULL if a simple\ncall could not be generated.\n","example_call":"format_error_call(call)"}

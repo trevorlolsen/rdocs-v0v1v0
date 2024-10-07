@@ -1,0 +1,1 @@
+{"description":"Finds rank of upper triangular matrix R, by estimating condition\nnumber of upper rank by rank block, and reducing rank \nuntil this is acceptably low. Assumes R has been computed by a method that uses \npivoting, usually pivoted QR or Choleski.\n","example_call":"Rrank(R, tol = .Machine$double.eps^0.9)"}

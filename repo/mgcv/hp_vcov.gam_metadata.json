@@ -1,0 +1,1 @@
+{"description":" Extracts the Bayesian posterior covariance matrix of the\nparameters or frequentist covariance matrix of the parameter estimators \nfrom a fitted gam object.\n","example_call":"vcov.gam(object, sandwich = FALSE, freq = FALSE, dispersion = NULL,"}

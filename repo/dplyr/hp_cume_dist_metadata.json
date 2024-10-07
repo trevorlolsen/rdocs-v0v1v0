@@ -1,0 +1,1 @@
+{"description":"These two ranking functions implement two slightly different ways to\ncompute a percentile. For each x_i in x:\n","example_call":"cume_dist(x)"}

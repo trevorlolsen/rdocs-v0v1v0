@@ -1,0 +1,1 @@
+{"description":"Compute all the single terms in the scope argument that can be\nadded to or dropped from the model, fit those models and compute a\ntable of the changes in fit.\n","example_call":"add1(object, scope, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Theses functions return the order (index) or the \"label\"\nattribute for the leaves in a\ndendrogram.  These indices can then be used to access the appropriate\ncomponents of any additional data.\n","example_call":"order.dendrogram(x)"}

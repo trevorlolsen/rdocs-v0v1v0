@@ -1,0 +1,1 @@
+{"description":"This generic allows you to add your own methods for adding transparency to\npattern-like objects.\n","example_call":"pattern_alpha(x, alpha)"}

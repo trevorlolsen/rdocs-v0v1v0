@@ -1,0 +1,1 @@
+{"description":"Compute optimal row heights for cell with fixed with and\nenabled automatic row heights parameter\n","example_call":"auto_heights(wb, sheet, selected, fontsize = NULL, factor = 1, base_height = 15,"}

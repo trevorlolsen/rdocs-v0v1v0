@@ -1,0 +1,1 @@
+{"description":"Show the name and email address of the maintainer of an installed package.\n","example_call":"maintainer(pkg)"}

@@ -1,0 +1,1 @@
+{"description":"delayedAssign creates a promise to evaluate the given\nexpression if its value is requested.  This provides direct access\nto the lazy evaluation mechanism used by R for the evaluation\nof (interpreted) functions.\n","example_call":"delayedAssign(x, value, eval.env = parent.frame(1), assign.env = parent.frame(1))"}

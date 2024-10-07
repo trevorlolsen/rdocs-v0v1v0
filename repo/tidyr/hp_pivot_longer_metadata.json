@@ -1,0 +1,1 @@
+{"description":"pivot_longer() \"lengthens\" data, increasing the number of rows and\ndecreasing the number of columns. The inverse transformation is\npivot_wider()\n","example_call":"pivot_longer(data, cols, ..., cols_vary = \"fastest\", names_to = \"name\","}

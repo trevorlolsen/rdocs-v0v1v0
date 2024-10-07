@@ -1,0 +1,1 @@
+{"description":"This function returns a character vector like str,\nbut with duplicate elements removed.\n","example_call":"stri_unique(str, ..., opts_collator = NULL)"}

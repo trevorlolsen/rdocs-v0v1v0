@@ -1,0 +1,1 @@
+{"description":"Most data operations are done on groups defined by variables.\ngroup_by() takes an existing tbl and converts it into a grouped tbl\nwhere operations are performed \"by group\". ungroup() removes grouping.\n","example_call":"group_by(.data, ..., .add = FALSE, .drop = group_by_drop_default(.data))"}

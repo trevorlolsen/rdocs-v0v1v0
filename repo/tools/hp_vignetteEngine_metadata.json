@@ -1,0 +1,1 @@
+{"description":"Vignettes are normally processed by Sweave, but package\nwriters may choose to use a different engine (e.g., one provided by the\nknitr, noweb or R.rsp packages).  This function\nis used by those packages to register their engines, and internally by\nR to retrieve them.\n","example_call":"vignetteEngine(name, weave, tangle, pattern = NULL, package = NULL,"}

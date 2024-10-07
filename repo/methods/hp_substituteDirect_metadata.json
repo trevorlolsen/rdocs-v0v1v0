@@ -1,0 +1,1 @@
+{"description":"Substitute for the variables named in the second argument the\ncorresponding objects, substituting into object.  The argument\nframe is a named list; if omitted, the environment of the\ncaller is used.\n","example_call":"substituteDirect(object, frame = parent.frame(), cleanFunction = TRUE)"}

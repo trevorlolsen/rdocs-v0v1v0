@@ -1,0 +1,1 @@
+{"description":"Return the (maybe super-)class of class cl from\npackage Matrix, returning character(0) if there is none.\n","example_call":"MatrixClass(cl, cld = getClassDef(cl), ...Matrix = TRUE, dropVirtual = TRUE,"}

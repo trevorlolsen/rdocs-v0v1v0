@@ -1,0 +1,1 @@
+{"description":"Add a small amount of noise to a numeric vector.\n","example_call":"jitter(x, factor = 1, amount = NULL)"}

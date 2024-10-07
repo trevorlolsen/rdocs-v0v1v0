@@ -1,0 +1,1 @@
+{"description":"Performs the Ansari-Bradley two-sample test for a difference in scale\nparameters.\n","example_call":"ansari.test(x, ...)"}

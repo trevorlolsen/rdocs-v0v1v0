@@ -1,0 +1,1 @@
+{"description":"Tukey's smoothers, 3RS3R, 3RSS, 3R, etc.\n","example_call":"smooth(x, kind = c(\"3RS3R\", \"3RSS\", \"3RSR\", \"3R\", \"3\", \"S\"),"}

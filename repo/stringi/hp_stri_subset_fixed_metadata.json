@@ -1,0 +1,1 @@
+{"description":"These functions return or modify a sub-vector where there is a match to\na given pattern. In other words, they\nare roughly equivalent (but faster and easier to use) to a call to\nstr[stri_detect(str, ...)] or\nstr[stri_detect(str, ...)] <- value.\n","example_call":"stri_subset_fixed(str, pattern, omit_na = FALSE, negate = FALSE, ...,"}

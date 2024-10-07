@@ -1,0 +1,1 @@
+{"description":"The pooled estimated standard deviation is obtained by adding together\nthe residual sum of squares for each non-null element of\nobject, dividing by the sum of the corresponding residual\ndegrees-of-freedom, and taking the square-root.\n","example_call":"pooledSD(object)"}

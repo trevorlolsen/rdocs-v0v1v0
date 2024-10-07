@@ -1,0 +1,1 @@
+{"description":"rasterImage draws a raster image at the given locations and sizes.\n","example_call":"rasterImage(image, xleft, ybottom, xright, ytop, angle = 0, interpolate = TRUE,"}

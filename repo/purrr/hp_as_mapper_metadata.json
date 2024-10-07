@@ -1,0 +1,1 @@
+{"description":"as_mapper is the powerhouse behind the varied function\nspecifications that most purrr functions allow. It is an S3\ngeneric. The default method forwards its arguments to\nrlang::as_function().\n","example_call":"as_mapper(.f, ...)"}

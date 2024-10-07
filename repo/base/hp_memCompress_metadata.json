@@ -1,0 +1,1 @@
+{"description":"In-memory compression or decompression for raw vectors.\n","example_call":"memCompress(from, type = c(\"gzip\", \"bzip2\", \"xz\", \"none\"))"}

@@ -1,0 +1,1 @@
+{"description":"Produce box-and-whisker plot(s) of the given (grouped) values.\n","example_call":"boxplot.default(x, ..., range = 1.5, width = NULL, varwidth = FALSE,"}

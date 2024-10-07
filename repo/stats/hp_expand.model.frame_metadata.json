@@ -1,0 +1,1 @@
+{"description":"Evaluates new variables as if they had been part of the formula of the\nspecified model.  This ensures that the same na.action and\nsubset arguments are applied and allows, for example, x\nto be recovered for a model using sin(x) as a predictor.\n","example_call":"expand.model.frame(model, extras, envir = environment(formula(model)),"}

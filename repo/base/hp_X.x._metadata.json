@@ -1,0 +1,1 @@
+{"description":"Computes the generalised Kronecker product of two arrays,\nX and Y.\n","example_call":"%x%(X, Y)"}

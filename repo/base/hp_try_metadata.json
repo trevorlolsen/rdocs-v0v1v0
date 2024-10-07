@@ -1,0 +1,1 @@
+{"description":"try is a wrapper to run an expression that might fail and allow\nthe user's code to handle error-recovery.\n","example_call":"try(expr, silent = FALSE, outFile = getOption(\"try.outFile\","}

@@ -1,0 +1,1 @@
+{"description":"Old interface providing functionality for information about\ncollections of persons.  Since R 2.14.0 person objects\ncan be combined with the corresponding c method which\nsupersedes the personList function.\n","example_call":"personList(...)"}

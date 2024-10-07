@@ -1,0 +1,1 @@
+{"description":"Computes the Schur factorization of an n \\times n\nreal matrix A, which has the general form \n","example_call":"Schur(x, vectors = TRUE, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Internal namespace support functions.  Not intended to be called\ndirectly, and only visible because of the special nature of the\nbase namespace.\n","example_call":"..getNamespace(name, where)"}

@@ -1,0 +1,1 @@
+{"description":"Test compiled code in the package package. A call to this function will\nautomatically be generated for you in tests/testthat/test-cpp.R after\ncalling use_catch(); you should not need to manually call this expectation\nyourself.\n","example_call":"expect_cpp_tests_pass(package)"}

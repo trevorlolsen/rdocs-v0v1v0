@@ -1,0 +1,1 @@
+{"description":"Functions to load and unload name spaces.\n","example_call":"loadNamespace(package, lib.loc = NULL, keep.source = getOption(\"keep.source.pkgs\"),"}

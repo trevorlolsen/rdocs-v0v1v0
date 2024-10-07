@@ -1,0 +1,1 @@
+{"description":"Put up a Tk progress bar widget.\n","example_call":"tkProgressBar(title = \"R progress bar\", label = \"\", min = 0, max = 1,"}

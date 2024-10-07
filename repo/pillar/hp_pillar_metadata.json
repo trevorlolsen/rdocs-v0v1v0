@@ -1,0 +1,1 @@
+{"description":"pillar() creates an object that formats a vector.\nThe output uses one row for a title (if given), one row for the type,\nand vec_size(x) rows for the data.\n","example_call":"pillar(x, title = NULL, width = NULL, ...)"}

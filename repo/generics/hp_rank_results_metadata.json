@@ -1,0 +1,1 @@
+{"description":"rank_results() computes relative ranks of a collection of objects and\nreturns a summary of the results.\n","example_call":"rank_results(x, ...)"}

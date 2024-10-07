@@ -1,0 +1,1 @@
+{"description":"Load or save or display the commands history.\n","example_call":"history(max.show = 25, reverse = FALSE, pattern, ...)"}

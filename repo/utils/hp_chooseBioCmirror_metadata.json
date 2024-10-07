@@ -1,0 +1,1 @@
+{"description":"Interact with the user to choose a Bioconductor mirror.\n","example_call":"chooseBioCmirror(graphics = getOption(\"menu.graphics\"), ind = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"Performs an exact test of a simple null hypothesis about the\nrate parameter in Poisson distribution, or for the\nratio between two rate parameters.\n","example_call":"poisson.test(x, T = 1, r = 1, alternative = c(\"two.sided\", \"less\","}

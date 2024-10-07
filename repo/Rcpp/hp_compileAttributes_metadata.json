@@ -1,0 +1,1 @@
+{"description":"Scan the source files within a package for attributes and generate code as required. Generates the bindings required to call C++ functions from R for functions adorned with the Rcpp::export attribute.\n","example_call":"compileAttributes(pkgdir = \".\", verbose = getOption(\"verbose\"))"}

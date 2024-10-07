@@ -1,0 +1,1 @@
+{"description":"Find the mount point of a file or directory\n","example_call":"ps_fs_mount_point(paths)"}

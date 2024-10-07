@@ -1,0 +1,1 @@
+{"description":"Loads macros from an <U+2018>.Rd<U+2019> file, or from several <U+2018>.Rd<U+2019>\nfiles contained in a package.\n","example_call":"loadRdMacros(file, macros = TRUE)"}

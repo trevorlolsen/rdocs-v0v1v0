@@ -1,0 +1,1 @@
+{"description":"Takes munsell text specifications and plots colour squares of them.\n","example_call":"plot_mnsl(cols, back.col = \"white\", ...)"}

@@ -1,0 +1,1 @@
+{"description":"ps_ppid() returns the parent pid, ps_parent() returns a ps_handle\nof the parent.\n","example_call":"ps_ppid(p = ps_handle())"}

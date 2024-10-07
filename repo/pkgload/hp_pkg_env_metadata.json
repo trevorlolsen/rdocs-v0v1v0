@@ -1,0 +1,1 @@
+{"description":"This is an environment like <U+2060><package:pkg><U+2060>. The package\nenvironment contains the exported objects from a package. It is\nattached, so it is an ancestor of R_GlobalEnv.\n","example_call":"pkg_env(package)"}

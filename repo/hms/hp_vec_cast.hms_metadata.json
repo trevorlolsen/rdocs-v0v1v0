@@ -1,0 +1,1 @@
+{"description":"Double dispatch methods to support vctrs::vec_cast().\n","example_call":"vec_cast.hms(x, to, ...)"}

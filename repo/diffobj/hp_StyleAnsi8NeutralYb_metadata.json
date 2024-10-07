@@ -1,0 +1,1 @@
+{"description":"S4 objects that expose the formatting controls for Diff\nobjects.  Many predefined formats are defined as classes that extend the\nbase Style class.  You may fine tune styles by either extending\nthe pre-defined classes, or modifying an instance thereof.\n","example_call":"StyleAnsi8NeutralYb(...)"}

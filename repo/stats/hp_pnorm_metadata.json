@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the normal distribution with mean equal to mean\nand standard deviation equal to sd.\n","example_call":"pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)"}

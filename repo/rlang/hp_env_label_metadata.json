@@ -1,0 +1,1 @@
+{"description":"Special environments like the global environment have their own\nnames. env_name() returns:\n","example_call":"env_label(env)"}

@@ -1,0 +1,1 @@
+{"description":"These functions replace, with the given replacement string, every/first/last\nsubstring of the input that matches the specified pattern.\n","example_call":"stri_replace_all_charclass(str, pattern, replacement, merge = FALSE, vectorize_all = TRUE,"}

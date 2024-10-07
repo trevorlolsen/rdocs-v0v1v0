@@ -1,0 +1,1 @@
+{"description":"Use a Tk widget to choose a directory interactively.\n","example_call":"tk_choose.dir(default = \"\", caption = \"Select directory\")"}

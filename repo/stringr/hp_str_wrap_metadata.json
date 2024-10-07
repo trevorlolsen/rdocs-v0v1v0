@@ -1,0 +1,1 @@
+{"description":"Wrap words into paragraphs, minimizing the \"raggedness\" of the lines\n(i.e. the variation in length line) using the Knuth-Plass algorithm.\n","example_call":"str_wrap(string, width = 80, indent = 0, exdent = 0, whitespace_only = TRUE)"}

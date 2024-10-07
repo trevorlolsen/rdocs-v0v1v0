@@ -1,0 +1,1 @@
+{"description":"It calls vague_dt to do the actual formatting.\n","example_call":"time_ago(date, format = c(\"default\", \"short\", \"terse\"))"}

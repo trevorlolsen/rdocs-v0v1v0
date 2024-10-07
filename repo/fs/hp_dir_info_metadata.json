@@ -1,0 +1,1 @@
+{"description":"dir_ls() is equivalent to the ls command. It returns filenames as a\nnamed fs_path character vector. The names are equivalent to the values,\nwhich is useful for passing onto functions like purrr::map_dfr().\n","example_call":"dir_info(path = \".\", all = FALSE, recurse = FALSE, type = \"any\","}

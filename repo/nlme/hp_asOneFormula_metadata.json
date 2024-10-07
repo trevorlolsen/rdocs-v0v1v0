@@ -1,0 +1,1 @@
+{"description":"The names of all variables used in the formulas extracted from the\nobjects defined in ... are converted into a single linear\nformula, with the variables names separated by +. \n","example_call":"asOneFormula(..., omit = c(\".\", \"pi\"))"}

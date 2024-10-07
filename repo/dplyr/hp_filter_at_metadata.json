@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"filter_at(.tbl, .vars, .vars_predicate, .preserve = FALSE)"}

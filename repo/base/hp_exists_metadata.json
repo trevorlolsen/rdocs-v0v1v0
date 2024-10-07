@@ -1,0 +1,1 @@
+{"description":"Look for an R object of the given name and possibly return it\n","example_call":"exists(x, where = -1, envir = if (missing(frame)) as.environment(where) else sys.frame(frame),"}

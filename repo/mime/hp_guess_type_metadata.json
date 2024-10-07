@@ -1,0 +1,1 @@
+{"description":"Look up in the mimemap table for the MIME types based on the\nextensions of the given filenames.\n","example_call":"guess_type(file, unknown = \"application/octet-stream\", empty = \"text/plain\","}

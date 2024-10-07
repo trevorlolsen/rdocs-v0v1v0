@@ -1,0 +1,1 @@
+{"description":"Read the contents of the system clipboard into a character vector.\n","example_call":"read_clip(allow_non_interactive = Sys.getenv(\"CLIPR_ALLOW\", interactive()))"}

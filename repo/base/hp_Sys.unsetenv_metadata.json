@@ -1,0 +1,1 @@
+{"description":"Sys.setenv sets environment variables (for other processes\ncalled from within R or future calls to Sys.getenv from\nthis R process).\n","example_call":"Sys.unsetenv(x)"}

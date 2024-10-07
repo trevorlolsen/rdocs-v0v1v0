@@ -1,0 +1,1 @@
+{"description":"stat_sf_coordinates() extracts the coordinates from 'sf' objects and\nsummarises them to one pair of coordinates (x and y) per geometry. This is\nconvenient when you draw an sf object as geoms like text and labels (so\ngeom_sf_text() and geom_sf_label() relies on this).\n","example_call":"NULL"}

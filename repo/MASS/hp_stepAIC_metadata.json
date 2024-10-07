@@ -1,0 +1,1 @@
+{"description":"Performs stepwise model selection by AIC.\n","example_call":"stepAIC(object, scope, scale = 0, direction = c(\"both\", \"backward\","}

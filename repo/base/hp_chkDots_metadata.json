@@ -1,0 +1,1 @@
+{"description":"Warn about extraneous arguments in the ... of its caller.  A\nutility to be used e.g., in S3 methods which need a formal ...\nargument but do not make any use of it.  This helps catching user\nerrors in calling the function in question (which is the caller of\nchkDots()).\n","example_call":"chkDots(..., which.call = -1, allowed = character(0))"}

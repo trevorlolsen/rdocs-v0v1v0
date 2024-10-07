@@ -1,0 +1,1 @@
+{"description":"Displays a representation of the object named by x in a pager\nvia file.show.\n","example_call":"page(x, method = c(\"dput\", \"print\"), ...)"}

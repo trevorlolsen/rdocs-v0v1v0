@@ -1,0 +1,1 @@
+{"description":"Allows the user to click the mouse once within the current\ngraphics\ndevice and returns the location of the mouse click within the\ncurrent viewport, in the specified coordinate system.\n","example_call":"grid.locator(unit = \"native\")"}

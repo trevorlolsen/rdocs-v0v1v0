@@ -1,0 +1,1 @@
+{"description":"This function runs R package examples and tests. The implementation is based\non tools::testInstalledPackage(), with modifications for webR where the\nsystem() function cannot be used.\n","example_call":"test_package(pkg)"}

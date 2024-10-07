@@ -1,0 +1,1 @@
+{"description":"Determine positions of approximate string matches.\n","example_call":"aregexec(pattern, text, max.distance = 0.1, costs = NULL, ignore.case = FALSE,"}

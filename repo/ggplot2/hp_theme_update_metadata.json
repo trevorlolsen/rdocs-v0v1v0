@@ -1,0 +1,1 @@
+{"description":"The current/active theme (see theme()) is automatically applied to every\nplot you draw. Use theme_get() to get the current theme, and theme_set() to\ncompletely override it. theme_update() and theme_replace() are shorthands for\nchanging individual elements.\n","example_call":"theme_update(...)"}

@@ -1,0 +1,1 @@
+{"description":"Visualization of color palettes (given as hex codes) in HCL and/or RGB\ncoordinates.\n","example_call":"specplot(x, y = NULL, rgb = FALSE, hcl = TRUE, fix = TRUE, cex = 1,"}

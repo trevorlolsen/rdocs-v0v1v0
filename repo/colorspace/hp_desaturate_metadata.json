@@ -1,0 +1,1 @@
+{"description":"Transform a vector of given colors to the corresponding colors with chroma\nreduced (by a tunable amount) in HCL space.\n","example_call":"desaturate(col, amount = 1, ...)"}

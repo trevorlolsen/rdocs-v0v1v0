@@ -1,0 +1,1 @@
+{"description":"\nPlease use signal_stage() instead\n","example_call":"signal_superseded(when, what, env = caller_env())"}

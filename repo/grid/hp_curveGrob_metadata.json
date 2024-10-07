@@ -1,0 +1,1 @@
+{"description":"These functions create and draw a curve from one location\nto another.\n","example_call":"curveGrob(x1, y1, x2, y2, default.units = \"npc\", curvature = 1,"}

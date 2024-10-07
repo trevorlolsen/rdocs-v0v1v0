@@ -1,0 +1,1 @@
+{"description":"vec_ptype() returns the unfinalised prototype of a single vector.\nvec_ptype_common() finds the common type of multiple vectors.\nvec_ptype_show() nicely prints the common type of any number of\ninputs, and is designed for interactive exploration.\n","example_call":"vec_ptype_common(..., .ptype = NULL, .arg = \"\", .call = caller_env())"}

@@ -1,0 +1,1 @@
+{"description":"A weak reference is a special R object which makes it possible to keep a\nreference to an object without preventing garbage collection of that object.\nIt can also be used to keep data about an object without preventing GC of the\nobject, similar to WeakMaps in JavaScript.\n","example_call":"new_weakref(key, value = NULL, finalizer = NULL, on_quit = FALSE)"}

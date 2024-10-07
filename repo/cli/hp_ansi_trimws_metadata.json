@@ -1,0 +1,1 @@
+{"description":"This function is similar to base::trimws() but works on ANSI strings,\nand keeps color and other styling.\n","example_call":"ansi_trimws(x, which = c(\"both\", \"left\", \"right\"))"}

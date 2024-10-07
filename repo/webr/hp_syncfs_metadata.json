@@ -1,0 +1,1 @@
+{"description":"Uses the Emscripten filesystem API to synchronise all mounted virtual\nfilesystems with their backing storage, where it exists. The populate\nargument controls the direction of the synchronisation between Emscripten's\ninternal data and the file system's persistent store.\n","example_call":"syncfs(populate)"}

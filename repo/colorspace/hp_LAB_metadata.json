@@ -1,0 +1,1 @@
+{"description":"This function creates colors of class <U+201C>LAB<U+201D>; a subclass of the virtual\ncolor-class class.\n","example_call":"LAB(L, A, B, names)"}

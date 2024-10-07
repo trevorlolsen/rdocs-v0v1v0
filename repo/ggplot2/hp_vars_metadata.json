@@ -1,0 +1,1 @@
+{"description":"Just like aes(), vars() is a quoting function\nthat takes inputs to be evaluated in the context of a dataset.\nThese inputs can be:\n","example_call":"vars(...)"}

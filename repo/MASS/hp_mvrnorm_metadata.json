@@ -1,0 +1,1 @@
+{"description":"Produces one or more samples from the specified\nmultivariate normal distribution.\n","example_call":"mvrnorm(n = 1, mu, Sigma, tol = 1e-06, empirical = FALSE, EISPACK = FALSE)"}

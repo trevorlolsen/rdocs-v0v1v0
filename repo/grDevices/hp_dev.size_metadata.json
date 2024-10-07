@@ -1,0 +1,1 @@
+{"description":"Find the dimensions of the device surface of the current device.\n","example_call":"dev.size(units = c(\"in\", \"cm\", \"px\"))"}

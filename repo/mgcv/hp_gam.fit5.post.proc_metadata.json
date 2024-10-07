@@ -1,0 +1,1 @@
+{"description":"INTERNAL function for post-processing the output of gam.fit5.\n","example_call":"gam.fit5.post.proc(object, Sl, L, lsp0, S, off, gamma)"}

@@ -1,0 +1,1 @@
+{"description":"All booltypes including  logical except 'nobool' types are considered 'is.booltype'.\n","example_call":"is.booltype(x)"}

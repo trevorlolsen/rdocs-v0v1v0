@@ -1,0 +1,1 @@
+{"description":"A graphics device that generates HTML canvas API calls and executes them on\nthe worker thread using a JavaScript OffscreenCanvas. Throughout plotting,\nand if capture is FALSE, JavaScript ImageBitmap objects are transmitted\nto the main webR thread for display.\n","example_call":"canvas(width = 504, height = 504, pointsize = 12, bg = \"transparent\","}

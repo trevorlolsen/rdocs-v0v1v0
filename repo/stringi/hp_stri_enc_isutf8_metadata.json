@@ -1,0 +1,1 @@
+{"description":"The function checks whether given sequences of bytes forms\na proper UTF-8 string.\n","example_call":"stri_enc_isutf8(str)"}

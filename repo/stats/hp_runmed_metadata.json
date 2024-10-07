@@ -1,0 +1,1 @@
+{"description":"Compute running medians of odd span.  This is the <U+2018>most robust<U+2019>\nscatter plot smoothing possible.  For efficiency (and historical\nreason), you can use one of two different algorithms giving identical\nresults.\n","example_call":"runmed(x, k, endrule = c(\"median\", \"keep\", \"constant\"), algorithm = NULL,"}

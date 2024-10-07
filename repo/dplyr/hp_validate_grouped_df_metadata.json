@@ -1,0 +1,1 @@
+{"description":"new_grouped_df() and new_rowwise_df() are constructors designed to be high-performance so only\ncheck types, not values. This means it is the caller's responsibility\nto create valid values, and hence this is for expert use only.\n","example_call":"validate_grouped_df(x, check_bounds = FALSE)"}

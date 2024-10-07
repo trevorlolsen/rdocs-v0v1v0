@@ -1,0 +1,1 @@
+{"description":"This is the default superpanel function for splom.\n","example_call":"diag.panel.splom(x = NULL, varname = NULL, limits, at = NULL, labels = NULL,"}

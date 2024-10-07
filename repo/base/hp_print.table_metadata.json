@@ -1,0 +1,1 @@
+{"description":"print prints its argument and returns it invisibly (via\ninvisible(x)).  It is a generic function which means that\nnew printing methods can be easily added for new classes.\n","example_call":"print.table(x, digits = getOption(\"digits\"), quote = FALSE, na.print = \"\","}

@@ -1,0 +1,1 @@
+{"description":"Using vec_unrep() and vec_rep_each() together is similar to using\nbase::rle() and base::inverse.rle(). The following invariant shows\nthe relationship between the two functions:\n","example_call":"vec_rep(x, times, ..., error_call = current_env(), x_arg = \"x\","}

@@ -1,0 +1,1 @@
+{"description":"The function selectMethod() returns the method that\nwould be selected for a call to function f if the arguments had\nclasses as specified by signature.  Failing to find a method\nis an error, unless argument optional = TRUE, in which case\nNULL is returned.\n","example_call":"existsMethod(f, signature = character(), where = topenv(parent.frame()))"}

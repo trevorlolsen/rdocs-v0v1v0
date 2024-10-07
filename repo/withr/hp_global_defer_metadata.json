@@ -1,0 +1,1 @@
+{"description":"This function is mostly internal. It is exported to be called in\nstandalone defer() implementations to defer expressions from the\nglobal environment.\n","example_call":"global_defer(expr, priority = c(\"first\", \"last\"))"}

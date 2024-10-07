@@ -1,0 +1,1 @@
+{"description":"This generic function fits a nonlinear mixed-effects model in the\nformulation described in Lindstrom and Bates (1990) but allowing for nested\nrandom effects. The within-group errors are allowed to be correlated\nand/or have unequal variances.\n","example_call":"nlme.formula(model, data = sys.frame(sys.parent()), fixed, random,"}

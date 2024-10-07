@@ -1,0 +1,1 @@
+{"description":"These functions set the clipping region within the current viewport\nwithout altering the current coordinate system.\n","example_call":"grid.clip(...)"}

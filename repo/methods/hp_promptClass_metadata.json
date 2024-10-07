@@ -1,0 +1,1 @@
+{"description":"Assembles all relevant slot and method information for a class, with\nminimal markup for Rd processing; no QC facilities at present.\n","example_call":"promptClass(clName, filename = NULL, type = \"class\", keywords = \"classes\","}

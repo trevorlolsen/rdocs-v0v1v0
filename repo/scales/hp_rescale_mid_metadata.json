@@ -1,0 +1,1 @@
+{"description":"Rescale vector to have specified minimum, midpoint, and maximum\n","example_call":"rescale_mid(x, to, from, mid, ...)"}

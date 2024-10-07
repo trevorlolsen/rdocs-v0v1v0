@@ -1,0 +1,1 @@
+{"description":"Create a vector of n contiguous colors.\n","example_call":"rainbow(n, s = 1, v = 1, start = 0, end = max(1, n - 1)/n,"}

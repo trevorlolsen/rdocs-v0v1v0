@@ -1,0 +1,1 @@
+{"description":"Alerts are typically short status messages.\n","example_call":"cli_alert_danger(text, id = NULL, class = NULL, wrap = FALSE, .envir = parent.frame())"}

@@ -1,0 +1,1 @@
+{"description":"extended is an enhanced version of Wilkinson's\noptimization-based axis labeling approach. It is\ndescribed in detail in our paper. See the references.\n","example_call":"extended(dmin, dmax, m, Q = c(1, 5, 2, 2.5, 4, 3), only.loose = FALSE,"}

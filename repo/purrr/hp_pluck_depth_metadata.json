@@ -1,0 +1,1 @@
+{"description":"The depth of a vector is how many levels that you can index/pluck into it.\npluck_depth() was previously called vec_depth().\n","example_call":"pluck_depth(x, is_node = NULL)"}

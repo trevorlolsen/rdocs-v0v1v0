@@ -1,0 +1,1 @@
+{"description":"Construct a sparse model or <U+201C>design<U+201D> matrix,\nfrom a formula and data frame (sparse.model.matrix) or a single\nfactor (fac2sparse).\n","example_call":"sparse.model.matrix(object, data = environment(object), contrasts.arg = NULL,"}

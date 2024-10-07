@@ -1,0 +1,1 @@
+{"description":"Temporarily change global options.\n","example_call":"local_options(.new = list(), ..., .local_envir = parent.frame())"}

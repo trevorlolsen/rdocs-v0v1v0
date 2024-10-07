@@ -1,0 +1,1 @@
+{"description":"Not all possible correctly formatted Munsell colours result in a colour\nrepresentable in RGB space.  This function checks if the colour is\nrepresentable.\n","example_call":"in_gamut(col, fix = FALSE)"}

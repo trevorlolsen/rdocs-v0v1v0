@@ -1,0 +1,1 @@
+{"description":"The default method for sequence generates the sequence\nseq(from[i], by = by[i], length.out = nvec[i]) for each\nelement i in the parallel (and recycled) vectors from,\nby and nvec. It then returns the result of concatenating\nthose sequences.\n","example_call":"sequence.default(nvec, from = 1L, by = 1L, ...)"}

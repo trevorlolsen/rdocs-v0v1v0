@@ -1,0 +1,1 @@
+{"description":"Use a Tk file dialog to choose a list of zero or more files\ninteractively.\n","example_call":"tk_choose.files(default = \"\", caption = \"Select files\", multi = TRUE,"}

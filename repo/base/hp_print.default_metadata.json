@@ -1,0 +1,1 @@
+{"description":"print.default is the default method of the generic\nprint function which prints its argument.\n","example_call":"print.default(x, digits = NULL, quote = TRUE, na.print = NULL, print.gap = NULL,"}

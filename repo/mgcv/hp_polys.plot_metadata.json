@@ -1,0 +1,1 @@
+{"description":" Produces plots of geographic regions defined by polygons, optionally filling the \npolygons with a color or grey shade dependent on a covariate.\n","example_call":"polys.plot(pc, z = NULL, scheme = \"heat\", lab = \"\", ...)"}

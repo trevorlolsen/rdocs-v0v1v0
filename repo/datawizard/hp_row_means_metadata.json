@@ -1,0 +1,1 @@
+{"description":"This function is similar to the SPSS MEAN.n function and computes\nrow means from a data frame or matrix if at least min_valid values of a row are\nvalid (and not NA).\n","example_call":"row_means(data, select = NULL, exclude = NULL, min_valid = NULL,"}

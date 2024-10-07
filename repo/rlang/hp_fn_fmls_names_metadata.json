@@ -1,0 +1,1 @@
+{"description":"fn_fmls() returns a named list of formal arguments.\nfn_fmls_names() returns the names of the arguments.\nfn_fmls_syms() returns formals as a named list of symbols. This\nis especially useful for forwarding arguments in constructed calls.\n","example_call":"fn_fmls_names(fn = caller_fn())"}

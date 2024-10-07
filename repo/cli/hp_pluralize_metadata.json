@@ -1,0 +1,1 @@
+{"description":"pluralize() is similar to glue::glue(), with two differences:\n","example_call":"pluralize(..., .envir = parent.frame(), .transformer = glue::identity_transformer)"}

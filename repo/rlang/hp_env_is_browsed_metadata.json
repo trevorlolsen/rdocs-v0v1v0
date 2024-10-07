@@ -1,0 +1,1 @@
+{"description":"env_browse() returns the previous value of\nenv_is_browsed() (a logical), invisibly.\n","example_call":"env_is_browsed(env)"}

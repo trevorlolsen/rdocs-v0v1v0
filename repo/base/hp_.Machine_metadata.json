@@ -1,0 +1,1 @@
+{"description":".Machine is a variable holding information on the numerical\ncharacteristics of the machine R is running on, such as the largest\ndouble or integer and the machine's precision.\n","example_call":"NULL"}

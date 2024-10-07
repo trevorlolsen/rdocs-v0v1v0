@@ -1,0 +1,1 @@
+{"description":"Uses Wilkinson's extended breaks algorithm as implemented in the\nlabeling package.\n","example_call":"breaks_extended(n = 5, ...)"}

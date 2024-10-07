@@ -1,0 +1,1 @@
+{"description":"POST file to a server.\n","example_call":"POST(url = NULL, config = list(), ..., body = NULL, encode = c(\"multipart\","}

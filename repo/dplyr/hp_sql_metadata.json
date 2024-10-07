@@ -1,0 +1,1 @@
+{"description":"These functions are critical when writing functions that translate R\nfunctions to sql functions. Typically a conversion function should escape\nall its inputs and return an sql object.\n","example_call":"sql(...)"}

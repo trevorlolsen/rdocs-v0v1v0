@@ -1,0 +1,1 @@
+{"description":"Converts a gsub-style replacement strings\nto those which can be used in stri_replace.\nIn particular, $ becomes \\$ and \\1 becomes $1.\n","example_call":"stri_replace_rstr(x)"}

@@ -1,0 +1,1 @@
+{"description":"These functions count the number of occurrences\nof a pattern in a string.\n","example_call":"stri_count_regex(str, pattern, ..., opts_regex = NULL)"}

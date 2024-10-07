@@ -1,0 +1,1 @@
+{"description":"This does nothing except on console-based versions of R.\nOn the macOS and Windows GUIs, it ensures that the display of\noutput in the console is current, even if output buffering is on.\n","example_call":"flush.console()"}

@@ -1,0 +1,1 @@
+{"description":"The default discrete colour scale. Defaults to scale_fill_hue()/scale_fill_brewer()\nunless type (which defaults to the ggplot2.discrete.fill/ggplot2.discrete.colour options)\nis specified.\n","example_call":"scale_colour_discrete(..., type = getOption(\"ggplot2.discrete.colour\"))"}

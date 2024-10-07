@@ -1,0 +1,1 @@
+{"description":"Gets an order statistic for each row (column) in a matrix.\n","example_call":"rowOrderStats(x, rows = NULL, cols = NULL, which, dim. = dim(x),"}

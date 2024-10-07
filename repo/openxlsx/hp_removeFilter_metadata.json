@@ -1,0 +1,1 @@
+{"description":"Removes filters from addFilter() and writeData()\n","example_call":"removeFilter(wb, sheet)"}

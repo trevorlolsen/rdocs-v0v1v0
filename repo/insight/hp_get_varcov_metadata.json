@@ -1,0 +1,1 @@
+{"description":"Returns the variance-covariance, as retrieved by stats::vcov(), but works\nfor more model objects that probably don't provide a vcov()-method.\n","example_call":"get_varcov(x, ...)"}

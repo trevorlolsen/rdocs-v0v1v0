@@ -1,0 +1,1 @@
+{"description":"Give the TRUE indices of a logical object, allowing for array\nindices.\n","example_call":"arrayInd(ind, .dim, .dimnames = NULL, useNames = FALSE)"}

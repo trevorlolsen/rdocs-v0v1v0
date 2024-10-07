@@ -1,0 +1,1 @@
+{"description":"geom_segment() draws a straight line between points (x, y) and\n(xend, yend). geom_curve() draws a curved line. See the underlying\ndrawing function grid::curveGrob() for the parameters that\ncontrol the curve.\n","example_call":"geom_segment(mapping = NULL, data = NULL, stat = \"identity\", position = \"identity\","}

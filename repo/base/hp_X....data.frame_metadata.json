@@ -1,0 +1,1 @@
+{"description":"Extract or replace subsets of data frames.\n","example_call":"$<-.data.frame(x, name, value)"}

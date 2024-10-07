@@ -1,0 +1,1 @@
+{"description":"Create a data frame from all combinations of the supplied vectors or\nfactors.  See the description of the return value for precise details of\nthe way this is done.\n","example_call":"expand.grid(..., KEEP.OUT.ATTRS = TRUE, stringsAsFactors = TRUE)"}

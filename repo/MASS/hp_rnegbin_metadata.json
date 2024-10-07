@@ -1,0 +1,1 @@
+{"description":"Function to generate random outcomes from a Negative Binomial distribution,\nwith mean mu and variance mu + mu^2/theta.\n","example_call":"rnegbin(n, mu = n, theta = stop(\"'theta' must be specified\"))"}

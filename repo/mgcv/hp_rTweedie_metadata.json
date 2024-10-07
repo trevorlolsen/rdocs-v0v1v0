@@ -1,0 +1,1 @@
+{"description":" Generates Tweedie random deviates, for powers between 1 and 2.\n","example_call":"rTweedie(mu, p = 1.5, phi = 1)"}

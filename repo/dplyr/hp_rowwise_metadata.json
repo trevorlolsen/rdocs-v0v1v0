@@ -1,0 +1,1 @@
+{"description":"rowwise() allows you to compute on a data frame a row-at-a-time.\nThis is most useful when a vectorised function doesn't exist.\n","example_call":"rowwise(data, ...)"}

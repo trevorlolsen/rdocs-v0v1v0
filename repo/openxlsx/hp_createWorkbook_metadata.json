@@ -1,0 +1,1 @@
+{"description":"Create a new Workbook object\n","example_call":"createWorkbook(creator = ifelse(.Platform$OS.type == \"windows\", Sys.getenv(\"USERNAME\"),"}

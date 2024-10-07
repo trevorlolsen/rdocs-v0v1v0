@@ -1,0 +1,1 @@
+{"description":"conflicts reports on objects that exist with the same name in\ntwo or more places on the search path, usually because\nan object in the user's workspace or a package is masking a system\nobject of the same name.  This helps discover unintentional masking.\n","example_call":"conflicts(where = search(), detail = FALSE)"}

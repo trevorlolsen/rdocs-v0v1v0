@@ -1,0 +1,1 @@
+{"description":"numericDeriv numerically evaluates the gradient of an expression.\n","example_call":"numericDeriv(expr, theta, rho = parent.frame(), dir = 1, eps = .Machine$double.eps^(1/if (central) 3 else 2),"}

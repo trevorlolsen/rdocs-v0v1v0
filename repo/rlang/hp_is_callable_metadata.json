@@ -1,0 +1,1 @@
+{"description":"A callable object is an object that can appear in the function\nposition of a call (as opposed to argument position). This includes\nsymbolic objects that evaluate to a function or\nliteral functions embedded in the call.\n","example_call":"is_callable(x)"}

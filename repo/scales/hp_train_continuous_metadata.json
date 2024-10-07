@@ -1,0 +1,1 @@
+{"description":"Strips attributes and always returns a numeric vector\n","example_call":"train_continuous(new, existing = NULL)"}

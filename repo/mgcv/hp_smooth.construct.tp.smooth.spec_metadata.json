@@ -1,0 +1,1 @@
+{"description":"gam can use isotropic smooths of any number of variables, specified via terms like\ns(x,z,bs=\"tp\",m=3) (or just s(x,z) as this is the default basis). These terms are based on thin plate \nregression splines. m specifies the order of the derivatives in the thin plate spline penalty.\n","example_call":"smooth.construct.tp.smooth.spec(object, data, knots)"}

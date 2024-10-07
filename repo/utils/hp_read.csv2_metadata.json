@@ -1,0 +1,1 @@
+{"description":"Reads a file in table format and creates a data frame from it, with\ncases corresponding to lines and variables to fields in the file.\n","example_call":"read.csv2(file, header = TRUE, sep = \";\", quote = \"\\\"\", dec = \",\","}

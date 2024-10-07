@@ -1,0 +1,1 @@
+{"description":"Try fitting all models that differ from the current model by adding a\nsingle term from those supplied, maintaining marginality.\n","example_call":"addterm(object, ...)"}

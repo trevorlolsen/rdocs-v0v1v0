@@ -1,0 +1,1 @@
+{"description":"Returns a proxy object (i.e. an atomic vector or data frame of atomic\nvectors). For vctrs, this determines the behaviour of == and\n!= (via vec_equal()); unique(), duplicated() (via\nvec_unique() and vec_duplicate_detect()); is.na() and anyNA()\n(via vec_detect_missing()).\n","example_call":"vec_proxy_equal(x, ...)"}

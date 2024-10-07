@@ -1,0 +1,1 @@
+{"description":"time creates the vector of times at which a time series was sampled.\n","example_call":"deltat(x, ...)"}

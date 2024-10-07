@@ -1,0 +1,1 @@
+{"description":"This function converts integer vectors,\nrepresenting sequences of UTF-32 code points, to UTF-8 strings.\n","example_call":"stri_enc_fromutf32(vec)"}

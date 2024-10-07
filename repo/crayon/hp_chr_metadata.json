@@ -1,0 +1,1 @@
+{"description":"This function just calls as.character(), but it is\neasier to type and read.\n","example_call":"chr(x, ...)"}

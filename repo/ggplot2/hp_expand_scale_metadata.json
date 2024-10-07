@@ -1,0 +1,1 @@
+{"description":"This is a convenience function for generating scale expansion vectors\nfor the expand argument of scale_(x|y)_continuous\nand scale_(x|y)_discrete. The expansion vectors are used to\nadd some space between the data and the axes.\n","example_call":"expand_scale(mult = 0, add = 0)"}

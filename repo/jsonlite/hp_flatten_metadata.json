@@ -1,0 +1,1 @@
+{"description":"In a nested data frame, one or more of the columns consist of another data\nframe. These structures frequently appear when parsing JSON data from the web.\nWe can flatten such data frames into a regular 2 dimensional tabular structure.\n","example_call":"flatten(x, recursive = TRUE)"}

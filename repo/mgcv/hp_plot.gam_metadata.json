@@ -1,0 +1,1 @@
+{"description":" Takes a fitted gam object produced by gam() and plots the \ncomponent smooth functions that make it up, on the scale of the linear\npredictor. Optionally produces term plots for parametric model components\nas well.","example_call":"plot.gam(x, residuals = FALSE, rug = NULL, se = TRUE, pages = 0,"}

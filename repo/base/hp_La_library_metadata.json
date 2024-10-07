@@ -1,0 +1,1 @@
+{"description":"Report the name of the shared object file with LAPACK implementation\nin use.\n","example_call":"La_library()"}

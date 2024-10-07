@@ -1,0 +1,1 @@
+{"description":"qq_show() helps examining injected expressions\ninside a function. This is useful for learning about injection and\nfor debugging injection code.\n","example_call":"qq_show(expr)"}

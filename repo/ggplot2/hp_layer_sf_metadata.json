@@ -1,0 +1,1 @@
+{"description":"The layer_sf() function is a variant of layer() meant to be used by\nextension developers who are writing new sf-based geoms or stats.\nThe sf layer checks whether the data contains a geometry column, and\nif one is found it is automatically mapped to the geometry aesthetic.\n","example_call":"layer_sf(geom = NULL, stat = NULL, data = NULL, mapping = NULL,"}

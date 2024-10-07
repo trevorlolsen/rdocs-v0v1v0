@@ -1,0 +1,1 @@
+{"description":"The implicit generic mechanism stores generic versions of\nfunctions\nin a table in a package. The package does not want the current\nversion of the function to be a generic, however, and retains the\nnon-generic version.\n","example_call":"implicitGeneric(name, where = topenv(parent.frame()), generic = getGeneric(name,"}

@@ -1,0 +1,1 @@
+{"description":"Look for an R object of the given name and possibly return it\n","example_call":"get0(x, envir = pos.to.env(-1L), mode = \"any\", inherits = TRUE,"}

@@ -1,0 +1,1 @@
+{"description":"Combine two matrix-like R objects by columns (cbind2)\nor rows (rbind2).  These are (S4) generic functions with default\nmethods.\n","example_call":"rbind2(x, y, ...)"}

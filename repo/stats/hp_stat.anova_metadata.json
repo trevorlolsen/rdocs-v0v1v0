@@ -1,0 +1,1 @@
+{"description":"This is a utility function, used in lm and\nglm methods for anova(..., test != NULL)\nand should not be used by the average user.\n","example_call":"stat.anova(table, test = c(\"Rao\", \"LRT\", \"Chisq\", \"F\", \"Cp\"),"}

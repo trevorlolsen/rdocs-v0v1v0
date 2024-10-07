@@ -1,0 +1,1 @@
+{"description":"Convert an R object into a YAML string\n","example_call":"as.yaml(x, line.sep = c(\"\\n\", \"\\r\\n\", \"\\r\"), indent = 2, omap = FALSE,"}

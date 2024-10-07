@@ -1,0 +1,1 @@
+{"description":"Add Excel data validation to cells\n","example_call":"dataValidation(wb, sheet, cols, rows, type, operator, value, allowBlank = TRUE,"}

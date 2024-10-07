@@ -1,0 +1,1 @@
+{"description":"Consistent wrapper around saveRDS() and readRDS().\nwrite_rds() does not compress by default as space is generally cheaper\nthan time.\n","example_call":"read_rds(file, refhook = NULL)"}

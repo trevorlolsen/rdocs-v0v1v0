@@ -1,0 +1,1 @@
+{"description":"Decompose a time series into seasonal, trend and irregular components\nusing moving averages.  Deals with additive or multiplicative\nseasonal component.\n","example_call":"decompose(x, type = c(\"additive\", \"multiplicative\"), filter = NULL)"}

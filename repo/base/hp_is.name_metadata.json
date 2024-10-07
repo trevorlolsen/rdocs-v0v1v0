@@ -1,0 +1,1 @@
+{"description":"A <U+2018>name<U+2019> (also known as a <U+2018>symbol<U+2019>) is a way to refer to\nR objects by name (rather than the value of the object, if any, bound\nto that name).\n","example_call":"is.name(x)"}

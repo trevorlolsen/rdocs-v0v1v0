@@ -1,0 +1,1 @@
+{"description":"This function is generic; method functions can be written to handle\nspecific classes of objects. Classes which already have methods for\nthis function include default, gls and lme. See\nthe appropriate method documentation for a description of the\narguments. \n","example_call":"Variogram(object, distance, ...)"}

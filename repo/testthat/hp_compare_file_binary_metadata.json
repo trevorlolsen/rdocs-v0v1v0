@@ -1,0 +1,1 @@
+{"description":"Whole file snapshot testing is designed for testing objects that don't have\na convenient textual representation, with initial support for images\n(.png, .jpg, .svg), data frames (.csv), and text files\n(.R, .txt, .json, ...).\n","example_call":"compare_file_binary(old, new)"}

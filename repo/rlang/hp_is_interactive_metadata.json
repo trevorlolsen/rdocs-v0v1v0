@@ -1,0 +1,1 @@
+{"description":"Like base::interactive(), is_interactive() returns TRUE when\nthe function runs interactively and FALSE when it runs in batch\nmode. It also checks, in this order:\n","example_call":"is_interactive()"}

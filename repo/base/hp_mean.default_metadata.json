@@ -1,0 +1,1 @@
+{"description":"Generic function for the (trimmed) arithmetic mean.\n","example_call":"mean.default(x, trim = 0, na.rm = FALSE, ...)"}

@@ -1,0 +1,1 @@
+{"description":"You might want to avoid sparklines on non-UTF-8 systems, because they\ndo not look good. You can use is_utf8_output() to test for support\nfor them.\n","example_call":"spark_line(x)"}

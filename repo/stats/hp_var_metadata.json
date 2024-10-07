@@ -1,0 +1,1 @@
+{"description":"var, cov and cor compute the variance of x\nand the covariance or correlation of x and y if these\nare vectors.   If x and y are matrices then the\ncovariances (or correlations) between the columns of x and the\ncolumns of y are computed.\n","example_call":"var(x, y = NULL, na.rm = FALSE, use)"}

@@ -1,0 +1,1 @@
+{"description":"This selection helpers matches grouping variables. It can be used\nin select() or vars() selections.\n","example_call":"group_cols(vars = NULL, data = NULL)"}

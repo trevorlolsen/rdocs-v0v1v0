@@ -1,0 +1,1 @@
+{"description":"Return a vector of named regions in a xlsx file or\nWorkbook object\n","example_call":"getNamedRegions(x)"}

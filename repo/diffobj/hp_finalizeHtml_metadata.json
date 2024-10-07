@@ -1,0 +1,1 @@
+{"description":"Used as the finalizer slot to StyleHtml objects to wrap\ncharacter output prior to output to device.  Used primarily by styles that\noutput to HTML to properly configure HTML page structure, including injecting\nJS, CSS, etc..\n","example_call":"finalizeHtml(x, ...)"}

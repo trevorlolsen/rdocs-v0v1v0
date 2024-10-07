@@ -1,0 +1,1 @@
+{"description":"Returns the \"name\" (class attribute) of a model, possibly including further information.\n","example_call":"model_name(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Function adds a style to a specified set of cells.\n","example_call":"addStyle(wb, sheet, style, rows, cols, gridExpand = FALSE, stack = FALSE)"}

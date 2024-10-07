@@ -1,0 +1,1 @@
+{"description":"Grid has the notion of a current location.  These functions\nsets that location.\n","example_call":"grid.move.to(x = 0, y = 0, default.units = \"npc\", name = NULL, draw = TRUE,"}

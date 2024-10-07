@@ -1,0 +1,1 @@
+{"description":"is_named() always returns TRUE for empty vectors because\n","example_call":"have_name(x)"}

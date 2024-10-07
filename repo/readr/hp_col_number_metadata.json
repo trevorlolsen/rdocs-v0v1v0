@@ -1,0 +1,1 @@
+{"description":"This parses the first number it finds, dropping any non-numeric characters\nbefore the first number and all characters after the first number. The\ngrouping mark specified by the locale is ignored inside the number.\n","example_call":"col_number()"}

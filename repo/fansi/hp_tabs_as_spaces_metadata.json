@@ -1,0 +1,1 @@
+{"description":"Finds horizontal tab characters (0x09) in a string and replaces them with the\nspaces that produce the same horizontal offset.\n","example_call":"tabs_as_spaces(x, tab.stops = getOption(\"fansi.tab.stops\", 8L), warn = getOption(\"fansi.warn\","}

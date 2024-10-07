@@ -1,0 +1,1 @@
+{"description":"Writes a text file is such a way that each element of a given\ncharacter vector becomes a separate text line.\n","example_call":"stri_write_lines(str, con, encoding = \"UTF-8\", sep = ifelse(.Platform$OS.type =="}

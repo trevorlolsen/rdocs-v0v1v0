@@ -1,0 +1,1 @@
+{"description":"Connections to Database Management Systems which automatically disconnect. In\nparticular connections which are created with DBI::dbConnect() and closed\nwith DBI::dbDisconnect().\n","example_call":"with_db_connection(con, code)"}

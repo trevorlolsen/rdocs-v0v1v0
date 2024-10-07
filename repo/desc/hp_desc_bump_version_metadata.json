@@ -1,0 +1,1 @@
+{"description":"The which parameter specifies which component to increase.\nIt can be a string referring to a component: major,\nminor, patch or dev, or an integer\nscalar, for the latter components are counted from one, and the\nbeginning. I.e. component one is equivalent to major.\n","example_call":"desc_bump_version(which, file = \".\", normalize = FALSE)"}

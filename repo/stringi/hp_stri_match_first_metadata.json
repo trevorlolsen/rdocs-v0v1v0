@@ -1,0 +1,1 @@
+{"description":"These functions extract substrings in str that\nmatch a given regex pattern. Additionally, they extract matches\nto every capture group, i.e., to all the sub-patterns given\nin round parentheses.\n","example_call":"stri_match_first(str, ..., regex)"}

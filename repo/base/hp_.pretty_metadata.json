@@ -1,0 +1,1 @@
+{"description":"Compute a  sequence of about n+1 equally spaced <U+2018>round<U+2019>\nvalues which cover the range of the values in x.\nThe values are chosen so that they are 1, 2 or 5 times a power of 10.\n","example_call":".pretty(x, n = 5L, min.n = n%/%3L, shrink.sml = 0.75, high.u.bias = 1.5,"}

@@ -1,0 +1,1 @@
+{"description":"When enabled, packageNotFoundError errors invoke a global handler to\ndownload missing R packages from the default webR binary repo.\n","example_call":"global_prompt_install()"}

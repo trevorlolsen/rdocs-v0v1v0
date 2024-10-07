@@ -1,0 +1,1 @@
+{"description":"Use Kalman Filtering to find the (Gaussian) log-likelihood, or for\nforecasting or smoothing.\n","example_call":"makeARIMA(phi, theta, Delta, kappa = 1e+06, SSinit = c(\"Gardner1980\","}

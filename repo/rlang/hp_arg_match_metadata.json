@@ -1,0 +1,1 @@
+{"description":"This is equivalent to base::match.arg() with a few differences:\n","example_call":"arg_match(arg, values = NULL, ..., multiple = FALSE, error_arg = caller_arg(arg),"}

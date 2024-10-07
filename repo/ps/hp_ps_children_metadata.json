@@ -1,0 +1,1 @@
+{"description":"List of child processes (process objects) of the process. Note that\nthis typically requires enumerating all processes on the system, so\nit is a costly operation.\n","example_call":"ps_children(p = ps_handle(), recursive = FALSE)"}

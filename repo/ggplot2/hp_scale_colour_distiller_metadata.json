@@ -1,0 +1,1 @@
+{"description":"The brewer scales provide sequential, diverging and qualitative\ncolour schemes from ColorBrewer. These are particularly well suited to\ndisplay discrete values on a map. See https://colorbrewer2.org for\nmore information.\n","example_call":"scale_colour_distiller(name = waiver(), ..., type = \"seq\", palette = 1, direction = -1,"}

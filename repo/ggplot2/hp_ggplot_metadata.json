@@ -1,0 +1,1 @@
+{"description":"ggplot() initializes a ggplot object. It can be used to\ndeclare the input data frame for a graphic and to specify the\nset of plot aesthetics intended to be common throughout all\nsubsequent layers unless specifically overridden.\n","example_call":"ggplot(data = NULL, mapping = aes(), ..., environment = parent.frame())"}

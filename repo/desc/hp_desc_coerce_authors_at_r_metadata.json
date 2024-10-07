@@ -1,0 +1,1 @@
+{"description":"Convert the Author and Maintainer fields to\nAuthors@R, which is necessary for other functions such as\ndesc_get_authors().\n","example_call":"desc_coerce_authors_at_r(file = \".\", normalize = FALSE)"}

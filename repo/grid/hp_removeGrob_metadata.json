@@ -1,0 +1,1 @@
+{"description":"Remove a grob from a gTree or a descendant of a gTree.\n","example_call":"removeGrob(gTree, gPath, strict = FALSE, grep = FALSE, global = FALSE,"}

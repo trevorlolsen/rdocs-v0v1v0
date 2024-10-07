@@ -1,0 +1,1 @@
+{"description":"Performs a Friedman rank sum test with unreplicated blocked data.\n","example_call":"friedman.test(y, ...)"}

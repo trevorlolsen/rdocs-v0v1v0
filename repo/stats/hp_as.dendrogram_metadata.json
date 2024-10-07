@@ -1,0 +1,1 @@
+{"description":"Class \"dendrogram\" provides general functions for handling\ntree-like structures.  It is intended as a replacement for similar\nfunctions in hierarchical clustering and classification/regression\ntrees, such that all of these can use the same engine for plotting or\ncutting trees.\n","example_call":"as.dendrogram(object, ...)"}

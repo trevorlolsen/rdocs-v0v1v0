@@ -1,0 +1,1 @@
+{"description":"The minimal test reporter provides the absolutely minimum amount of\ninformation: whether each expectation has succeeded, failed or experienced\nan error.  If you want to find out what the failures and errors actually\nwere, you'll need to run a more informative test reporter.\n","example_call":"NULL"}

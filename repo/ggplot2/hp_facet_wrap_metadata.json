@@ -1,0 +1,1 @@
+{"description":"facet_wrap() wraps a 1d sequence of panels into 2d. This is generally\na better use of screen space than facet_grid() because most\ndisplays are roughly rectangular.\n","example_call":"facet_wrap(facets, nrow = NULL, ncol = NULL, scales = \"fixed\","}

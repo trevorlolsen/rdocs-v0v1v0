@@ -1,0 +1,1 @@
+{"description":"Returns the (regular or parallel) maxima and minima of the\ninput values.\n","example_call":"pmax.int(..., na.rm = FALSE)"}

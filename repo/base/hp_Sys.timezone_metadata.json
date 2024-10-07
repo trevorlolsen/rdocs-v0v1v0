@@ -1,0 +1,1 @@
+{"description":"Information about time zones in R.  Sys.timezone returns\nthe name of the current time zone.\n","example_call":"Sys.timezone(location = TRUE)"}

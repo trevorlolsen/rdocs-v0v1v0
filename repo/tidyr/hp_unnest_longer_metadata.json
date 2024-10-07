@@ -1,0 +1,1 @@
+{"description":"unnest_longer() turns each element of a list-column into a row. It\nis most naturally suited to list-columns where the elements are unnamed\nand the length of each element varies from row to row.\n","example_call":"unnest_longer(data, col, values_to = NULL, indices_to = NULL, indices_include = NULL,"}

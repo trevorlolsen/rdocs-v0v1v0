@@ -1,0 +1,1 @@
+{"description":"Find (or retrieve) details of all packages installed in the specified\nlibraries.\n","example_call":"installed.packages(lib.loc = NULL, priority = NULL, noCache = FALSE, fields = NULL,"}

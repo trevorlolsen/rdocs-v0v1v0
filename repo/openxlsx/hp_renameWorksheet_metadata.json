@@ -1,0 +1,1 @@
+{"description":"Rename a worksheet\n","example_call":"renameWorksheet(wb, sheet, newName)"}

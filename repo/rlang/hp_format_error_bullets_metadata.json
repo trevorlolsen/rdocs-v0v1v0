@@ -1,0 +1,1 @@
+{"description":"format_error_bullets() takes a character vector and returns a single\nstring (or an empty vector if the input is empty). The elements of\nthe input vector are assembled as a list of bullets, depending on\ntheir names:\n","example_call":"format_error_bullets(x)"}

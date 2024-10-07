@@ -1,0 +1,1 @@
+{"description":"Returns object with attributes removed\n","example_call":"unattr(x)"}

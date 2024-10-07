@@ -1,0 +1,1 @@
+{"description":"Invert a matrix of match locations to match the opposite of what was\npreviously matched.\n","example_call":"invert_match(loc)"}

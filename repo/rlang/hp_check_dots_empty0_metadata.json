@@ -1,0 +1,1 @@
+{"description":"check_dots_empty0() is a more efficient version of\ncheck_dots_empty() with a slightly different interface. Instead\nof inspecting the current environment for dots, it directly takes\n.... It is only meant for very low level functions where a\ncouple microseconds make a difference.\n","example_call":"check_dots_empty0(..., call = caller_env())"}

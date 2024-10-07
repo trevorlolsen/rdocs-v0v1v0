@@ -1,0 +1,1 @@
+{"description":"This uses Unicode canonicalisation rules, and optionally ignores case.\n","example_call":"str_equal(x, y, locale = \"en\", ignore_case = FALSE, ...)"}

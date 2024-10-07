@@ -1,0 +1,1 @@
+{"description":"Needed if you want to run snapshot tests outside of the usual testthat\nframework For expert use only.\n","example_call":"local_snapshotter(snap_dir = NULL, cleanup = FALSE, fail_on_new = FALSE,"}

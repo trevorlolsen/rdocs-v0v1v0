@@ -1,0 +1,1 @@
+{"description":"Returns the response, offset, subset, weights or other\nspecial components of a model frame passed as optional arguments to\nmodel.frame.\n","example_call":"model.weights(x)"}

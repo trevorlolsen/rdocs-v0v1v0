@@ -1,0 +1,1 @@
+{"description":"Reads a text file in ins entirety, re-encodes it, and splits it into text lines.\n","example_call":"stri_read_lines(con, encoding = NULL, fname = con)"}

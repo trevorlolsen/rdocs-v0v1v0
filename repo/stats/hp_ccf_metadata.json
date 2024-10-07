@@ -1,0 +1,1 @@
+{"description":"The function acf computes (and by default plots) estimates of\nthe autocovariance or autocorrelation function.  Function pacf\nis the function used for the partial autocorrelations.  Function\nccf computes the cross-correlation or cross-covariance of two\nunivariate series.\n","example_call":"ccf(x, y, lag.max = NULL, type = c(\"correlation\", \"covariance\"),"}

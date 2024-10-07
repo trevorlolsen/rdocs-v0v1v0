@@ -1,0 +1,1 @@
+{"description":"mclapply is a parallelized version of lapply,\nit returns a list of the same length as X, each element of\nwhich is the result of applying FUN to the corresponding\nelement of X.\n","example_call":"mcmapply(FUN, ..., MoreArgs = NULL, SIMPLIFY = TRUE, USE.NAMES = TRUE,"}

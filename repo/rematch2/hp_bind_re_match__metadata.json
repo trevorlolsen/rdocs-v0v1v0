@@ -1,0 +1,1 @@
+{"description":"Taking a data frame and a column name as input, this function will run\nre_match and bind the results as new columns to the original\ntable., returning a tibble. This makes it friendly for\npipe-oriented programming with magrittr.\n","example_call":"bind_re_match_(df, from, ..., keep_match = FALSE)"}

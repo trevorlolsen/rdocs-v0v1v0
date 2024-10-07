@@ -1,0 +1,1 @@
+{"description":"Search for key words or phrases in various documentation, such as\nR manuals, help pages of base and CRAN packages, vignettes, task views and others, using the search engine\nat https://search.r-project.org and view them in a web browser.\n","example_call":"RSiteSearch(string, restrict = c(\"functions\", \"descriptions\", \"news\","}

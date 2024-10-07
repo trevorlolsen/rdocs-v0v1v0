@@ -1,0 +1,1 @@
+{"description":"Evaluate an R expression in a specified environment.\n","example_call":"eval.parent(expr, n = 1)"}

@@ -1,0 +1,1 @@
+{"description":"Internal versions of .Call and .External.\n","example_call":".External.graphics(.NAME, ..., PACKAGE)"}

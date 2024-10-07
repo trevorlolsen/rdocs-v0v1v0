@@ -1,0 +1,1 @@
+{"description":"window is a generic function which\nextracts the subset of the object x\nobserved between the times start and end. If a\nfrequency is specified, the series is then re-sampled at the new\nfrequency.\n","example_call":"window(x, ...)"}

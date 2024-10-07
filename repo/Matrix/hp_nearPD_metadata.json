@@ -1,0 +1,1 @@
+{"description":"Compute the nearest positive definite matrix to an approximate\none, typically a correlation or variance-covariance matrix.\n","example_call":"nearPD(x, corr = FALSE, keepDiag = FALSE, base.matrix = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"Managing external processes from R is not trivial, and this\nclass aims to help with this deficiency. It is essentially a small\nwrapper around the system base R function, to return the process\nid of the started process, and set its standard output and error\nstreams. The process id is then used to manage the process.\n","example_call":"NULL"}

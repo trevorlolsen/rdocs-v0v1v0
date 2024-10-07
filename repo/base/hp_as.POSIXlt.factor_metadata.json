@@ -1,0 +1,1 @@
+{"description":"Functions to manipulate objects of classes \"POSIXlt\" and\n\"POSIXct\" representing calendar dates and times.\n","example_call":"as.POSIXlt.factor(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"as_label() transforms R objects into a short, human-readable\ndescription. You can use labels to:\n","example_call":"as_label(x)"}

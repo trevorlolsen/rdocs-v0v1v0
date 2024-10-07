@@ -1,0 +1,1 @@
+{"description":"Calculate pairwise comparisons between group levels with corrections\nfor multiple testing.\n","example_call":"pairwise.wilcox.test(x, g, p.adjust.method = p.adjust.methods, paired = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"setIs is an explicit alternative\nto the contains= argument to setClass.  It is\nonly needed to create relations with explicit test or coercion.\nThese have not proved to be of much practical value, so this\nfunction should not likely be needed in applications.\n","example_call":"setIs(class1, class2, test = NULL, coerce = NULL, replace = NULL,"}

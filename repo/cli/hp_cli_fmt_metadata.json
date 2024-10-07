@@ -1,0 +1,1 @@
+{"description":"Capture the output of cli functions instead of printing it\n","example_call":"cli_fmt(expr, collapse = FALSE, strip_newline = FALSE)"}

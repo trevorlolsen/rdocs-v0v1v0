@@ -1,0 +1,1 @@
+{"description":" Takes a fitted gam object produced by gam() and runs \ndiagnostic tests of whether the basis dimension choises are adequate. \n","example_call":"k.check(b, subsample = 5000, n.rep = 400)"}

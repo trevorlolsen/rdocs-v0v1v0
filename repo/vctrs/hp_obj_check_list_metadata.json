@@ -1,0 +1,1 @@
+{"description":"Notably, data frames and S3 record style classes like POSIXlt are not\nconsidered lists.\n","example_call":"obj_check_list(x, ..., arg = caller_arg(x), call = caller_env())"}

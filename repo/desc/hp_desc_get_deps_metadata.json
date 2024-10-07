@@ -1,0 +1,1 @@
+{"description":"List all package dependencies from a DESCRIPTION file\n","example_call":"desc_get_deps(file = \".\")"}

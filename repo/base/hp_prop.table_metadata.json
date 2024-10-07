@@ -1,0 +1,1 @@
+{"description":"Returns conditional proportions given margins, i.e.,\nentries of x, divided by the appropriate marginal sums.\n","example_call":"prop.table(x, margin = NULL)"}

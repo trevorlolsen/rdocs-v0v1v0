@@ -1,0 +1,1 @@
+{"description":"list_modify() is inspired by utils::modifyList().\n","example_call":"list_modify(.x, ..., .is_node = NULL)"}

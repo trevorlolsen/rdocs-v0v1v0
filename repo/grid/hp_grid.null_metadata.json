@@ -1,0 +1,1 @@
+{"description":"These functions create a NULL graphical object,\nwhich has zero width, zero height, and draw nothing.\nIt can be used as a place-holder or as an invisible\nreference point for other drawing.\n","example_call":"grid.null(...)"}

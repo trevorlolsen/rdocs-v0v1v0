@@ -1,0 +1,1 @@
+{"description":"See oauth_endpoints() for a list of popular OAuth endpoints\nbaked into httr.\n","example_call":"oauth_endpoint(request = NULL, authorize, access, ..., base_url = NULL)"}

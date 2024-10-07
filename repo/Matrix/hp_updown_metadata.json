@@ -1,0 +1,1 @@
+{"description":"Computes a rank-k update or downdate of a sparse Cholesky\nfactorization\n","example_call":"updown(update, C, L)"}

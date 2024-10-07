@@ -1,0 +1,1 @@
+{"description":"Auxiliary function for glm fitting.\nTypically only used internally by glm.fit, but may be\nused to construct a control argument to either function.\n","example_call":"glm.control(epsilon = 1e-08, maxit = 25, trace = FALSE)"}

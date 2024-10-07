@@ -1,0 +1,1 @@
+{"description":"The R language defines two different types of functions: primitive\nfunctions, which are low-level, and closures, which are the regular\nkind of functions.\n","example_call":"is_primitive(x)"}

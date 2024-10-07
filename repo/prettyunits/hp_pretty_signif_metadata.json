@@ -1,0 +1,1 @@
+{"description":"Round a value to a defined number of significant digits printing out trailing\nzeros, if applicable\n","example_call":"pretty_signif(x, digits = 6, sci_range = 6, sci_sep = \"e\")"}

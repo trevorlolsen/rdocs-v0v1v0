@@ -1,0 +1,1 @@
+{"description":"Is object a symbol?\n","example_call":"is_symbol(x, name = NULL)"}

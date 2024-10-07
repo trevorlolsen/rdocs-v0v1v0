@@ -1,0 +1,1 @@
+{"description":"This function converts the syntax of files in Sweave\nformat to another Sweave syntax definition.\n","example_call":"SweaveSyntConv(file, syntax, output = NULL)"}

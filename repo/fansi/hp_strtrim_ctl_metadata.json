@@ -1,0 +1,1 @@
+{"description":"A drop in replacement for base::strtrim, with the difference that all\nC0 control characters such as newlines, carriage returns, etc., are always\ntreated as zero width, whereas in base it may vary with platform / R version.\n","example_call":"strtrim_ctl(x, width, warn = getOption(\"fansi.warn\", TRUE), ctl = \"all\","}

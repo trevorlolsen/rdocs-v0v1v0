@@ -1,0 +1,1 @@
+{"description":"See the section on inheritance in env()'s documentation.\n","example_call":"env_parents(env = caller_env(), last = global_env())"}

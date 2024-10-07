@@ -1,0 +1,1 @@
+{"description":"These are functions used by gls to call its compiled C\ncode. They are exported to allow experimentation with modified versions.\n","example_call":"glsApVar(glsSt, sigma, conLin = attr(glsSt, \"conLin\"), .relStep = .Machine$double.eps^(1/3),"}

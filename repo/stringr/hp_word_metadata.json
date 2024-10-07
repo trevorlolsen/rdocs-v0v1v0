@@ -1,0 +1,1 @@
+{"description":"Extract words from a sentence\n","example_call":"word(string, start = 1L, end = start, sep = fixed(\" \"))"}

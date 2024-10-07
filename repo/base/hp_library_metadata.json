@@ -1,0 +1,1 @@
+{"description":"library and require load and attach add-on packages.\n","example_call":"library(package, help, pos = 2, lib.loc = NULL, character.only = FALSE,"}

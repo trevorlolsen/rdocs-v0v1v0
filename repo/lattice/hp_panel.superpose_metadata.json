@@ -1,0 +1,1 @@
+{"description":"These are panel functions for Trellis displays useful when a grouping\nvariable is specified for use within panels. The x (and\ny where appropriate) variables are plotted with different\ngraphical parameters for each distinct value of the grouping variable.\n","example_call":"panel.superpose(x, y = NULL, subscripts, groups, panel.groups = \"panel.xyplot\","}

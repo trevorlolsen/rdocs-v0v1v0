@@ -1,0 +1,1 @@
+{"description":null,"example_call":"lint_tidyverse_lifecycle(path = \".\", pattern = \"[.][Rr](md)?\", which = c(\"superseded\","}

@@ -1,0 +1,1 @@
+{"description":"This function is a small wrapper on the regexpr\nbase R function, to provide an API that is easier to use.\n","example_call":"re_match(pattern, text, ...)"}

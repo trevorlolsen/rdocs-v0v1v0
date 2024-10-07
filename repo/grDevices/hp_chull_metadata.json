@@ -1,0 +1,1 @@
+{"description":"Computes the subset of points which lie on the convex hull of the\nset of points specified.\n","example_call":"chull(x, y = NULL)"}

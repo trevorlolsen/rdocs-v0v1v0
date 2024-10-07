@@ -1,0 +1,1 @@
+{"description":"parse_factor() is similar to factor(), but generates a warning if\nlevels have been specified and some elements of x are not found in those\nlevels.\n","example_call":"col_factor(levels = NULL, ordered = FALSE, include_na = FALSE)"}

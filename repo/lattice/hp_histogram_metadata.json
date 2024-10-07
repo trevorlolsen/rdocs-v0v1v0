@@ -1,0 +1,1 @@
+{"description":"Draw Histograms and Kernel Density Plots, possibly conditioned on\nother variables.\n","example_call":"histogram(x, data, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Signal deprecated argument by using self-documenting sentinel\ndeprecated() as default argument. Test whether the caller has\nsupplied the argument with is_present().\n","example_call":"is_present(arg)"}

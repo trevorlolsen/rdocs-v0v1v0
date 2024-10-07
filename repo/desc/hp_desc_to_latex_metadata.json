@@ -1,0 +1,1 @@
+{"description":"Returns the contents of the DESCRIPTION in LaTeX format.\n","example_call":"desc_to_latex(file = \".\")"}

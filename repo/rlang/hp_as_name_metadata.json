@@ -1,0 +1,1 @@
+{"description":"as_name() converts symbols to character strings. The\nconversion is deterministic. That is, the roundtrip symbol -> name -> symbol always gives the same result.\n","example_call":"as_name(x)"}

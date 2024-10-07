@@ -1,0 +1,1 @@
+{"description":"file_delete() and link_delete() delete file and links. Compared to\nfile.remove they always fail if they cannot delete the object rather than\nchanging return value or signalling a warning. If any inputs are\ndirectories, they are passed to dir_delete(), so file_delete() can\ntherefore be used to delete any filesystem object.\n","example_call":"dir_delete(path)"}

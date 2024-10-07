@@ -1,0 +1,1 @@
+{"description":"These functions take the output of parse_Rd(), an\nRd object, and produce a help page from it.  As they are mainly\nintended for internal use, their interfaces are subject to change.\n","example_call":"Rd2HTML(Rd, out = \"\", package = \"\", defines = .Platform$OS.type,"}

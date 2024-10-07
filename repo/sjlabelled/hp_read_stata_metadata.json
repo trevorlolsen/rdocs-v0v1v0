@@ -1,0 +1,1 @@
+{"description":"Import data from SPSS, SAS or Stata, including NA's, value and variable\nlabels.\n","example_call":"read_stata(path, convert.factors = TRUE, drop.labels = FALSE,"}

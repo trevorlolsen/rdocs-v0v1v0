@@ -1,0 +1,1 @@
+{"description":"These functions have been deprecated in favour of the more concise\nexpect_gt() and expect_lt().\n","example_call":"expect_less_than(...)"}

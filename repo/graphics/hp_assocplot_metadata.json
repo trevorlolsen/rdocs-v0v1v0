@@ -1,0 +1,1 @@
+{"description":"Produce a Cohen-Friendly association plot indicating deviations from\nindependence of rows and columns in a 2-dimensional contingency\ntable.\n","example_call":"assocplot(x, col = c(\"black\", \"red\"), space = 0.3, main = NULL,"}

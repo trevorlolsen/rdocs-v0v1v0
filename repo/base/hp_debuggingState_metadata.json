@@ -1,0 +1,1 @@
+{"description":"Set, unset or query the debugging flag on a function.\nThe text and condition arguments are the same as those\nthat can be supplied via a call to browser.  They can be retrieved\nby the user once the browser has been entered, and provide a mechanism to\nallow users to identify which breakpoint has been activated.\n","example_call":"debuggingState(on = NULL)"}

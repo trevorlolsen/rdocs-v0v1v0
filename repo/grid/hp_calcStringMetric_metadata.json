@@ -1,0 +1,1 @@
+{"description":"This function returns the ascent, descent, and width metric\ninformation for a character or expression vector.\n","example_call":"calcStringMetric(text)"}

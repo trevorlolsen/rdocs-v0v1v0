@@ -1,0 +1,1 @@
+{"description":"Given formally upper and lower triangular matrices\nU and L, compute (U' U)^{-1}\nand (L L')^{-1}, respectively.\n","example_call":"chol2inv(x, ...)"}

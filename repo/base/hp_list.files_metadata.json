@@ -1,0 +1,1 @@
+{"description":"These functions produce a character vector of the names of files or\ndirectories in the named directory.\n","example_call":"list.files(path = \".\", pattern = NULL, all.files = FALSE, full.names = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"group_by_if(.tbl, .predicate, .funs = list(), ..., .add = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"Conversion to and from and manipulation of objects of type \"raw\",\nboth used as bits or <U+201C>packed<U+201D> 8 bits.\n","example_call":"intToBits(x)"}

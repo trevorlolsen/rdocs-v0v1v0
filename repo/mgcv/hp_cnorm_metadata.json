@@ -1,0 +1,1 @@
+{"description":"Family for use with gam or bam, implementing regression for censored\nnormal data. If y is the response with mean \\mu and standard deviation w^{-1/2}\\exp(\\theta),\nthen w^{1/2}(y-\\mu)\\exp(-\\theta) follows an N(0,1) distribution. That is\n","example_call":"cnorm(theta = NULL, link = \"identity\")"}

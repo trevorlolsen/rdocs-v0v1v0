@@ -1,0 +1,1 @@
+{"description":"The condition number of a regular (square) matrix is the product of\nthe norm of the matrix and the norm of its inverse (or\npseudo-inverse), and hence depends on the kind of matrix-norm.\n","example_call":"kappa.default(z, exact = FALSE, norm = NULL, method = c(\"qr\", \"direct\"),"}

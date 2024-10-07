@@ -1,0 +1,1 @@
+{"description":"The hmac function calculates a message authentication code\n(MAC) involving the specified cryptographic hash function in\ncombination with a given secret key.\n","example_call":"hmac(key, object, algo = c(\"md5\", \"sha1\", \"crc32\", \"sha256\","}

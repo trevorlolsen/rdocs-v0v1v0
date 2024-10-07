@@ -1,0 +1,1 @@
+{"description":"For advanced use only. If you are creating your own expectation, you should\ncall expect() instead. See vignette(\"custom-expectation\") for more\ndetails.\n","example_call":"is.expectation(x)"}

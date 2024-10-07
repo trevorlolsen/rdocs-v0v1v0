@@ -1,0 +1,1 @@
+{"description":"Run Sweave (or other custom weave function),\ntexi2pdf, and/or Stangle \n(or other custom tangle function) on one vignette.\n","example_call":"buildVignette(file, dir = \".\", weave = TRUE, latex = TRUE, tangle = TRUE,"}

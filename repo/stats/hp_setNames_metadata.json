@@ -1,0 +1,1 @@
+{"description":"This is a convenience function that sets the names on an object and\nreturns the object.  It is most useful at the end of a function\ndefinition where one is creating the object to be returned and would\nprefer not to store it under a name just so the names can be assigned.\n","example_call":"setNames(object = nm, nm)"}

@@ -1,0 +1,1 @@
+{"description":"These functions are automatically called when no vec_ptype2() or\nvec_cast() method is implemented for a pair of types.\n","example_call":"vec_default_ptype2(x, y, ..., x_arg = \"\", y_arg = \"\", call = caller_env())"}

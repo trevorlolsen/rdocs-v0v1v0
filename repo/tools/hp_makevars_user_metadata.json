@@ -1,0 +1,1 @@
+{"description":"Determine the location of the user and site specific <U+2018>Makevars<U+2019>\nfiles for customizing package compilation.\n","example_call":"makevars_user()"}

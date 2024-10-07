@@ -1,0 +1,1 @@
+{"description":"Does code return a number greater/less than the expected value?\n","example_call":"expect_gt(object, expected, label = NULL, expected.label = NULL)"}

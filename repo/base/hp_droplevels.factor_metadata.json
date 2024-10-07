@@ -1,0 +1,1 @@
+{"description":"The function droplevels is used to drop unused levels from a\nfactor or, more commonly, from factors in a data frame.\n","example_call":"droplevels.factor(x, exclude = if (anyNA(levels(x))) NULL else NA, ...)"}

@@ -1,0 +1,1 @@
+{"description":"INTERNAL function for setting up a list representing a block diagonal penalty matrix\nfrom the object produced by gam.setup.\n","example_call":"Sl.setup(G, cholesky = FALSE, no.repara = FALSE, sparse = FALSE)"}

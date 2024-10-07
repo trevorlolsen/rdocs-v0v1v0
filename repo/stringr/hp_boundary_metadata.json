@@ -1,0 +1,1 @@
+{"description":"Modifier functions control the meaning of the pattern argument to\nstringr functions:\n","example_call":"boundary(type = c(\"character\", \"line_break\", \"sentence\", \"word\"),"}

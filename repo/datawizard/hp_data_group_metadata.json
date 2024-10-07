@@ -1,0 +1,1 @@
+{"description":"This function is comparable to dplyr::group_by(), but just\nfollowing the datawizard function design. data_ungroup() removes the\ngrouping information from a grouped data frame.\n","example_call":"data_group(data, select = NULL, exclude = NULL, ignore_case = FALSE,"}

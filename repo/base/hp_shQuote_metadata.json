@@ -1,0 +1,1 @@
+{"description":"Quote a string to be passed to an operating system shell.\n","example_call":"shQuote(string, type = c(\"sh\", \"csh\", \"cmd\", \"cmd2\"))"}

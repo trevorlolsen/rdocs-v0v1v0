@@ -1,0 +1,1 @@
+{"description":"Returns the squared Mahalanobis distance of all rows in x and the\nvector \\mu = center with respect to\n\\Sigma = cov.\nThis is (for vector x) defined as\n","example_call":"mahalanobis(x, center, cov, inverted = FALSE, ...)"}

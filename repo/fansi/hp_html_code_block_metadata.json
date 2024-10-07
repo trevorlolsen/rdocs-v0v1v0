@@ -1,0 +1,1 @@
+{"description":"This simulates what rmarkdown / knitr do to the output of an R markdown\nchunk, at least as of rmarkdown 1.10.  It is useful when we override the\nknitr output hooks so that we can have a result that still looks as if it\nwas run by knitr.\n","example_call":"html_code_block(x, class = \"fansi-output\")"}

@@ -1,0 +1,1 @@
+{"description":"interrupt() simulates a user interrupt of the kind that is\nsignalled with Ctrl-C. It is currently not possible to create\ncustom interrupt condition objects.\n","example_call":"interrupt()"}

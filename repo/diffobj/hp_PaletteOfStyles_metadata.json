@@ -1,0 +1,1 @@
+{"description":"Provides a mechanism for specifying a style based on the style properties\nalong dimensions of format, brightness, and color.  This allows a user to\nrequest a style that meets a certain description (e.g. a <U+201C>light<U+201D>\nscheme in <U+201C>ansi256<U+201D> format), without having to provide a specific\nStyle object.\n","example_call":"PaletteOfStyles(...)"}

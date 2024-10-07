@@ -1,0 +1,1 @@
+{"description":"This function converts (replaces) factor levels with the\nrelated factor level index number, thus the factor is converted to\na numeric variable.\n","example_call":"as_numeric(x, ...)"}

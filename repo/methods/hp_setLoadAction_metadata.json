@@ -1,0 +1,1 @@
+{"description":"These functions provide a mechanism for packages to specify\ncomputations to be done during the loading of a package namespace.\nSuch actions are a flexible way to provide information only available at\nload time (such as locations in a dynamically linked library).\n","example_call":"setLoadAction(action, aname = \"\", where = topenv(parent.frame()))"}

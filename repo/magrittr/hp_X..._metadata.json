@@ -1,0 +1,1 @@
+{"description":"Expose the names in lhs to the rhs expression. This is useful when functions\ndo not have a built-in data argument.\n","example_call":"%$%(lhs, rhs)"}

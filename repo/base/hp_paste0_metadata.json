@@ -1,0 +1,1 @@
+{"description":"Concatenate vectors after converting to character.\nConcatenation happens in two basically different ways, determined by\ncollapse being a string or not.\n","example_call":"paste0(..., collapse = NULL, recycle0 = FALSE)"}

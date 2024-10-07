@@ -1,0 +1,1 @@
+{"description":"This function retrieves variable labels from model terms. In case\nof categorical variables, where one variable has multiple dummies,\nvariable name and category value is returned.\n","example_call":"response_labels(models, case = NULL, multi.resp = FALSE, mv = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"tzdb_initialize() is intended to be called from a client package's\n.onLoad() as tzdb::tzdb_initialize() to ensure that the tzdb package\nhas been loaded.\n","example_call":"tzdb_initialize()"}

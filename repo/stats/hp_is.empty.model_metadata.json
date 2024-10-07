@@ -1,0 +1,1 @@
+{"description":"R's formula notation allows models with no intercept and no\npredictors. These require special handling internally.\nis.empty.model() checks whether an object describes an empty\nmodel.\n","example_call":"is.empty.model(x)"}

@@ -1,0 +1,1 @@
+{"description":"<U+2060>*_prepare()<U+2060> performs standard manipulation that is needed prior\nto actual data processing. They are only be needed by packages\nthat implement dplyr backends.\n","example_call":"group_by_prepare(.data, ..., .add = FALSE, .dots = deprecated(), add = deprecated(),"}

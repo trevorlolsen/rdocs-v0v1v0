@@ -1,0 +1,1 @@
+{"description":"Guess the type of a vector\n","example_call":"guess_type(x, na = c(\"\", \"NA\"), locale = default_locale(), guess_integer = FALSE)"}

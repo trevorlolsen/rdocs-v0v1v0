@@ -1,0 +1,1 @@
+{"description":"This plugs into file.show, showing files in separate windows.\n","example_call":"tkpager(file, header, title, delete.file)"}

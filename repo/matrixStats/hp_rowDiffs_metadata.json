@@ -1,0 +1,1 @@
+{"description":"Calculates difference for each row (column) in a matrix.\n","example_call":"rowDiffs(x, rows = NULL, cols = NULL, lag = 1L, differences = 1L,"}

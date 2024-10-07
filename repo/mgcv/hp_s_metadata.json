@@ -1,0 +1,1 @@
+{"description":" Function used in definition of smooth terms within\ngam model formulae. The function does not evaluate a (spline)\nsmooth - it exists purely to help set up a model using spline based smooths.\n","example_call":"s(..., k = -1, fx = FALSE, bs = \"tp\", m = NA, by = NA,"}

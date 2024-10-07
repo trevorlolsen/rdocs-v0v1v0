@@ -1,0 +1,1 @@
+{"description":"Applies the function to the distinct sets of rows of the data frame\ndefined by groups.\n","example_call":"gapply(object, which, FUN, form = formula(object), level,"}

@@ -1,0 +1,1 @@
+{"description":"Find rational approximations to the components of a real numeric\nobject using a standard continued fraction method.\n","example_call":"rational(x, cycles = 10, max.denominator = 2000, ...)"}

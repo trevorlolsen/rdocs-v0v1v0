@@ -1,0 +1,1 @@
+{"description":"Returns a list containing estimates of the weighted covariance matrix\nand the mean of the data, and optionally of the (weighted) correlation\nmatrix.","example_call":"cov.wt(x, wt = rep(1/nrow(x), nrow(x)), cor = FALSE, center = TRUE,"}

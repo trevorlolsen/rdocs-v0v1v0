@@ -1,0 +1,1 @@
+{"description":"Add custom cli style to a vector\n","example_call":"cli_vec(x, style = list())"}

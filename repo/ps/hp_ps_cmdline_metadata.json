@@ -1,0 +1,1 @@
+{"description":"Command line of the process, i.e. the executable and the command line\narguments, in a character vector. On Unix the program might change its\ncommand line, and some programs actually do it.\n","example_call":"ps_cmdline(p = ps_handle())"}

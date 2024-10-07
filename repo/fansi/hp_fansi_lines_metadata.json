@@ -1,0 +1,1 @@
+{"description":"Color each element in input with one of the \"256 color\" ANSI CSI SGR codes.\nThis is intended for testing and demo purposes.\n","example_call":"fansi_lines(txt, step = 1)"}

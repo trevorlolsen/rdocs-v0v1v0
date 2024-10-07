@@ -1,0 +1,1 @@
+{"description":"Compute the theoretical autocorrelation function or partial\nautocorrelation function for an ARMA process.\n","example_call":"ARMAacf(ar = numeric(), ma = numeric(), lag.max = r, pacf = FALSE)"}

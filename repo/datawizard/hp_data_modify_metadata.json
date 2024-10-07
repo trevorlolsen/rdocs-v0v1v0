@@ -1,0 +1,1 @@
+{"description":"Create new variables or modify existing variables in a data frame. Unlike base::transform(), data_modify()\ncan be used on grouped data frames, and newly created variables can be directly\nused.\n","example_call":"data_modify(data, ...)"}

@@ -1,0 +1,1 @@
+{"description":"This function gets information on installed vignettes.\n","example_call":"getVignetteInfo(package = NULL, lib.loc = NULL, all = TRUE)"}

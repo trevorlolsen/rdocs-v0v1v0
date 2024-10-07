@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"distinct_if(.tbl, .predicate, .funs = list(), ..., .keep_all = FALSE)"}

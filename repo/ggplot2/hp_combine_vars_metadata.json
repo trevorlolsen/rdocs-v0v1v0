@@ -1,0 +1,1 @@
+{"description":"Take input data and define a mapping between faceting variables and ROW,\nCOL and PANEL keys\n","example_call":"combine_vars(data, env = emptyenv(), vars = NULL, drop = TRUE)"}

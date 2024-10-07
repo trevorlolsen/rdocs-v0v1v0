@@ -1,0 +1,1 @@
+{"description":"Unlike base::rle(), adjacent missing values are considered identical when\nconstructing runs. For example, vec_identify_runs(c(NA, NA)) will return\nc(1, 1), not c(1, 2).\n","example_call":"vec_identify_runs(x)"}

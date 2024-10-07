@@ -1,0 +1,1 @@
+{"description":"The defaults for all of the arguments of X11 are set by\nX11.options: the <U+2018>Arguments<U+2019> section gives the\n<U+2018>factory-fresh<U+2019> defaults.\n","example_call":"x11(display = \"\", width, height, pointsize, gamma, bg,"}

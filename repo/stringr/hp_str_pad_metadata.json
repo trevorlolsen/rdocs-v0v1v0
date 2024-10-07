@@ -1,0 +1,1 @@
+{"description":"Pad a string to a fixed width, so that\nstr_length(str_pad(x, n)) is always greater than or equal to n.\n","example_call":"str_pad(string, width, side = c(\"left\", \"right\", \"both\"), pad = \" \","}

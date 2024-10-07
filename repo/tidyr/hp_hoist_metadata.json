@@ -1,0 +1,1 @@
+{"description":"hoist() allows you to selectively pull components of a list-column\ninto their own top-level columns, using the same syntax as purrr::pluck().\n","example_call":"hoist(.data, .col, ..., .remove = TRUE, .simplify = TRUE,"}

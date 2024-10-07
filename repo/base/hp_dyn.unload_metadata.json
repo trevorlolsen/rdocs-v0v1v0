@@ -1,0 +1,1 @@
+{"description":"Load or unload DLLs (also known as shared objects), and test whether a\nC function or Fortran subroutine is available.\n","example_call":"dyn.unload(x)"}

@@ -1,0 +1,1 @@
+{"description":"Increases the chroma of the Munsell colour by step steps (multiples of 2).\n","example_call":"saturate(col, steps = 1)"}

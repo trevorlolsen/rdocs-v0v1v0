@@ -1,0 +1,1 @@
+{"description":"Determine the number of levels in a viewport stack or tree,\nin a viewport path, or in a grob path.\n","example_call":"depth(x, ...)"}

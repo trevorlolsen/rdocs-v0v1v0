@@ -1,0 +1,1 @@
+{"description":" This is an internal function of package mgcv. It is a service routine for\ngam which splits off the strictly parametric part of the model formula, returning \nit as a formula, and interprets the smooth parts of the model formula. \n","example_call":"interpret.gam(gf, extra.special = NULL)"}

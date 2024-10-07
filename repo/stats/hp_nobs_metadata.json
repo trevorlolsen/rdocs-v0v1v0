@@ -1,0 +1,1 @@
+{"description":"Extract the number of <U+2018>observations<U+2019> from a model fit.  This is\nprincipally intended to be used in computing BIC (see AIC).\n","example_call":"nobs(object, ...)"}

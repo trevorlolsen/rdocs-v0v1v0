@@ -1,0 +1,1 @@
+{"description":"Un-escapes all known escape sequences.\n","example_call":"stri_unescape_unicode(str)"}

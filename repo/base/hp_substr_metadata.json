@@ -1,0 +1,1 @@
+{"description":"Extract or replace substrings in a character vector.\n","example_call":"substr(x, start, stop)"}

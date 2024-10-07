@@ -1,0 +1,1 @@
+{"description":"typeof determines the (R internal)\ntype or storage mode of any object\n","example_call":"typeof(x)"}

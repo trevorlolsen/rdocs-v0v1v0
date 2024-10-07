@@ -1,0 +1,1 @@
+{"description":"Creates or coerces objects of type \"numeric\".\nis.numeric is a more general test of an object being\ninterpretable as numbers.\n","example_call":"as.numeric(x, ...)"}

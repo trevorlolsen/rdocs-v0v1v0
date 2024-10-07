@@ -1,0 +1,1 @@
+{"description":"The keygen functions generate a random private key. Use as.list(key)$pubkey\nto derive the corresponding public key. Use write_pem to save a private key\nto a file, optionally with a password.\n","example_call":"ed25519_keygen()"}

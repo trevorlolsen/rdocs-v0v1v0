@@ -1,0 +1,1 @@
+{"description":"Computes the weighted sample mean of a numeric vector.\n","example_call":"weightedMean(x, w = NULL, idxs = NULL, na.rm = FALSE, refine = FALSE,"}

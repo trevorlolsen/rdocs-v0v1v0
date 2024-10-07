@@ -1,0 +1,1 @@
+{"description":"These functions convert a given date/time object\nto a character vector, or vice versa.\n","example_call":"stri_datetime_parse(str, format = \"uuuu-MM-dd HH:mm:ss\", lenient = FALSE,"}

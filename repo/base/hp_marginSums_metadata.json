@@ -1,0 +1,1 @@
+{"description":"For a contingency table in array form, compute the sum of table\nentries for a given margin or set of margins.\n","example_call":"marginSums(x, margin = NULL)"}

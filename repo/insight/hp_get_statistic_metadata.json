@@ -1,0 +1,1 @@
+{"description":"Returns the statistic (t, z, ...) for model\nestimates. In most cases, this is the related column from\ncoef(summary()).\n","example_call":"get_statistic(x, ...)"}

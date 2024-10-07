@@ -1,0 +1,1 @@
+{"description":"The safe and reliable way to test two objects for being\nexactly equal.  It returns TRUE in this case,\nFALSE in every other case.\n","example_call":"identical(x, y, num.eq = TRUE, single.NA = TRUE, attrib.as.set = TRUE,"}

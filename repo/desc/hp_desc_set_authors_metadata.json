@@ -1,0 +1,1 @@
+{"description":"Set authors in Authors@R, in DESCRIPTION\n","example_call":"desc_set_authors(authors, file = \".\", normalize = FALSE)"}

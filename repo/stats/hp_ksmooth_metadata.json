@@ -1,0 +1,1 @@
+{"description":"The Nadaraya<U+2013>Watson kernel regression estimate.\n","example_call":"ksmooth(x, y, kernel = c(\"box\", \"normal\"), bandwidth = 0.5,"}

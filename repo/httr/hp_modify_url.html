@@ -1,0 +1,48 @@
+<div class="container"><main><table style="width: 100%;"><tr>
+<td>modify_url</td>
+<td style="text-align: right;">R Documentation</td>
+</tr></table>
+<h2>Modify a url.</h2>
+
+<h3>Description</h3>
+
+<p>Modify a url by first parsing it and then replacing components with
+the non-NULL arguments of this function.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre><code class="language-R">modify_url(
+  url,
+  scheme = NULL,
+  hostname = NULL,
+  port = NULL,
+  path = NULL,
+  query = NULL,
+  params = NULL,
+  fragment = NULL,
+  username = NULL,
+  password = NULL
+)
+</code></pre>
+
+
+<h3>Arguments</h3>
+
+<table>
+<tr>
+<td><code id="url">url</code></td>
+<td>
+<p>the url to modify</p>
+</td>
+</tr>
+<tr>
+<td>
+<code id="scheme">scheme</code>, <code id="hostname">hostname</code>, <code id="port">port</code>, <code id="path">path</code>, <code id="query">query</code>, <code id="params">params</code>, <code id="fragment">fragment</code>, <code id="username">username</code>, <code id="password">password</code>
+</td>
+<td>
+<p>components of the url to change</p>
+</td>
+</tr>
+</table></main></div>

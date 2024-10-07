@@ -1,0 +1,1 @@
+{"description":"Writes an ASCII text representation of an R object to a file, the R\nconsole, or a connection, or uses one to recreate the object.\n","example_call":"dput(x, file = \"\", control = c(\"keepNA\", \"keepInteger\","}

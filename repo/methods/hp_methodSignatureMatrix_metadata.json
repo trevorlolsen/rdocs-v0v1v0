@@ -1,0 +1,1 @@
+{"description":"These are internal utilities, currently in the methods\npackage, that either provide some functionality needed by the package\n(e.g., element matching by name), or add compatibility with S-Plus, or both.\n","example_call":"methodSignatureMatrix(object, sigSlots = c(\"target\", \"defined\"))"}

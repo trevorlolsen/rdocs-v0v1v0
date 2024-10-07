@@ -1,0 +1,1 @@
+{"description":"Returns a list of available time zone identifiers.\n","example_call":"stri_timezone_list(region = NA_character_, offset = NA_integer_)"}

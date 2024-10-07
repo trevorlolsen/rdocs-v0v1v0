@@ -1,0 +1,1 @@
+{"description":"Helper function that can transform spatial position data (pairs of x, y\nvalues) among coordinate systems. This is implemented as a thin wrapper\naround sf::sf_project().\n","example_call":"sf_transform_xy(data, target_crs, source_crs, authority_compliant = FALSE)"}

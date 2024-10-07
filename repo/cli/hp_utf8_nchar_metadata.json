@@ -1,0 +1,1 @@
+{"description":"By default it counts Unicode grapheme clusters, instead of code points.\n","example_call":"utf8_nchar(x, type = c(\"chars\", \"bytes\", \"width\", \"graphemes\","}

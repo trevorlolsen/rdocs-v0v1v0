@@ -1,0 +1,1 @@
+{"description":"Check if the current platform/terminal supports reading\nsingle keys.\n","example_call":"has_keypress_support()"}

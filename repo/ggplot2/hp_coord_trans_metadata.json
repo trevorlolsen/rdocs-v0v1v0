@@ -1,0 +1,1 @@
+{"description":"coord_trans() is different to scale transformations in that it occurs after\nstatistical transformation and will affect the visual appearance of geoms - there is\nno guarantee that straight lines will continue to be straight.\n","example_call":"coord_trans(x = \"identity\", y = \"identity\", xlim = NULL, ylim = NULL,"}

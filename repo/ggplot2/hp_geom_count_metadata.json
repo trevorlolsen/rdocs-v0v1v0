@@ -1,0 +1,1 @@
+{"description":"This is a variant geom_point() that counts the number of\nobservations at each location, then maps the count to point area. It\nuseful when you have discrete data and overplotting.\n","example_call":"geom_count(mapping = NULL, data = NULL, stat = \"sum\", position = \"identity\","}

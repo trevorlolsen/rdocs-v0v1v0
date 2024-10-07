@@ -1,0 +1,1 @@
+{"description":"We use a new environment which inherits from globalenv() or a package\nnamespace. In an ideal world, we'd avoid putting the global environment on\nthe search path for tests, but it's not currently possible without losing\nthe ability to load packages in tests.\n","example_call":"test_env(package = NULL)"}

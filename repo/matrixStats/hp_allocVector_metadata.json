@@ -1,0 +1,1 @@
+{"description":"Allocates an empty vector, matrix or array faster than the corresponding\nfunction in R.\n","example_call":"allocVector(length, value = 0, ...)"}

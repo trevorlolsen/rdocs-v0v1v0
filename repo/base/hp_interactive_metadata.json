@@ -1,0 +1,1 @@
+{"description":"Return TRUE when R is being used interactively and\nFALSE otherwise.\n","example_call":"interactive()"}

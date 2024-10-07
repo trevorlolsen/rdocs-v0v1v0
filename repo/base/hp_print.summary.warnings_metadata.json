@@ -1,0 +1,1 @@
+{"description":"warnings and its print method print the\nvariable last.warning in a pleasing form.\n","example_call":"print.summary.warnings(x, ...)"}

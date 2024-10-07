@@ -1,0 +1,1 @@
+{"description":"data_codebook() generates codebooks from data frames, i.e. overviews\nof all variables and some more information about each variable (like\nlabels, values or value range, frequencies, amount of missing values).\n","example_call":"data_codebook(data, select = NULL, exclude = NULL, variable_label_width = NULL,"}

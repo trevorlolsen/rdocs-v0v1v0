@@ -1,0 +1,1 @@
+{"description":"Creates or tests for arrays.\n","example_call":"array(data = NA, dim = length(data), dimnames = NULL)"}

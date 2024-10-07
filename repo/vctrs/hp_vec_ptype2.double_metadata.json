@@ -1,0 +1,1 @@
+{"description":"vec_ptype2() defines the coercion hierarchy for a set of related\nvector types. Along with vec_cast(), this generic forms the\nfoundation of type coercions in vctrs.\n","example_call":"vec_ptype2.double(x, y, ..., x_arg = \"\", y_arg = \"\")"}

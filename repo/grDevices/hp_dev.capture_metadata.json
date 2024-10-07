@@ -1,0 +1,1 @@
+{"description":"dev.capture captures the current contents of a graphics device\nas a raster (bitmap) image.\n","example_call":"dev.capture(native = FALSE)"}

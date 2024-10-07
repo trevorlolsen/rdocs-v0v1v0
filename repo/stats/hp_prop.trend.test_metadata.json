@@ -1,0 +1,1 @@
+{"description":"Performs chi-squared test for trend in proportions, i.e., a test\nasymptotically optimal for local alternatives where the log odds vary\nin proportion with score.  By default, score is chosen\nas the group numbers.\n","example_call":"prop.trend.test(x, n, score = seq_along(x))"}

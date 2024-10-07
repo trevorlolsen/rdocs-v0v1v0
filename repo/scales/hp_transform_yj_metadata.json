@@ -1,0 +1,1 @@
+{"description":"The Yeo-Johnson transformation is a flexible transformation that is similar\nto Box-Cox, transform_boxcox(), but does not require input values to be\ngreater than zero.\n","example_call":"transform_yj(p)"}

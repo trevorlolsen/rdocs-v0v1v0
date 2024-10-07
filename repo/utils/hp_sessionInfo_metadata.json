@@ -1,0 +1,1 @@
+{"description":"Get and report version information about R, the OS and attached or\nloaded packages.\n","example_call":"sessionInfo(package = NULL)"}

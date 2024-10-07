@@ -1,0 +1,1 @@
+{"description":"vec_rank() computes the sample ranks of a vector. For data frames, ranks\nare computed along the rows, using all columns after the first to break\nties.\n","example_call":"vec_rank(x, ..., ties = c(\"min\", \"max\", \"sequential\", \"dense\"),"}

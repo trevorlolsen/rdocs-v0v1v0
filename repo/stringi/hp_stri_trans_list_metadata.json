@@ -1,0 +1,1 @@
+{"description":"Returns a list of available text transform identifiers.\nEach of them may be used in stri_trans_general\ntasks.\n","example_call":"stri_trans_list()"}

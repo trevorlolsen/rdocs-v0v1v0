@@ -1,0 +1,1 @@
+{"description":"Register S3 methods in R scripts.\n","example_call":".S3method(generic, class, method)"}

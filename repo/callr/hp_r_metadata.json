@@ -1,0 +1,1 @@
+{"description":"From callr version 2.0.0, r() is equivalent to r_safe(), and\ntries to set up a less error prone execution environment. In particular:\n","example_call":"r(func, args = list(), libpath = .libPaths(), repos = default_repos(),"}

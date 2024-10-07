@@ -1,0 +1,1 @@
+{"description":"match returns a vector of the positions of (first) matches of\nits first argument in its second.\n","example_call":"%in%(x, table)"}

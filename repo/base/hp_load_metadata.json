@@ -1,0 +1,1 @@
+{"description":"Reload datasets written with the function save.\n","example_call":"load(file, envir = parent.frame(), verbose = FALSE)"}

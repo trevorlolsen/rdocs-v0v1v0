@@ -1,0 +1,1 @@
+{"description":"These are used by test_dir() and friends\n","example_call":"source_dir(path, pattern = \"\\\\.[rR]$\", env = test_env(), chdir = TRUE,"}

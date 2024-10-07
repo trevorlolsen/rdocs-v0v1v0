@@ -1,0 +1,1 @@
+{"description":"\nThese functions are deprecated, please use is_call() and its n\nargument instead.\n","example_call":"is_lang(x, name = NULL, n = NULL, ns = NULL)"}

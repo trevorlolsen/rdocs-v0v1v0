@@ -1,0 +1,1 @@
+{"description":"Returns a matrix of integers indicating the number of their slice in a\ngiven array.\n","example_call":"slice.index(x, MARGIN)"}

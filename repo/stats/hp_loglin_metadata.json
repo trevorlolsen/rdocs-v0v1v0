@@ -1,0 +1,1 @@
+{"description":"loglin is used to fit log-linear models to multidimensional\ncontingency tables by Iterative Proportional Fitting.\n","example_call":"loglin(table, margin, start = rep(1, length(table)), fit = FALSE,"}

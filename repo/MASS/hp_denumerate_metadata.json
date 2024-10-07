@@ -1,0 +1,1 @@
+{"description":"loglm allows dimension numbers to be used in place of names in\nthe formula.  denumerate modifies such a formula into one that\nterms can process.\n","example_call":"denumerate(x)"}

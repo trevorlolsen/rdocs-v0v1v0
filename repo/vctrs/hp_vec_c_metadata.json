@@ -1,0 +1,1 @@
+{"description":"Combine all arguments into a new vector of common type.\n","example_call":"vec_c(..., .ptype = NULL, .name_spec = NULL, .name_repair = c(\"minimal\","}

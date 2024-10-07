@@ -1,0 +1,1 @@
+{"description":"It uses the cli.width option, if set. Otherwise it tries to\ndetermine the size of the terminal or console window.\n","example_call":"console_width()"}

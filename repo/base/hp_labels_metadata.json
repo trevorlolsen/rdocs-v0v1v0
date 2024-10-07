@@ -1,0 +1,1 @@
+{"description":"Find a suitable set of labels from an object for use in printing or\nplotting, for example.  A generic function.\n","example_call":"labels(object, ...)"}

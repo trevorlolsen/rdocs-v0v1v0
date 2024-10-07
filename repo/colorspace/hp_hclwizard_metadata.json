@@ -1,0 +1,1 @@
+{"description":"A graphical user interface (GUI) for viewing, manipulating, and choosing HCL\ncolor palettes.\n","example_call":"hclwizard(n = 7L, gui = \"shiny\", ...)"}

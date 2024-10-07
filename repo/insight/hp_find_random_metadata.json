@@ -1,0 +1,1 @@
+{"description":"Return the name of the grouping factors from mixed effects models.\n","example_call":"find_random(x, split_nested = FALSE, flatten = FALSE)"}

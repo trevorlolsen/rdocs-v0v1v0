@@ -1,0 +1,1 @@
+{"description":"vec_equal() tests if two vectors are equal.\n","example_call":"vec_equal(x, y, na_equal = FALSE, .ptype = NULL)"}

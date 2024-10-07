@@ -1,0 +1,1 @@
+{"description":"A helper function that creates a div with class code and then calls\ncli_verbatim() to output code lines. The builtin theme formats these\ncontainers specially. In particular, it adds syntax highlighting to\nvalid R code.\n","example_call":"cli_code(lines = NULL, ..., language = \"R\", .auto_close = TRUE,"}

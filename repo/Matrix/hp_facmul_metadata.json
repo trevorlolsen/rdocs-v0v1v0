@@ -1,0 +1,1 @@
+{"description":"Multiplies a matrix or vector on the left or right by a factor\nfrom a matrix factorization or its transpose.\n","example_call":"facmul(x, factor, y, trans = FALSE, left = TRUE, ...)"}

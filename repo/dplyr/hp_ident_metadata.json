@@ -1,0 +1,1 @@
+{"description":"ident() takes unquoted strings and flags them as identifiers.\nident_q() assumes its input has already been quoted, and ensures\nit does not get quoted again. This is currently used only for\nschema.table.\n","example_call":"ident(...)"}

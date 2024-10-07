@@ -1,0 +1,1 @@
+{"description":"Set worksheet gridlines to show or hide.\n","example_call":"showGridLines(wb, sheet, showGridLines = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Generate regular sequences.  seq is a standard generic with a\ndefault method.  seq.int is a primitive which can be\nmuch faster but has a few restrictions.  seq_along and\nseq_len are very fast primitives for two common cases.\n","example_call":"seq(...)"}

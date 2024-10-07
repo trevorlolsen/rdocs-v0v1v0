@@ -1,0 +1,1 @@
+{"description":"Internal class for formatting the data for a column.\npillar_shaft() is a coercion method that must be implemented\nfor your data type to display it in a tibble.\n","example_call":"pillar_shaft(x, ...)"}

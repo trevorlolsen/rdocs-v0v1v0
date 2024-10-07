@@ -1,0 +1,1 @@
+{"description":"Generates index arrays for upper triangular storage up to order four. Useful when\nworking with higher order derivatives, which generate symmetric arrays. \nMainly intended for internal use.\n","example_call":"trind.generator(K = 2, ifunc = FALSE, reverse = !ifunc)"}

@@ -1,0 +1,1 @@
+{"description":"Small helper that checks if a model is a generalized additive\nmodel.\n","example_call":"is_gam_model(x)"}

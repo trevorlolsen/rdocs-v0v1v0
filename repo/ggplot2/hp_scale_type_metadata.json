@@ -1,0 +1,1 @@
+{"description":"You will need to define a method for this method if you want to extend\nggplot2 to handle new types of data. If you simply want to pass the vector\nthrough as an additional aesthetic, return \"identity\".\n","example_call":"scale_type(x)"}

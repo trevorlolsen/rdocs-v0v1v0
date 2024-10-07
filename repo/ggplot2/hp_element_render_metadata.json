@@ -1,0 +1,1 @@
+{"description":"Given a theme object and element name, returns a grob for the element.\nUses element_grob() to generate the grob.\n","example_call":"element_render(theme, element, ..., name = NULL)"}

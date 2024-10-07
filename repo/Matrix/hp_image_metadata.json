@@ -1,0 +1,1 @@
+{"description":"Methods for function image in package\nMatrix.  An image of a matrix simply color codes all matrix\nentries and draws the n\\times m matrix using an\nn\\times m grid of (colored) rectangles.\n","example_call":"image(x, ...)"}

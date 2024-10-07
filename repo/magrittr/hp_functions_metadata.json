@@ -1,0 +1,1 @@
+{"description":"This can be used to extract the list of functions inside a functional\nsequence created with a chain like . %>% foo %>% bar.\n","example_call":"functions(fseq)"}

@@ -1,0 +1,1 @@
+{"description":"Performs an exact test of a simple null hypothesis about the\nprobability of success in a Bernoulli experiment.\n","example_call":"binom.test(x, n, p = 0.5, alternative = c(\"two.sided\", \"less\","}

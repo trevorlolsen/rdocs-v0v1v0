@@ -1,0 +1,1 @@
+{"description":"Get the process ID of the R Session.  It is guaranteed by the\noperating system that two R sessions running simultaneously will\nhave different IDs, but it is possible that R sessions running at\ndifferent times will have the same ID.\n","example_call":"Sys.getpid()"}

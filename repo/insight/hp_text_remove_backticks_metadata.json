@@ -1,0 +1,1 @@
+{"description":"This function removes backticks from a string.\n","example_call":"text_remove_backticks(x, ...)"}

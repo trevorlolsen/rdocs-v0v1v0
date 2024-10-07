@@ -1,0 +1,1 @@
+{"description":"expect_vector() is a thin wrapper around vctrs::vec_assert(), converting\nthe results of that function in to the expectations used by testthat. This\nmeans that it used the vctrs of ptype (prototype) and size. See\ndetails in https://vctrs.r-lib.org/articles/type-size.html\n","example_call":"expect_vector(object, ptype = NULL, size = NULL)"}

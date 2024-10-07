@@ -1,0 +1,1 @@
+{"description":"A root is defined as a directory that contains a regular file\nwhose name matches a given pattern and which optionally contains a given text.\nThe search for a root starts at a given directory (the working directory\nby default), and proceeds up the directory hierarchy.\n","example_call":"find_root(criterion, path = \".\")"}

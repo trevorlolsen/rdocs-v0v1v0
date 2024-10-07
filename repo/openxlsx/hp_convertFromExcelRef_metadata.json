@@ -1,0 +1,1 @@
+{"description":"Convert excel column name to integer index e.g. \"J\" to 10\n","example_call":"convertFromExcelRef(col)"}

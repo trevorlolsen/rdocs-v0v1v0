@@ -1,0 +1,1 @@
+{"description":"This function supports interruption with SIGINT on Unix, or CTRL+C\nor CTRL+BREAK on Windows.\n","example_call":"ps_wait(p, timeout = -1)"}

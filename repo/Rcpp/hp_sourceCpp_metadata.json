@@ -1,0 +1,1 @@
+{"description":"sourceCpp parses the specified C++ file or source code and looks for functions marked with the Rcpp::export attribute\nand RCPP_MODULE declarations. A shared library is then built and its exported functions and Rcpp modules are made available in the specified environment.\n","example_call":"sourceCpp(file = \"\", code = NULL, env = globalenv(), embeddedR = TRUE,"}

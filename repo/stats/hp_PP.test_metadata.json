@@ -1,0 +1,1 @@
+{"description":"Computes the Phillips-Perron test for the null hypothesis that\nx has a unit root against a stationary alternative.\n","example_call":"PP.test(x, lshort = TRUE)"}

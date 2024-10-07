@@ -1,0 +1,1 @@
+{"description":"Query authors by role in Authors@R, in DESCRIPTION\n","example_call":"desc_get_author(role = \"cre\", file = \".\")"}

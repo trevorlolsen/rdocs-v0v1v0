@@ -1,0 +1,1 @@
+{"description":"Takes a smooth specification object and adds extra basis specific information to it before smooth constructor called. Default method returns supplied object unmodified.\n","example_call":"smooth.info(object)"}

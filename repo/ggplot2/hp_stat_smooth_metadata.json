@@ -1,0 +1,1 @@
+{"description":"Aids the eye in seeing patterns in the presence of overplotting.\ngeom_smooth() and stat_smooth() are effectively aliases: they\nboth use the same arguments. Use stat_smooth() if you want to\ndisplay the results with a non-standard geom.\n","example_call":"stat_smooth(mapping = NULL, data = NULL, geom = \"smooth\", position = \"identity\","}

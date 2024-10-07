@@ -1,0 +1,1 @@
+{"description":"Consistent wrapper around saveRDS() and readRDS().\nwrite_rds() does not compress by default as space is generally cheaper\nthan time.\n","example_call":"write_rds(x, file, compress = c(\"none\", \"gz\", \"bz2\", \"xz\"), version = 2,"}

@@ -1,0 +1,1 @@
+{"description":"Loads specified data sets, or list the available data sets.\n","example_call":"data(..., list = character(), package = NULL, lib.loc = NULL,"}

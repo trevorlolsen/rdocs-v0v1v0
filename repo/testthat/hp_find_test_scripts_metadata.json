@@ -1,0 +1,1 @@
+{"description":"Find test files\n","example_call":"find_test_scripts(path, filter = NULL, invert = FALSE, ..., full.names = TRUE,"}

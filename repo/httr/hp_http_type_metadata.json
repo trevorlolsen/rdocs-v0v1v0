@@ -1,0 +1,1 @@
+{"description":"Extract the content type of a response\n","example_call":"http_type(x)"}

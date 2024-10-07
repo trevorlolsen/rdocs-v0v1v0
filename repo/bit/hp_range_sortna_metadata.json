@@ -1,0 +1,1 @@
+{"description":"In one pass over the vector NAs are treated according to parameter\nna.last exactly like sort does, the range,\nnumber of NAs and unsortedness is determined.\n","example_call":"range_sortna(x, decreasing = FALSE, na.last = NA)"}

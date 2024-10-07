@@ -1,0 +1,1 @@
+{"description":"Evaluates the difference between two N(0,1) cumulative distribution functions avoiding cancellation error.  \n","example_call":"dpnorm(x0, x1)"}

@@ -1,0 +1,1 @@
+{"description":"enframe() converts named atomic vectors or lists to one- or two-column\ndata frames.\nFor a list, the result will be a nested tibble with a column of type list.\nFor unnamed vectors, the natural sequence is used as name column.\n","example_call":"deframe(x)"}

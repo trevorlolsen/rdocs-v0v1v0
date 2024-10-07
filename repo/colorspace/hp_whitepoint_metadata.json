@@ -1,0 +1,1 @@
+{"description":"This function can be used to control the single global whitepoint\nthat affects all color conversions within the package (that require\na whitepoint, i.e., go through XYZ).\n","example_call":"whitepoint(white, ...)"}

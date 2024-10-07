@@ -1,0 +1,1 @@
+{"description":"Embeds the time series x into a low-dimensional\nEuclidean space.\n","example_call":"embed(x, dimension = 1)"}

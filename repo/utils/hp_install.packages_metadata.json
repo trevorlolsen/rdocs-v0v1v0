@@ -1,0 +1,1 @@
+{"description":"Download and install packages from CRAN-like repositories or from\nlocal files.\n","example_call":"install.packages(pkgs, lib, repos = getOption(\"repos\"), contriburl = contrib.url(repos,"}

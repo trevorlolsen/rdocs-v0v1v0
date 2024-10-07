@@ -1,0 +1,1 @@
+{"description":"Put up a Tk progress bar widget.\n","example_call":"setTkProgressBar(pb, value, title = NULL, label = NULL)"}

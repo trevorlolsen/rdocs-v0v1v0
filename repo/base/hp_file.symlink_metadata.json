@@ -1,0 +1,1 @@
+{"description":"These functions provide a low-level interface to the computer's\nfile system.\n","example_call":"file.symlink(from, to)"}

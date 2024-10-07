@@ -1,0 +1,1 @@
+{"description":"Combines two or more vectors, possibly of different lengths, producing\na data frame with a second column indicating which of these vectors\nthat row came from.  This is mostly useful for getting data into a\nform suitable for use in high level Lattice functions.\n","example_call":"make.groups(...)"}

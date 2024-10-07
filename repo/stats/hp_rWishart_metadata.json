@@ -1,0 +1,1 @@
+{"description":"Generate n random matrices, distributed according to the\nWishart distribution with parameters Sigma and df,\nW_p(\\Sigma, m),\\ m=\\code{df},\\ \\Sigma=\\code{Sigma}.\n","example_call":"rWishart(n, df, Sigma)"}

@@ -1,0 +1,1 @@
+{"description":"checkMD5sums checks the files against a file <U+2018>MD5<U+2019>.\n","example_call":"checkMD5sums(package, dir)"}

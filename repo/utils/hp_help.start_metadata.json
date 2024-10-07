@@ -1,0 +1,1 @@
+{"description":"Start the hypertext (currently HTML) version of R's online\ndocumentation.\n","example_call":"help.start(update = FALSE, gui = \"irrelevant\", browser = getOption(\"browser\"),"}

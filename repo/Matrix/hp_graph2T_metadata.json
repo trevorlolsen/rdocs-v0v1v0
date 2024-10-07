@@ -1,0 +1,1 @@
+{"description":"Since 2005, package Matrix has supported coercions to and\nfrom class graph from package\ngraph.\nSince 2013, this functionality has been exposed via functions\nT2graph and graph2T, which, unlike methods for\nas(from, \"<Class>\"), support optional arguments.\n","example_call":"graph2T(from, use.weights = graph.has.weights(from) && graph.non.1.weights(from))"}

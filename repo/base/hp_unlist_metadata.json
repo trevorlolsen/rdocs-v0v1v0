@@ -1,0 +1,1 @@
+{"description":"Given a list structure x, unlist simplifies it to\nproduce a vector which contains all the atomic components\nwhich occur in x.\n","example_call":"unlist(x, recursive = TRUE, use.names = TRUE)"}

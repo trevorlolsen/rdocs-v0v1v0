@@ -1,0 +1,1 @@
+{"description":"A modification of the system function glm() to include\nestimation of the additional parameter, theta, for a\nNegative Binomial generalized linear model.\n","example_call":"glm.nb(formula, data, weights, subset, na.action, start = NULL,"}

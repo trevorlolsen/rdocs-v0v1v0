@@ -1,0 +1,1 @@
+{"description":"This function creates colors of class <U+201C>polarLUV<U+201D>; a subclass of the\nvirtual color-class class.\n","example_call":"polarLUV(L, C, H, names)"}

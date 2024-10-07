@@ -1,0 +1,1 @@
+{"description":"A verbose connection provides much more information about the flow of\ninformation between the client and server.\n","example_call":"verbose(data_out = TRUE, data_in = FALSE, info = FALSE, ssl = FALSE)"}

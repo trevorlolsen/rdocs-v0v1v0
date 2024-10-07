@@ -1,0 +1,1 @@
+{"description":"Return a character vector containing all the names which occur in an\nexpression or call.\n","example_call":"all.vars(expr, functions = FALSE, max.names = -1L, unique = TRUE)"}

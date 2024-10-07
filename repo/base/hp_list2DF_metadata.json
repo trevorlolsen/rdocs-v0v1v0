@@ -1,0 +1,1 @@
+{"description":"Create a data frame from a list of variables.\n","example_call":"list2DF(x = list(), nrow = 0L)"}

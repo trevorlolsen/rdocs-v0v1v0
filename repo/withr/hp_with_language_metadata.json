@@ -1,0 +1,1 @@
+{"description":"Temporarily change the language used for translations.\n","example_call":"with_language(lang, code)"}

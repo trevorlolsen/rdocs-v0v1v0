@@ -1,0 +1,1 @@
+{"description":"split.screen defines a number of regions within the current\ndevice which can, to some extent, be treated as separate graphics\ndevices.  It is useful for generating multiple plots on a single\ndevice.  Screens can themselves be split, allowing for quite complex\narrangements of plots.\n","example_call":"erase.screen(n = cur.screen)"}

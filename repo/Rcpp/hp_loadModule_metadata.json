@@ -1,0 +1,1 @@
+{"description":"One or more calls to loadModule will be included in the source\ncode for a package to load modules and optionally expose objects from\nthem.  The actual extraction of the module takes place at load time.\n","example_call":"loadModule(module, what = character(), loadNow, env = topenv(parent.frame()))"}

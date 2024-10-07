@@ -1,0 +1,1 @@
+{"description":"Ungroup a selection of columns\n","example_call":"ungroupColumns(wb, sheet, cols)"}

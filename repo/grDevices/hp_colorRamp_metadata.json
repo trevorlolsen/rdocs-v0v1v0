@@ -1,0 +1,1 @@
+{"description":"These functions return functions that interpolate a set of given\ncolors to create new color palettes (like topo.colors) and\ncolor ramps, functions that map the interval [0, 1] to colors\n(like grey).\n","example_call":"colorRamp(colors, bias = 1, space = c(\"rgb\", \"Lab\"), interpolate = c(\"linear\","}

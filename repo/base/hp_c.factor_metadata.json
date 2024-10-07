@@ -1,0 +1,1 @@
+{"description":"The function factor is used to encode a vector as a factor (the\nterms <U+2018>category<U+2019> and <U+2018>enumerated type<U+2019> are also used for\nfactors).  If argument ordered is TRUE, the factor\nlevels are assumed to be ordered.  For compatibility with S there is\nalso a function ordered.\n","example_call":"c.factor(..., recursive = TRUE)"}

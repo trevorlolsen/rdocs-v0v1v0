@@ -1,0 +1,1 @@
+{"description":"stri_locale_set changes the default locale for all the functions\nin the stringi package,\ni.e., establishes the meaning of the <U+201C>NULL locale<U+201D> argument\nof locale-sensitive functions.\nstri_locale_get\ngives the current default locale.\n","example_call":"stri_locale_get()"}

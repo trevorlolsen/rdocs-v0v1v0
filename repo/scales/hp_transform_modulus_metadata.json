@@ -1,0 +1,1 @@
+{"description":"The Box-Cox transformation is a flexible transformation, often used to\ntransform data towards normality. The modulus transformation generalises\nBox-Cox to also work with negative values.\n","example_call":"transform_modulus(p, offset = 1)"}

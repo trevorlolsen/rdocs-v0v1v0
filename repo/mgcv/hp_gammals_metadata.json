@@ -1,0 +1,1 @@
+{"description":"The gammals family implements gamma location scale additive models in which \nthe log of the mean and the log of the scale parameter (see details) can depend on additive smooth predictors. Useable only with gam, the linear predictors are specified via a list of formulae.\n","example_call":"gammals(link = list(\"identity\", \"log\"), b = -7)"}

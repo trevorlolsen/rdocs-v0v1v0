@@ -1,0 +1,1 @@
+{"description":"Decompose a time series into seasonal, trend and irregular components\nusing loess, acronym STL.\n","example_call":"stl(x, s.window, s.degree = 0, t.window = NULL, t.degree = 1,"}

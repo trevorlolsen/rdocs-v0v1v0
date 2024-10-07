@@ -1,0 +1,1 @@
+{"description":"Projection of 3-dimensional to 2-dimensional points using a 4x4\nviewing transformation matrix.  Mainly for adding to\nperspective plots such as persp.\n","example_call":"trans3d(x, y, z, pmat, continuous = FALSE, verbose = TRUE)"}

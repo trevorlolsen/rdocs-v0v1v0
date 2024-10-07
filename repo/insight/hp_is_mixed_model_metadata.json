@@ -1,0 +1,1 @@
+{"description":"Small helper that checks if a model is a mixed effects model,\ni.e. if it the model has random effects.\n","example_call":"is_mixed_model(x)"}

@@ -1,0 +1,1 @@
+{"description":"vroom_lines() is similar to readLines(), however it reads the lines\nlazily like vroom(), so operations like length(), head(), tail() and sample()\ncan be done much more efficiently without reading all the data into R.\n","example_call":"vroom_lines(file, n_max = Inf, skip = 0, na = character(), skip_empty_rows = FALSE,"}

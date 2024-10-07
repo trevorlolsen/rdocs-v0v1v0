@@ -1,0 +1,1 @@
+{"description":"Create a function that can be used to add ANSI styles to text.\n","example_call":"make_ansi_style(..., bg = FALSE, grey = FALSE, colors = num_ansi_colors())"}

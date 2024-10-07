@@ -1,0 +1,1 @@
+{"description":"vec_in() returns a logical vector based on whether needle is found in\nhaystack. vec_match() returns an integer vector giving location of\nneedle in haystack, or NA if it's not found.\n","example_call":"vec_in(needles, haystack, ..., na_equal = TRUE, needles_arg = \"\","}

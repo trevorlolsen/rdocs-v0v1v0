@@ -1,0 +1,1 @@
+{"description":"Returns suitably lagged and iterated differences.\n","example_call":"diff(x, ...)"}

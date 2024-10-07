@@ -1,0 +1,1 @@
+{"description":"slowly() takes a function and modifies it to wait a given\namount of time between each call.\n","example_call":"slowly(f, rate = rate_delay(), quiet = TRUE)"}

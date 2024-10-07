@@ -1,0 +1,1 @@
+{"description":"Extract information on the NA action used to create an object.\n","example_call":"na.action(object, ...)"}

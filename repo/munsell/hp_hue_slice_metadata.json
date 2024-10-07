@@ -1,0 +1,1 @@
+{"description":"Plots slices of the Munsell colour system where hue is constant.\n","example_call":"hue_slice(hue.name = \"all\", back.col = \"white\")"}

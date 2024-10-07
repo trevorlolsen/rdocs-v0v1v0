@@ -1,0 +1,1 @@
+{"description":"Computes the inverse function of the lagged differences function\ndiff.\n","example_call":"diffinv(x, ...)"}

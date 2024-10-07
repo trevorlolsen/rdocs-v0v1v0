@@ -1,0 +1,1 @@
+{"description":"Tools for working with column names\n","example_call":"row_to_colnames(x, row = 1, na_prefix = \"x\", verbose = TRUE)"}

@@ -1,0 +1,1 @@
+{"description":"These accessors retrieve properties of frames on the call stack.\nThe prefix indicates for which frame a property should be accessed:\n","example_call":"current_fn()"}

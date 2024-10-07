@@ -1,0 +1,1 @@
+{"description":"All functions search recursively up the directory tree from the input path\nuntil they find a DESCRIPTION file.\n","example_call":"pkg_version(path = \".\")"}

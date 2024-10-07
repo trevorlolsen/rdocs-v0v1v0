@@ -1,0 +1,1 @@
+{"description":"A wrapper for an external zip command to create zip archives.\n","example_call":"zip(zipfile, files, flags = \"-r9X\", extras = \"\", zip = Sys.getenv(\"R_ZIPCMD\","}

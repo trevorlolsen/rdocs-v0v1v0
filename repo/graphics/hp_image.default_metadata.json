@@ -1,0 +1,1 @@
+{"description":"Creates a grid of colored or gray-scale rectangles with colors\ncorresponding to the values in z.  This can be used to display\nthree-dimensional or spatial data aka images.\nThis is a generic function.\n","example_call":"image.default(x = seq(0, 1, length.out = nrow(z)), y = seq(0, 1,"}

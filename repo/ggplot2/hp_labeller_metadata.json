@@ -1,0 +1,1 @@
+{"description":"This function makes it easy to assign different labellers to\ndifferent factors. The labeller can be a function or it can be a\nnamed character vectors that will serve as a lookup table.\n","example_call":"labeller(..., .rows = NULL, .cols = NULL, keep.as.numeric = deprecated(),"}

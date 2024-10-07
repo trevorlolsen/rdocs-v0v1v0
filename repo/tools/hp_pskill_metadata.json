@@ -1,0 +1,1 @@
+{"description":"pskill sends a signal to a process, usually to terminate it.\n","example_call":"pskill(pid, signal = SIGTERM)"}

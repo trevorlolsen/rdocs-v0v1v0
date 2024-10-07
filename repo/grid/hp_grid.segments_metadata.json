@@ -1,0 +1,1 @@
+{"description":"These functions create and draw line segments.\n","example_call":"grid.segments(x0 = unit(0, \"npc\"), y0 = unit(0, \"npc\"), x1 = unit(1,"}

@@ -1,0 +1,1 @@
+{"description":"These advanced operators defuse R expressions.\nexpr(), enquo(), and enquos() are sufficient for most\npurposes but rlang provides these other operations, either for\ncompleteness or because they are useful to experts.\n","example_call":"enquo0(arg)"}

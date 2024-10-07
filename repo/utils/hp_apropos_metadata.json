@@ -1,0 +1,1 @@
+{"description":"apropos() returns a character vector giving the names of\nobjects in the search list matching (as a regular expression)\nwhat.\n","example_call":"apropos(what, where = FALSE, ignore.case = TRUE, dot_internals = FALSE,"}

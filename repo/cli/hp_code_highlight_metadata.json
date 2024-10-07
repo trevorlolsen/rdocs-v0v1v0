@@ -1,0 +1,1 @@
+{"description":"Syntax highlight R code\n","example_call":"code_highlight(code, code_theme = NULL, envir = NULL)"}

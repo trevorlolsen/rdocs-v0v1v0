@@ -1,0 +1,1 @@
+{"description":"tune_args() takes an object such as a model specification or a recipe and\nreturns a tibble of information on all possible tunable arguments and\nwhether or not they are actually tunable.\n","example_call":"tune_args(object, ...)"}

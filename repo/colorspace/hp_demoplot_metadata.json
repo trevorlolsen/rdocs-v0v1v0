@@ -1,0 +1,1 @@
+{"description":"Demonstration of color palettes in various kinds of statistical graphics.\n","example_call":"demoplot(x, type = c(\"map\", \"heatmap\", \"scatter\", \"spine\", \"bar\","}

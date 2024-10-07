@@ -1,0 +1,1 @@
+{"description":"Temporarily prepend a new temporary directory to the library paths.\n","example_call":"local_temp_libpaths(action = \"prefix\", .local_envir = parent.frame())"}

@@ -1,0 +1,1 @@
+{"description":"Draw star plots or segment diagrams of a multivariate data set.\nWith one single location, also draws <U+2018>spider<U+2019>\n(or <U+2018>radar<U+2019>) plots.\n","example_call":"stars(x, full = TRUE, scale = TRUE, radius = TRUE, labels = dimnames(x)[[1L]],"}

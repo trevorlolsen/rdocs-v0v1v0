@@ -1,0 +1,1 @@
+{"description":"Deletes <U+201C>non-structural<U+201D> zeros (i.e., zeros stored explicitly,\nin memory) from a sparse matrix and returns the result.\n","example_call":"drop0(x, tol = 0, is.Csparse = NA, give.Csparse = TRUE)"}

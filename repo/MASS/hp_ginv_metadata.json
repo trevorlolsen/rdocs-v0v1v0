@@ -1,0 +1,1 @@
+{"description":"Calculates the Moore-Penrose generalized inverse of a matrix\nX.\n","example_call":"ginv(X, tol = sqrt(.Machine$double.eps))"}

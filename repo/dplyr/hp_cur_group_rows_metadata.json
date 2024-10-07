@@ -1,0 +1,1 @@
+{"description":"These functions return information about the \"current\" group or \"current\"\nvariable, so only work inside specific contexts like summarise() and\nmutate().\n","example_call":"cur_group_rows()"}

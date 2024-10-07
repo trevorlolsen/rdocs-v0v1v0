@@ -1,0 +1,1 @@
+{"description":"mcaffinity retrieves or sets the CPU affinity mask of the\ncurrent process, i.e., the set of CPUs the process is allowed to be\nrun on. (CPU here means logical CPU which can be CPU, core or\nhyperthread unit.)\n","example_call":"mcaffinity(affinity = NULL)"}

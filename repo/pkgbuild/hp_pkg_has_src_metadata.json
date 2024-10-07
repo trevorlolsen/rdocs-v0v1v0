@@ -1,0 +1,1 @@
+{"description":"If it does, you definitely need build tools.\n","example_call":"pkg_has_src(path = \".\")"}

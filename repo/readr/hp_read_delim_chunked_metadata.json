@@ -1,0 +1,1 @@
+{"description":"Read a delimited file by chunks\n","example_call":"read_delim_chunked(file, callback, delim = NULL, chunk_size = 10000, quote = \"\\\"\","}

@@ -1,0 +1,1 @@
+{"description":"Get or set the <U+2018>mode<U+2019> (a kind of <U+2018>type<U+2019>), or the storage\nmode of an R object.\n","example_call":"mode(x)"}

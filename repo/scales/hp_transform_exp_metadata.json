@@ -1,0 +1,1 @@
+{"description":"Exponential transformation (inverse of log transformation)\n","example_call":"transform_exp(base = exp(1))"}

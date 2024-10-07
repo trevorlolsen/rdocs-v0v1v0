@@ -1,0 +1,1 @@
+{"description":"These selection helpers match variables according\nto a given pattern.\n","example_call":"num_range(prefix, range, suffix = \"\", width = NULL, vars = NULL)"}

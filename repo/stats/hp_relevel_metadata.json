@@ -1,0 +1,1 @@
+{"description":"The levels of a factor are re-ordered so that the level specified by\nref is first and the others are moved down. This is useful\nfor contr.treatment contrasts which take the first level as\nthe reference.\n","example_call":"relevel(x, ref, ...)"}

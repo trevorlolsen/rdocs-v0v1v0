@@ -1,0 +1,1 @@
+{"description":"This function helps packages making inline plugins. \n","example_call":"Rcpp.plugin.maker(include.before = \"\", include.after = \"\", LinkingTo = unique(c(package,"}

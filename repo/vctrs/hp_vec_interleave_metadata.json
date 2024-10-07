@@ -1,0 +1,1 @@
+{"description":"vec_interleave() combines multiple vectors together, much like vec_c(),\nbut does so in such a way that the elements of each vector are interleaved\ntogether.\n","example_call":"vec_interleave(..., .ptype = NULL, .name_spec = NULL, .name_repair = c(\"minimal\","}

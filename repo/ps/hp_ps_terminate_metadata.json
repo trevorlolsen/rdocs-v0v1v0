@@ -1,0 +1,1 @@
+{"description":"Send a SIGTERM signal to the process. Not implemented on Windows.\n","example_call":"ps_terminate(p = ps_handle())"}

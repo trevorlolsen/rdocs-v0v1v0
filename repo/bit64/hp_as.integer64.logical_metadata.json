@@ -1,0 +1,1 @@
+{"description":"Methods to coerce from other atomic types to integer64. \n","example_call":"as.integer64.logical(x, ...)"}

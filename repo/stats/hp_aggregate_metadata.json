@@ -1,0 +1,1 @@
+{"description":"Splits the data into subsets, computes summary statistics for each,\nand returns the result in a convenient form.\n","example_call":"aggregate(x, ...)"}

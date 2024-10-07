@@ -1,0 +1,1 @@
+{"description":"Returns the names of the predictor variables for the\ndifferent parts of a model (like fixed or random effects, zero-inflated\ncomponent, ...). Unlike find_parameters(), the names from\nfind_predictors() match the original variable names from the data\nthat was used to fit the model.\n","example_call":"find_predictors(x, ...)"}

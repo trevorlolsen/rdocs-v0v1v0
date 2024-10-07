@@ -1,0 +1,1 @@
+{"description":"bxp draws box plots based on the given summaries in z.\nIt is usually called from within boxplot, but can be\ninvoked directly.\n","example_call":"bxp(z, notch = FALSE, width = NULL, varwidth = FALSE, outline = TRUE,"}

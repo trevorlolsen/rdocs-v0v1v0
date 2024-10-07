@@ -1,0 +1,1 @@
+{"description":"Data frame and Tables Pretty Formatting\n","example_call":"export_table(x, sep = \" | \", header = \"-\", cross = NULL, empty_line = NULL,"}

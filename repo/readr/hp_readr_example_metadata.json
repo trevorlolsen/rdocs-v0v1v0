@@ -1,0 +1,1 @@
+{"description":"readr comes bundled with a number of sample files in its inst/extdata\ndirectory. This function make them easy to access\n","example_call":"readr_example(file = NULL)"}

@@ -1,0 +1,1 @@
+{"description":"This is the default panel function for histogram.\n","example_call":"panel.histogram(x, breaks, equal.widths = TRUE, type = \"density\", nint = round(log2(length(x)) +"}

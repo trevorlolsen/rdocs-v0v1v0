@@ -1,0 +1,1 @@
+{"description":"add.scope and drop.scope compute those terms that can be\nindividually added to or dropped from a model while respecting the\nhierarchy of terms.\n","example_call":"add.scope(terms1, terms2)"}

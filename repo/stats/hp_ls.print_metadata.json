@@ -1,0 +1,1 @@
+{"description":"Computes basic statistics, including standard errors, t- and p-values\nfor the regression coefficients and prints them if print.it is\nTRUE.\n","example_call":"ls.print(ls.out, digits = 4L, print.it = TRUE)"}

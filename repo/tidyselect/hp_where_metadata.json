@@ -1,0 +1,1 @@
+{"description":"This selection helper selects the variables for which a\nfunction returns TRUE.\n","example_call":"where(fn)"}

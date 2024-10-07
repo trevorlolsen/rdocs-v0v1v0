@@ -1,0 +1,1 @@
+{"description":"Cumulative Sums, Products, Extremes and lagged differences\n","example_call":"diff.integer64(x, lag = 1L, differences = 1L, ...)"}

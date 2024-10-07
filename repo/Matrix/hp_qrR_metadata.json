@@ -1,0 +1,1 @@
+{"description":"sparseQR is the class of sparse, row- and column-pivoted\nQR factorizations of m \\times n (m \\ge n)\nreal matrices, having the general form\n","example_call":"qrR(qr, complete = FALSE, backPermute = TRUE, row.names = TRUE)"}

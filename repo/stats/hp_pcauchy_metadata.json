@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the Cauchy distribution with location parameter\nlocation and scale parameter scale.\n","example_call":"pcauchy(q, location = 0, scale = 1, lower.tail = TRUE, log.p = FALSE)"}

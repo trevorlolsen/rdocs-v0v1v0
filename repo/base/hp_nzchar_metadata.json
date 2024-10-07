@@ -1,0 +1,1 @@
+{"description":"nchar takes a character vector as an argument and\nreturns a vector whose elements contain the sizes of\nthe corresponding elements of x. Internally, it is a generic,\nfor which methods can be defined (see InternalMethods).\n","example_call":"nzchar(x, keepNA = FALSE)"}

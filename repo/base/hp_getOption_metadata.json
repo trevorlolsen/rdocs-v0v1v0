@@ -1,0 +1,1 @@
+{"description":"Allow the user to set and examine a variety of global options\nwhich affect the way in which R computes and displays its results.\n","example_call":"getOption(x, default = NULL)"}

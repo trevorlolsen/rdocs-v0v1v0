@@ -1,0 +1,1 @@
+{"description":"The method for calculating the ellipses has been modified from\ncar::dataEllipse (Fox and Weisberg 2011, Friendly and Monette 2013)\n","example_call":"stat_ellipse(mapping = NULL, data = NULL, geom = \"path\", position = \"identity\","}

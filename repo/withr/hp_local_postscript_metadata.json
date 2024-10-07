@@ -1,0 +1,1 @@
+{"description":"Temporarily use a graphics device.\n","example_call":"local_postscript(new, ..., .local_envir = parent.frame())"}

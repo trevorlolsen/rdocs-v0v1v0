@@ -1,0 +1,1 @@
+{"description":"Build friendly R packages that\npraise their users if they have done something\ngood, or they just need it to feel better.\n","example_call":"praise(template = \"You are ${adjective}!\")"}

@@ -1,0 +1,1 @@
+{"description":"These are predefined panel functions available in lattice for use in\nconstructing new panel functions (often on-the-fly).\n","example_call":"panel.rug(x = NULL, y = NULL, regular = TRUE, start = if (regular) 0 else 0.97,"}

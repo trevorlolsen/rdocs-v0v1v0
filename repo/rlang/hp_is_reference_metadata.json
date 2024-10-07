@@ -1,0 +1,1 @@
+{"description":"There are typically two situations where two symbols may refer to\nthe same object.\n","example_call":"is_reference(x, y)"}

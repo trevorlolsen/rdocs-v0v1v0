@@ -1,0 +1,1 @@
+{"description":"Convert various representations of a cell reference into an object of class\ncell_addr. Recall that cell_addr objects hold\nabsolute row and column location, so ra_ref objects or cell\nreference strings with relative or mixed references will raise a warning and\ngenerate NAs.\n","example_call":"as.cell_addr_v(x, ...)"}

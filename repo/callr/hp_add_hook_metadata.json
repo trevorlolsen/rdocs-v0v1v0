@@ -1,0 +1,1 @@
+{"description":"This function allows users of callr to specify functions that get invoked\nwhenever an R session is launched. The function can modify the environment\nvariables and command line arguments.\n","example_call":"add_hook(...)"}

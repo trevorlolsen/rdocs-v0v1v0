@@ -1,0 +1,1 @@
+{"description":"Returns Tukey's five number summary (minimum, lower-hinge, median,\nupper-hinge, maximum) for the input data.\n","example_call":"fivenum(x, na.rm = TRUE)"}

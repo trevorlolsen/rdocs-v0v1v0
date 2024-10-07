@@ -1,0 +1,1 @@
+{"description":"qr computes the QR decomposition of a matrix.\n","example_call":"qr.qy(qr, y)"}

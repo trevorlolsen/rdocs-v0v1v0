@@ -1,0 +1,1 @@
+{"description":"These functions take a pair of unit objects and convert\nthem to a pair of device locations (or dimensions) in inches\n(or native device coordinates).\n","example_call":"deviceLoc(x, y, valueOnly = FALSE, device = FALSE)"}

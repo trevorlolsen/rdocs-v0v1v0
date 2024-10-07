@@ -1,0 +1,1 @@
+{"description":"This function can be used to download a file from the Internet.\n","example_call":"download.file(url, destfile, method, quiet = FALSE, mode = \"w\", cacheOK = TRUE,"}

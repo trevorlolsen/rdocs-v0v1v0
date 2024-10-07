@@ -1,0 +1,1 @@
+{"description":"check_exclusive() checks that only one argument is supplied out of\na set of mutually exclusive arguments. An informative error is\nthrown if multiple arguments are supplied.\n","example_call":"check_exclusive(..., .require = TRUE, .frame = caller_env(), .call = .frame)"}

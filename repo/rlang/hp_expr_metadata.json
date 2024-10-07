@@ -1,0 +1,1 @@
+{"description":"expr() defuses an R expression with\ninjection support.\n","example_call":"expr(expr)"}

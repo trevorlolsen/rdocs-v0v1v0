@@ -1,0 +1,1 @@
+{"description":"Utility for obtaining consistent x, y and z coordinates and labels\nfor three dimensional (3D) plots.\n","example_call":"xyz.coords(x, y = NULL, z = NULL, xlab = NULL, ylab = NULL, zlab = NULL,"}

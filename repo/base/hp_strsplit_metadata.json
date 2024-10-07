@@ -1,0 +1,1 @@
+{"description":"Split the elements of a character vector x into substrings\naccording to the matches to substring split within them.\n","example_call":"strsplit(x, split, fixed = FALSE, perl = FALSE, useBytes = FALSE)"}

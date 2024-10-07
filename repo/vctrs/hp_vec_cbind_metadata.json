@@ -1,0 +1,1 @@
+{"description":"This pair of functions binds together data frames (and vectors), either\nrow-wise or column-wise. Row-binding creates a data frame with common type\nacross all arguments. Column-binding creates a data frame with common length\nacross all arguments.\n","example_call":"vec_cbind(..., .ptype = NULL, .size = NULL, .name_repair = c(\"unique\","}

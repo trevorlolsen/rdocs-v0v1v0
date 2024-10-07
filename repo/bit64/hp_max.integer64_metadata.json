@@ -1,0 +1,1 @@
+{"description":"Summary functions for integer64 vectors. \nFunction 'range' without arguments returns the smallest and largest value of the 'integer64' class.\n","example_call":"max.integer64(..., na.rm = FALSE)"}

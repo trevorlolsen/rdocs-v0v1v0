@@ -1,0 +1,1 @@
+{"description":"These functions create and draw a series of lines.\n","example_call":"polylineGrob(x = unit(c(0, 1), \"npc\"), y = unit(c(0, 1), \"npc\"),"}

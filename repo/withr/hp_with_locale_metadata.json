@@ -1,0 +1,1 @@
+{"description":"Temporarily change locale settings.\n","example_call":"with_locale(new, code)"}

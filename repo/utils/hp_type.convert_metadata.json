@@ -1,0 +1,1 @@
+{"description":"Convert a data object to logical, integer, numeric, complex, character\nor factor as appropriate.\n","example_call":"type.convert(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Convenience function to paste together multiple columns into one.\n","example_call":"unite(data, col, ..., sep = \"_\", remove = TRUE, na.rm = FALSE)"}

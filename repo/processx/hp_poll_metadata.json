@@ -1,0 +1,1 @@
+{"description":"Wait until one of the specified connections or processes produce\nstandard output or error, terminates, or a timeout occurs.\n","example_call":"poll(processes, ms)"}

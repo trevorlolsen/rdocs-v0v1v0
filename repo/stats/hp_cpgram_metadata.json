@@ -1,0 +1,1 @@
+{"description":"Plots a cumulative periodogram.\n","example_call":"cpgram(ts, taper = 0.1, main = paste(\"Series: \", deparse1(substitute(ts))),"}

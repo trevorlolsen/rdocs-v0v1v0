@@ -1,0 +1,1 @@
+{"description":"Quick way to look at a set of hex colours.\n","example_call":"plot_hex(hex.colour, back.col = \"white\")"}

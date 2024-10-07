@@ -1,0 +1,1 @@
+{"description":"match.arg matches a character arg against a table of\ncandidate values as specified by choices.\n","example_call":"match.arg(arg, choices, several.ok = FALSE)"}

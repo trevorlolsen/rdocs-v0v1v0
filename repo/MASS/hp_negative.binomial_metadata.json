@@ -1,0 +1,1 @@
+{"description":"Specifies the information required to fit a Negative Binomial generalized\nlinear model, with known theta parameter, using glm().\n","example_call":"negative.binomial(theta = stop(\"'theta' must be specified\"), link = \"log\")"}

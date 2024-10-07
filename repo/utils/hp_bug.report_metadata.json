@@ -1,0 +1,1 @@
+{"description":"Invokes an editor or email program to write a bug report or opens a\nweb page for bug submission.  Some standard information on the current\nversion and configuration of R are included automatically.\n","example_call":"bug.report(subject = \"\", address, file = \"R.bug.report\", package = NULL,"}

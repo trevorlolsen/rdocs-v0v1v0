@@ -1,0 +1,1 @@
+{"description":"\nPlease use tibble::rownames_to_column() instead.\n","example_call":"add_rownames(df, var = \"rowname\")"}

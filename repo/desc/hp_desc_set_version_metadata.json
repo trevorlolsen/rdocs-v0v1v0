@@ -1,0 +1,1 @@
+{"description":"Both <U+2060>$set_version()<U+2060> and <U+2060>$bump_version()<U+2060> use dots to\nseparate the version number components.\n","example_call":"desc_set_version(version, file = \".\", normalize = FALSE)"}

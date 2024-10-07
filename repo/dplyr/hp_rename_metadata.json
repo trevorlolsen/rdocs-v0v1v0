@@ -1,0 +1,1 @@
+{"description":"rename() changes the names of individual variables using\nnew_name = old_name syntax; rename_with() renames columns using a\nfunction.\n","example_call":"rename(.data, ...)"}

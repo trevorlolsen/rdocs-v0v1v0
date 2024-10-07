@@ -1,0 +1,1 @@
+{"description":"This function blanks out code chunks and Noweb markup in an Sweave\ninput file, for spell checking or other uses.\n","example_call":"SweaveTeXFilter(ifile, encoding = \"unknown\")"}

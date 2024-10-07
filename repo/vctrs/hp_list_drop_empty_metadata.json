@@ -1,0 +1,1 @@
+{"description":"list_drop_empty() removes empty elements from a list. This includes NULL\nelements along with empty vectors, like integer(0). This is equivalent to,\nbut faster than, vec_slice(x, list_sizes(x) != 0L).\n","example_call":"list_drop_empty(x)"}

@@ -1,0 +1,1 @@
+{"description":"Differences to r():\n","example_call":"r_copycat(func, args = list(), libpath = .libPaths(), repos = getOption(\"repos\"),"}

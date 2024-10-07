@@ -1,0 +1,1 @@
+{"description":"Cite a bibentry object in text.  The cite() function\nuses the cite() function from the default\nbibstyle if present, or citeNatbib() if not.\nciteNatbib() uses a style similar to that used by the LaTeX\npackage natbib.\n","example_call":"cite(keys, bib, ...)"}

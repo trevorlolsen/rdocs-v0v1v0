@@ -1,0 +1,1 @@
+{"description":"Compute analysis of variance (or deviance) tables for one or more\nfitted model objects.\n","example_call":"anova(object, ...)"}

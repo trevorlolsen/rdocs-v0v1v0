@@ -1,0 +1,1 @@
+{"description":"Fits an additive model (two-way decomposition) using Tukey's\nmedian polish procedure.\n","example_call":"medpolish(x, eps = 0.01, maxiter = 10L, trace.iter = TRUE, na.rm = FALSE)"}

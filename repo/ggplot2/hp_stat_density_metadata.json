@@ -1,0 +1,1 @@
+{"description":"Computes and draws kernel density estimate, which is a smoothed version of\nthe histogram. This is a useful alternative to the histogram for continuous\ndata that comes from an underlying smooth distribution.\n","example_call":"stat_density(mapping = NULL, data = NULL, geom = \"area\", position = \"stack\","}

@@ -1,0 +1,1 @@
+{"description":"This function is a thin wrapper on the gregexpr\nbase R function, to provide an API that is easier to use. It is\nsimilar to re_match, but extracts all matches, including\npotentially named capture groups.\n","example_call":"re_match_all(pattern, text, ...)"}

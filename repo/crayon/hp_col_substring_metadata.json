@@ -1,0 +1,1 @@
+{"description":"This is the color-aware counterpart of base::substring().\nIt works exactly like the original, but keeps the colors in the\nsubstrings. The ANSI escape sequences are ignored when\ncalculating the positions within the string.\n","example_call":"col_substring(text, first, last = 1000000L)"}

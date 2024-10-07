@@ -1,0 +1,1 @@
+{"description":"These functions are used to convert between JSON data and R objects. The toJSON() and fromJSON()\nfunctions use a class based mapping, which follows conventions outlined in this paper:  https://arxiv.org/abs/1403.2805 (also available as vignette).\n","example_call":"fromJSON(txt, simplifyVector = TRUE, simplifyDataFrame = simplifyVector,"}

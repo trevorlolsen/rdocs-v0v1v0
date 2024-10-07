@@ -1,0 +1,1 @@
+{"description":"These functions create and draw a set of typeset glyphs.\n","example_call":"glyphGrob(glyphInfo, x = 0.5, y = 0.5, default.units = \"npc\","}

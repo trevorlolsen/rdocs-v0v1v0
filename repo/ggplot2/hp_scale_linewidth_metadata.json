@@ -1,0 +1,1 @@
+{"description":"scale_linewidth scales the width of lines and polygon strokes. Due to\nhistorical reasons, it is also possible to control this with the size\naesthetic, but using linewidth is encourage to clearly differentiate area\naesthetics from stroke width aesthetics.\n","example_call":"scale_linewidth(name = waiver(), breaks = waiver(), labels = waiver(),"}

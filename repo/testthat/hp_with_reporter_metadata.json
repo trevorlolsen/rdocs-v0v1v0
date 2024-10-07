@@ -1,0 +1,1 @@
+{"description":"get_reporter() and set_reporter() access and modify the current \"active\"\nreporter. Generally, these functions should not be called directly; instead\nuse with_reporter() to temporarily change, then reset, the active reporter.\n","example_call":"with_reporter(reporter, code, start_end_reporter = TRUE)"}

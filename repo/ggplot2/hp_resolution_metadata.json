@@ -1,0 +1,1 @@
+{"description":"The resolution is the smallest non-zero distance between adjacent\nvalues.  If there is only one unique value, then the resolution is defined\nto be one. If x is an integer vector, then it is assumed to represent a\ndiscrete variable, and the resolution is 1.\n","example_call":"resolution(x, zero = TRUE, discrete = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"A special smooth.construct method function for creating tensor product smooths from any\ncombination of single penalty marginal smooths.\n","example_call":"smooth.construct.tensor.smooth.spec(object, data, knots)"}

@@ -1,0 +1,1 @@
+{"description":"This function allows you to vectorise multiple switch() statements. Each\ncase is evaluated sequentially and the first match for each element\ndetermines the corresponding value in the output vector. If no cases match,\nthe .default is used.\n","example_call":"case_match(.x, ..., .default = NULL, .ptype = NULL)"}

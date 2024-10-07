@@ -1,0 +1,1 @@
+{"description":"This is the color-aware counterpart of base::strsplit().\nIt works almost exactly like the original, but keeps the colors in the\nsubstrings.\n","example_call":"ansi_strsplit(x, split, ...)"}

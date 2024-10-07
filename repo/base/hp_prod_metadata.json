@@ -1,0 +1,1 @@
+{"description":"prod returns the product of all the values\npresent in its arguments.\n","example_call":"prod(..., na.rm = FALSE)"}

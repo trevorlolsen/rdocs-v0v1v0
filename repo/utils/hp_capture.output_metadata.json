@@ -1,0 +1,1 @@
+{"description":"Evaluates its arguments with the output being returned as a character\nstring or sent to a file.  Related to sink similarly to how\nwith is related to attach.\n","example_call":"capture.output(..., file = NULL, append = FALSE, type = c(\"output\","}

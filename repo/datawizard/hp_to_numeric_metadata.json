@@ -1,0 +1,1 @@
+{"description":"Convert data to numeric by converting characters to factors and factors to\neither numeric levels or dummy variables. The \"counterpart\" to convert\nvariables into factors is to_factor().\n","example_call":"to_numeric(x, ...)"}

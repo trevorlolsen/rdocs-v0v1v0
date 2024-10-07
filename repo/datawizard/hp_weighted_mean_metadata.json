@@ -1,0 +1,1 @@
+{"description":"Weighted Mean, Median, SD, and MAD\n","example_call":"weighted_mean(x, weights = NULL, remove_na = TRUE, verbose = TRUE,"}

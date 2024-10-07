@@ -1,0 +1,1 @@
+{"description":"Build a deviation contrast matrix, a type of effects contrast matrix.\n","example_call":"contr.deviation(n, base = 1, contrasts = TRUE, sparse = FALSE)"}

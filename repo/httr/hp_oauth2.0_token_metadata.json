@@ -1,0 +1,1 @@
+{"description":"This is the final object in the OAuth dance - it encapsulates the app,\nthe endpoint, other parameters and the received credentials. It is a\nreference class so that it can be seamlessly updated (e.g. using\n<U+2060>$refresh()<U+2060>) when access expires.\n","example_call":"oauth2.0_token(endpoint, app, scope = NULL, user_params = NULL, type = NULL,"}

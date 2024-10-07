@@ -1,0 +1,1 @@
+{"description":"Group a selection of columns\n","example_call":"groupColumns(wb, sheet, cols, hidden = FALSE, level = -1)"}

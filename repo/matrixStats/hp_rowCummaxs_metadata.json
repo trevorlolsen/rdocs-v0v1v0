@@ -1,0 +1,1 @@
+{"description":"Cumulative sums, products, minima and maxima for each row (column) in a\nmatrix.\n","example_call":"rowCummaxs(x, rows = NULL, cols = NULL, dim. = dim(x), ..., useNames = TRUE)"}

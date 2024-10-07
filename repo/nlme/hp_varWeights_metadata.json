@@ -1,0 +1,1 @@
+{"description":"The inverse of the standard deviations corresponding to the variance\nfunction structure represented by object are returned.\n","example_call":"varWeights(object)"}

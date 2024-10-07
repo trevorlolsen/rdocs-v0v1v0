@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the negative binomial distribution with parameters\nsize and prob.\n","example_call":"rnbinom(n, size, prob, mu)"}

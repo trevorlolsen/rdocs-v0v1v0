@@ -1,0 +1,1 @@
+{"description":"When used inside a function body, nargs returns the number of\narguments supplied to that function, including positional\narguments left blank.\n","example_call":"nargs()"}

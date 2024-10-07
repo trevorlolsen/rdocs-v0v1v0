@@ -1,0 +1,1 @@
+{"description":"This function prepares objects for visualisation by returning a list of\nlayers with data and geoms that can be easily plotted using for instance\nggplot2.\n","example_call":"visualisation_recipe(x, ...)"}

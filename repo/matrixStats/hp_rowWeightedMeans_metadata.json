@@ -1,0 +1,1 @@
+{"description":"Calculates the weighted means for each row (column) in a matrix.\n","example_call":"rowWeightedMeans(x, w = NULL, rows = NULL, cols = NULL, na.rm = FALSE,"}

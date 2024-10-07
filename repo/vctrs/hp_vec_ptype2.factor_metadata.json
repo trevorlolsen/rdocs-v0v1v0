@@ -1,0 +1,1 @@
+{"description":"A factor is an integer with attribute levels, a character vector. There\nshould be one level for each integer between 1 and max(x).\nAn ordered factor has the same properties as a factor, but possesses\nan extra class that marks levels as having a total ordering.\n","example_call":"vec_ptype2.factor(x, y, ...)"}

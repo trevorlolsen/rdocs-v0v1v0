@@ -1,0 +1,1 @@
+{"description":"These are used by test_dir() and friends\n","example_call":"source_test_teardown(path = \"tests/testthat\", env = test_env())"}

@@ -1,0 +1,1 @@
+{"description":"grepRaw searches for substring pattern matches within a\nraw vector x.\n","example_call":"grepRaw(pattern, x, offset = 1L, ignore.case = FALSE, value = FALSE,"}

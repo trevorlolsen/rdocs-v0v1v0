@@ -1,0 +1,1 @@
+{"description":"All URLs matching the specified pattern are deleted.\n","example_call":"desc_del_urls(pattern, file = \".\", normalize = FALSE)"}

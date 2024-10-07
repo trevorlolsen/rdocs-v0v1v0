@@ -1,0 +1,1 @@
+{"description":"The job of a reporter is to aggregate the results from files, tests, and\nexpectations and display them in an informative way. Every testtthat function\nthat runs multiple tests provides a reporter argument which you can\nuse to override the default (which is selected by default_reporter()).\n","example_call":"NULL"}

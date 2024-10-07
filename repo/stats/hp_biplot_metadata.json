@@ -1,0 +1,1 @@
+{"description":"Plot a biplot on the current graphics device.\n","example_call":"biplot(x, ...)"}

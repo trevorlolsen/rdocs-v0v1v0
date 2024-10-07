@@ -1,0 +1,1 @@
+{"description":"stripchart produces one dimensional scatter plots (or dot\nplots) of the given data.  These plots are a good alternative to\nboxplots when sample sizes are small.\n","example_call":"stripchart(x, ...)"}

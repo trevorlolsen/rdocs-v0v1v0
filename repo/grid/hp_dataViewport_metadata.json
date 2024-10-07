@@ -1,0 +1,1 @@
+{"description":"This is a convenience function for producing a viewport with\nx- and/or y-scales based on numeric values passed to the function.\n","example_call":"dataViewport(xData = NULL, yData = NULL, xscale = NULL, yscale = NULL,"}

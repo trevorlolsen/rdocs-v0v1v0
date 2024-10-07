@@ -1,0 +1,1 @@
+{"description":"This function calculates the estimated variances, standard\ndeviations, and correlations between the random-effects terms in a\nlinear mixed-effects model, of class \"lme\", or a nonlinear\nmixed-effects model, of class \"nlme\".  The within-group error\nvariance and standard deviation are also calculated.\n","example_call":"VarCorr(x, sigma = 1, ...)"}

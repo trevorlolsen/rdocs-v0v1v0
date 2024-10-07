@@ -1,0 +1,1 @@
+{"description":"data_arrange() orders the rows of a data frame by the values of selected\ncolumns.\n","example_call":"data_arrange(data, select = NULL, safe = TRUE)"}

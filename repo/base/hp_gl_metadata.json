@@ -1,0 +1,1 @@
+{"description":"Generate factors by specifying the pattern of their levels.\n","example_call":"gl(n, k, length = n * k, labels = seq_len(n), ordered = FALSE)"}

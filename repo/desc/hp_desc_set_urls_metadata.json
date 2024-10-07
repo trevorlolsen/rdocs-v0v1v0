@@ -1,0 +1,1 @@
+{"description":"The specified urls replace the current ones. The URL field is created\nif it does not exist currently.\n","example_call":"desc_set_urls(urls, file = \".\", normalize = FALSE)"}

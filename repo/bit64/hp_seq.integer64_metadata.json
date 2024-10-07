@@ -1,0 +1,1 @@
+{"description":"Generating sequence of integer64 values\n","example_call":"seq.integer64(from = NULL, to = NULL, by = NULL, length.out = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"sum returns the sum of all the values\npresent in its arguments.\n","example_call":"sum(..., na.rm = FALSE)"}

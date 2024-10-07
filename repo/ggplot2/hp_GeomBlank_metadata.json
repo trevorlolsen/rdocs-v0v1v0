@@ -1,0 +1,1 @@
+{"description":"If you are creating a new geom, stat, position, or scale in another package,\nyou'll need to extend from ggplot2::Geom, ggplot2::Stat,\nggplot2::Position, or ggplot2::Scale.\n","example_call":"NULL"}

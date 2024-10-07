@@ -1,0 +1,1 @@
+{"description":"Display the object, by printing, plotting or whatever suits its\nclass.  This function exists to be specialized by methods.  The\ndefault method calls showDefault.\n","example_call":"show(object)"}

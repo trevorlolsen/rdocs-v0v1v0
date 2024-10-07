@@ -1,0 +1,1 @@
+{"description":"Temporarily change the current working directory.\n","example_call":"local_dir(new = list(), .local_envir = parent.frame())"}

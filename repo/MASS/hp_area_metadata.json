@@ -1,0 +1,1 @@
+{"description":"Integrate a function of one variable over a finite range using a\nrecursive adaptive method.  This function is mainly for\ndemonstration purposes.\n","example_call":"area(f, a, b, ..., fa = f(a, ...), fb = f(b, ...), limit = 10,"}

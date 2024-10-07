@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the F distribution with df1 and df2\ndegrees of freedom (and optional non-centrality parameter ncp).\n","example_call":"qf(p, df1, df2, ncp, lower.tail = TRUE, log.p = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Run all the R code from the Examples part of R's online help\ntopic topic, with possible exceptions due to <U+2060>\\dontrun<U+2060>,\n<U+2060>\\dontshow<U+2060>, and <U+2060>\\donttest<U+2060> tags, see <U+2018>Details<U+2019> below.\n","example_call":"example(topic, package = NULL, lib.loc = NULL, character.only = FALSE,"}

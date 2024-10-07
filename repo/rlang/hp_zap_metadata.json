@@ -1,0 +1,1 @@
+{"description":"zap() creates a sentinel object that indicates that an object\nshould be removed. For instance, named zaps instruct env_bind()\nand call_modify() to remove those objects from the environment or\nthe call.\n","example_call":"zap()"}

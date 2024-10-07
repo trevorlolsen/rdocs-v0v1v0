@@ -1,0 +1,1 @@
+{"description":"Remove leading and/or trailing whitespace from character strings.\n","example_call":"trimws(x, which = c(\"both\", \"left\", \"right\"), whitespace = \"[ \\t\\r\\n]\")"}

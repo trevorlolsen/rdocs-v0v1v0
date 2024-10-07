@@ -1,0 +1,1 @@
+{"description":"These functions extract data between text boundaries.\n","example_call":"stri_extract_first_words(str, locale = NULL)"}

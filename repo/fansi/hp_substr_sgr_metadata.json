@@ -1,0 +1,1 @@
+{"description":"These functions are deprecated in favor of the substr_ctl flavors.\n","example_call":"substr_sgr(x, start, stop, warn = getOption(\"fansi.warn\", TRUE),"}

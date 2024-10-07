@@ -1,0 +1,1 @@
+{"description":"This function evaluates an expression, returning it in a two element list\ncontaining its value and a flag showing whether it would automatically print.\n","example_call":"withVisible(x)"}

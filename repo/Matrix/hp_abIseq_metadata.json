@@ -1,0 +1,1 @@
+{"description":"Generation of abstract index vectors, i.e., objects of class\n\"abIndex\".\n","example_call":"abIseq(from = 1, to = 1, by = ((to - from)/(length.out - 1)),"}

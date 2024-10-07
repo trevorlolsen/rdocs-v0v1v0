@@ -1,0 +1,1 @@
+{"description":"All locations matching the specified pattern are deleted.\n","example_call":"desc_del_remotes(pattern, file = \".\", normalize = FALSE)"}

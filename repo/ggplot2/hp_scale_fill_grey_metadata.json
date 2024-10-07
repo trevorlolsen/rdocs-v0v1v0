@@ -1,0 +1,1 @@
+{"description":"Based on gray.colors(). This is black and white equivalent\nof scale_colour_gradient().\n","example_call":"scale_fill_grey(name = waiver(), ..., start = 0.2, end = 0.8, na.value = \"red\","}

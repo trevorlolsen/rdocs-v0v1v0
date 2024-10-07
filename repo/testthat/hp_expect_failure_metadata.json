@@ -1,0 +1,1 @@
+{"description":"Use these expectations to test other expectations.\nUse show_failure() in examples to print the failure message without\nthrowing an error.\n","example_call":"expect_failure(expr, message = NULL, ...)"}

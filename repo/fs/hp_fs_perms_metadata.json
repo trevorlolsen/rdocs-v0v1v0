@@ -1,0 +1,1 @@
+{"description":"fs_perms() objects help one create and modify file permissions easily.\nThey support both numeric input, octal and symbolic character\nrepresentations. Compared to octmode they support symbolic representations\nand display the mode the same format as ls on POSIX systems.\n","example_call":"fs_perms(x, ...)"}

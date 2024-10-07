@@ -1,0 +1,1 @@
+{"description":"cli() will record all <U+2060>cli_*<U+2060> calls in expr, and emit them together\nin a single message. This is useful if you want to built a larger\npiece of output from multiple <U+2060>cli_*<U+2060> calls.\n","example_call":"cli(expr)"}

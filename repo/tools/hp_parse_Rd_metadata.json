@@ -1,0 +1,1 @@
+{"description":"This function reads an R documentation (Rd) file and parses it, for\nprocessing by other functions.\n","example_call":"parse_Rd(file, srcfile = NULL, encoding = \"unknown\", verbose = FALSE,"}

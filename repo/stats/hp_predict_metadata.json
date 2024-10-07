@@ -1,0 +1,1 @@
+{"description":"predict is a generic function for predictions from the results of\nvarious model fitting functions.  The function invokes particular\nmethods which depend on the class of\nthe first argument.\n","example_call":"predict(object, ...)"}

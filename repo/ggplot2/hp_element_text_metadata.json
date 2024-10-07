@@ -1,0 +1,1 @@
+{"description":"In conjunction with the theme system, the element_ functions\nspecify the display of how non-data components of the plot are drawn.\n","example_call":"element_text(family = NULL, face = NULL, colour = NULL, size = NULL,"}

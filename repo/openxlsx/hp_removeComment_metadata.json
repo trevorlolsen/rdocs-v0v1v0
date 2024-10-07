@@ -1,0 +1,1 @@
+{"description":"Remove a cell comment from a worksheet\n","example_call":"removeComment(wb, sheet, cols, rows, gridExpand = TRUE)"}

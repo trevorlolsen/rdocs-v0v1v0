@@ -1,0 +1,1 @@
+{"description":"This function is similar to rcmd(), but it has slightly different\ndefaults:\n","example_call":"rcmd_copycat(cmd, cmdargs = character(), libpath = .libPaths(),"}

@@ -1,0 +1,1 @@
+{"description":"Note that the namespace registry does not behave like a normal\nenvironment because the parent is NULL instead of the empty\nenvironment. This is exported for expert usage in development tools\nonly.\n","example_call":"ns_registry_env()"}

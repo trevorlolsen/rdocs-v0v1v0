@@ -1,0 +1,1 @@
+{"description":"eapply applies FUN to the named values from an\nenvironment and returns the results as a list.  The user\ncan request that all named objects are used (normally names that begin\nwith a dot are not).  The output is not sorted and no enclosing\nenvironments are searched.\n","example_call":"eapply(env, FUN, ..., all.names = FALSE, USE.NAMES = TRUE)"}

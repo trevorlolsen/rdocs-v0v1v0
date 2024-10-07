@@ -1,0 +1,1 @@
+{"description":"pdf starts the graphics device driver for producing PDF\ngraphics.\n","example_call":"pdf(file = if (onefile) \"Rplots.pdf\" else \"Rplot%03d.pdf\","}

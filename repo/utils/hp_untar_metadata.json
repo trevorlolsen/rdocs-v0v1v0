@@ -1,0 +1,1 @@
+{"description":"Extract files from or list the contents of a tar archive.\n","example_call":"untar(tarfile, files = NULL, list = FALSE, exdir = \".\", compressed = NA,"}

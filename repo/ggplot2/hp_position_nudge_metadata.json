@@ -1,0 +1,1 @@
+{"description":"position_nudge() is generally useful for adjusting the position of\nitems on discrete scales by a small amount. Nudging is built in to\ngeom_text() because it's so useful for moving labels a small\ndistance from what they're labelling.\n","example_call":"position_nudge(x = 0, y = 0)"}

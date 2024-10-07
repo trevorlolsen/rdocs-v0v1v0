@@ -1,0 +1,1 @@
+{"description":"The functions or variables listed here are no longer part of R as\nthey are not needed (any more).\n","example_call":"pkgDepends(pkg, recursive = TRUE, local = TRUE, reduce = TRUE,"}

@@ -1,0 +1,1 @@
+{"description":"One form of non-metric multidimensional scaling.\n","example_call":"sammon(d, y = cmdscale(d, k), k = 2, niter = 100, trace = TRUE,"}

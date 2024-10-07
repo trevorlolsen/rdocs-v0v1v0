@@ -1,0 +1,1 @@
+{"description":"This is the internal function that does the basic plotting of\npoints and lines.  Usually, one should rather use the higher level\nfunctions instead and refer to their help pages for explanation of the\narguments.\n","example_call":"plot.xy(xy, type, pch = par(\"pch\"), lty = par(\"lty\"), col = par(\"col\"),"}

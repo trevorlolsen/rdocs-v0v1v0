@@ -1,0 +1,1 @@
+{"description":"gpar() should be used to create a set of graphical\nparameter settings.  It returns an object of class \"gpar\".  This is\nbasically a list of name-value pairs.\n","example_call":"gpar(...)"}

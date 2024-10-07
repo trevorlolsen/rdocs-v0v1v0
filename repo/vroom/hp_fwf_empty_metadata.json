@@ -1,0 +1,1 @@
+{"description":"Read a fixed width file into a tibble\n","example_call":"fwf_empty(file, skip = 0, col_names = NULL, comment = \"\", n = 100L)"}

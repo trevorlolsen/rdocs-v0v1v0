@@ -1,0 +1,1 @@
+{"description":"Its printed output is similar to calling diff -u at the command\nline.\n","example_call":"diff_chr(old, new, max_dist = Inf)"}

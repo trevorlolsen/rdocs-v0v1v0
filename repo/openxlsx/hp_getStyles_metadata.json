@@ -1,0 +1,1 @@
+{"description":"Returns list of style objects in the workbook\n","example_call":"getStyles(wb)"}

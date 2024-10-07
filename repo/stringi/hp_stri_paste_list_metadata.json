@@ -1,0 +1,1 @@
+{"description":"These functions concatenate all the strings in each character vector\nin a given list.\nstri_c_list and stri_paste_list are aliases for\nstri_join_list.\n","example_call":"stri_paste_list(x, sep = \"\", collapse = NULL)"}

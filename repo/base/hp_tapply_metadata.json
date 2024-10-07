@@ -1,0 +1,1 @@
+{"description":"Apply a function to each cell of a ragged array, that is to each\n(non-empty) group of values or data rows given by a unique\ncombination of the levels of certain factors.\n","example_call":"tapply(X, INDEX, FUN = NULL, ..., default = NA, simplify = TRUE)"}

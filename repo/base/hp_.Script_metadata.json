@@ -1,0 +1,1 @@
+{"description":"Internal interface to run a script through its interpreter.\n","example_call":".Script(interpreter, script, args, ...)"}

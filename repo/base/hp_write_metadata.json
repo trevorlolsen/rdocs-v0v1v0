@@ -1,0 +1,1 @@
+{"description":"Write data x to a file or other connection.\n\nAs it simply calls cat(), less formatting happens than\nwith print()ing.\nIf x is a matrix you need to transpose it (and typically set\nncolumns) to get the columns in file the same as those in\nthe internal representation.\n","example_call":"write(x, file = \"data\", ncolumns = if (is.character(x)) 1 else 5,"}

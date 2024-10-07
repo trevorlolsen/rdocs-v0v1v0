@@ -1,0 +1,1 @@
+{"description":"INTERNAL function for finding an orthogonal re-parameterization which avoids \"dominant machine zero leakage\" between\ncomponents of the square root penalty.\n","example_call":"gam.reparam(rS, lsp, deriv)"}

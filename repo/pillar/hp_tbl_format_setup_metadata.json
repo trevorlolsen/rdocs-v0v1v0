@@ -1,0 +1,1 @@
+{"description":"tbl_format_setup() is called by format.tbl().\nThis method collects information that is common to the header, body,\nand footer parts of a tibble.\nExamples:\n","example_call":"tbl_format_setup(x, width = NULL, ..., n = NULL, max_extra_cols = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"Report versions of third-party graphics software available on the\ncurrent platform for R's graphics.\n","example_call":"grSoftVersion()"}

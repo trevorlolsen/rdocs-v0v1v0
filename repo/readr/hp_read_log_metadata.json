@@ -1,0 +1,1 @@
+{"description":"This is a fairly standard format for log files - it uses both quotes\nand square brackets for quoting, and there may be literal quotes embedded\nin a quoted string. The dash, \"-\", is used for missing values.\n","example_call":"read_log(file, col_names = FALSE, col_types = NULL, trim_ws = TRUE,"}

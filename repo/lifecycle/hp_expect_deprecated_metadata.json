@@ -1,0 +1,1 @@
+{"description":"These functions are equivalent to testthat::expect_warning() and\ntestthat::expect_error() but check specifically for lifecycle\nwarnings or errors.\n","example_call":"expect_deprecated(expr, regexp = NULL, ...)"}

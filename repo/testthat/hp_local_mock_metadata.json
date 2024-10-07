@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"local_mock(..., .env = topenv(), .local_envir = parent.frame())"}

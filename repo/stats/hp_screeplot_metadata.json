@@ -1,0 +1,1 @@
+{"description":"screeplot.default plots the variances against the number of the\nprincipal component. This is also the plot method for classes\n\"princomp\" and \"prcomp\".\n","example_call":"screeplot(x, ...)"}

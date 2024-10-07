@@ -1,0 +1,1 @@
+{"description":"ls.str and lsf.str are variations of ls\napplying str() to each matched name: see section Value.\n","example_call":"lsf.str(pos = -1, envir, ...)"}

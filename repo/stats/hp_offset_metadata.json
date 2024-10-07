@@ -1,0 +1,1 @@
+{"description":"An offset is a term to be added to a linear predictor, such as in a\ngeneralised linear model, with known coefficient 1 rather than an\nestimated coefficient.\n","example_call":"offset(object)"}

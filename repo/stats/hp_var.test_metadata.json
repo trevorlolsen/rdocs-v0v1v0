@@ -1,0 +1,1 @@
+{"description":"Performs an F test to compare the variances of two samples from normal\npopulations.\n","example_call":"var.test(x, ...)"}

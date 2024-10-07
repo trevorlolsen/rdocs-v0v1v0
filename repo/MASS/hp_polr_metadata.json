@@ -1,0 +1,1 @@
+{"description":"Fits a logistic or probit regression model to an ordered factor\nresponse.  The default logistic case is proportional odds\nlogistic regression, after which the function is named.\n","example_call":"polr(formula, data, weights, start, ..., subset, na.action,"}

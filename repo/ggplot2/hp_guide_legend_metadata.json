@@ -1,0 +1,1 @@
+{"description":"Legend type guide shows key (i.e., geoms) mapped onto values.\nLegend guides for various scales are integrated if possible.\n","example_call":"guide_legend(title = waiver(), theme = NULL, position = NULL, direction = NULL,"}

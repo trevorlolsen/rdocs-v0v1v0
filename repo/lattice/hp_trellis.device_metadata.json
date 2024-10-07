@@ -1,0 +1,1 @@
+{"description":"Initialization of a display device with appropriate graphical\nparameters.\n","example_call":"trellis.device(device = getOption(\"device\"), color = !(dev.name =="}

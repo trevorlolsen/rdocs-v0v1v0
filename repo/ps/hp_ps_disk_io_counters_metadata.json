@@ -1,0 +1,1 @@
+{"description":"Returns a data.frame of system-wide disk I/O counters.\n","example_call":"ps_disk_io_counters()"}

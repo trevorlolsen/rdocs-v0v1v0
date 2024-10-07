@@ -1,0 +1,1 @@
+{"description":"Generic functions to draw 3d scatter plots and surfaces.  The\n\"formula\" methods do most of the actual work.\n","example_call":"cloud(x, data, ...)"}

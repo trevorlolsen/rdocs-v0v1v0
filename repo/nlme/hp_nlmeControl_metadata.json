@@ -1,0 +1,1 @@
+{"description":"The values supplied in the function call replace the defaults and a\nlist with all possible arguments is returned.  The returned list is\nused as the control argument to the nlme function.\n","example_call":"nlmeControl(maxIter = 50, pnlsMaxIter = 7, msMaxIter = 50, minScale = 0.001,"}

@@ -1,0 +1,1 @@
+{"description":"This function carries out a minimization of the function f\nusing a Newton-type algorithm.  See the references for details.\n","example_call":"nlm(f, p, ..., hessian = FALSE, typsize = rep(1, length(p)),"}

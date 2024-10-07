@@ -1,0 +1,1 @@
+{"description":"A pairlist of the names of open graphics devices is stored in\n.Devices. The name of the active device (see\ndev.cur) is stored in .Device.  Both are symbols\nand so appear in the base namespace.\n","example_call":"NULL"}

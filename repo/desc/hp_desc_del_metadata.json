@@ -1,0 +1,1 @@
+{"description":"Remove fields from a DESCRIPTION file\n","example_call":"desc_del(keys, file = \".\", normalize = FALSE)"}

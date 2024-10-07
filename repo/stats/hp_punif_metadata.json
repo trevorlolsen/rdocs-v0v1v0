@@ -1,0 +1,1 @@
+{"description":"These functions provide information about the uniform distribution\non the interval from min to max.  dunif gives the\ndensity, punif gives the distribution function qunif\ngives the quantile function and runif generates random\ndeviates.\n","example_call":"punif(q, min = 0, max = 1, lower.tail = TRUE, log.p = FALSE)"}

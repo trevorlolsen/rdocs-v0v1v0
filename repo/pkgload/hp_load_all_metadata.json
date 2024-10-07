@@ -1,0 +1,1 @@
+{"description":"load_all() loads a package. It roughly simulates what happens\nwhen a package is installed and loaded with library(), without\nhaving to first install the package. It:\n","example_call":"load_all(path = \".\", reset = TRUE, compile = NA, attach = TRUE,"}

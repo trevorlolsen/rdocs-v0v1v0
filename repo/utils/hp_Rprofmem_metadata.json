@@ -1,0 +1,1 @@
+{"description":"Enable or disable reporting of memory allocation in R.\n","example_call":"Rprofmem(filename = \"Rprofmem.out\", append = FALSE, threshold = 0)"}

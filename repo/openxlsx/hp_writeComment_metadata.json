@@ -1,0 +1,1 @@
+{"description":"Write a Comment object to a worksheet\n","example_call":"writeComment(wb, sheet, col, row, comment, xy = NULL)"}

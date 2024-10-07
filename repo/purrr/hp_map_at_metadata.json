@@ -1,0 +1,1 @@
+{"description":"The functions map_if() and map_at() take .x as input, apply\nthe function .f to some of the elements of .x, and return a\nlist of the same length as the input.\n","example_call":"map_at(.x, .at, .f, ..., .progress = FALSE)"}

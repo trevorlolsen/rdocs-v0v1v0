@@ -1,0 +1,1 @@
+{"description":"Parses and returns the <U+2018>DESCRIPTION<U+2019> file of a package as a\n\"packageDescription\".\n","example_call":"asDateBuilt(built)"}

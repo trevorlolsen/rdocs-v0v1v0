@@ -1,0 +1,1 @@
+{"description":"Changes the value of one of the slots of a grob\nand redraws the grob.\n","example_call":"grid.edit(gPath, ..., strict = FALSE, grep = FALSE, global = FALSE,"}

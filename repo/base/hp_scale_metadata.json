@@ -1,0 +1,1 @@
+{"description":"scale is generic function whose default method centers and/or\nscales the columns of a numeric matrix.\n","example_call":"scale(x, center = TRUE, scale = TRUE)"}

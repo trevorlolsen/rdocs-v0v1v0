@@ -1,0 +1,1 @@
+{"description":"This reports for each of the files produced by save the size,\nif it was saved in ASCII or XDR binary format, and if it was\ncompressed (and if so in what format).\n","example_call":"checkRdaFiles(paths)"}

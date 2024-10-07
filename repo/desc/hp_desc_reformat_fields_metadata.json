@@ -1,0 +1,1 @@
+{"description":"Reformat the fields in DESCRIPTION in a standard way.\n","example_call":"desc_reformat_fields(file = \".\")"}

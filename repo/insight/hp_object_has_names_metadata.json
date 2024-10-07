@@ -1,0 +1,1 @@
+{"description":"object_has_names() checks if specified names are present in the given object.\nobject_has_rownames() checks if rownames are present in a dataframe.\n","example_call":"object_has_names(x, names)"}

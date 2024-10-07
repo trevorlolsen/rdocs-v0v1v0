@@ -1,0 +1,1 @@
+{"description":"Bin a numeric vector and return integer codes for the binning.\n","example_call":".bincode(x, breaks, right = TRUE, include.lowest = FALSE)"}

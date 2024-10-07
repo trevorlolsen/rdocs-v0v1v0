@@ -1,0 +1,1 @@
+{"description":"This returns the number of arguments currently forwarded in ...\nas an integer.\n","example_call":"dots_n(...)"}

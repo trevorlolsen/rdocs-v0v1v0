@@ -1,0 +1,1 @@
+{"description":"These helper functions make it easier to test the examples in a package.\nEach example counts as one test, and it succeeds if the code runs without\nan error. Generally, this is redundant with R CMD check, and is not\nrecommended in routine practice.\n","example_call":"test_rd(rd, title = attr(rd, \"Rdfile\"))"}

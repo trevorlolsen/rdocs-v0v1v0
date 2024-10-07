@@ -1,0 +1,1 @@
+{"description":"Evaluate an R expression in an environment constructed from data,\npossibly modifying (a copy of) the original data.\n","example_call":"within.data.frame(data, expr, ...)"}

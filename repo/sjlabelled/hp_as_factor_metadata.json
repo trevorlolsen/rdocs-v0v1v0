@@ -1,0 +1,1 @@
+{"description":"This function converts a variable into a factor, but preserves\nvariable and value label attributes.\n","example_call":"as_factor(x, ...)"}

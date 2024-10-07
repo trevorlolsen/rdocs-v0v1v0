@@ -1,0 +1,1 @@
+{"description":"compile_dll performs a fake R CMD install so code that\nworks here should work with a regular install (and vice versa).\nDuring compilation, debug flags are set with\ncompiler_flags(TRUE).\n","example_call":"compile_dll(path = \".\", force = FALSE, compile_attributes = pkg_links_to_cpp11(path) ||"}

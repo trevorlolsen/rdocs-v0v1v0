@@ -1,0 +1,1 @@
+{"description":"Determine the class of an arbitrary R object.\n","example_call":"data.class(x)"}

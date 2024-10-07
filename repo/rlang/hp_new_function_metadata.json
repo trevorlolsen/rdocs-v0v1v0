@@ -1,0 +1,1 @@
+{"description":"This constructs a new function given its three components:\nlist of arguments, body code and parent environment.\n","example_call":"new_function(args, body, env = caller_env())"}

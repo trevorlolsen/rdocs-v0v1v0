@@ -1,0 +1,1 @@
+{"description":"Write contents of the last R expression to the clipboard\n","example_call":"write_last_clip(...)"}

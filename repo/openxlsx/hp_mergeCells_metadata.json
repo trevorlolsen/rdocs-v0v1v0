@@ -1,0 +1,1 @@
+{"description":"Merge cells within a worksheet\n","example_call":"mergeCells(wb, sheet, cols, rows)"}

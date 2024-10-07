@@ -1,0 +1,1 @@
+{"description":"Simple interface to generate a list appropriate for draw.key\n","example_call":"simpleKey(text, points = TRUE, rectangles = FALSE, lines = FALSE,"}

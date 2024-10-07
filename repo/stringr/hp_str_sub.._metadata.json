@@ -1,0 +1,1 @@
+{"description":"str_sub() extracts or replaces the elements at a single position in each\nstring. str_sub_all() allows you to extract strings at multiple elements\nin every string.\n","example_call":"str_sub<-(string, start = 1L, end = -1L, omit_na = FALSE, value)"}

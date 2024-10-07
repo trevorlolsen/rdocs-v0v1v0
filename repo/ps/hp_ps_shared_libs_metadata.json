@@ -1,0 +1,1 @@
+{"description":"Note: this function currently only works on Windows.\n","example_call":"ps_shared_libs(p = ps_handle())"}

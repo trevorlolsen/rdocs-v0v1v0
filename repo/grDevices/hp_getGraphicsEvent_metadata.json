@@ -1,0 +1,1 @@
+{"description":"This function waits for input from a graphics window in the\nform of a mouse or keyboard event.\n","example_call":"getGraphicsEvent(prompt = \"Waiting for input\", onMouseDown = NULL, onMouseMove = NULL,"}

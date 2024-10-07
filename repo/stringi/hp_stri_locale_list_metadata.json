@@ -1,0 +1,1 @@
+{"description":"Creates a character vector with all available locale identifies.\n","example_call":"stri_locale_list()"}

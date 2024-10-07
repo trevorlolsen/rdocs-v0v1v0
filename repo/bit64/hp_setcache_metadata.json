@@ -1,0 +1,1 @@
+{"description":"Functions for caching results attached to atomic objects\n","example_call":"setcache(x, which, value)"}

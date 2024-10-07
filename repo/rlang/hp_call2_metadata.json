@@ -1,0 +1,1 @@
+{"description":"Quoted function calls are one of the two types of\nsymbolic objects in R. They represent the action of\ncalling a function, possibly with arguments. There are two ways of\ncreating a quoted call:\n","example_call":"call2(.fn, ..., .ns = NULL)"}

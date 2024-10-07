@@ -1,0 +1,1 @@
+{"description":"Search by name for an object (get) or zero or more objects\n(mget).\n","example_call":"dynGet(x, ifnotfound = stop(gettextf(\"%s not found\", sQuote(x)),"}

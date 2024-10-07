@@ -1,0 +1,1 @@
+{"description":"This function is a constructor for the varComb class,\nrepresenting a combination of variance functions. The corresponding\nvariance function is equal to the product of the variance functions of\nthe varFunc objects listed in ....\n","example_call":"varComb(...)"}

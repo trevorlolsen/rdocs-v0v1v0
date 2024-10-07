@@ -1,0 +1,1 @@
+{"description":"Utilities for computing on the information in Rd objects.","example_call":"Rd_db(package, dir, lib.loc = NULL, stages = \"build\")"}

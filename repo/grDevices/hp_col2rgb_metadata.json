@@ -1,0 +1,1 @@
+{"description":"R color to RGB (red/green/blue) conversion.\n","example_call":"col2rgb(col, alpha = FALSE)"}

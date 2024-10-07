@@ -1,0 +1,1 @@
+{"description":"nchar_ctl counts all non Control Sequence characters.\nnzchar_ctl returns TRUE for each input vector element that has non Control\nSequence sequence characters.  By default newlines and other C0 control\ncharacters are not counted.\n","example_call":"nzchar_ctl(x, keepNA = FALSE, ctl = \"all\", warn = getOption(\"fansi.warn\","}

@@ -1,0 +1,1 @@
+{"description":"Plot histograms or density plots of data on a single Fisher linear\ndiscriminant.\n","example_call":"ldahist(data, g, nbins = 25, h, x0 = -h/1000, breaks, xlim = range(breaks),"}

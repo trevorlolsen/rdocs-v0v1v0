@@ -1,0 +1,1 @@
+{"description":"Transform text to normalized form, optionally mapping to lowercase\nand applying compatibility maps.\n","example_call":"utf8_normalize(x, map_case = FALSE, map_compat = FALSE, map_quote = FALSE,"}

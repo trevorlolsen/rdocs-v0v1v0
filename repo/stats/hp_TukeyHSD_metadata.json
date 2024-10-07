@@ -1,0 +1,1 @@
+{"description":"Create a set of confidence intervals on the differences between the\nmeans of the levels of a factor with the specified family-wise\nprobability of coverage.  The intervals are based on the Studentized\nrange statistic, Tukey's <U+2018>Honest Significant Difference<U+2019>\nmethod.\n","example_call":"TukeyHSD(x, which, ordered = FALSE, conf.level = 0.95, ...)"}

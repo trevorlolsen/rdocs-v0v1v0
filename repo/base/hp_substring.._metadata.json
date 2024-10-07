@@ -1,0 +1,1 @@
+{"description":"Extract or replace substrings in a character vector.\n","example_call":"substring<-(text, first, last = 1000000L, value)"}

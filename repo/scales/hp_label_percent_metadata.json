@@ -1,0 +1,1 @@
+{"description":"Label percentages (2.5%, 50%, etc)\n","example_call":"label_percent(accuracy = NULL, scale = 100, prefix = \"\", suffix = \"%\","}

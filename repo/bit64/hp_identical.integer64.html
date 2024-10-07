@@ -1,0 +1,92 @@
+<div class="container"><main><table style="width: 100%;"><tr>
+<td>identical.integer64</td>
+<td style="text-align: right;">R Documentation</td>
+</tr></table>
+<h2>
+Identity function for class 'integer64'
+</h2>
+
+<h3>Description</h3>
+
+<p>This will discover any deviation between objects containing integer64 vectors. 
+</p>
+
+
+<h3>Usage</h3>
+
+<pre><code class="language-R"> identical.integer64(x, y, num.eq = FALSE, single.NA = FALSE
+, attrib.as.set = TRUE, ignore.bytecode = TRUE)
+</code></pre>
+
+
+<h3>Arguments</h3>
+
+<table>
+<tr>
+<td><code id="x">x</code></td>
+<td>
+<p> atomic vector of class 'integer64' </p>
+</td>
+</tr>
+<tr>
+<td><code id="y">y</code></td>
+<td>
+<p> atomic vector of class 'integer64' </p>
+</td>
+</tr>
+<tr>
+<td><code id="num.eq">num.eq</code></td>
+<td>
+<p> see <code>identical</code> </p>
+</td>
+</tr>
+<tr>
+<td><code id="single.NA">single.NA</code></td>
+<td>
+<p> see <code>identical</code> </p>
+</td>
+</tr>
+<tr>
+<td><code id="attrib.as.set">attrib.as.set</code></td>
+<td>
+<p> see <code>identical</code> </p>
+</td>
+</tr>
+<tr>
+<td><code id="ignore.bytecode">ignore.bytecode</code></td>
+<td>
+<p> see <code>identical</code> </p>
+</td>
+</tr>
+</table>
+<h3>Details</h3>
+
+<p>This is simply a wrapper to <code>identical</code> with default arguments <code>num.eq = FALSE, single.NA = FALSE</code>.
+</p>
+
+
+<h3>Value</h3>
+
+<p>A single logical value, <code>TRUE</code> or <code>FALSE</code>, never <code>NA</code> and never anything other than a single value. 
+</p>
+
+
+<h3>Author(s)</h3>
+
+<p>Jens Oehlschl<c3><a4>gel &lt;Jens.Oehlschlaegel@truecluster.com&gt;
+</a4></c3></p>
+
+
+<h3>See Also</h3>
+
+ <p><code>==.integer64</code> <code>identical</code> <code>integer64</code>  </p>
+
+
+<h3>Examples</h3>
+
+<pre><code class="language-R">  i64 &lt;- as.double(NA); class(i64) &lt;- "integer64"
+  identical(i64-1, i64+1)
+  identical.integer64(i64-1, i64+1)
+</code></pre>
+
+</main></div>

@@ -1,0 +1,1 @@
+{"description":"nextn returns the smallest integer,\ngreater than or equal to n, which can be obtained\nas a product of powers of the values contained in factors.\n","example_call":"nextn(n, factors = c(2, 3, 5))"}

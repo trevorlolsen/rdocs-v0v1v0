@@ -1,0 +1,1 @@
+{"description":" Extracts the estimated covariance matrix for the log smoothing parameter\nestimates from a (RE)ML estimated gam object, provided the fit was with a method \nthat evaluated the required Hessian.\n","example_call":"sp.vcov(x, edge.correct = TRUE, reg = 0.001)"}

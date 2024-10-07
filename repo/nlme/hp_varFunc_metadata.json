@@ -1,0 +1,1 @@
+{"description":"If object is a one-sided formula, it is used as the argument to\nvarFixed and the resulting object is returned. Else, if\nobject inherits from class varFunc, it is returned\nunchanged. \n","example_call":"varFunc(object)"}

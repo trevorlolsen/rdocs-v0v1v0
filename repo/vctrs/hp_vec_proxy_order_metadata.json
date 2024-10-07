@@ -1,0 +1,1 @@
+{"description":"vec_proxy_compare() and vec_proxy_order() return proxy objects, i.e.\nan atomic vector or data frame of atomic vectors.\n","example_call":"vec_proxy_order(x, ...)"}

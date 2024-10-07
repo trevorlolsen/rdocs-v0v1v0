@@ -1,0 +1,1 @@
+{"description":"Functions to create a raster object (representing a bitmap\nimage) and coerce other objects to a raster object.\n","example_call":"as.raster(x, ...)"}

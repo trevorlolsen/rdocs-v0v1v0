@@ -1,0 +1,1 @@
+{"description":"This function tries to open a Microsoft Excel\n(xls/xlsx) file or an openxlsx Workbook with the proper\napplication, in a portable manner.\n","example_call":"openXL(file = NULL)"}

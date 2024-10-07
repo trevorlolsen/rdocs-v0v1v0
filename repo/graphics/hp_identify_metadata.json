@@ -1,0 +1,1 @@
+{"description":"identify reads the position of the graphics pointer when the\n(first) mouse button is pressed.  It then searches the coordinates\ngiven in x and y for the point closest to the pointer.\nIf this point is close enough to the pointer, its index will be returned as\npart of the value of the call.\n","example_call":"identify(x, ...)"}

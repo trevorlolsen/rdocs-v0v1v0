@@ -1,0 +1,1 @@
+{"description":"Variables are made available to select helpers by\nregistering them in a special placeholder.\n","example_call":"scoped_vars(vars, frame = caller_env())"}

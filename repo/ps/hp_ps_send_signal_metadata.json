@@ -1,0 +1,1 @@
+{"description":"Send a signal to the process. Not implemented on Windows. See\nsignals() for the list of signals on the current platform.\n","example_call":"ps_send_signal(p = ps_handle(), sig)"}

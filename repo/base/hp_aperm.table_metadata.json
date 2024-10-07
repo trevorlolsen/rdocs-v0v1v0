@@ -1,0 +1,1 @@
+{"description":"Transpose an array by permuting its dimensions and optionally resizing\nit.\n","example_call":"aperm.table(a, perm = NULL, resize = TRUE, keep.class = TRUE, ...)"}

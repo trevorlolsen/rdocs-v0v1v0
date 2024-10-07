@@ -1,0 +1,1 @@
+{"description":"The functions lighten and darken take a vector of R colors and adjust the colors such that\nthey appear lightened or darkened, respectively.\n","example_call":"darken(col, amount = 0.1, space = \"combined\", ...)"}

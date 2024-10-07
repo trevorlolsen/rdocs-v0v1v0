@@ -1,0 +1,1 @@
+{"description":"Computes the upper triangular Cholesky factor of an\nn \\times n real, symmetric, positive semidefinite\nmatrix A, optionally after pivoting.\nThat is the factor L' in\n","example_call":"chol(x, ...)"}

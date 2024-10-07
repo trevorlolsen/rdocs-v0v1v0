@@ -1,0 +1,1 @@
+{"description":"this function is used by high level Lattice functions like\nxyplot to parse the formula argument and evaluate various\ncomponents of the data.\n","example_call":"latticeParseFormula(model, data, dimension = 2, subset = TRUE, groups = NULL,"}

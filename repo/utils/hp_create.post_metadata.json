@@ -1,0 +1,1 @@
+{"description":"An ancillary function used by bug.report and\nhelp.request to prepare emails for submission to package\nmaintainers or to R mailing lists.\n","example_call":"create.post(instructions = character(), description = \"post\", subject = \"\","}

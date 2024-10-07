@@ -1,0 +1,1 @@
+{"description":"Fit a linear model by robust regression using an M estimator.\n","example_call":"rlm(x, ...)"}

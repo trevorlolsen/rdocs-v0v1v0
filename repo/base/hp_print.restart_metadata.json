@@ -1,0 +1,1 @@
+{"description":"These functions provide a mechanism for handling unusual conditions,\nincluding errors and warnings.\n","example_call":"print.restart(x, ...)"}

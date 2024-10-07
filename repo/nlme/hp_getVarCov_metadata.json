@@ -1,0 +1,1 @@
+{"description":"Extract the variance-covariance matrix from a fitted model, such as a\nmixed-effects model.\n","example_call":"getVarCov(obj, ...)"}

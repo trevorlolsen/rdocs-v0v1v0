@@ -1,0 +1,1 @@
+{"description":"This function retrieves the values associated with value labels\nfrom labelled vectors. Data is also labelled\nwhen imported from SPSS, SAS or STATA via read_spss,\nread_sas or read_stata.\n","example_call":"get_values(x, sort.val = TRUE, drop.na = FALSE)"}

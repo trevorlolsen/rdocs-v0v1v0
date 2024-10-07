@@ -1,0 +1,1 @@
+{"description":"vec_detect_complete() detects \"complete\" observations. An observation is\nconsidered complete if it is non-missing. For most vectors, this implies that\nvec_detect_complete(x) == !vec_detect_missing(x).\n","example_call":"vec_detect_complete(x)"}

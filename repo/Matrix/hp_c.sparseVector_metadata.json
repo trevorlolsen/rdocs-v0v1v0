@@ -1,0 +1,1 @@
+{"description":"Sparse Vector Classes: The virtual mother class\n\"sparseVector\" has the five actual daughter classes\n\"dsparseVector\", \"isparseVector\",\n\"lsparseVector\", \"nsparseVector\", and\n\"zsparseVector\", where we've mainly implemented methods for\nthe d*, l* and n* ones.\n","example_call":"c.sparseVector(...)"}

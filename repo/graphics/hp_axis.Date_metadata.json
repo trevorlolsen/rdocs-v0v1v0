@@ -1,0 +1,1 @@
+{"description":"Add a date/time axis to the current plot of an object of class\n\"POSIXt\" or \"Date\", respectively.\n","example_call":"axis.Date(side, x, at, format, labels = TRUE, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Write lines to a file\n","example_call":"vroom_write_lines(x, file, eol = \"\\n\", na = \"NA\", append = FALSE, num_threads = vroom_threads())"}

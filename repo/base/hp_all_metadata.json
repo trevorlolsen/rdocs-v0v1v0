@@ -1,0 +1,1 @@
+{"description":"Given a set of logical vectors, are all of the values true?\n","example_call":"all(..., na.rm = FALSE)"}

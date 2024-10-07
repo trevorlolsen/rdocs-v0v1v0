@@ -1,0 +1,1 @@
+{"description":"Internal functions to lazy load a database of R objects.\n","example_call":"lazyLoadDBexec(filebase, fun, filter)"}

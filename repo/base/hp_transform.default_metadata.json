@@ -1,0 +1,1 @@
+{"description":"transform is a generic function, which<U+2014>at least\ncurrently<U+2014>only does anything useful with\ndata frames.  transform.default converts its first argument to\na data frame if possible and calls transform.data.frame.\n","example_call":"transform.default(`_data`, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Display one or more (plain) text files, in a platform\nspecific way, typically via a <U+2018>pager<U+2019>.\n","example_call":"file.show(..., header = rep(\"\", nfiles), title = \"R Information\","}

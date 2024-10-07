@@ -1,0 +1,1 @@
+{"description":"A model function for a model used with the Phenobarb data.\nThis function uses compiled C code to improve execution speed.\n","example_call":"phenoModel(Subject, time, dose, lCl, lV)"}

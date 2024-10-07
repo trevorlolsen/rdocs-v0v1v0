@@ -1,0 +1,1 @@
+{"description":"n_distinct() counts the number of unique/distinct combinations in a set\nof one or more vectors. It's a faster and more concise equivalent to\nnrow(unique(data.frame(...))).\n","example_call":"n_distinct(..., na.rm = FALSE)"}

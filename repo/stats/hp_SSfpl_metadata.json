@@ -1,0 +1,1 @@
+{"description":"This selfStart model evaluates the four-parameter logistic\nfunction and its gradient.  It has an initial attribute computing\ninitial estimates of the parameters A, B,\nxmid, and scal for a given set of data.\n","example_call":"SSfpl(input, A, B, xmid, scal)"}

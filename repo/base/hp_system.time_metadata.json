@@ -1,0 +1,1 @@
+{"description":"Return CPU (and other) times that expr used.\n","example_call":"system.time(expr, gcFirst = TRUE)"}

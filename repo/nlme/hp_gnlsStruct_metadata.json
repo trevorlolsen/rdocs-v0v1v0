@@ -1,0 +1,1 @@
+{"description":"A generalized nonlinear least squares structure is a list of model\ncomponents representing different sets of parameters in the nonlinear \nmodel. A gnlsStruct  may contain corStruct and\nvarFunc objects. NULL arguments are not included in the\ngnlsStruct list. \n","example_call":"gnlsStruct(corStruct = NULL, varStruct = NULL)"}

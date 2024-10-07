@@ -1,0 +1,1 @@
+{"description":"Two-dimensional kernel density estimation with an axis-aligned\nbivariate normal kernel, evaluated on a square grid.\n","example_call":"kde2d(x, y, h, n = 25, lims = c(range(x), range(y)))"}

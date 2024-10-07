@@ -1,0 +1,1 @@
+{"description":"This function \"lengthens\" data, increasing the number of rows and decreasing\nthe number of columns. This is a dependency-free base-R equivalent of\ntidyr::pivot_longer().\n","example_call":"reshape_longer(data, select = \"all\", names_to = \"name\", names_prefix = NULL,"}

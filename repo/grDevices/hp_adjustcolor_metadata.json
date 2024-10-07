@@ -1,0 +1,1 @@
+{"description":"Adjust or modify a vector of colors by <U+201C>turning knobs<U+201D> on one or more\ncoordinates in (r,g,b,\\alpha) space, typically by up or down\nscaling them.\n","example_call":"adjustcolor(col, alpha.f = 1, red.f = 1, green.f = 1, blue.f = 1,"}

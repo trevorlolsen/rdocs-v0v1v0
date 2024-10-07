@@ -1,0 +1,1 @@
+{"description":"sink diverts R output to a connection (and stops such diversions).\n","example_call":"sink.number(type = c(\"output\", \"message\"))"}

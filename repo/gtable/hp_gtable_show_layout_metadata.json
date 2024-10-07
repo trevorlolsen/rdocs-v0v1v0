@@ -1,0 +1,1 @@
+{"description":"This function is a simple wrapper around grid::grid.show.layout() that\nallows you to inspect the layout of the gtable.\n","example_call":"gtable_show_layout(x, ...)"}

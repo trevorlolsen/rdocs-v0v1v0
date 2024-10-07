@@ -1,0 +1,1 @@
+{"description":"Plots fitted values and residuals (via qqmath) on a common scale for\nany object that has methods for fitted values and residuals. \n","example_call":"rfs(model, layout = c(2, 1), xlab = \"f-value\", ylab = NULL,"}

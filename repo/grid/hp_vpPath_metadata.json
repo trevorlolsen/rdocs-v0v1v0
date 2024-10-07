@@ -1,0 +1,1 @@
+{"description":"This function can be used to generate a viewport path for use\nin downViewport or seekViewport.\n","example_call":"vpPath(...)"}

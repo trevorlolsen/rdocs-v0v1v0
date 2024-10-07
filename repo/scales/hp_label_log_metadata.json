@@ -1,0 +1,1 @@
+{"description":"label_log() displays numbers as base^exponent, using superscript formatting.\n","example_call":"label_log(base = 10, digits = 3)"}

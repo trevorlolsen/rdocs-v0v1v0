@@ -1,0 +1,1 @@
+{"description":"fitted is a generic function which extracts fitted values from\nobjects returned by modeling functions.  fitted.values is an\nalias for it.\n","example_call":"fitted(object, ...)"}

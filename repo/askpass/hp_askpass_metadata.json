@@ -1,0 +1,1 @@
+{"description":"Prompt the user for a password to authenticate or read a protected key.\nBy default, this function automatically uses the most appropriate method\nbased on the user platform and front-end. Users or IDEs can override this\nand set a custom password entry function via the askpass option.\n","example_call":"askpass(prompt = \"Please enter your password: \")"}

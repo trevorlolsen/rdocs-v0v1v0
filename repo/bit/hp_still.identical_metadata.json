@@ -1,0 +1,1 @@
+{"description":"Test for C-level identity of two atomic vectors\n","example_call":"still.identical(x, y)"}

@@ -1,0 +1,1 @@
+{"description":"This reporter gathers all results, adding additional information such as\ntest elapsed time, and test filename if available. Very useful for reporting.\n","example_call":"NULL"}

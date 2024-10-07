@@ -1,0 +1,1 @@
+{"description":"Create tibbles using an easier to read row-by-row layout.\nThis is useful for small tables of data where readability is\nimportant.  Please see tibble-package for a general introduction.\n","example_call":"tribble(...)"}

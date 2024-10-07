@@ -1,0 +1,1 @@
+{"description":"Test if a package path is linking to Rcpp or cpp11\n","example_call":"pkg_links_to_cpp11(path)"}

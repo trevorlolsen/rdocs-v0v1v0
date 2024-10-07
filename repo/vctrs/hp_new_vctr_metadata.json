@@ -1,0 +1,1 @@
+{"description":"This abstract class provides a set of useful default methods that makes it\nconsiderably easier to get started with a new S3 vector class. See\nvignette(\"s3-vector\") to learn how to use it to create your own S3\nvector classes.\n","example_call":"new_vctr(.data, ..., class = character(), inherit_base_type = NULL)"}

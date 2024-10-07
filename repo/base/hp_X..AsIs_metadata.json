@@ -1,0 +1,1 @@
+{"description":"Change the class of an object to indicate that it should be treated\n<U+2018>as is<U+2019>.\n","example_call":"[.AsIs(x, i, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Draws rectangles around the branches of a dendrogram highlighting the\ncorresponding clusters. First the dendrogram is cut at a certain\nlevel, then a rectangle is drawn around selected branches.\n","example_call":"rect.hclust(tree, k = NULL, which = NULL, x = NULL, h = NULL, border = 2,"}

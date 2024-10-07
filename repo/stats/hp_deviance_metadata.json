@@ -1,0 +1,1 @@
+{"description":"Returns the deviance of a fitted model object.\n","example_call":"deviance(object, ...)"}

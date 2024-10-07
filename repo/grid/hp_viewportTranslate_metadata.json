@@ -1,0 +1,1 @@
+{"description":"These functions define the transformation that will be applied\nwhen a grid.define()d group is grid.use()d.\n","example_call":"viewportTranslate(group, device = TRUE)"}

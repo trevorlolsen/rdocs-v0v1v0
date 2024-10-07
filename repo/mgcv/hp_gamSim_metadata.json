@@ -1,0 +1,1 @@
+{"description":" Function used to simulate data sets to illustrate the use of \ngam and gamm. Mostly used in help files to keep down \nthe length of the example code sections.\n","example_call":"gamSim(eg = 1, n = 400, dist = \"normal\", scale = 2, verbose = TRUE)"}

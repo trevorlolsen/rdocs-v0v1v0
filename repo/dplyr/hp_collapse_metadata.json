@@ -1,0 +1,1 @@
+{"description":"compute() stores results in a remote temporary table.\ncollect() retrieves data into a local tibble.\ncollapse() is slightly different: it doesn't force computation, but\ninstead forces generation of the SQL query. This is sometimes needed to work\naround bugs in dplyr's SQL generation.\n","example_call":"collapse(x, ...)"}

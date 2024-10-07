@@ -1,0 +1,1 @@
+{"description":"unzip() always restores modification times of the extracted files and\ndirectories.\n","example_call":"unzip(zipfile, files = NULL, overwrite = TRUE, junkpaths = FALSE,"}

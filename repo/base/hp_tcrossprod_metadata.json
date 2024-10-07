@@ -1,0 +1,1 @@
+{"description":"Given matrices x and y as arguments, return a matrix\ncross-product.  This is formally equivalent to (but faster than) the call\nt(x) %*% y (crossprod) or\nx %*% t(y) (tcrossprod).\n","example_call":"tcrossprod(x, y = NULL, ...)"}

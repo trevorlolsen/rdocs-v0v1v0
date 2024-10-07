@@ -1,0 +1,1 @@
+{"description":"global_handle() sets up a default configuration for error,\nwarning, and message handling. It calls:\n","example_call":"global_handle(entrace = TRUE, prompt_install = TRUE)"}

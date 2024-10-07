@@ -1,0 +1,1 @@
+{"description":"Utility functions for determining\nwhether a justification specification is valid\nand for resolving a single justification value from\na combination of character and numeric values.\n","example_call":"resolveHJust(just, hjust)"}

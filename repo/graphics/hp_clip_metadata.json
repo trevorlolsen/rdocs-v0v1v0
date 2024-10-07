@@ -1,0 +1,1 @@
+{"description":"Set clipping region in user coordinates\n","example_call":"clip(x1, x2, y1, y2)"}

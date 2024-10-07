@@ -1,0 +1,1 @@
+{"description":"An implementation of a generic message box using Tk.\n","example_call":"tk_messageBox(type = c(\"ok\", \"okcancel\", \"yesno\", \"yesnocancel\","}

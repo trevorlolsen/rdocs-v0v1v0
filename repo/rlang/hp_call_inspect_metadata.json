@@ -1,0 +1,1 @@
+{"description":"This function is a wrapper around base::match.call(). It returns\nits own function call.\n","example_call":"call_inspect(...)"}

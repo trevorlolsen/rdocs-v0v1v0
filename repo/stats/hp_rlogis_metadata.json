@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the logistic distribution with parameters\nlocation and scale.\n","example_call":"rlogis(n, location = 0, scale = 1)"}

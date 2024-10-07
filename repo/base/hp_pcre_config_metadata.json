@@ -1,0 +1,1 @@
+{"description":"Report some of the configuration options of the version of PCRE in use\nin this R session.\n","example_call":"pcre_config()"}

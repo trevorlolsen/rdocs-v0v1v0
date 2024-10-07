@@ -1,0 +1,1 @@
+{"description":"This reporter will output results in the Test Anything Protocol (TAP),\na simple text-based interface between testing modules in a test harness.\nFor more information about TAP, see http://testanything.org\n","example_call":"NULL"}

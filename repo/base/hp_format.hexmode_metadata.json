@@ -1,0 +1,1 @@
+{"description":"Integers which are displayed in hexadecimal (short <U+2018>hex<U+2019>) format,\nwith as many digits as are needed to display the largest, using leading\nzeroes as necessary.\n","example_call":"format.hexmode(x, width = NULL, upper.case = FALSE, ...)"}

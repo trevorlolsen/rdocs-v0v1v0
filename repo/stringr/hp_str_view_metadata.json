@@ -1,0 +1,1 @@
+{"description":"str_view() is used to print the underlying representation of a string and\nto see how a pattern matches.\n","example_call":"str_view(string, pattern = NULL, match = TRUE, html = FALSE,"}

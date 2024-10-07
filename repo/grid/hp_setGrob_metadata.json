@@ -1,0 +1,1 @@
+{"description":"Replace a grob or a descendant of a grob.\n","example_call":"setGrob(gTree, gPath, newGrob, strict = FALSE, grep = FALSE)"}

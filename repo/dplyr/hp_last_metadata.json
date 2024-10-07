@@ -1,0 +1,1 @@
+{"description":"These are useful helpers for extracting a single value from a vector. They\nare guaranteed to return a meaningful value, even when the input is shorter\nthan expected. You can also provide an optional secondary vector that defines\nthe ordering.\n","example_call":"last(x, order_by = NULL, default = NULL, na_rm = FALSE)"}

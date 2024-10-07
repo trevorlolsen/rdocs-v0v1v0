@@ -1,0 +1,1 @@
+{"description":"This is a convenience function for producing a viewport with\nthe common S-style plot layout <U+2013> i.e., a central\nplot region surrounded by margins given in terms of a\nnumber of lines of text.\n","example_call":"plotViewport(margins = c(5.1, 4.1, 4.1, 2.1), ...)"}

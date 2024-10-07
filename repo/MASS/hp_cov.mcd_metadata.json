@@ -1,0 +1,1 @@
+{"description":"Compute a multivariate location and scale estimate with a high\nbreakdown point <U+2013> this can be thought of as estimating the mean and\ncovariance of the good part of the data. cov.mve and\ncov.mcd are compatibility wrappers.\n","example_call":"cov.mcd(...)"}

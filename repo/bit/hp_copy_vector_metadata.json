@@ -1,0 +1,1 @@
+{"description":"Creates a true copy of the underlying C-vector <U+2013> dropping all attributes <U+2013> and optionally reverses the direction of the elements.\n","example_call":"copy_vector(x, revx = FALSE)"}

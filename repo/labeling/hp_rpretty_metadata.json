@@ -1,0 +1,1 @@
+{"description":"R's pretty algorithm implemented in R\n","example_call":"rpretty(dmin, dmax, m = 6, n = floor(m) - 1, min.n = n%/%3,"}

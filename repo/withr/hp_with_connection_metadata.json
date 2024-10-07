@@ -1,0 +1,1 @@
+{"description":"R file connections which are automatically closed.\n","example_call":"with_connection(con, code)"}

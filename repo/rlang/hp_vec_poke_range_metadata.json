@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"vec_poke_range(x, start, y, from = 1L, to = length(y) - from + 1L)"}

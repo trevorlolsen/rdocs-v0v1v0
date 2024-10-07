@@ -1,0 +1,1 @@
+{"description":"Turns implicit missing values into explicit missing values. This is a wrapper\naround expand(), dplyr::full_join() and replace_na() that's useful for\ncompleting missing combinations of data.\n","example_call":"complete(data, ..., fill = list(), explicit = TRUE)"}

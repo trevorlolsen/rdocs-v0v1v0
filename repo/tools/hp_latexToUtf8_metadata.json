@@ -1,0 +1,1 @@
+{"description":"The parseLatex function parses LaTeX source, producing a\nstructured object; deparseLatex reverses the process.  The\nlatexToUtf8 function takes a LaTeX object, and processes a number\nof different macros to convert them into the corresponding UTF-8\ncharacters.\n","example_call":"latexToUtf8(x)"}

@@ -1,0 +1,1 @@
+{"description":"This wraps the base setHook() function to provide a return\nvalue that makes it easy to undo.\n","example_call":"set_hooks(hooks, action = \"append\")"}

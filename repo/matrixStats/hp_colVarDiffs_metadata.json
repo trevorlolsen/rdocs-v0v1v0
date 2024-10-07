@@ -1,0 +1,1 @@
+{"description":"Estimation of scale based on sequential-order differences, corresponding to\nthe scale estimates provided by var,\nsd, mad and\nIQR.\n","example_call":"colVarDiffs(x, rows = NULL, cols = NULL, na.rm = FALSE, diff = 1L,"}

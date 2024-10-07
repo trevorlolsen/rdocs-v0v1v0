@@ -1,0 +1,1 @@
+{"description":"This is a convenience wrapper for description$new().\nVery often you want to read an existing DESCRIPTION\nfile, and to do this you can just supply the path to the file or its\ndirectory to desc().\n","example_call":"desc(cmd = NULL, file = NULL, text = NULL, package = NULL)"}

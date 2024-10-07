@@ -1,0 +1,1 @@
+{"description":"Show a summary of the methods for one or more generic functions,\npossibly restricted to those involving specified classes.\n","example_call":"showMethods(f = character(), where = topenv(parent.frame()), classes = NULL,"}

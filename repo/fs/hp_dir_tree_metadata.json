@@ -1,0 +1,1 @@
+{"description":"Print contents of directories in a tree-like format\n","example_call":"dir_tree(path = \".\", recurse = TRUE, ...)"}

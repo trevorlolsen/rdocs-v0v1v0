@@ -1,0 +1,1 @@
+{"description":"Add locations in the Remotes field in DESCRIPTION\n","example_call":"desc_add_remotes(remotes, file = \".\", normalize = FALSE)"}

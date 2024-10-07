@@ -1,0 +1,1 @@
+{"description":"Load a given URL into an HTML browser.\n","example_call":"browseURL(url, browser = getOption(\"browser\"), encodeIfNeeded = FALSE)"}

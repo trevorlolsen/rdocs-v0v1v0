@@ -1,0 +1,1 @@
+{"description":"This function provides a way to get a list of all the DLLs (see\ndyn.load) that are currently loaded in the R session.\n","example_call":"print.DLLInfo(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"INTERNAL function. Distribution families provide derivatives of the deviance and link w.r.t. mu = inv_link(eta).\nThis routine converts these to the required derivatives of the deviance w.r.t. eta, the linear predictor.\n","example_call":"dDeta(y, mu, wt, theta, fam, deriv = 0)"}

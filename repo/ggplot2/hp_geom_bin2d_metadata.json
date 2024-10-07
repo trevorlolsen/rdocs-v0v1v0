@@ -1,0 +1,1 @@
+{"description":"Divides the plane into rectangles, counts the number of cases in\neach rectangle, and then (by default) maps the number of cases to the\nrectangle's fill. This is a useful alternative to geom_point()\nin the presence of overplotting.\n","example_call":"geom_bin2d(mapping = NULL, data = NULL, stat = \"bin2d\", position = \"identity\","}

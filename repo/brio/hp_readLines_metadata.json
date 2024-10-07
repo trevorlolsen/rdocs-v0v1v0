@@ -1,0 +1,1 @@
+{"description":"This is a drop in replacement for base::readLines() with restricted\nfunctionality. Compared to base::readLines() it:\n","example_call":"readLines(con, n = -1, ok, warn, encoding, skipNul)"}

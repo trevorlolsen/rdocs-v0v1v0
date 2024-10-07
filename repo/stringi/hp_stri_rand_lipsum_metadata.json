@@ -1,0 +1,1 @@
+{"description":"Generates (pseudo)random lorem ipsum text consisting\nof a given number of text paragraphs.\n","example_call":"stri_rand_lipsum(n_paragraphs, start_lipsum = TRUE, nparagraphs = n_paragraphs)"}

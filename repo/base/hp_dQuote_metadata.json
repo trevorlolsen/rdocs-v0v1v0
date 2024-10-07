@@ -1,0 +1,1 @@
+{"description":"Single or double quote text by combining with appropriate single or\ndouble left and right quotation marks.\n","example_call":"dQuote(x, q = getOption(\"useFancyQuotes\"))"}

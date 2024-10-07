@@ -1,0 +1,1 @@
+{"description":"Time intervals creation, printing, and some arithmetic.  The\nprint() method calls these <U+201C>time differences<U+201D>.\n","example_call":"[<-.difftime(x, i, value)"}

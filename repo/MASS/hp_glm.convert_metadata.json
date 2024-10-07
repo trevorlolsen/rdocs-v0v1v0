@@ -1,0 +1,1 @@
+{"description":"This function modifies an output object from glm.nb() to one\nthat looks like the output from glm() with a negative binomial\nfamily.  This allows it to be updated keeping the theta parameter\nfixed.\n","example_call":"glm.convert(object)"}

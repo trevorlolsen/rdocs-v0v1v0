@@ -1,0 +1,1 @@
+{"description":"Checks for R6 class generators and R6 objects.\n","example_call":"is.R6Class(x)"}

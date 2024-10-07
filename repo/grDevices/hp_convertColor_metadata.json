@@ -1,0 +1,1 @@
+{"description":"Convert colours between their representations in standard\ncolour spaces.\n","example_call":"convertColor(color, from, to, from.ref.white = NULL, to.ref.white = NULL,"}

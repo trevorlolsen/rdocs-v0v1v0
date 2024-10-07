@@ -1,0 +1,1 @@
+{"description":"Check an help file or the output of the parse_Rd function.\n","example_call":"checkRd(Rd, defines = .Platform$OS.type, stages = \"render\","}

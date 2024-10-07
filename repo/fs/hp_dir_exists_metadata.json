@@ -1,0 +1,1 @@
+{"description":"file_exists(path) is a shortcut for file_access(x, \"exists\");\ndir_exists(path) and link_exists(path) are similar but also check that\nthe path is a directory or link, respectively. (file_exists(path) returns\nTRUE if path exists and it is a directory.)\n","example_call":"dir_exists(path)"}

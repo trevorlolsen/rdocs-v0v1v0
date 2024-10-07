@@ -1,0 +1,1 @@
+{"description":"Returns the standard errors for one or more contrasts in an aov\nobject.\n","example_call":"se.contrast(object, ...)"}

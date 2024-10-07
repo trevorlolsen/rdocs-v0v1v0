@@ -1,0 +1,1 @@
+{"description":"Select item(s) from a character vector.\n","example_call":"select.list(choices, preselect = NULL, multiple = FALSE, title = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"get_guide_data() builds a plot and extracts information from guide keys. This\ninformation typically contains positions, values and/or labels, depending\non which aesthetic is queried or guide is used.\n","example_call":"get_guide_data(plot = last_plot(), aesthetic, panel = 1L)"}

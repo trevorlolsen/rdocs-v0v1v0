@@ -1,0 +1,1 @@
+{"description":"This function makes an attempt to estimate whether the graphics device is\nable to render newer graphics features.\n","example_call":"check_device(feature, action = \"warn\", op = NULL, maybe = FALSE,"}

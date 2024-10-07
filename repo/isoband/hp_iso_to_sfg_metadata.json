@@ -1,0 +1,1 @@
+{"description":"Convert isolines or isobands to an sf geometry collection (sfg) object. Further downstream\nprocessing needs to happen via the sf package.\n","example_call":"iso_to_sfg(x)"}

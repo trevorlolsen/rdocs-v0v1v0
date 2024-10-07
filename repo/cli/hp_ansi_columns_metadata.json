@@ -1,0 +1,1 @@
+{"description":"This function helps with multi-column output of ANSI styles strings.\nIt works well together with boxx(), see the example below.\n","example_call":"ansi_columns(text, width = console_width(), sep = \" \", fill = c(\"rows\","}

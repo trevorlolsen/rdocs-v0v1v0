@@ -1,0 +1,1 @@
+{"description":"Use this set of scales when your data has already been scaled, i.e. it\nalready represents aesthetic values that ggplot2 can handle directly.\nThese scales will not produce a legend unless you also supply the breaks,\nlabels, and type of guide you want.\n","example_call":"scale_color_identity(name = waiver(), ..., guide = \"none\", aesthetics = \"colour\")"}

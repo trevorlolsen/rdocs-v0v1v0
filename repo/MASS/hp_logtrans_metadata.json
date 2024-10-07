@@ -1,0 +1,1 @@
+{"description":"Find and optionally plot the marginal (profile) likelihood for alpha\nfor a transformation model of the form log(y + alpha) ~ x1 + x2 + ....\n","example_call":"logtrans(object, ...)"}

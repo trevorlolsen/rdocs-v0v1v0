@@ -1,0 +1,1 @@
+{"description":"Computes the (generalized) Akaike An Information\nCriterion for a fitted parametric model.\n","example_call":"extractAIC(fit, scale, k = 2, ...)"}

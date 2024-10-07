@@ -1,0 +1,1 @@
+{"description":"Computes eigenvalues and eigenvectors of numeric (double, integer,\nlogical) or complex matrices.\n","example_call":"eigen(x, symmetric, only.values = FALSE, EISPACK = FALSE)"}

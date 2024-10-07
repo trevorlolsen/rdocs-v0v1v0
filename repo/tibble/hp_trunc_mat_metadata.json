@@ -1,0 +1,1 @@
+{"description":"\nAs of tibble 3.1.0, printing is handled entirely by the pillar package.\nDo not use this function.\nIf you implement a package that extend tibble,\nthe printed output can be customized in various ways.\nSee vignette(\"extending\", package = \"pillar\") for details.\n","example_call":"trunc_mat(x, n = NULL, width = NULL, n_extra = NULL)"}

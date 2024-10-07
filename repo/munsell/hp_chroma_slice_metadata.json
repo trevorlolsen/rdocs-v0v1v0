@@ -1,0 +1,1 @@
+{"description":"Plots slices of the Munsell colour system where chroma is constant.\n","example_call":"chroma_slice(chroma.name = seq(0, 26, by = 2), back.col = \"white\")"}

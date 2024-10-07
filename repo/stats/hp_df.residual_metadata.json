@@ -1,0 +1,1 @@
+{"description":"Returns the residual degrees-of-freedom extracted from a fitted model\nobject.\n","example_call":"df.residual(object, ...)"}

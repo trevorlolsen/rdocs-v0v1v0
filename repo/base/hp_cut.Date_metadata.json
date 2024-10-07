@@ -1,0 +1,1 @@
+{"description":"Method for cut applied to date-time objects.\n","example_call":"cut.Date(x, breaks, labels = NULL, start.on.monday = TRUE, right = FALSE,"}

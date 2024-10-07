@@ -1,0 +1,1 @@
+{"description":"Return the names of smooth terms from a model object.\n","example_call":"find_smooth(x, flatten = FALSE)"}

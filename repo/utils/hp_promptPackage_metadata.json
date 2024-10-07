@@ -1,0 +1,1 @@
+{"description":"Generates a prototype of a package overview help page\nusing Rd macros that dynamically extract information\nfrom package metadata when building the package.\n","example_call":"promptPackage(package, lib.loc = NULL, filename = NULL, name = NULL,"}

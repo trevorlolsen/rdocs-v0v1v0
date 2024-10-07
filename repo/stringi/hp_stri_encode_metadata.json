@@ -1,0 +1,1 @@
+{"description":"These functions convert strings between encodings.\nThey aim to serve as a more portable and faster replacement\nfor R's own iconv.\n","example_call":"stri_encode(str, from = NULL, to = NULL, to_raw = FALSE)"}

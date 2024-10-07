@@ -1,0 +1,1 @@
+{"description":"Generate individual vectors of the types supported by vroom\n","example_call":"gen_date(n, min = as.Date(\"2001-01-01\"), max = as.Date(\"2021-01-01\"),"}

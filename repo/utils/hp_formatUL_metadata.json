@@ -1,0 +1,1 @@
+{"description":"Format unordered (itemize) and ordered (enumerate) lists.\n","example_call":"formatUL(x, label = \"*\", offset = 0, width = 0.9 * getOption(\"width\"))"}

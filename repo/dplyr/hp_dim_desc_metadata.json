@@ -1,0 +1,1 @@
+{"description":"Prints the dimensions of an array-like object in a user-friendly manner,\nsubstituting NA with ?? (for SQL queries).\n","example_call":"dim_desc(x)"}

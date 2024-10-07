@@ -1,0 +1,1 @@
+{"description":"Contains objects imported from other packages. Is the parent of the\npackage namespace environment, and is a child of <U+2060><namespace:base><U+2060>,\nwhich is a child of R_GlobalEnv.\n","example_call":"imports_env(package)"}

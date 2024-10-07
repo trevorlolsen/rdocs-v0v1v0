@@ -1,0 +1,1 @@
+{"description":"is.language returns TRUE if x is a\nvariable name, a call, or an\nexpression.\n","example_call":"is.language(x)"}

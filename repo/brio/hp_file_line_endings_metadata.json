@@ -1,0 +1,1 @@
+{"description":"Retrieve the type of line endings used by a file\n","example_call":"file_line_endings(path)"}

@@ -1,0 +1,1 @@
+{"description":"A yaml handler function that causes logical vectors to emit \ntrue/false instead of yes/no values.\n","example_call":"verbatim_logical(x)"}

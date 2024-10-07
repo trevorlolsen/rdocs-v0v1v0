@@ -1,0 +1,1 @@
+{"description":"Find a GhostScript executable in a cross-platform way.\n","example_call":"find_gs_cmd(gs_cmd = \"\")"}

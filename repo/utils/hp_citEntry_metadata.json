@@ -1,0 +1,1 @@
+{"description":"Old interface providing functionality for specifying bibliographic \ninformation in enhanced BibTeX style.  Since R 2.14.0 this has been \nsuperseded by bibentry.\n","example_call":"citEntry(entry, textVersion = NULL, header = NULL, footer = NULL,"}

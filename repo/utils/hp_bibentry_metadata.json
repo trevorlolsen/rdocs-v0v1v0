@@ -1,0 +1,1 @@
+{"description":"Functionality for representing and manipulating bibliographic\ninformation in enhanced BibTeX style.\n","example_call":"bibentry(bibtype, textVersion = NULL, header = NULL, footer = NULL,"}

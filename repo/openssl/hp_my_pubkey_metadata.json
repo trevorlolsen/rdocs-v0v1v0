@@ -1,0 +1,1 @@
+{"description":"The default user key can be set in the USER_KEY variable and otherwise\nis <U+2060>~/.ssh/id_rsa<U+2060>. Note that on Windows we treat ~ as the windows user\nhome (and not the documents folder).\n","example_call":"my_pubkey()"}

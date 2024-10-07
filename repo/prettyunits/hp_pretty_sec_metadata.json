@@ -1,0 +1,1 @@
+{"description":"Pretty formatting of seconds\n","example_call":"pretty_sec(sec, compact = FALSE)"}

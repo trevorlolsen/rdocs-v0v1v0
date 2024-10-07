@@ -1,0 +1,1 @@
+{"description":"Finds the full file names of files in packages etc.\n","example_call":"system.file(..., package = \"base\", lib.loc = NULL, mustWork = FALSE)"}

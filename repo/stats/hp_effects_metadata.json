@@ -1,0 +1,1 @@
+{"description":"Returns (orthogonal) effects from a fitted model, usually a linear\nmodel. This is a generic function, but currently only has a methods for\nobjects inheriting from classes \"lm\" and \"glm\".\n","example_call":"effects(object, ...)"}

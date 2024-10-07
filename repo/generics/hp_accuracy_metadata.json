@@ -1,0 +1,1 @@
+{"description":"Returns range of summary measures of the forecast accuracy.\n","example_call":"accuracy(object, ...)"}

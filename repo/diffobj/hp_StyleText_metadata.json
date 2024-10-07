@@ -1,0 +1,1 @@
+{"description":"Various character tokens are used throughout diffs to provide visual cues.\nFor example, gutters will contain characters that denote deletions and\ninsertions (< and > by default).\n","example_call":"StyleText(...)"}

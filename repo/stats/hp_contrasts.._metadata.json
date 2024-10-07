@@ -1,0 +1,1 @@
+{"description":"Set and view the contrasts associated with a factor.\n","example_call":"contrasts<-(x, how.many = NULL, value)"}

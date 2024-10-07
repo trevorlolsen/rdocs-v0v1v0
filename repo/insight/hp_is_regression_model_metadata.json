@@ -1,0 +1,1 @@
+{"description":"Small helper that checks if a model is a regression model or\na statistical object. is_regression_model() is stricter and only\nreturns TRUE for regression models, but not for, e.g., htest\nobjects.\n","example_call":"is_regression_model(x)"}

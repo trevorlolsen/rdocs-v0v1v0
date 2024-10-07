@@ -1,0 +1,1 @@
+{"description":"Changes the value of one of the slots of a grob\nand redraws the grob.\n","example_call":"editGrob(grob, gPath = NULL, ..., strict = FALSE, grep = FALSE,"}

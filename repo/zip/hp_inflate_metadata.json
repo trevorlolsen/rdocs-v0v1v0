@@ -1,0 +1,1 @@
+{"description":"Uncompress a raw GZIP stream\n","example_call":"inflate(buffer, pos = 1L, size = NULL)"}

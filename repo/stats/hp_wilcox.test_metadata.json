@@ -1,0 +1,1 @@
+{"description":"Performs one- and two-sample Wilcoxon tests on vectors of data; the\nlatter is also known as <U+2018>Mann-Whitney<U+2019> test.\n","example_call":"wilcox.test(x, ...)"}

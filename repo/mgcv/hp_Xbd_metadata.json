@@ -1,0 +1,1 @@
+{"description":"Routines for computing with discretized model matrices as described in Wood et al. (2017) and Li and Wood (2019).\n","example_call":"Xbd(X, beta, k, ks, ts, dt, v, qc, drop = NULL, lt = NULL)"}

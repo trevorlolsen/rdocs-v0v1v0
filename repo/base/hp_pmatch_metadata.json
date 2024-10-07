@@ -1,0 +1,1 @@
+{"description":"pmatch seeks matches for the elements of its first argument\namong those of its second.\n","example_call":"pmatch(x, table, nomatch = NA_integer_, duplicates.ok = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Grid maintains a tree of viewports <U+2014> nested drawing\ncontexts.\n","example_call":"popViewport(n = 1, recording = TRUE)"}

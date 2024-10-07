@@ -1,0 +1,1 @@
+{"description":"Service accounts provide a way of using OAuth2 without user intervention.\nThey instead assume that the server has access to a private key used\nto sign requests. The OAuth app is not needed for service accounts:\nthat information is embedded in the account itself.\n","example_call":"oauth_service_token(endpoint, secrets, scope = NULL, sub = NULL)"}

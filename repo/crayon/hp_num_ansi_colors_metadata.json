@@ -1,0 +1,1 @@
+{"description":"Certain Unix and Windows terminals, and also certain R GUIs, e.g.\nRStudio, support styling terminal output using special control\nsequences (ANSI sequences).\n","example_call":"num_ansi_colors(stream = \"auto\")"}

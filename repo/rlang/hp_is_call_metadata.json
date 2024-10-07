@@ -1,0 +1,1 @@
+{"description":"This function tests if x is a call. This is a\npattern-matching predicate that returns FALSE if name and n\nare supplied and the call does not match these properties.\n","example_call":"is_call(x, name = NULL, n = NULL, ns = NULL)"}

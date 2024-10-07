@@ -1,0 +1,1 @@
+{"description":"The stream_in and stream_out functions implement line-by-line processing\nof JSON data over a connection, such as a socket, url, file or pipe. JSON\nstreaming requires the ndjson format, which slightly differs\nfrom fromJSON() and toJSON(), see details.\n","example_call":"stream_in(con, handler = NULL, pagesize = 500, verbose = TRUE,"}

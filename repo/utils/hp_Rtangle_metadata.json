@@ -1,0 +1,1 @@
+{"description":"A driver for Stangle that extracts R code chunks.\nNotably all RtangleSetup() arguments may be used as arguments\nin the Stangle() call.\n","example_call":"Rtangle()"}

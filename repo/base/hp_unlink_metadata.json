@@ -1,0 +1,1 @@
+{"description":"unlink deletes the file(s) or directories specified by x.\n","example_call":"unlink(x, recursive = FALSE, force = FALSE, expand = TRUE)"}

@@ -1,0 +1,1 @@
+{"description":"Computes the sample mean of all or a subset of values.\n","example_call":"mean2(x, idxs = NULL, na.rm = FALSE, refine = TRUE, ...)"}

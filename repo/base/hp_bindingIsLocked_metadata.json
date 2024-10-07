@@ -1,0 +1,1 @@
+{"description":"These functions represent an interface for adjustments\nto environments and bindings within environments.  They allow for\nlocking environments as well as individual bindings, and for linking\na variable to a function.\n","example_call":"bindingIsLocked(sym, env)"}

@@ -1,0 +1,1 @@
+{"description":"Adaptive quadrature of functions of one variable over a finite or\ninfinite interval.\n","example_call":"integrate(f, lower, upper, ..., subdivisions = 100L, rel.tol = .Machine$double.eps^0.25,"}

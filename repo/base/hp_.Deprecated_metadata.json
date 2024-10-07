@@ -1,0 +1,1 @@
+{"description":"When an object is about to be removed from R it is first deprecated and\nshould include a call to .Deprecated.\n","example_call":".Deprecated(new, package = NULL, msg, old = as.character(sys.call(sys.parent()))[1L])"}

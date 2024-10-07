@@ -1,0 +1,1 @@
+{"description":"This is the default panel function for qqmath.\n","example_call":"panel.qqmath(x, f.value = NULL, distribution = qnorm, qtype = 7,"}

@@ -1,0 +1,1 @@
+{"description":"Turn unevaluated expressions into character strings.\n","example_call":"deparse(expr, width.cutoff = 60L, backtick = mode(expr) %in%"}

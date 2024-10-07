@@ -1,0 +1,1 @@
+{"description":"This function \"cleans\" names of model terms (or a character\nvector with such names) by removing patterns like log() or\nas.factor() etc.\n","example_call":"clean_names(x, ...)"}

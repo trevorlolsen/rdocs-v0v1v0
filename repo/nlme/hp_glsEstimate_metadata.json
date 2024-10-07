@@ -1,0 +1,1 @@
+{"description":"These are functions used by gls to call its compiled C\ncode. They are exported to allow experimentation with modified versions.\n","example_call":"glsEstimate(object, conLin = attr(object, \"conLin\"), control = list(singular.ok = FALSE))"}

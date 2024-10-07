@@ -1,0 +1,1 @@
+{"description":"Estimation of GAM smoothing parameters is most stable if\noptimization of the UBRE/AIC, GCV, GACV, REML or ML score is outer to the penalized iteratively\nre-weighted least squares scheme used to estimate the model given smoothing \nparameters.\n","example_call":"gam.fit3(x, y, sp, Eb, UrS = list(), weights = rep(1, nobs),"}

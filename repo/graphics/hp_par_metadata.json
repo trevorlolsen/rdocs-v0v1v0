@@ -1,0 +1,1 @@
+{"description":"par can be used to set or query graphical parameters.\nParameters can be set by specifying them as arguments to par in\ntag = value form, or by passing them as a list of tagged\nvalues.\n","example_call":"par(..., no.readonly = FALSE)"}

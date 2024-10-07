@@ -1,0 +1,1 @@
+{"description":"expand_grid() is heavily motivated by expand.grid().\nCompared to expand.grid(), it:\n","example_call":"expand_grid(..., .name_repair = \"check_unique\")"}

@@ -1,0 +1,1 @@
+{"description":"These functions provide several ways to parallelize computations using\na cluster.\n","example_call":"parSapplyLB(cl = NULL, X, FUN, ..., simplify = TRUE, USE.NAMES = TRUE,"}

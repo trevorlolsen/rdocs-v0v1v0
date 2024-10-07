@@ -1,0 +1,1 @@
+{"description":"This function evaluates the provided R code, call, or expression with various\nsettings in place to configure behavior. The function is intended to be used\nby the webR evalR API, rather than invoked directly by the end user.\n","example_call":"eval_r(expr, conditions = TRUE, streams = FALSE, autoprint = FALSE,"}

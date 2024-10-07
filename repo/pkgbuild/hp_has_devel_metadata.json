@@ -1,0 +1,1 @@
+{"description":"These functions check if a small C file can be compiled, linked, loaded\nand executed.\n","example_call":"has_devel(debug = FALSE, quiet = FALSE)"}

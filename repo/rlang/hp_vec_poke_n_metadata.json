@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"vec_poke_n(x, start, y, from = 1L, n = length(y))"}

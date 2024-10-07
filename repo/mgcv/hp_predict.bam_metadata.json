@@ -1,0 +1,1 @@
+{"description":" In most cases essentially a wrapper for predict.gam for prediction from a \nmodel fitted by bam. Can compute on a parallel cluster. For models fitted using discrete\nmethods with discrete=TRUE then discrete prediction methods are used instead. \n","example_call":"predict.bam(object, newdata, type = \"link\", se.fit = FALSE, terms = NULL,"}

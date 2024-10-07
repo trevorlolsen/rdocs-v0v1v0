@@ -1,0 +1,1 @@
+{"description":"This function evaluates the given character string as JavaScript code. The\nresult is returned as an integer.\n","example_call":"eval_js(code)"}

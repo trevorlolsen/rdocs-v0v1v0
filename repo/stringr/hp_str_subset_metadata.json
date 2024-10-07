@@ -1,0 +1,1 @@
+{"description":"str_subset() returns all elements of string where there's at least\none match to pattern. It's a wrapper around x[str_detect(x, pattern)],\nand is equivalent to grep(pattern, x, value = TRUE).\n","example_call":"str_subset(string, pattern, negate = FALSE)"}

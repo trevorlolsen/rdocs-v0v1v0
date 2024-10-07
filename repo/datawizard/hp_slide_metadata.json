@@ -1,0 +1,1 @@
+{"description":"This functions shifts the value range of a numeric variable, so that the\nnew range starts at a given value.\n","example_call":"slide(x, ...)"}

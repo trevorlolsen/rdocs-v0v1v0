@@ -1,0 +1,1 @@
+{"description":"These functions are deprecated in favor of the strtrim_ctl flavors.\n","example_call":"strtrim_sgr(x, width, warn = getOption(\"fansi.warn\", TRUE), normalize = getOption(\"fansi.normalize\","}

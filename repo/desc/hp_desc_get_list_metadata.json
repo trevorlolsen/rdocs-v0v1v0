@@ -1,0 +1,1 @@
+{"description":"desc_get_list() parses a comma separated list into a character\nvector.\n","example_call":"desc_get_list(key, default = stop(\"Field '\", key, \"' not found\"),"}

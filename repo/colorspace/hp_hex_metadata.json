@@ -1,0 +1,1 @@
+{"description":"This functions converts color-class objects into hexadecimal strings.\n","example_call":"hex(from, gamma = NULL, fixup = FALSE)"}

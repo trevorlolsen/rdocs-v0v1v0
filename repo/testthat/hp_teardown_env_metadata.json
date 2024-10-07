@@ -1,0 +1,1 @@
+{"description":"This environment has no purpose other than as a handle for withr::defer():\nuse it when you want to run code after all tests have been run.\nTypically, you'll use withr::defer(cleanup(), teardown_env())\nimmediately after you've made a mess in a <U+2060>setup-*.R<U+2060> file.\n","example_call":"teardown_env()"}

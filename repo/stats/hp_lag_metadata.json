@@ -1,0 +1,1 @@
+{"description":"Compute a lagged version of a time series, shifting the time base\nback by a given number of observations.\n","example_call":"lag(x, ...)"}

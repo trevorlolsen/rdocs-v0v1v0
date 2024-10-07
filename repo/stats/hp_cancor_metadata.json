@@ -1,0 +1,1 @@
+{"description":"Compute the canonical correlations between two data matrices.\n","example_call":"cancor(x, y, xcenter = TRUE, ycenter = TRUE)"}

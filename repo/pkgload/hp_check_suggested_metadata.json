@@ -1,0 +1,1 @@
+{"description":"Check that the version of an suggested package satisfies the requirements\n","example_call":"check_suggested(package, version = NULL, compare = NA, path = inst(\"pkgload\"))"}

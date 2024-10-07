@@ -1,0 +1,1 @@
+{"description":"substitute returns the parse tree for the (unevaluated)\nexpression expr, substituting any variables bound in\nenv.\n","example_call":"substitute(expr, env)"}

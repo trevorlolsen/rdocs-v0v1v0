@@ -1,0 +1,1 @@
+{"description":"Note that this function is currently experimental!\n","example_call":"cli_progress_along(x, name = NULL, total = length(x), ..., .envir = parent.frame())"}

@@ -1,0 +1,1 @@
+{"description":"Scale bytes into human friendly units. Can use either SI units (e.g.\nkB = 1000 bytes) or binary units (e.g. kiB = 1024 bytes). See\nUnits of Information\non Wikipedia for more details.\n","example_call":"label_bytes(units = \"auto_si\", accuracy = 1, scale = 1, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Build a block diagonal matrix given several building block matrices.\n","example_call":".bdiag(lst)"}

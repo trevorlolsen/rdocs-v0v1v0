@@ -1,0 +1,1 @@
+{"description":"Convenient function that formats columns in data frames with color codes,\nwhere the color is chosen based on certain conditions. Columns are then\nprinted in color in the console.\n","example_call":"color_if(x, columns, predicate = `>`, value = 0, color_if = \"green\","}

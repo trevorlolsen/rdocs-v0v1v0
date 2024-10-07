@@ -1,0 +1,1 @@
+{"description":"This function takes a vector of strings of the form \"#RRGGBB\"\n(hexadecimal color descriptions) into sRGB objects.\n","example_call":"hex2RGB(x, gamma = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Sys.time and Sys.Date returns the system's idea of the\ncurrent date with and without time.\n","example_call":"Sys.time()"}

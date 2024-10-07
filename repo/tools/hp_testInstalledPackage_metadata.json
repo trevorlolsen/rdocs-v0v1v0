@@ -1,0 +1,1 @@
+{"description":"These functions allow an installed package to be tested, or all base\nand recommended packages.\n","example_call":"testInstalledPackage(pkg, lib.loc = NULL, outDir = \".\", types = c(\"examples\","}

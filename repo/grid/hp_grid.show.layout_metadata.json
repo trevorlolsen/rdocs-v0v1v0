@@ -1,0 +1,1 @@
+{"description":"This function uses Grid graphics to draw a diagram of a\nGrid layout.\n","example_call":"grid.show.layout(l, newpage = TRUE, vp.ex = 0.8, bg = \"light grey\","}

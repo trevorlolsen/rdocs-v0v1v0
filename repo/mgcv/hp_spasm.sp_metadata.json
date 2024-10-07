@@ -1,0 +1,1 @@
+{"description":"These are experimental sparse smoothing functions, and should \nbe left well alone!\n","example_call":"spasm.sp(object, sp, w = rep(1, object$nobs), get.trH = TRUE,"}

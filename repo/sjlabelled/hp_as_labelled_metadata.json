@@ -1,0 +1,1 @@
+{"description":"Converts a (labelled) vector of any class into a labelled\nclass vector, resp. adds a labelled class-attribute.\n","example_call":"as_labelled(x, add.labels = FALSE, add.class = FALSE, skip.strings = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"Defines a print method for functions, in the current session, that supports\nsyntax highlighting.\n","example_call":"pretty_print_code()"}

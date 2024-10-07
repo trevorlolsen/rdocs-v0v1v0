@@ -1,0 +1,1 @@
+{"description":"Generic function to sort an object in the order determined by one or\nmore other objects, typically vectors. A method is defined for data\nframes to sort its rows (typically by one or more columns), and the\ndefault method handles vector-like objects.\n","example_call":"sort_by.default(x, y, ...)"}

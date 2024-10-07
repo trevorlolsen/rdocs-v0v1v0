@@ -1,0 +1,1 @@
+{"description":"Initialize a vector\n","example_call":"vec_init(x, n = 1L)"}

@@ -1,0 +1,1 @@
+{"description":"Solves a triangular system of linear equations.\n","example_call":"backsolve(r, x, k = ncol(r), upper.tri = TRUE, transpose = FALSE)"}

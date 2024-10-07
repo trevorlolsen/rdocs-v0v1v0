@@ -1,0 +1,1 @@
+{"description":"Generates inverse Gaussian random deviates.\n","example_call":"rig(n, mean, scale)"}

@@ -1,0 +1,1 @@
+{"description":"Return superclasses of ClassDef, possibly only non-virtual or\ndirect or simple ones.\n","example_call":"selectSuperClasses(Class, dropVirtual = FALSE, namesOnly = TRUE, directOnly = TRUE,"}

@@ -1,0 +1,1 @@
+{"description":"parse() returns the parsed but unevaluated expressions in an\nexpression, a <U+201C>list<U+201D> of calls.\n","example_call":"str2lang(s)"}

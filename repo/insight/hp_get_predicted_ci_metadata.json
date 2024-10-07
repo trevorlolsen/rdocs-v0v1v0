@@ -1,0 +1,1 @@
+{"description":"Confidence intervals around predicted values\n","example_call":"get_predicted_ci(x, ...)"}

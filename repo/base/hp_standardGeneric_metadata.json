@@ -1,0 +1,1 @@
+{"description":"The function standardGeneric initiates dispatch of S4\nmethods: see the references and the documentation of the\nmethods package.  Usually, calls to this function are\ngenerated automatically and not explicitly by the programmer.\n","example_call":"standardGeneric(f, fdef)"}

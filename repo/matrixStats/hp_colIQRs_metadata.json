@@ -1,0 +1,1 @@
+{"description":"Estimates of the interquartile range for each row (column) in a matrix.\n","example_call":"colIQRs(x, rows = NULL, cols = NULL, na.rm = FALSE, ..., useNames = TRUE)"}

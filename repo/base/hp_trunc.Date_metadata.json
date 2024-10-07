@@ -1,0 +1,1 @@
+{"description":"Round or truncate date-time objects.\n","example_call":"trunc.Date(x, units = c(\"secs\", \"mins\", \"hours\", \"days\", \"months\","}

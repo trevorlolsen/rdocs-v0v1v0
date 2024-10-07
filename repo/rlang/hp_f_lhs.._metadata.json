@@ -1,0 +1,1 @@
+{"description":"f_rhs extracts the righthand side, f_lhs extracts the lefthand\nside, and f_env extracts the environment. All functions throw an\nerror if f is not a formula.\n","example_call":"f_lhs<-(x, value)"}

@@ -1,0 +1,1 @@
+{"description":"Compute the power of the two-sample test for proportions, or determine\nparameters to obtain a target power.\n","example_call":"power.prop.test(n = NULL, p1 = NULL, p2 = NULL, sig.level = 0.05, power = NULL,"}

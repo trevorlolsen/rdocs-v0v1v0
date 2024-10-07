@@ -1,0 +1,1 @@
+{"description":"This function is a constructor for the corCAR1 class,\nrepresenting an autocorrelation structure of order 1, with a\ncontinuous time covariate. Objects created using this constructor must\nbe later initialized using the appropriate Initialize\nmethod.  \n","example_call":"corCAR1(value = 0.2, form = ~1, fixed = FALSE)"}

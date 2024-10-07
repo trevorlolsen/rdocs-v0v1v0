@@ -1,0 +1,1 @@
+{"description":"Create a vector of n contiguous colors.\n","example_call":"hcl.pals(type = NULL)"}

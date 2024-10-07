@@ -1,0 +1,1 @@
+{"description":"These functions bypass R's automatic conversion rules and check\nthat x is literally TRUE or FALSE.\n","example_call":"is_true(x)"}

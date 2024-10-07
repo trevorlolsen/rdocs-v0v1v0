@@ -1,0 +1,1 @@
+{"description":"Checks if model has an intercept.\n","example_call":"has_intercept(x, verbose = TRUE)"}

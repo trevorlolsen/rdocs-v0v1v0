@@ -1,0 +1,1 @@
+{"description":"Delete the dimensions of an array which have only one level.\n","example_call":"drop(x)"}

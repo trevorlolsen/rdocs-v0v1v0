@@ -1,0 +1,1 @@
+{"description":"These functions can be used to automatically compare the version\nnumbers of installed packages with the newest available version on\nthe repositories and update outdated packages on the fly.\n","example_call":"download.packages(pkgs, destdir, available = NULL, repos = getOption(\"repos\"),"}

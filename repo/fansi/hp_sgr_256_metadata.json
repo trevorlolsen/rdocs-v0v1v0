@@ -1,0 +1,1 @@
+{"description":"Generates text with each 8 bit SGR code (e.g. the \"###\" in \"38;5;###\") with\nthe background colored by itself, and the foreground in a contrasting color\nand interesting color (we sacrifice some contrast for interest as this is\nintended for demo rather than reference purposes).\n","example_call":"sgr_256()"}

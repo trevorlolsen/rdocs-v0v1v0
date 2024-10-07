@@ -1,0 +1,1 @@
+{"description":"read.socket reads a string from the specified socket,\nwrite.socket writes to the specified socket.  There is very\nlittle error checking done by either.\n","example_call":"write.socket(socket, string)"}

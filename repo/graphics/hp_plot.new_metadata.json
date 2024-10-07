@@ -1,0 +1,1 @@
+{"description":"This function (frame is an alias for\nplot.new) causes the completion of plotting in the current plot\n(if there is one) and an advance to a new graphics frame.  This is\nused in all high-level plotting functions and also useful for skipping\nplots when a multi-figure region is in use.\n","example_call":"plot.new()"}

@@ -1,0 +1,1 @@
+{"description":"This function reports the time spent in garbage collection so far in\nthe R session while GC timing was enabled.\n","example_call":"gc.time(on = TRUE)"}

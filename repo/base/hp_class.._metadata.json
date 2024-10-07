@@ -1,0 +1,1 @@
+{"description":"R possesses a simple generic function mechanism which can be used for\nan object-oriented style of programming.  Method dispatch takes place\nbased on the class of the first argument to the generic function.\n","example_call":"class<-(x, value)"}

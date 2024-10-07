@@ -1,0 +1,1 @@
+{"description":"\nThis function has been superseded in readr and moved to the meltr package.\n","example_call":"melt_csv2(file, locale = default_locale(), na = c(\"\", \"NA\"),"}

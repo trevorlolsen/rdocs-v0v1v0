@@ -1,0 +1,1 @@
+{"description":"Beginning with R version 1.8.0, the class of an object contains the\nidentification of the package in which the class is defined.  The\nfunction fixPre1.8 fixes and re-assigns objects missing that information\n(typically because they were loaded from a file saved with a previous\nversion of R.)\n","example_call":"fixPre1.8(names, where = topenv(parent.frame()))"}

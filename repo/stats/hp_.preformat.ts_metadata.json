@@ -1,0 +1,1 @@
+{"description":"Notably for calendar related time series objects,  \nformat and print methods showing years,\nmonths and or quarters respectively.\n","example_call":".preformat.ts(x, calendar, ...)"}

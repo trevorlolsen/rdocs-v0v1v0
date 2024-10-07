@@ -1,0 +1,1 @@
+{"description":"It returns FALSE if the process has already finished.\n","example_call":"ps_is_running(p = ps_handle())"}

@@ -1,0 +1,1 @@
+{"description":"This is a specialised guide used in coord_radial() to represent the theta\nposition scale.\n","example_call":"guide_axis_theta(title = waiver(), theme = NULL, angle = waiver(), minor.ticks = FALSE,"}

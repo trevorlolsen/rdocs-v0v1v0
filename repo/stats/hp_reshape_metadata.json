@@ -1,0 +1,1 @@
+{"description":"This function reshapes a data frame between <U+2018>wide<U+2019> format (with\nrepeated measurements in separate columns of the same row) and\n<U+2018>long<U+2019> format (with the repeated measurements in separate\nrows).\n","example_call":"reshape(data, varying = NULL, v.names = NULL, timevar = \"time\","}

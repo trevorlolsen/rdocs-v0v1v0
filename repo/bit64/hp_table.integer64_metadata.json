@@ -1,0 +1,1 @@
+{"description":"table.integer64 uses the cross-classifying integer64 vectors to build a contingency\ntable of the counts at each combination of vector values.\n","example_call":"table.integer64(..., return = c(\"table\", \"data.frame\", \"list\"), order = c(\"values\","}

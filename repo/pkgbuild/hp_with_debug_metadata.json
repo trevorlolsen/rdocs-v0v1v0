@@ -1,0 +1,1 @@
+{"description":"Temporarily set debugging compilation flags.\n","example_call":"with_debug(code, CFLAGS = NULL, CXXFLAGS = NULL, FFLAGS = NULL,"}

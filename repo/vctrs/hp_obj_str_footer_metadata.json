@@ -1,0 +1,1 @@
+{"description":"These are constructed to be more easily extensible since you can override\nthe <U+2060>_header()<U+2060>, <U+2060>_data()<U+2060> or <U+2060>_footer()<U+2060> components individually. The\ndefault methods are built on top of format().\n","example_call":"obj_str_footer(x, ...)"}

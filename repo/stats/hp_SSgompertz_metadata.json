@@ -1,0 +1,1 @@
+{"description":"This selfStart model evaluates the Gompertz growth model\nand its gradient.  It has an initial attribute that\ncreates initial estimates of the parameters Asym,\nb2, and b3.\n","example_call":"SSgompertz(x, Asym, b2, b3)"}

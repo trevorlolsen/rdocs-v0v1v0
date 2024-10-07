@@ -1,0 +1,1 @@
+{"description":"A rcrd behaves like a vector, so length(), names(), and $ can\nnot provide access to the fields of the underlying list. These helpers do:\nfields() is equivalent to names(); n_fields() is equivalent to\nlength(); field() is equivalent to $.\n","example_call":"fields(x)"}

@@ -1,0 +1,1 @@
+{"description":"These functions extract all substrings matching a given pattern.\n","example_call":"stri_extract(str, ..., regex, fixed, coll, charclass, mode = c(\"first\","}

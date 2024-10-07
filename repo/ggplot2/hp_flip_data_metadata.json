@@ -1,0 +1,1 @@
+{"description":"These functions are what underpins the ability of certain geoms to work\nautomatically in both directions. See the Extending ggplot2 vignette for\nhow they are used when implementing Geom, Stat, and Position classes.\n","example_call":"flip_data(data, flip = NULL)"}

@@ -1,0 +1,1 @@
+{"description":"\ntop_n() has been superseded in favour of slice_min()/slice_max().\nWhile it will not be deprecated in the near future, retirement means\nthat we will only perform critical bug fixes, so we recommend moving to the\nnewer alternatives.\n","example_call":"top_frac(x, n, wt)"}

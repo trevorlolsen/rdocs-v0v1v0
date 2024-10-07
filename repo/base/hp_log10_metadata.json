@@ -1,0 +1,1 @@
+{"description":"log computes logarithms, by default natural logarithms,\nlog10 computes common (i.e., base 10) logarithms, and\nlog2 computes binary (i.e., base 2) logarithms.\nThe general form log(x, base) computes logarithms with base\nbase.\n","example_call":"log10(x)"}

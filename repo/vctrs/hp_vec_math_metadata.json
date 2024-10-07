@@ -1,0 +1,1 @@
+{"description":"This generic provides a common dispatch mechanism for all regular unary\nmathematical functions. It is used as a common wrapper around many of the\nSummary group generics, the Math group generics, and a handful of other\nmathematical functions like mean() (but not var() or sd()).\n","example_call":"vec_math(.fn, .x, ...)"}

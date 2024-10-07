@@ -1,0 +1,1 @@
+{"description":"readline reads a line from the terminal (in interactive use).\n","example_call":"readline(prompt = \"\")"}

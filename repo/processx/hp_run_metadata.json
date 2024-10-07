@@ -1,0 +1,1 @@
+{"description":"run provides an interface similar to base::system() and\nbase::system2(), but based on the process class. This allows some\nextra features, see below.\n","example_call":"run(command = NULL, args = character(), error_on_status = TRUE,"}

@@ -1,0 +1,1 @@
+{"description":"pack() coerces dense symmetric and dense triangular matrices\nfrom unpacked format (storing the full matrix) to packed format\n(storing only one of the upper and lower triangles).  unpack()\nperforms the reverse coercion. The two formats are formalized\nby the virtual classes \"packedMatrix\" and\n\"unpackedMatrix\".\n","example_call":"unpack(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":" Uses Lanczos iteration to find the truncated eigen-decomposition of a symmetric matrix. \n","example_call":"slanczos(A, k = 10, kl = -1, tol = .Machine$double.eps^0.5,"}

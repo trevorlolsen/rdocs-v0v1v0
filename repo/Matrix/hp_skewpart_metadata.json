@@ -1,0 +1,1 @@
+{"description":"symmpart(x) computes the symmetric part (x + t(x))/2 and\nskewpart(x) the\nskew symmetric part (x - t(x))/2 of a square matrix x,\nmore efficiently for specific Matrix classes.\n","example_call":"skewpart(x)"}

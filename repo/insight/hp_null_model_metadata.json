@@ -1,0 +1,1 @@
+{"description":"This function computes the null-model (i.e. (y ~ 1)) of\na model. For mixed models, the null-model takes random effects into account.\n","example_call":"null_model(model, verbose = TRUE, ...)"}

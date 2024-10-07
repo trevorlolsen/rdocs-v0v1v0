@@ -1,0 +1,1 @@
+{"description":" Extracts the leading diagonal of the influence matrix (hat\nmatrix) of a fitted gam object.\n","example_call":"influence.gam(model, ...)"}

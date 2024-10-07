@@ -1,0 +1,1 @@
+{"description":"Extract the estimated standard deviation of the errors, the\n<U+201C>residual standard deviation<U+201D> (misnamed also\n<U+201C>residual standard error<U+201D>, e.g., in\nsummary.lm()'s output, from a fitted model).\n","example_call":"sigma(object, ...)"}

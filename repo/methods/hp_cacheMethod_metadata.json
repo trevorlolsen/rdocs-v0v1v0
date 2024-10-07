@@ -1,0 +1,1 @@
+{"description":"These are internal support routines for computations on formal methods.\n","example_call":"cacheMethod(f, sig, def, args = names(sig), fdef, inherited = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"This only works in terminal emulators. In other environments, it\ndoes nothing.\n","example_call":"ansi_with_hidden_cursor(expr, stream = \"auto\")"}

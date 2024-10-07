@@ -1,0 +1,1 @@
+{"description":"These are various functions to support the definition and use of\nformal classes.  Most of them are rarely suitable to be called\ndirectly.\n","example_call":"showClass(Class, complete = TRUE, propertiesAreCalled = \"Slots\")"}

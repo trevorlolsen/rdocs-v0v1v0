@@ -1,0 +1,1 @@
+{"description":"Parses expressions in the given file, and then successively evaluates\nthem in the specified environment.\n","example_call":"sys.source(file, envir = baseenv(), chdir = FALSE, keep.source = getOption(\"keep.source.pkgs\"),"}

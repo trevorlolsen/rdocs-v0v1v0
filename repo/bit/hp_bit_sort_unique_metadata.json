@@ -1,0 +1,1 @@
+{"description":"fast combination of sort and unique for integers\n","example_call":"bit_sort_unique(x, decreasing = FALSE, na.last = NA, has.dup = TRUE,"}

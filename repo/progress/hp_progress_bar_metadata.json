@@ -1,0 +1,1 @@
+{"description":"Progress bars are configurable, may include percentage, elapsed time,\nand/or the estimated completion time. They work in the command line,\nin Emacs and in R Studio. The progress package was heavily influenced by\nhttps://github.com/tj/node-progress\n","example_call":"NULL"}

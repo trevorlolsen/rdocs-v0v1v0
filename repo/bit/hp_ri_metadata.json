@@ -1,0 +1,1 @@
+{"description":"A range index can be used to extract or replace a continuous ascending part\nof the data\n","example_call":"ri(from, to = NULL, maxindex = NA)"}

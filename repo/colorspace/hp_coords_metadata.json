@@ -1,0 +1,1 @@
+{"description":"This function returns a matrix with three columns which give the coordinates\nof a color in its natural color space.\n","example_call":"coords(color)"}

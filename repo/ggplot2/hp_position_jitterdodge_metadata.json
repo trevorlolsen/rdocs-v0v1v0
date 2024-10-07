@@ -1,0 +1,1 @@
+{"description":"This is primarily used for aligning points generated through\ngeom_point() with dodged boxplots (e.g., a geom_boxplot() with\na fill aesthetic supplied).\n","example_call":"position_jitterdodge(jitter.width = NULL, jitter.height = 0, dodge.width = 0.75,"}

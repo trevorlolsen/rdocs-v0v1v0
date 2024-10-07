@@ -1,0 +1,1 @@
+{"description":"Insert new rows in a gtable and adjust the grob placement accordingly. If\nrows are added in the middle of a grob spanning multiple rows, the grob will\ncontinue to span them all. If a row is added above or below a grob, the grob\nwill not span the new row(s).\n","example_call":"gtable_add_rows(x, heights, pos = -1)"}

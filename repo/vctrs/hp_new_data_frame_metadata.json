@@ -1,0 +1,1 @@
+{"description":"new_data_frame() constructs a new data frame from an existing list. It is\nmeant to be performant, and does not check the inputs for correctness in any\nway. It is only safe to use after a call to df_list(), which collects and\nvalidates the columns used to construct the data frame.\n","example_call":"new_data_frame(x = list(), n = NULL, ..., class = NULL)"}

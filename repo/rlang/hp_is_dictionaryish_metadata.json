@@ -1,0 +1,1 @@
+{"description":"Like is_named() but also checks that names are unique.\n","example_call":"is_dictionaryish(x)"}

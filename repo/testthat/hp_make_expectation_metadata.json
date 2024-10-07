@@ -1,0 +1,1 @@
+{"description":"This a convenience function to make a expectation that checks that\ninput stays the same.\n","example_call":"make_expectation(x, expectation = \"equals\")"}

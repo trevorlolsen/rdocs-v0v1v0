@@ -1,0 +1,1 @@
+{"description":"It's not obvious how to turn authentication off after using it, so\nI recommend using custom handles with authentication.\n","example_call":"authenticate(user, password, type = \"basic\")"}

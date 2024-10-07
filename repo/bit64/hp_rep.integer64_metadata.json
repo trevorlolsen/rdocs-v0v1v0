@@ -1,0 +1,1 @@
+{"description":"Replicate elements of integer64 vectors\n","example_call":"rep.integer64(x, ...)"}

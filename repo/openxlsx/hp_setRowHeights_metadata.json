@@ -1,0 +1,1 @@
+{"description":"Set worksheet row heights\n","example_call":"setRowHeights(wb, sheet, rows, heights, fontsize = NULL, factor = 1,"}

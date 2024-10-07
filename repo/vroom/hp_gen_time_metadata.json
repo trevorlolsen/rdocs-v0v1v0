@@ -1,0 +1,1 @@
+{"description":"Generate individual vectors of the types supported by vroom\n","example_call":"gen_time(n, min = 0, max = hms::hms(days = 1), fractional = FALSE,"}

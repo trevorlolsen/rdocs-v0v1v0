@@ -1,0 +1,1 @@
+{"description":"On Unix the supervisor sends a SIGTERM signal to all supervised\nprocesses, and gives them five seconds to quit, before sending a\nSIGKILL signal. Then the supervisor itself terminates.\n","example_call":"supervisor_kill()"}

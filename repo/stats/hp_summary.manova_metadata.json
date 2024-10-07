@@ -1,0 +1,1 @@
+{"description":"A summary method for class \"manova\".\n","example_call":"summary.manova(object, test = c(\"Pillai\", \"Wilks\", \"Hotelling-Lawley\","}

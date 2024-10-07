@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the Poisson distribution with parameter lambda.\n","example_call":"qpois(p, lambda, lower.tail = TRUE, log.p = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Creates a modified version of .f that always succeeds. It returns a list\nwith components result and error. If the function succeeds, result\ncontains the returned value and error is NULL. If an error occurred,\nerror is an error object and result is either NULL or otherwise.\n","example_call":"safely(.f, otherwise = NULL, quiet = TRUE)"}

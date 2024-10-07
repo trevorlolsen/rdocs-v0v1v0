@@ -1,0 +1,1 @@
+{"description":"This is the reference manual of the three functions that create,\nupdate and terminate progress bars. For a tutorial see the\ncli progress bars.\n","example_call":"cli_progress_update(inc = NULL, set = NULL, total = NULL, status = NULL,"}

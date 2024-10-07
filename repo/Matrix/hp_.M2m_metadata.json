@@ -1,0 +1,1 @@
+{"description":"<U+201C>Semi-API<U+201D> functions used internally by Matrix,\noften to bypass S4 dispatch and avoid the associated overhead.\nThese are exported to provide this capability to expert users.\nTypical users should continue to rely on S4 generic functions\nto dispatch suitable methods, by calling,\ne.g., as(., <class>) for coercions.\n","example_call":".M2m(from)"}

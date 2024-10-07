@@ -1,0 +1,1 @@
+{"description":"Set all package dependencies in DESCRIPTION\n","example_call":"desc_set_deps(deps, file = \".\", normalize = FALSE)"}

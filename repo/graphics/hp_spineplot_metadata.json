@@ -1,0 +1,1 @@
+{"description":"Spine plots are a special cases of mosaic plots, and can be seen as\na generalization of stacked (or highlighted) bar plots. Analogously,\nspinograms are an extension of histograms.\n","example_call":"spineplot(x, ...)"}

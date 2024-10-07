@@ -1,0 +1,1 @@
+{"description":"Compute derivatives of simple expressions, symbolically and algorithmically.\n","example_call":"deriv3(expr, ...)"}

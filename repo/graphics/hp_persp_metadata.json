@@ -1,0 +1,1 @@
+{"description":"This function draws perspective plots of a surface over the\nx<U+2013>y plane.  persp is a generic function.\n","example_call":"persp(x, ...)"}

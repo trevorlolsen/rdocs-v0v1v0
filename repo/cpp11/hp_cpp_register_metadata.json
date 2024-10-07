@@ -1,0 +1,1 @@
+{"description":"Functions decorated with <U+2060>[[cpp11::register]]<U+2060> in files ending in .cc,\n.cpp, .h or .hpp will be wrapped in generated code and registered to\nbe called from R.\n","example_call":"cpp_register(path = \".\", quiet = !is_interactive(), extension = c(\".cpp\","}

@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"cbreaks(range, breaks = extended_breaks(), labels = scientific_format())"}

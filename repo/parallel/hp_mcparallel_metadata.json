@@ -1,0 +1,1 @@
+{"description":"These functions are based on forking and so are not available on Windows.\n","example_call":"mcparallel(expr, name, mc.set.seed = TRUE, silent = FALSE, mc.affinity = NULL,"}

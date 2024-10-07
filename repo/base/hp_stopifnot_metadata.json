@@ -1,0 +1,1 @@
+{"description":"If any of the expressions (in ... or exprs) are not\nall TRUE, stop is called, producing\nan error message indicating the first expression which was not\n(all) true.\n","example_call":"stopifnot(..., exprs, exprObject, local = TRUE)"}

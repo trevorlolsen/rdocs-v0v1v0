@@ -1,0 +1,1 @@
+{"description":"Reads the position of the graphics cursor when the (first) mouse\nbutton is pressed.\n","example_call":"locator(n = 512, type = \"n\", ...)"}

@@ -1,0 +1,1 @@
+{"description":"When ... arguments are passed to methods, it is assumed there\nmethod will match and use these arguments. If this isn't the case,\nthis often indicates a programming error. Call check_dots_used()\nto fail with an error when unused arguments are detected.\n","example_call":"check_dots_used(env = caller_env(), call = caller_env(), error = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"A call of gc causes a garbage collection to take place.\ngcinfo sets a flag so that\nautomatic collection is either silent (verbose = FALSE) or\nprints memory usage statistics (verbose = TRUE).\n","example_call":"gc(verbose = getOption(\"verbose\"), reset = FALSE, full = TRUE)"}

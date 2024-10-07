@@ -1,0 +1,1 @@
+{"description":"This function is similar to base::strwrap(), but works on ANSI\nstyled strings, and leaves the styling intact.\n","example_call":"ansi_strwrap(x, width = console_width(), indent = 0, exdent = 0,"}

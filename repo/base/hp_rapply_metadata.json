@@ -1,0 +1,1 @@
+{"description":"rapply is a recursive version of lapply with\nflexibility in how the result is structured (how = \"..\").\n","example_call":"rapply(object, f, classes = \"ANY\", deflt = NULL, how = c(\"unlist\","}

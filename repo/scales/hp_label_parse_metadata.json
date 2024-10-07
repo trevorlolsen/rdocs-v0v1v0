@@ -1,0 +1,1 @@
+{"description":"label_parse() produces expression from strings by parsing them;\nlabel_math() constructs expressions by replacing the pronoun .x\nwith each string.\n","example_call":"label_parse()"}

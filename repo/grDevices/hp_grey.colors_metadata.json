@@ -1,0 +1,1 @@
+{"description":"Create a vector of n gamma-corrected gray colors.\n","example_call":"grey.colors(n, start = 0.3, end = 0.9, gamma = 2.2, alpha, rev = FALSE)"}

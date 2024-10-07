@@ -1,0 +1,1 @@
+{"description":"UTF-32 is a 32-bit encoding where each Unicode code point\ncorresponds to exactly one integer value.\nThis function converts a character vector to a list\nof integer vectors so that, e.g.,\nindividual code points may be easily accessed, changed, etc.\n","example_call":"stri_enc_toutf32(str)"}

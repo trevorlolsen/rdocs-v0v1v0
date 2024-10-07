@@ -1,0 +1,1 @@
+{"description":"label_bquote() offers a flexible way of labelling\nfacet rows or columns with plotmath expressions. Backquoted\nvariables will be replaced with their value in the facet.\n","example_call":"label_bquote(rows = NULL, cols = NULL, default)"}

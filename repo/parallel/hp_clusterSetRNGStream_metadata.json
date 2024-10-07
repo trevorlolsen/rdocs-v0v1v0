@@ -1,0 +1,1 @@
+{"description":"This is an R re-implementation of Pierre L'Ecuyer's\n<U+2018>RngStreams<U+2019> multiple streams of pseudo-random numbers.\n","example_call":"clusterSetRNGStream(cl = NULL, iseed = NULL)"}

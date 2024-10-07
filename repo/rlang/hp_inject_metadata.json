@@ -1,0 +1,1 @@
+{"description":"inject() evaluates an expression with injection\nsupport. There are three main usages:\n","example_call":"inject(expr, env = caller_env())"}

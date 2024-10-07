@@ -1,0 +1,1 @@
+{"description":"This small S3 class provides methods for [ and c() and ensures\nthe following invariants:\n","example_call":"as_quosures(x, env, named = FALSE)"}

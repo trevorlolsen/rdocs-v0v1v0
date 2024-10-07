@@ -1,0 +1,1 @@
+{"description":"A convenience function to tune the ICU regular expressions\nmatcher's behavior, e.g., in stri_count_regex\nand other stringi-search-regex functions.\n","example_call":"stri_opts_regex(case_insensitive, comments, dotall, dot_all = dotall,"}

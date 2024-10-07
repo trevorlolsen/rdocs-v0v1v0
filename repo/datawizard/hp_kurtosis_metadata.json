@@ -1,0 +1,1 @@
+{"description":"Compute Skewness and (Excess) Kurtosis\n","example_call":"kurtosis(x, ...)"}

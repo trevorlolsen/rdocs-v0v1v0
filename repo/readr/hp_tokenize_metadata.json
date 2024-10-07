@@ -1,0 +1,1 @@
+{"description":"Turns input into a character vector. Usually the tokenization is done purely\nin C++, and never exposed to R (because that requires a copy). This function\nis useful for testing, or when a file doesn't parse correctly and you want\nto see the underlying tokens.\n","example_call":"tokenize(file, tokenizer = tokenizer_csv(), skip = 0, n_max = -1L)"}

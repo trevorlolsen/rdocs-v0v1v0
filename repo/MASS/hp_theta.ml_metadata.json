@@ -1,0 +1,1 @@
+{"description":"Given the estimated mean vector, estimate theta of the\nNegative Binomial Distribution.\n","example_call":"theta.ml(y, mu, n = sum(weights), weights, limit = 10, eps = .Machine$double.eps^0.25,"}

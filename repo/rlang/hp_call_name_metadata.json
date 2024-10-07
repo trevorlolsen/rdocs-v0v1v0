@@ -1,0 +1,1 @@
+{"description":"call_name() and call_ns() extract the function name or\nnamespace of simple calls as a string. They return NULL for\ncomplex calls.\n","example_call":"call_name(call)"}

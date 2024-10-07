@@ -1,0 +1,1 @@
+{"description":"Does a string match a regular expression?\n","example_call":"expect_match(object, regexp, perl = FALSE, fixed = FALSE, ..., all = TRUE,"}

@@ -1,0 +1,1 @@
+{"description":"Vendoring is the act of making your own copy of the 3rd party packages your\nproject is using. It is often used in the go language community.\n","example_call":"cpp_vendor(path = \".\")"}

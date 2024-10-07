@@ -1,0 +1,1 @@
+{"description":"Applies linear filtering to a univariate time series or to each series\nseparately of a multivariate time series.\n","example_call":"filter(x, filter, method = c(\"convolution\", \"recursive\"),"}

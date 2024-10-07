@@ -1,0 +1,1 @@
+{"description":"These functions make it easy to quote each individual element and are useful\nin conjunction with glue_collapse(). These are thin wrappers around\nbase::encodeString().\n","example_call":"double_quote(x)"}

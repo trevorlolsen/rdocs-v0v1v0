@@ -1,0 +1,1 @@
+{"description":"fast sorting of integers\n","example_call":"bit_sort(x, decreasing = FALSE, na.last = NA, has.dup = TRUE)"}

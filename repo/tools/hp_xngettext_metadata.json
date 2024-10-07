@@ -1,0 +1,1 @@
+{"description":"For each file in the <U+2018>R<U+2019> directory (including system-specific\nsubdirectories) of a source package, extract the unique arguments passed\nto these <U+201C>message generating<U+201D> calls;\n","example_call":"xngettext(dir, verbose = FALSE)"}

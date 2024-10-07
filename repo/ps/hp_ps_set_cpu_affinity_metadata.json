@@ -1,0 +1,1 @@
+{"description":"ps_get_cpu_affinity() queries the\nCPU affinity of\na process. ps_set_cpu_affinity() sets the CPU affinity of a process.\n","example_call":"ps_set_cpu_affinity(p = ps_handle(), affinity)"}

@@ -1,0 +1,1 @@
+{"description":"Estimate parameters by the method of maximum likelihood.\n","example_call":"mle(minuslogl, start, optim = stats::optim, method = if (!useLim) \"BFGS\" else \"L-BFGS-B\","}

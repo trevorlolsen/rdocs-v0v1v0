@@ -1,0 +1,1 @@
+{"description":"Send a DELETE request.\n","example_call":"DELETE(url = NULL, config = list(), ..., body = NULL, encode = c(\"multipart\","}

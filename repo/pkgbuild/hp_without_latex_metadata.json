@@ -1,0 +1,1 @@
+{"description":"with_compiler temporarily disables code compilation by setting\nCC, CXX, makevars to test. without_cache\nresets the cache before and after running code.\n","example_call":"without_latex(code)"}

@@ -1,0 +1,1 @@
+{"description":"A utility to help model.frame.default create the right\nmatrices when predicting from models with terms like (univariate)\npoly or ns.\n","example_call":"makepredictcall(var, call)"}

@@ -1,0 +1,1 @@
+{"description":"Computes the Bunch-Kaufman factorization of an n \\times n\nreal, symmetric matrix A, which has the general form\n","example_call":"BunchKaufman(x, ...)"}

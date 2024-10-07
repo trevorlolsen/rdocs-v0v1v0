@@ -1,0 +1,1 @@
+{"description":"Match delimited substrings in a character vector, with proper nesting.\n","example_call":"delimMatch(x, delim = c(\"{\", \"}\"), syntax = \"Rd\")"}

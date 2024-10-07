@@ -1,0 +1,1 @@
+{"description":"View a specified package vignette, or list the available ones;\ndisplay it rendered in a viewer, and get or edit its R source file.\n","example_call":"vignette(topic, package = NULL, lib.loc = NULL, all = TRUE)"}

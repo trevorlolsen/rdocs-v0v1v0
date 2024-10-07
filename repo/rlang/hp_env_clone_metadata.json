@@ -1,0 +1,1 @@
+{"description":"Both these functions preserve active bindings and promises (the\nlatter are only preserved on R >= 4.0.0).\n","example_call":"env_clone(env, parent = env_parent(env))"}

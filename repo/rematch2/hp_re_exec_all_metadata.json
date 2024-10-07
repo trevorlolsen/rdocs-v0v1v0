@@ -1,0 +1,1 @@
+{"description":"Match a regular expression to a string, and return matches, match positions,\nand capture groups.  This function is like its\nmatch counterpart, except it returns\nmatch/capture group start and end positions in addition to the matched\nvalues.\n","example_call":"re_exec_all(text, pattern, perl = TRUE, ...)"}

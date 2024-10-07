@@ -1,0 +1,1 @@
+{"description":"Set document headers and footers\n","example_call":"setHeaderFooter(wb, sheet, header = NULL, footer = NULL, evenHeader = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"tsp returns the tsp attribute (or NULL).\nIt is included for compatibility with S version 2. tsp<-\nsets the tsp attribute. hasTsp ensures x has a\ntsp attribute, by adding one if needed.\n","example_call":"tsp(x)"}

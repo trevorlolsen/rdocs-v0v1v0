@@ -1,0 +1,1 @@
+{"description":"Estimate or extract residual or model-based degrees of freedom\nfrom regression models.\n","example_call":"get_df(x, ...)"}

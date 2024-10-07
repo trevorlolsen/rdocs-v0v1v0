@@ -1,0 +1,1 @@
+{"description":"Returns the first or last parts of a vector, matrix, table, data frame\nor function.  Since head() and tail() are generic\nfunctions, they may also have been extended to other classes.\n","example_call":"tail(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Fills missing values in selected columns using the next or previous entry.\nThis is useful in the common output format where values are not repeated,\nand are only recorded when they change.\n","example_call":"fill(data, ..., .direction = c(\"down\", \"up\", \"downup\", \"updown\"))"}

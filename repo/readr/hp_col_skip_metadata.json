@@ -1,0 +1,1 @@
+{"description":"Use this function to ignore a column when reading in a file.\nTo skip all columns not otherwise specified, use cols_only().\n","example_call":"col_skip()"}

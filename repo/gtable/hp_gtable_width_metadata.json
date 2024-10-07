@@ -1,0 +1,1 @@
+{"description":"Note that unlike widthDetails.gtable, this can return relative units.\n","example_call":"gtable_width(x)"}

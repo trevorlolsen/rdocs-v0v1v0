@@ -1,0 +1,1 @@
+{"description":"Plotting method for objects inheriting from class \"ts\".\n","example_call":"plot.ts(x, y = NULL, plot.type = c(\"multiple\", \"single\"), xy.labels,"}

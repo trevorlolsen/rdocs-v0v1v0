@@ -1,0 +1,1 @@
+{"description":"These functions extract information from source references.\n","example_call":"getSrcFilename(x, full.names = FALSE, unique = TRUE)"}

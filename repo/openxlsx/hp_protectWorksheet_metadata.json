@@ -1,0 +1,1 @@
+{"description":"Protect or unprotect a worksheet from modifications by the user in the graphical user interface. Replaces an existing protection.\n","example_call":"protectWorksheet(wb, sheet, protect = TRUE, password = NULL, lockSelectingLockedCells = NULL,"}

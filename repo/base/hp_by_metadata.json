@@ -1,0 +1,1 @@
+{"description":"Function by is an object-oriented wrapper for\ntapply applied to data frames.\n","example_call":"by(data, INDICES, FUN, ..., simplify = TRUE)"}

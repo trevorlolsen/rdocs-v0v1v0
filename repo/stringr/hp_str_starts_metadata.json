@@ -1,0 +1,1 @@
+{"description":"str_starts() and str_ends() are special cases of str_detect() that\nonly match at the beginning or end of a string, respectively.\n","example_call":"str_starts(string, pattern, negate = FALSE)"}

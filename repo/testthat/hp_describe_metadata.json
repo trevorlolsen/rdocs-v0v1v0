@@ -1,0 +1,1 @@
+{"description":"A simple BDD DSL for writing tests. The language is similar to RSpec for\nRuby or Mocha for JavaScript. BDD tests read like sentences and it should\nthus be easier to understand what the specification of a function/component\nis.\n","example_call":"describe(description, code)"}

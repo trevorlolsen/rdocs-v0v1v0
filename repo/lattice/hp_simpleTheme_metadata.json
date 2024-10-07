@@ -1,0 +1,1 @@
+{"description":"Simple interface to generate a list appropriate as a theme, typically\nused as the par.settings argument in a high level call\n","example_call":"simpleTheme(col, alpha, cex, pch, lty, lwd, font, fill, border,"}

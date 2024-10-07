@@ -1,0 +1,1 @@
+{"description":"Compute <U+2018>the<U+2019> matrix rank, a well-defined functional in theory(*),\nsomewhat ambiguous in practice.  We provide several methods, the\ndefault corresponding to Matlab's definition.\n","example_call":"qr2rankMatrix(qr, tol = NULL, isBqr = is.qr(qr), do.warn = TRUE)"}

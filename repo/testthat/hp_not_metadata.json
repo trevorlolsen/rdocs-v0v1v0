@@ -1,0 +1,1 @@
+{"description":"This negates an expectation, making it possible to express that you\nwant the opposite of a standard expectation. This function is deprecated\nand will be removed in a future version.\n","example_call":"not(f)"}

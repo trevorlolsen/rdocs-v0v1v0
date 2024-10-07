@@ -1,0 +1,1 @@
+{"description":"Except for container every function specified here should be\nvectorized and apply formatting to each element in a character vectors.  The\nfunctions must accept at least one argument and require no more than one\nargument.  The text to be formatted will be passed as a character vector\nas the first argument to each function.\n","example_call":"StyleFuns(...)"}

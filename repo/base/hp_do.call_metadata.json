@@ -1,0 +1,1 @@
+{"description":"do.call constructs and executes a function call from a name or\na function and a list of arguments to be passed to it.\n","example_call":"do.call(what, args, quote = FALSE, envir = parent.frame())"}

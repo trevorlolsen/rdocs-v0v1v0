@@ -1,0 +1,1 @@
+{"description":"Use label_number() force decimal display of numbers (i.e. don't use\nscientific notation). label_comma() is a special case\nthat inserts a comma every three digits.\n","example_call":"label_comma(accuracy = NULL, scale = 1, prefix = \"\", suffix = \"\","}

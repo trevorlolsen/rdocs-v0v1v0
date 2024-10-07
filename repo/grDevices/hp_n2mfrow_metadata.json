@@ -1,0 +1,1 @@
+{"description":"Easy setup for plotting multiple figures (in a rectangular layout) on\none page.  This computes a sensible default for\npar(mfrow).\n","example_call":"n2mfrow(nr.plots, asp = 1)"}

@@ -1,0 +1,1 @@
+{"description":"This function converts input strings to ASCII,\ni.e., to character strings consisting of bytes not greater than 127.\n","example_call":"stri_enc_toascii(str)"}

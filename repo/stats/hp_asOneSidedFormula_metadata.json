@@ -1,0 +1,1 @@
+{"description":"Names, calls, expressions (first element), numeric values, and\ncharacter strings are converted to one-sided formulae\nassociated with the global environment.\nIf the input is a formula, it must be\none-sided, in which case it is returned unaltered.\n","example_call":"asOneSidedFormula(object)"}

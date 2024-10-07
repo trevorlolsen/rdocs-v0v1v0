@@ -1,0 +1,1 @@
+{"description":"If the \"keep.source\" option is TRUE, R's parser\nwill attach detailed information on the object it has parsed.  These\nfunctions retrieve that information.\n","example_call":"getParseData(x, includeText = NA)"}

@@ -1,0 +1,1 @@
+{"description":"ntile() is a sort of very rough rank, which breaks the input vector into\nn buckets. If length(x) is not an integer multiple of n, the size of\nthe buckets will differ by up to one, with larger buckets coming first.\n","example_call":"ntile(x = row_number(), n)"}

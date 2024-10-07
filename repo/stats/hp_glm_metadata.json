@@ -1,0 +1,1 @@
+{"description":"glm is used to fit generalized linear models, specified by\ngiving a symbolic description of the linear predictor and a\ndescription of the error distribution.\n","example_call":"glm(formula, family = gaussian, data, weights, subset,"}

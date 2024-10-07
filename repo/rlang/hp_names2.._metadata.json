@@ -1,0 +1,1 @@
+{"description":"names2() always returns a character vector, even when an\nobject does not have a names attribute. In this case, it returns\na vector of empty names \"\". It also standardises missing names to\n\"\".\n","example_call":"names2<-(x, value)"}

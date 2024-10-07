@@ -1,0 +1,1 @@
+{"description":"interaction computes a factor which represents the interaction\nof the given factors.  The result of interaction is always unordered.\n","example_call":"interaction(..., drop = FALSE, sep = \".\", lex.order = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Write a data frame to a delimited file\n","example_call":"vroom_write(x, file, delim = \"\\t\", eol = \"\\n\", na = \"NA\", col_names = !append,"}

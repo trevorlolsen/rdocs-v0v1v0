@@ -1,0 +1,1 @@
+{"description":"This function is generic; method functions can be written to handle\nspecific classes of objects. Currently, only a groupedData\nmethod is available. \n","example_call":"collapse(object, ...)"}

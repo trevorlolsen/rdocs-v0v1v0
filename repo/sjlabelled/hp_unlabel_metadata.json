@@ -1,0 +1,1 @@
+{"description":"This function converts labelled class vectors\ninto a generic data format, which means that simply all labelled\nclass attributes will be removed, so all vectors / variables will most\nlikely become atomic.\n","example_call":"unlabel(x, verbose = FALSE)"}

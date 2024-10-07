@@ -1,0 +1,1 @@
+{"description":"This provides a way to get the names (or identifiers)\nfor the currently registered task callbacks\nthat are invoked at the conclusion of each top-level task.\nThese identifiers can be used to remove a callback.\n","example_call":"getTaskCallbackNames()"}

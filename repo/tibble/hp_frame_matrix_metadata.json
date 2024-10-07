@@ -1,0 +1,1 @@
+{"description":"Create matrices laying out the data in rows, similar to\nmatrix(..., byrow = TRUE), with a nicer-to-read syntax.\nThis is useful for small matrices, e.g. covariance matrices, where readability\nis important. The syntax is inspired by tribble().\n","example_call":"frame_matrix(...)"}

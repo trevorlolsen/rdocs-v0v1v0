@@ -1,0 +1,1 @@
+{"description":"Delete the Collate field from DESCRIPTION\n","example_call":"desc_del_collate(which = c(\"all\", \"main\", \"windows\", \"unix\"), file = \".\","}

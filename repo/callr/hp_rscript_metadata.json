@@ -1,0 +1,1 @@
+{"description":"It uses the Rscript program corresponding to the current R version,\nto run the script. It streams stdout and stderr of the process.\n","example_call":"rscript(script, cmdargs = character(), libpath = .libPaths(),"}

@@ -1,0 +1,1 @@
+{"description":"Utility function to access information about files on the user's\nfile systems.\n","example_call":"file.access(names, mode = 0)"}

@@ -1,0 +1,1 @@
+{"description":"Fast high-level methods for sorting and ordering. \nThese are wrappers to ramsort and friends and do not modify their arguments.\n","example_call":"sort.integer64(x, decreasing = FALSE, has.na = TRUE, na.last = TRUE,"}

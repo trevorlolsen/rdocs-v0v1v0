@@ -1,0 +1,1 @@
+{"description":"This function allows the user to browse directly on any of the\ncurrently active function calls, and is suitable as an error option.\nThe expression options(error = recover) will make this\nthe error option.\n","example_call":"recover()"}

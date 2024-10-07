@@ -1,0 +1,1 @@
+{"description":"creates a sequence of range indexes using a syntax not completely unlike\n'seq'\n","example_call":"chunks(from = NULL, to = NULL, by = NULL, length.out = NULL,"}

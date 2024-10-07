@@ -1,0 +1,1 @@
+{"description":"Computes the pivoted LU factorization of an m \\times n\nreal matrix A, which has the general form\n","example_call":"lu(x, ...)"}

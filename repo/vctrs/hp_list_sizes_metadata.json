@@ -1,0 +1,1 @@
+{"description":"vec_size(x) returns the size of a vector. vec_is_empty()\nreturns TRUE if the size is zero, FALSE otherwise.\n","example_call":"list_sizes(x)"}

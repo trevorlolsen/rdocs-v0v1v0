@@ -1,0 +1,1 @@
+{"description":"Normally a gtable is considered a matrix when indexing so that indexing is\nworking on the cell layout and not on the grobs it contains. gtable_filter\nallows you to subset the grobs by name and optionally remove rows or columns\nif left empty after the subsetting\n","example_call":"gtable_filter(x, pattern, fixed = FALSE, trim = TRUE, invert = FALSE)"}

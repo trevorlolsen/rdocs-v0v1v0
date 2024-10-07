@@ -1,0 +1,1 @@
+{"description":"scale_x_discrete() and scale_y_discrete() are used to set the values for\ndiscrete x and y scale aesthetics. For simple manipulation of scale labels\nand limits, you may wish to use labs() and lims() instead.\n","example_call":"scale_y_discrete(name = waiver(), ..., expand = waiver(), guide = waiver(),"}

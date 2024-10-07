@@ -1,0 +1,1 @@
+{"description":"Modifies a possibly nested list recursively by changing a subset of\nelements at each level to match a second list.\n","example_call":"modifyList(x, val, keep.null = FALSE)"}

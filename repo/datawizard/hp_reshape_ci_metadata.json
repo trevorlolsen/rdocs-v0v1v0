@@ -1,0 +1,1 @@
+{"description":"Reshape CI between wide/long formats.\n","example_call":"reshape_ci(x, ci_type = \"CI\")"}

@@ -1,0 +1,1 @@
+{"description":"Computes a weighted MAD of a numeric vector.\n","example_call":"colWeightedMads(x, w = NULL, rows = NULL, cols = NULL, na.rm = FALSE,"}

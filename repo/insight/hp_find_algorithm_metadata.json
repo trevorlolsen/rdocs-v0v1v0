@@ -1,0 +1,1 @@
+{"description":"Returns information on the sampling or estimation algorithm\nas well as optimization functions, or for Bayesian model information on\nchains, iterations and warmup-samples.\n","example_call":"find_algorithm(x, ...)"}

@@ -1,0 +1,1 @@
+{"description":" Generates multivariate normal or t random deviates, and evaluates the corresponding log densities.\n","example_call":"r.mvt(n, mu, V, df)"}

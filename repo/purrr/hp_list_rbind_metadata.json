@@ -1,0 +1,1 @@
+{"description":null,"example_call":"list_rbind(x, ..., names_to = rlang::zap(), ptype = NULL)"}

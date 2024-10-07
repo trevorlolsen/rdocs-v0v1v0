@@ -1,0 +1,1 @@
+{"description":"Gets the range of values in each row (column) of a matrix.\n","example_call":"rowMins(x, rows = NULL, cols = NULL, na.rm = FALSE, dim. = dim(x),"}

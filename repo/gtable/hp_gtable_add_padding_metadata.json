@@ -1,0 +1,1 @@
+{"description":"This is a convenience function for adding an extra row and an extra column at\neach edge of the table.\n","example_call":"gtable_add_padding(x, padding)"}

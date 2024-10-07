@@ -1,0 +1,1 @@
+{"description":"Split an array or matrix by its margins.","example_call":"asplit(x, MARGIN)"}

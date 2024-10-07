@@ -1,0 +1,1 @@
+{"description":"validObject() tests the validity of object related to\nits class definition; specifically, it checks that all slots\nspecified in the class definition are present and that the object in\nthe slot is from the required class or a subclass of that class.\n","example_call":"getValidity(ClassDef)"}

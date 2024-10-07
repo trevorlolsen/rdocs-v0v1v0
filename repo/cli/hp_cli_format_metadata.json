@@ -1,0 +1,1 @@
+{"description":"This function can be used directly, or via the <U+2060>{.val ...}<U+2060> inline\nstyle. <U+2060>{.val {expr}}<U+2060> calls cli_format() automatically on the value\nof expr, before styling and collapsing it.\n","example_call":"cli_format(x, style = NULL, ...)"}

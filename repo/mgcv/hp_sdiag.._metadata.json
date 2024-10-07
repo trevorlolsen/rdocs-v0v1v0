@@ -1,0 +1,1 @@
+{"description":" Extracts or modifies sub- or super- diagonals of a matrix.\n","example_call":"sdiag<-(A, k = 0, value)"}

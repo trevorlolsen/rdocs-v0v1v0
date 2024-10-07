@@ -1,0 +1,1 @@
+{"description":"These functions create a unit object describing a location somewhere\non the boundary of\na grob.  They are generic.\n","example_call":"grobX(x, theta)"}

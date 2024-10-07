@@ -1,0 +1,1 @@
+{"description":"This function \"cleans\" names of model parameters by removing\npatterns like \"r_\" or \"b[]\" (mostly applicable to Stan models)\nand adding columns with information to which group or component parameters\nbelong (i.e. fixed or random, count or zero-inflated...)\n","example_call":"clean_parameters(x, ...)"}

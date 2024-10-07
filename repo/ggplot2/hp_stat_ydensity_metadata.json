@@ -1,0 +1,1 @@
+{"description":"A violin plot is a compact display of a continuous distribution. It is a\nblend of geom_boxplot() and geom_density(): a\nviolin plot is a mirrored density plot displayed in the same way as a\nboxplot.\n","example_call":"stat_ydensity(mapping = NULL, data = NULL, geom = \"violin\", position = \"dodge\","}

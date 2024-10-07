@@ -1,0 +1,1 @@
+{"description":"These functions check if a string starts or ends with a match\nto a given pattern. Also, it is possible to check if there is a match\nat a specific position.\n","example_call":"stri_startswith(str, ..., fixed, coll, charclass)"}

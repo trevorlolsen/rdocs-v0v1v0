@@ -1,0 +1,1 @@
+{"description":"This function gives general statistics for a character vector,\ne.g., obtained by loading a text file with the\nreadLines or stri_read_lines function,\nwhere each text line' is represented by a separate string.\n","example_call":"stri_stats_general(str)"}

@@ -1,0 +1,1 @@
+{"description":"Functions that allow implementers of formatters for custom data types to\nmaintain a consistent style with the default data types.\n","example_call":"style_na(x)"}

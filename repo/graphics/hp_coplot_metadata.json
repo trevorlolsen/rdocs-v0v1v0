@@ -1,0 +1,1 @@
+{"description":"This function produces two variants of the conditioning plots\ndiscussed in the reference below.\n","example_call":"coplot(formula, data, given.values, panel = points, rows,"}

@@ -1,0 +1,1 @@
+{"description":"Get the length of each element of a list or atomic\nvector (is.atomic) as an integer or numeric vector.\n","example_call":"lengths(x, use.names = TRUE)"}

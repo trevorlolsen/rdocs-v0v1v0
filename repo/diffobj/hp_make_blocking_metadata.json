@@ -1,0 +1,1 @@
+{"description":"Wraps fun in a function that runs fun and then issues a\nreadline prompt to prevent further R code evaluation until user\npresses a key.\n","example_call":"make_blocking(fun, msg = \"Press ENTER to continue...\", invisible.res = TRUE)"}

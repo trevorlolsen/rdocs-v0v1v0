@@ -1,0 +1,1 @@
+{"description":"Built-in graphical parameter settings. These mainly differ in their\nchoice of colors.\n","example_call":"classic.theme(name = .Device, color = name != \"postscript\")"}

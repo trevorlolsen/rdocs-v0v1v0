@@ -1,0 +1,1 @@
+{"description":"Shows libssl version and configuration information.\n","example_call":"openssl_config()"}

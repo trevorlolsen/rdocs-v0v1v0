@@ -1,0 +1,1 @@
+{"description":"Maps each level to an evenly spaced hue on the colour wheel.\nIt does not generate colour-blind safe palettes.\n","example_call":"scale_fill_hue(name = waiver(), ..., h = c(0, 360) + 15, c = 100,"}

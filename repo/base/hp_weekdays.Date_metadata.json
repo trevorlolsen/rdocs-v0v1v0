@@ -1,0 +1,1 @@
+{"description":"Extract the weekday, month or quarter, or the Julian time\n(days since some origin).  These are generic functions: the methods\nfor the internal date-time classes are documented here.\n","example_call":"weekdays.Date(x, abbreviate = FALSE)"}

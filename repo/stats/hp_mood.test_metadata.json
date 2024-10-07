@@ -1,0 +1,1 @@
+{"description":"Performs Mood's two-sample test for a difference in scale parameters.\n","example_call":"mood.test(x, ...)"}

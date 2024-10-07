@@ -1,0 +1,1 @@
+{"description":"This sets the TESTTHAT_MAX_FAILS env var which will affect both the\ncurrent R process and any processes launched from it.\n","example_call":"set_max_fails(n)"}

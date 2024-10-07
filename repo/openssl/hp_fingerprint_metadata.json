@@ -1,0 +1,1 @@
+{"description":"Calculates the OpenSSH fingerprint of a public key. This value should\nmatch what you get to see when connecting with SSH to a server. Note\nthat some other systems might use a different algorithm to derive a\n(different) fingerprint for the same keypair.\n","example_call":"fingerprint(key, hashfun = sha256)"}

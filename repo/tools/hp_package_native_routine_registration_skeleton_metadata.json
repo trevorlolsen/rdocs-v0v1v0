@@ -1,0 +1,1 @@
+{"description":"Write a skeleton for adding native routine registration to a package.\n","example_call":"package_native_routine_registration_skeleton(dir, con = stdout(), align = TRUE, character_only = TRUE,"}

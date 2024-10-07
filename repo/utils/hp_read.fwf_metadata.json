@@ -1,0 +1,1 @@
+{"description":"Read a table of fixed width formatted\ndata into a data.frame.\n","example_call":"read.fwf(file, widths, header = FALSE, sep = \"\\t\", skip = 0L,"}

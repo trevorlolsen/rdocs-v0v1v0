@@ -1,0 +1,1 @@
+{"description":"The values supplied in the lmeControl() call replace the\ndefaults, and a list with all settings (i.e., values for\nall possible arguments) is returned.  The returned list is\nused as the control argument to the lme function.\n","example_call":"lmeControl(maxIter = 50, msMaxIter = 50, tolerance = 1e-06, niterEM = 25,"}

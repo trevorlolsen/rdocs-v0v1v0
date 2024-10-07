@@ -1,0 +1,1 @@
+{"description":"Reverses the order of the code points in every string.\n","example_call":"stri_reverse(str)"}

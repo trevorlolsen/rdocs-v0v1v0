@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"count_(x, vars, wt = NULL, sort = FALSE, .drop = group_by_drop_default(x))"}

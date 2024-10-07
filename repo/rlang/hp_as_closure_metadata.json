@@ -1,0 +1,1 @@
+{"description":"as_closure() is like as_function() but also wraps primitive\nfunctions inside closures. Some special control flow primitives\nlike if, for, or break can't be wrapped and will cause an\nerror.\n","example_call":"as_closure(x, env = caller_env())"}

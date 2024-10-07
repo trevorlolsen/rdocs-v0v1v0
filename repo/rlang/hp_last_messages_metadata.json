@@ -1,0 +1,1 @@
+{"description":"last_warnings() and last_messages() return a list of all\nwarnings and messages that occurred during the last R command.\n","example_call":"last_messages(n = NULL)"}

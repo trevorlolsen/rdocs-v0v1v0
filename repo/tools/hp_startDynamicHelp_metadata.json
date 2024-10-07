@@ -1,0 +1,1 @@
+{"description":"This function starts the internal help server, so that HTML help pages\nare rendered when requested.\n","example_call":"startDynamicHelp(start = TRUE)"}

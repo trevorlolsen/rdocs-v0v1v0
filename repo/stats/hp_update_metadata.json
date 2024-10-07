@@ -1,0 +1,1 @@
+{"description":"update will update and (by default) re-fit a model.  It does this\nby extracting the call stored in the object, updating the call and (by\ndefault) evaluating that call.  Sometimes it is useful to call\nupdate with only one argument, for example if the data frame has\nbeen corrected.\n","example_call":"update(object, ...)"}

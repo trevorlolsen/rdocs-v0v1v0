@@ -1,0 +1,1 @@
+{"description":"Sets the \"contrasts\" attribute for the factor.\n","example_call":"C(object, contr, how.many, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Use this inline operator when you need to provide a default value for\nempty (as defined by vec_is_empty()) vectors.\n","example_call":"%0%(x, y)"}

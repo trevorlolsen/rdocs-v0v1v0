@@ -1,0 +1,1 @@
+{"description":"This list contains all selection helpers exported in tidyselect. It\nwas useful when you wanted to embed the helpers in your API without\nhaving to track addition of new helpers in tidyselect. However the\nselection helpers are now always embedded in the DSL.\n","example_call":"NULL"}

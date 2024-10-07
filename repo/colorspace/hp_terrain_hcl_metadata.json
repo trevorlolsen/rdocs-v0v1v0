@@ -1,0 +1,1 @@
+{"description":"Color palettes based on the HCL (and HSV) color space to replace\nbase R palettes.\n","example_call":"terrain_hcl(n, h = c(130, 0), c. = c(80, 0), l = c(60, 95), power = c(1/10,"}

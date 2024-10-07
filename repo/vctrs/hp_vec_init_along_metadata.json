@@ -1,0 +1,1 @@
+{"description":"vec_seq_along() is equivalent to seq_along() but uses size, not length.\nvec_init_along() creates a vector of missing values with size matching\nan existing object.\n","example_call":"vec_init_along(x, y = x)"}

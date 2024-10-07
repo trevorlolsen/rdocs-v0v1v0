@@ -1,0 +1,1 @@
+{"description":"This function is a wrapper around browser, which makes it\neasier to debug at certain places in a magrittr pipe chain.\n","example_call":"debug_pipe(x)"}

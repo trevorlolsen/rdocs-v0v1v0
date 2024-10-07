@@ -1,0 +1,1 @@
+{"description":"Reads declared encodings for each string in a character vector\nas seen by stringi.\n","example_call":"stri_enc_mark(str)"}

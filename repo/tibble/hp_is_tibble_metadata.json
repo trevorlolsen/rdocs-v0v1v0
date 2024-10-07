@@ -1,0 +1,1 @@
+{"description":"This function returns TRUE for tibbles or subclasses thereof,\nand FALSE for all other objects, including regular data frames.\n","example_call":"is_tibble(x)"}

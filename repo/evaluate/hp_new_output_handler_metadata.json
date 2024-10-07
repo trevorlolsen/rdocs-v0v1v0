@@ -1,0 +1,1 @@
+{"description":"An output_handler handles the results of evaluate(),\nincluding the values, graphics, conditions. Each type of output is handled by\na particular function in the handler object.\n","example_call":"new_output_handler(source = identity, text = identity, graphics = identity,"}

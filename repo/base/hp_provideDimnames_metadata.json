@@ -1,0 +1,1 @@
+{"description":"Retrieve or set the dimnames of an object.\n","example_call":"provideDimnames(x, sep = \"\", base = list(LETTERS), unique = TRUE)"}

@@ -1,0 +1,1 @@
+{"description":"A call to setAs defines a method for coercing an object of\nclass from to class to.  The methods will then be used\nby calls to as for objects with class from,\nincluding calls that replace part of the object.\n","example_call":"coerce(from, to, strict = TRUE)"}

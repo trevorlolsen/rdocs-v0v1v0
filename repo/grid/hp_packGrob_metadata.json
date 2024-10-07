@@ -1,0 +1,1 @@
+{"description":"these functions, together with grid.frame and frameGrob\nare part of a\nGUI-builder-like interface to constructing graphical images.\nThe idea is that you create a frame with grid.frame or\nframeGrob then\nuse these functions to pack objects into the frame.\n","example_call":"packGrob(frame, grob, side = NULL, row = NULL, row.before = NULL,"}

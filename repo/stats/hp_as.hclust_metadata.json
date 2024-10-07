@@ -1,0 +1,1 @@
+{"description":"Converts objects from other hierarchical clustering functions to\nclass \"hclust\".\n","example_call":"as.hclust(x, ...)"}

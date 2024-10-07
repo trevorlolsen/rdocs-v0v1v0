@@ -1,0 +1,1 @@
+{"description":"Compute relative file paths for URLs to other package's installed HTML\ndocumentation.\n","example_call":"findHTMLlinks(pkgDir = \"\", lib.loc = NULL, level = 0:2)"}

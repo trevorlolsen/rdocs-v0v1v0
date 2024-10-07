@@ -1,0 +1,1 @@
+{"description":"This function provides the basic quantities which are\nused in forming a wide variety of diagnostics for\nchecking the quality of regression fits.\n","example_call":"influence(model, ...)"}

@@ -1,0 +1,1 @@
+{"description":"Add multiple pad characters at the given side(s) of each string\nso that each output string is of total width of at least width.\nThese functions may be used to center or left/right-align each string.\n","example_call":"stri_pad(str, width = floor(0.9 * getOption(\"width\")), side = c(\"left\","}

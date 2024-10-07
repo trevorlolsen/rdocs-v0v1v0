@@ -1,0 +1,1 @@
+{"description":"ggplot2 can not draw true 3D surfaces, but you can use geom_contour(),\ngeom_contour_filled(), and geom_tile() to visualise 3D surfaces in 2D.\n","example_call":"geom_contour(mapping = NULL, data = NULL, stat = \"contour\", position = \"identity\","}

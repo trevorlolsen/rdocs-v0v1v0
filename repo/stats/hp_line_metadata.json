@@ -1,0 +1,1 @@
+{"description":"Fit a line robustly as recommended in Exploratory Data Analysis.\n","example_call":"line(x, y = NULL, iter = 1)"}

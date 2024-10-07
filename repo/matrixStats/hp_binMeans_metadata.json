@@ -1,0 +1,1 @@
+{"description":"Computes the sample means in non-overlapping bins\n","example_call":"binMeans(y, x, idxs = NULL, bx, na.rm = TRUE, count = TRUE,"}

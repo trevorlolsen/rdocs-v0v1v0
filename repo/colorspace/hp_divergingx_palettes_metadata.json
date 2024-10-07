@@ -1,0 +1,1 @@
+{"description":"Diverging HCL color palettes generated through combination of two fully\nflexible (and possibly unbalanced) multi-hue sequential palettes.\n","example_call":"divergingx_palettes(palette = NULL, plot = FALSE, n = 7L, ...)"}

@@ -1,0 +1,1 @@
+{"description":"This is a color-aware counterpart of base::substr().\nIt works exactly like the original, but keeps the colors\nin the substrings. The ANSI escape sequences are ignored when\ncalculating the positions within the string.\n","example_call":"col_substr(x, start, stop)"}

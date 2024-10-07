@@ -1,0 +1,1 @@
+{"description":"Computes Choleski decomposition of a (symmetric positive definite) band-diagonal matrix, A. \n","example_call":"bandchol(B)"}

@@ -1,0 +1,1 @@
+{"description":"Clip lines so they don't run into a set of boxes. Useful for labeling isolines,\nas it allows removal of line segments that would run into any text labels.\n","example_call":"clip_lines(x, y, id, clip_boxes, asp = 1)"}

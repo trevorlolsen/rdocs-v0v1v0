@@ -1,0 +1,1 @@
+{"description":"write.table prints its required argument x (after\nconverting it to a data frame if it is not one nor a matrix) to\na file or connection.\n","example_call":"write.csv2(...)"}

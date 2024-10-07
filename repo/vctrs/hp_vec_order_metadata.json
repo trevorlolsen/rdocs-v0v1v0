@@ -1,0 +1,1 @@
+{"description":"Order and sort vectors\n","example_call":"vec_order(x, ..., direction = c(\"asc\", \"desc\"), na_value = c(\"largest\","}

@@ -1,0 +1,1 @@
+{"description":"These functions may be used, e.g., to remove unnecessary\nwhite-spaces from strings. Trimming ends at the first or\nstarts at the last pattern match.\n","example_call":"stri_trim_both(str, pattern = \"\\\\P{Wspace}\", negate = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Determine the nonlinear (weighted) least-squares estimates of the\nparameters of a nonlinear model.\n","example_call":"nls(formula, data = parent.frame(), start, control = nls.control(),"}

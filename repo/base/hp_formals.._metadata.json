@@ -1,0 +1,1 @@
+{"description":"Get or set the formal arguments of a function.\n","example_call":"formals<-(fun, envir = environment(fun), value)"}

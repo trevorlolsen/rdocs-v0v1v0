@@ -1,0 +1,1 @@
+{"description":"Change the RNG version and restore it afterwards.\n","example_call":"local_rng_version(version, .local_envir = parent.frame())"}

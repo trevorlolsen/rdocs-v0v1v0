@@ -1,0 +1,1 @@
+{"description":"Simulate one or more responses from the distribution\ncorresponding to a fitted model object.\n","example_call":"simulate(object, nsim = 1, seed = NULL, ...)"}

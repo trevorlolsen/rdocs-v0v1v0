@@ -1,0 +1,1 @@
+{"description":"help is the primary interface to the help systems.\n","example_call":"help(topic, package = NULL, lib.loc = NULL, verbose = getOption(\"verbose\"),"}

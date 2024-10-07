@@ -1,0 +1,50 @@
+<div class="container"><main><table style="width: 100%;"><tr>
+<td>still.identical</td>
+<td style="text-align: right;">R Documentation</td>
+</tr></table>
+<h2>Test for C-level identity of two atomic vectors</h2>
+
+<h3>Description</h3>
+
+<p>Test for C-level identity of two atomic vectors
+</p>
+
+
+<h3>Usage</h3>
+
+<pre><code class="language-R">still.identical(x, y)
+</code></pre>
+
+
+<h3>Arguments</h3>
+
+<table>
+<tr>
+<td><code id="x">x</code></td>
+<td>
+<p>an atomic vector</p>
+</td>
+</tr>
+<tr>
+<td><code id="y">y</code></td>
+<td>
+<p>an atomic vector</p>
+</td>
+</tr>
+</table>
+<h3>Value</h3>
+
+<p>logical scalar
+</p>
+
+
+<h3>Examples</h3>
+
+<pre><code class="language-R">x &lt;- 1:2
+y &lt;- x
+z &lt;- copy_vector(x)
+still.identical(y,x)
+still.identical(z,x)
+</code></pre>
+
+</main></div>

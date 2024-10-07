@@ -1,0 +1,1 @@
+{"description":"Objects of the root_criterion class decide if a\ngiven directory is a project root.\n","example_call":"is_root_criterion(x)"}

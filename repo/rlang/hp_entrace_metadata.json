@@ -1,0 +1,1 @@
+{"description":"entrace() is a low level function. See global_entrace() for a\nuser-friendly way of enriching errors and other conditions from\nyour RProfile.\n","example_call":"entrace(cnd, ..., top = NULL, bottom = NULL)"}

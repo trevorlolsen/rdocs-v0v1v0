@@ -1,0 +1,1 @@
+{"description":"Compute (and visualize) the contrast ratio of pairs of colors, as defined by the World Wide\nWeb Consortium (W3C).\n","example_call":"contrast_ratio(col, col2 = \"white\", algorithm = c(\"WCAG\", \"APCA\"),"}

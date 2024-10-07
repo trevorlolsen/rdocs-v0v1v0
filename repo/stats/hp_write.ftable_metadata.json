@@ -1,0 +1,1 @@
+{"description":"Read, write and coerce <U+2018>flat<U+2019> (contingency) tables, aka\nftables.\n","example_call":"write.ftable(x, file = \"\", quote = TRUE, append = FALSE, digits = getOption(\"digits\"),"}

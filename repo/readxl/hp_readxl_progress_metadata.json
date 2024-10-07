@@ -1,0 +1,1 @@
+{"description":"By default, readxl displays a progress spinner unless\none of the following is TRUE:\n","example_call":"readxl_progress()"}

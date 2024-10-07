@@ -1,0 +1,1 @@
+{"description":"A regular (S4) class may contain an S3 class, if that class has been registered (by calling\nsetOldClass).  The functions described here provide\ninformation about contained S3 classes.  See the section <U+2018>Functions<U+2019>.\n","example_call":"isXS3Class(classDef)"}

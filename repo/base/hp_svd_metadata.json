@@ -1,0 +1,1 @@
+{"description":"Compute the singular-value decomposition of a rectangular matrix.\n","example_call":"svd(x, nu = min(n, p), nv = min(n, p), LINPACK = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"clone physically duplicates objects and can additionally change\nsome features, e.g. length.\n","example_call":"clone(x, ...)"}

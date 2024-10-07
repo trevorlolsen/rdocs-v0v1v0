@@ -1,0 +1,1 @@
+{"description":"These prepanel functions are used as fallback defaults in various\nhigh level plot functions in Lattice.  These are rarely useful to\nnormal users but may be helpful in developing new displays.\n","example_call":"prepanel.default.splom(z, ...)"}

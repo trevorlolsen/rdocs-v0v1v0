@@ -1,0 +1,1 @@
+{"description":"Compute approximately the maximum chroma possible for a given hue and\nluminance combination in the HCL color space.\n","example_call":"max_chroma(h, l, floor = FALSE)"}

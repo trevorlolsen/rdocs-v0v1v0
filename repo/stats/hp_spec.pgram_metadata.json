@@ -1,0 +1,1 @@
+{"description":"spec.pgram calculates the periodogram using a fast Fourier\ntransform, and optionally smooths the result with a series of\nmodified Daniell smoothers (moving averages giving half weight to\nthe end values).\n","example_call":"spec.pgram(x, spans = NULL, kernel = NULL, taper = 0.1, pad = 0,"}

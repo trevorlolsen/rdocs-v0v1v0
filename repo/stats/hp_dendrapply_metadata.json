@@ -1,0 +1,1 @@
+{"description":"Apply function FUN to each node of a dendrogram\nrecursively.  When  y <- dendrapply(x, fn), then y is a\ndendrogram of the same graph structure as x and for each node,\ny.node[j] <- FUN( x.node[j], ...) (where y.node[j] is an\n(invalid!) notation for the j-th node of y).\n","example_call":"dendrapply(X, FUN, ...)"}

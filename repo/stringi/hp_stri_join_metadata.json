@@ -1,0 +1,1 @@
+{"description":"These are the stringi's equivalents of the built-in\npaste function.\nstri_c and stri_paste are aliases for stri_join.\n","example_call":"stri_join(..., sep = \"\", collapse = NULL, ignore_null = FALSE)"}

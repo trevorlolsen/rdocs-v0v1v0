@@ -1,0 +1,1 @@
+{"description":"Format unordered (itemize) and ordered (enumerate) lists.\n","example_call":"formatOL(x, type = \"arabic\", offset = 0, start = 1, width = 0.9 *"}

@@ -1,0 +1,1 @@
+{"description":"Coerce to booltype (generic)\n","example_call":"as.booltype(x, booltype, ...)"}

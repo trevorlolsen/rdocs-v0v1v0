@@ -1,0 +1,1 @@
+{"description":"Summarize an analysis of variance model.\n","example_call":"summary.aov(object, intercept = FALSE, split, expand.split = TRUE,"}

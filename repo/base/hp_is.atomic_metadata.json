@@ -1,0 +1,1 @@
+{"description":"is.atomic returns TRUE if x is of an atomic type\nand FALSE otherwise.\n","example_call":"is.atomic(x)"}

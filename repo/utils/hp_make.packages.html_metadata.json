@@ -1,0 +1,1 @@
+{"description":"Re-create the HTML list of packages.\n","example_call":"make.packages.html(lib.loc = .libPaths(), temp = FALSE, verbose = TRUE,"}

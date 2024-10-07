@@ -1,0 +1,1 @@
+{"description":"If indices selects every value in x exactly once, in any order, then\nlist_unchop() is the inverse of vec_chop() and the following invariant\nholds:\n","example_call":"vec_chop(x, ..., indices = NULL, sizes = NULL)"}

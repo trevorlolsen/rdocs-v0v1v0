@@ -1,0 +1,1 @@
+{"description":"Temporarily use a graphics device.\n","example_call":"with_cairo_pdf(new, code, ...)"}

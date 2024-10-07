@@ -1,0 +1,1 @@
+{"description":"Bandwidth selectors for Gaussian kernels in density.\n","example_call":"bw.ucv(x, nb = 1000L, lower = 0.1 * hmax, upper = hmax, tol = 0.1 *"}

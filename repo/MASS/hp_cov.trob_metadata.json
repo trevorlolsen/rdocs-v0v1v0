@@ -1,0 +1,1 @@
+{"description":"Estimates a covariance or correlation matrix assuming the data came\nfrom a multivariate t distribution: this provides some degree of\nrobustness to outlier without giving a high breakdown point.\n","example_call":"cov.trob(x, wt = rep(1, n), cor = FALSE, center = TRUE, nu = 5,"}

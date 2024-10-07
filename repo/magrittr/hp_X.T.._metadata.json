@@ -1,0 +1,1 @@
+{"description":"Pipe a value forward into a function- or call expression and return the\noriginal value instead of the result. This is useful when an expression\nis used for its side-effect, say plotting or printing.\n","example_call":"%T>%(lhs, rhs)"}

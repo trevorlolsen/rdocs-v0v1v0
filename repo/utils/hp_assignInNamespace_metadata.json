@@ -1,0 +1,1 @@
+{"description":"Utility functions to access and replace the non-exported functions in\na namespace, for use in developing packages with namespaces.\n","example_call":"assignInNamespace(x, value, ns, pos = -1, envir = as.environment(pos))"}

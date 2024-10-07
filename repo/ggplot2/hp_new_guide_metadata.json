@@ -1,0 +1,1 @@
+{"description":"A constructor function for guides, which performs some standard compatibility\nchecks between the guide and provided arguments.\n","example_call":"new_guide(..., available_aes = \"any\", super)"}

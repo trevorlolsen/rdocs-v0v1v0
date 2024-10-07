@@ -1,0 +1,1 @@
+{"description":"This function returns the value labels of labelled data.\n","example_call":"get_labels(x, attr.only = FALSE, values = NULL, non.labelled = FALSE,"}

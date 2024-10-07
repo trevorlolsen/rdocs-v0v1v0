@@ -1,0 +1,1 @@
+{"description":"pluck() implements a generalised form of [[ that allow you to index\ndeeply and flexibly into data structures. It always succeeds, returning\n.default if the index you are trying to access does not exist or is NULL.\n","example_call":"pluck(.x, ..., .default = NULL)"}

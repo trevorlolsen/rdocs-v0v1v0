@@ -1,0 +1,1 @@
+{"description":"Re-encodes SGR and OSC encoded URL sequences into a unique decomposed form.\nStrings containing semantically identical SGR and OSC sequences that are\nencoded differently should compare equal after normalization.\n","example_call":"normalize_state(x, warn = getOption(\"fansi.warn\", TRUE), term.cap = getOption(\"fansi.term.cap\","}

@@ -1,0 +1,1 @@
+{"description":"Use this to test whether a function returns a visible or invisible\noutput. Typically you'll use this to check that functions called primarily\nfor their side-effects return their data argument invisibly.\n","example_call":"expect_invisible(call, label = NULL)"}

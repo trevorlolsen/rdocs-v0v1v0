@@ -1,0 +1,1 @@
+{"description":"Find the paths to one or more packages.\n","example_call":"path.package(package = NULL, quiet = FALSE)"}

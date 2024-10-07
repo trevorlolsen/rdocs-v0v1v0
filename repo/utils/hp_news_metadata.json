@@ -1,0 +1,1 @@
+{"description":"Build and query the news data base for R or add-on packages.\n","example_call":"news(query, package = \"R\", lib.loc = NULL, format = NULL,"}

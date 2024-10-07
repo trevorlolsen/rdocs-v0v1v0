@@ -1,0 +1,1 @@
+{"description":"These functions check which rows or columns of a data frame completely\ncontain missing values, i.e. which observations or variables completely have\nmissing values, and either (1) returns their indices; or (2) removes them\nfrom the data frame.\n","example_call":"empty_columns(x)"}

@@ -1,0 +1,1 @@
+{"description":"This is a shortcut for x >= left & x <= right, implemented for local\nvectors and translated to the appropriate SQL for remote tables.\n","example_call":"between(x, left, right)"}

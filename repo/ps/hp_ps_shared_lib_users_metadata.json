@@ -1,0 +1,1 @@
+{"description":"List all processes that loaded a shared library\n","example_call":"ps_shared_lib_users(paths, user = ps_username(), filter = NULL)"}

@@ -1,0 +1,1 @@
+{"description":"Add an author to Authors@R in DESCRIPTION\n","example_call":"desc_add_author(given = NULL, family = NULL, email = NULL, role = NULL,"}

@@ -1,0 +1,1 @@
+{"description":"These functions help the base data.frame class fit into the vctrs type system\nby providing coercion and casting functions.\n","example_call":"vec_ptype2.data.frame(x, y, ...)"}

@@ -1,0 +1,1 @@
+{"description":"geom_qq() and stat_qq() produce quantile-quantile plots. geom_qq_line() and\nstat_qq_line() compute the slope and intercept of the line connecting the\npoints at specified quartiles of the theoretical and sample distributions.\n","example_call":"geom_qq_line(mapping = NULL, data = NULL, geom = \"path\", position = \"identity\","}

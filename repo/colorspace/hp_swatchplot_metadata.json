@@ -1,0 +1,1 @@
+{"description":"Visualization of color palettes in columns of color swatches.\n","example_call":"swatchplot(x, ..., nrow = 20, border = NULL, sborder = NULL, off = NULL,"}

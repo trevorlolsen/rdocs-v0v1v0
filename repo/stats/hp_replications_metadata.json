@@ -1,0 +1,1 @@
+{"description":"Returns a vector or a list of the number of replicates for\neach term in the formula.\n","example_call":"replications(formula, data = NULL, na.action)"}

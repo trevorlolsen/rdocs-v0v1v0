@@ -1,0 +1,1 @@
+{"description":"Functions to convert between character representations and objects of\nclass \"Date\" representing calendar dates.\n","example_call":"format.Date(x, format = \"%Y-%m-%d\", ...)"}

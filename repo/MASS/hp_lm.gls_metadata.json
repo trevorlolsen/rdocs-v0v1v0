@@ -1,0 +1,1 @@
+{"description":"Fit linear models by Generalized Least Squares\n","example_call":"lm.gls(formula, data, W, subset, na.action, inverse = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"Change wildcard aka globbing patterns into the\ncorresponding regular expressions (regexp).\n","example_call":"glob2rx(pattern, trim.head = FALSE, trim.tail = TRUE)"}

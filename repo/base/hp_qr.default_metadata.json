@@ -1,0 +1,1 @@
+{"description":"qr computes the QR decomposition of a matrix.\n","example_call":"qr.default(x, tol = 1e-07, LAPACK = FALSE, ...)"}

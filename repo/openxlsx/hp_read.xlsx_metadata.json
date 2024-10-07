@@ -1,0 +1,1 @@
+{"description":"Read data from an Excel file or Workbook object into a data.frame\n","example_call":"read.xlsx(xlsxFile, sheet, startRow = 1, colNames = TRUE, rowNames = FALSE,"}

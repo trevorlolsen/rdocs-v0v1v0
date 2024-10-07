@@ -1,0 +1,1 @@
+{"description":"env_get() extracts an object from an enviroment env. By\ndefault, it does not look in the parent environments.\nenv_get_list() extracts multiple objects from an environment into\na named list.\n","example_call":"env_get(env = caller_env(), nm, default, inherit = FALSE, last = empty_env())"}

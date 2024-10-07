@@ -1,0 +1,1 @@
+{"description":"If your doesn't support predicate functions, return a 0-row data frame\nfrom tidyselect_data_proxy() and FALSE from\ntidyselect_data_has_predicates().\n","example_call":"tidyselect_data_proxy(x)"}

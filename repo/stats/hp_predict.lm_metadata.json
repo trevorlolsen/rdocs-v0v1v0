@@ -1,0 +1,1 @@
+{"description":"Predicted values based on linear model object.\n","example_call":"predict.lm(object, newdata, se.fit = FALSE, scale = NULL, df = Inf,"}

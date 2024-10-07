@@ -1,0 +1,1 @@
+{"description":"Remove ANSI escape sequences from a string\n","example_call":"strip_style(string)"}

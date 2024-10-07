@@ -1,0 +1,1 @@
+{"description":"Computes and plots conditional densities describing how the\nconditional distribution of a categorical variable y changes over a\nnumerical variable x.\n","example_call":"cdplot(x, ...)"}

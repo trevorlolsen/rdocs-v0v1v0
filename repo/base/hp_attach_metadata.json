@@ -1,0 +1,1 @@
+{"description":"The database is attached to the R search path.  This means that the\ndatabase is searched by R when evaluating a variable, so objects in\nthe database can be accessed by simply giving their names.\n","example_call":"attach(what, pos = 2L, name = deparse1(substitute(what), backtick = FALSE),"}

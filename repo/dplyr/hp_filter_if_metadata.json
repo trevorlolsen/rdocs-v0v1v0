@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"filter_if(.tbl, .predicate, .vars_predicate, .preserve = FALSE)"}

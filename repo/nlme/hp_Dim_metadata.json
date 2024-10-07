@@ -1,0 +1,1 @@
+{"description":"This function is generic; method functions can be written to handle\nspecific classes of objects. Classes which already have methods for\nthis function include: \"corSpatial\", \"corStruct\",\n\"pdCompSymm\", \"pdDiag\", \"pdIdent\", \"pdMat\",\nand \"pdSymm\".\n","example_call":"Dim(object, ...)"}

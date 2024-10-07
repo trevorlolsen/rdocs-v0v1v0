@@ -1,0 +1,1 @@
+{"description":"Construct a Matrix of a class that inherits from Matrix.\n","example_call":"Matrix(data = NA, nrow = 1, ncol = 1, byrow = FALSE, dimnames = NULL,"}

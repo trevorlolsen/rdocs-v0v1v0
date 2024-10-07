@@ -1,0 +1,1 @@
+{"description":"This function produces a contour plot with the areas between the\ncontours filled in solid color (Cleveland calls this a level plot).  A\nkey showing how the colors map to z values is shown to the right of\nthe plot.\n","example_call":"filled.contour(x = seq(0, 1, length.out = nrow(z)), y = seq(0, 1,"}

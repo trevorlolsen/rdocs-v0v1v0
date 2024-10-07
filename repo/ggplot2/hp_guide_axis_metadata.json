@@ -1,0 +1,1 @@
+{"description":"Axis guides are the visual representation of position scales like those\ncreated with scale_(x|y)_continuous() and\nscale_(x|y)_discrete().\n","example_call":"guide_axis(title = waiver(), theme = NULL, check.overlap = FALSE,"}

@@ -1,0 +1,1 @@
+{"description":"\n","example_call":"arrange_if(.tbl, .predicate, .funs = list(), ..., .by_group = FALSE,"}

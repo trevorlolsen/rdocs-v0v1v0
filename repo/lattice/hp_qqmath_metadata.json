@@ -1,0 +1,1 @@
+{"description":"Draw quantile-Quantile plots of a sample against a theoretical\ndistribution, possibly conditioned on other variables.\n","example_call":"qqmath(x, data, ...)"}

@@ -1,0 +1,1 @@
+{"description":"mutate() creates new columns that are functions of existing variables.\nIt can also modify (if the name is the same as an existing\ncolumn) and delete columns (by setting their value to NULL).\n","example_call":"mutate(.data, ...)"}

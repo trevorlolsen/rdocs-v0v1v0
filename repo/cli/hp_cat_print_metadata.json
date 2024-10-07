@@ -1,0 +1,1 @@
+{"description":"These helpers provide useful wrappers around cat(): most importantly\nthey all set sep = \"\", and cat_line() automatically adds a newline.\n","example_call":"cat_print(x, file = \"\")"}

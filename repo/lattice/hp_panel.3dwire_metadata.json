@@ -1,0 +1,1 @@
+{"description":"Default panel functions controlling cloud and\nwireframe displays.\n","example_call":"panel.3dwire(x, y, z, rot.mat = diag(4), distance, shade = FALSE,"}

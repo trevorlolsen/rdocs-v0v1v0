@@ -1,0 +1,1 @@
+{"description":"If the table is sorted, this can be much faster than %in%\n","example_call":"in.bitwhich(x, table, is.unsorted = NULL)"}

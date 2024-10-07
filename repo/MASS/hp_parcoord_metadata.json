@@ -1,0 +1,1 @@
+{"description":"Parallel coordinates plot\n","example_call":"parcoord(x, col = 1, lty = 1, var.label = FALSE, ...)"}

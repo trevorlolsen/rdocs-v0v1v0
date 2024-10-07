@@ -1,0 +1,1 @@
+{"description":"This function rotates a data frame, i.e. columns become rows and vice versa.\nIt's the equivalent of using t() but restores the data.frame class,\npreserves attributes and prints a warning if the data type is\nmodified (see example).\n","example_call":"data_transpose(data, rownames = NULL, colnames = FALSE, verbose = TRUE)"}

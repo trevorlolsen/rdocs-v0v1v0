@@ -1,0 +1,1 @@
+{"description":"Get the maximal width/length of a list of grobs\n","example_call":"max_width(grobs, value_only = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"These default flags enforce good coding practice by ensuring that\nCFLAGS and CXXFLAGS are set to -Wall -pedantic.\nThese tests are run by cran and are generally considered to be good practice.\n","example_call":"compiler_flags(debug = FALSE)"}

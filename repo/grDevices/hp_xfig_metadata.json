@@ -1,0 +1,1 @@
+{"description":"xfig starts the graphics device driver for producing XFig\n(version 3.2) graphics.\n","example_call":"xfig(file = if (onefile) \"Rplots.fig\" else \"Rplot%03d.fig\","}

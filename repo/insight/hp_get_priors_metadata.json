@@ -1,0 +1,1 @@
+{"description":"Provides a summary of the prior distributions used\nfor the parameters in a given model.\n","example_call":"get_priors(x, ...)"}

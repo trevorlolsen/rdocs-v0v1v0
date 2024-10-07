@@ -1,0 +1,1 @@
+{"description":"R6 objects are essentially environments, structured in a way that makes them\nlook like an object in a more typical object-oriented language than R. They\nsupport public and private members, as well as inheritance across different\npackages.\n","example_call":"R6Class(classname = NULL, public = list(), private = NULL,"}

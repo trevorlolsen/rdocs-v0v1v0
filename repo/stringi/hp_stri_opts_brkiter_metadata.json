@@ -1,0 +1,1 @@
+{"description":"A convenience function to tune the ICU BreakIterator's behavior\nin some text boundary analysis functions, see\nstringi-search-boundaries.\n","example_call":"stri_opts_brkiter(type, locale, skip_word_none, skip_word_number, skip_word_letter,"}

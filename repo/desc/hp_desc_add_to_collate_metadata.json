@@ -1,0 +1,1 @@
+{"description":"Add one or more files to the Collate field, in DESCRIPTION\n","example_call":"desc_add_to_collate(files, which = c(\"default\", \"all\", \"main\", \"windows\","}

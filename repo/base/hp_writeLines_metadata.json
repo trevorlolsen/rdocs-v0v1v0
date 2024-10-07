@@ -1,0 +1,1 @@
+{"description":"Write text lines to a connection.\n","example_call":"writeLines(text, con = stdout(), sep = \"\\n\", useBytes = FALSE)"}

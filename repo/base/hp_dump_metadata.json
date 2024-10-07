@@ -1,0 +1,1 @@
+{"description":"This function takes a vector of names of R objects and produces\ntext representations of the objects on a file or connection.\nA dump file can usually be sourced into another\nR session.\n","example_call":"dump(list, file = \"dumpdata.R\", append = FALSE, control = \"all\","}

@@ -1,0 +1,1 @@
+{"description":"This function ranks each string in a character vector according to a\nlocale-dependent lexicographic order.\nIt is a portable replacement for the base xtfrm function.\n","example_call":"stri_rank(str, ..., opts_collator = NULL)"}

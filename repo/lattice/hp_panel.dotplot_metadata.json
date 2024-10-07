@@ -1,0 +1,1 @@
+{"description":"Default panel function for dotplot.\n","example_call":"panel.dotplot(x, y, horizontal = TRUE, pch = if (is.null(groups)) dot.symbol$pch else sup.symbol$pch,"}

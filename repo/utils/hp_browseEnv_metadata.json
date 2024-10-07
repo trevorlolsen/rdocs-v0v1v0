@@ -1,0 +1,1 @@
+{"description":"The browseEnv function opens a browser with list of objects\ncurrently in sys.frame() environment.\n","example_call":"browseEnv(envir = .GlobalEnv, pattern, excludepatt = \"^last\\\\.warning\","}

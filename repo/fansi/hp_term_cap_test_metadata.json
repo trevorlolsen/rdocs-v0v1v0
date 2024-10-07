@@ -1,0 +1,1 @@
+{"description":"Outputs ANSI CSI SGR formatted text to screen so that you may visually\ninspect what color capabilities your terminal supports.\n","example_call":"term_cap_test()"}

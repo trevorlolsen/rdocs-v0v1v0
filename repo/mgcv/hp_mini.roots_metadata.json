@@ -1,0 +1,1 @@
+{"description":"INTERNAL function to obtain square roots, B[[i]], of the penalty matrices S[[i]]'s having as few\ncolumns as possible.\n","example_call":"mini.roots(S, off, np, rank = NULL)"}

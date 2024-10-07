@@ -1,0 +1,1 @@
+{"description":"The columns in object1 and object2 are put together in\nmatrices which allow direct comparison of the individual elements for\neach object. Missing columns in either object are replaced by\nNAs.\n","example_call":"compareFits(object1, object2, which = 1:ncol(object1))"}

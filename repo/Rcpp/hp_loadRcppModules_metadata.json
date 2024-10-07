@@ -1,0 +1,1 @@
+{"description":"Note: As of release 0.12.5, this function is deprecated;\nloadModule should be used instead.\n","example_call":"loadRcppModules(direct = TRUE)"}

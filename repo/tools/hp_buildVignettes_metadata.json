@@ -1,0 +1,1 @@
+{"description":"Run Sweave (or other custom weave function)\nand texi2pdf on all vignettes\nof a package, or list the vignettes.\n","example_call":"buildVignettes(package, dir, lib.loc = NULL, quiet = TRUE, clean = TRUE,"}

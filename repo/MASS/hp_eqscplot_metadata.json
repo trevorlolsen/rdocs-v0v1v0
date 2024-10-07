@@ -1,0 +1,1 @@
+{"description":"Version of a scatterplot with scales chosen to be equal on both axes, that\nis 1cm represents the same units on each\n","example_call":"eqscplot(x, y, ratio = 1, tol = 0.04, uin, ...)"}

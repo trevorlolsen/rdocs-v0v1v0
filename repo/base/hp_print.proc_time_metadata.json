@@ -1,0 +1,1 @@
+{"description":"proc.time determines how much real and CPU time (in seconds)\nthe currently running R process has already taken.\n","example_call":"print.proc_time(x, ...)"}

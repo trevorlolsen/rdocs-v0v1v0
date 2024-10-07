@@ -1,0 +1,1 @@
+{"description":"Create a periodic interpolation spline, either from x and\ny vectors, or from a formula/data.frame combination.\n","example_call":"periodicSpline(obj1, obj2, knots, period = 2 * pi, ord = 4L)"}

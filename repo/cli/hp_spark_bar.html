@@ -1,0 +1,70 @@
+<div class="container"><main><table style="width: 100%;"><tr>
+<td>spark_bar</td>
+<td style="text-align: right;">R Documentation</td>
+</tr></table>
+<h2>Draw a sparkline bar graph with unicode block characters</h2>
+
+<h3>Description</h3>
+
+<p>Rendered using <a href="https://en.wikipedia.org/wiki/Block_Elements">block elements</a>.
+In most common fixed width fonts these are rendered wider than regular
+characters which means they are not suitable if you need precise alignment.
+</p>
+<p>You might want to avoid sparklines on non-UTF-8 systems, because they
+do not look good. You can use <code>is_utf8_output()</code> to test for support
+for them.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre><code class="language-R">spark_bar(x)
+</code></pre>
+
+
+<h3>Arguments</h3>
+
+<table><tr>
+<td><code id="x">x</code></td>
+<td>
+<p>A numeric vector between 0 and 1</p>
+</td>
+</tr></table>
+<h3>Details</h3>
+
+<div class="sourceCode r"><pre>x &lt;- seq(0, 1, length = 6)
+spark_bar(x)
+</pre></div>
+<div class="asciicast" style="color: #172431;font-family: 'Fira Code',Monaco,Consolas,Menlo,'Bitstream Vera Sans Mono','Powerline Symbols',monospace;line-height: 1.300000"><pre>
+#&gt; <e2>&lt;96&gt;&lt;81&gt;<e2>&lt;96&gt;&lt;82&gt;<e2>&lt;96&gt;&lt;84&gt;<e2>&lt;96&gt;&lt;85&gt;<e2>&lt;96&gt;&lt;87&gt;<e2>&lt;96&gt;&lt;88&gt;                                                                          
+</e2></e2></e2></e2></e2></e2></pre></div>
+
+<div class="sourceCode r"><pre>x &lt;- seq(0, 1, length = 6)
+spark_bar(sample(x))
+</pre></div>
+<div class="asciicast" style="color: #172431;font-family: 'Fira Code',Monaco,Consolas,Menlo,'Bitstream Vera Sans Mono','Powerline Symbols',monospace;line-height: 1.300000"><pre>
+#&gt; <e2>&lt;96&gt;&lt;85&gt;<e2>&lt;96&gt;&lt;81&gt;<e2>&lt;96&gt;&lt;88&gt;<e2>&lt;96&gt;&lt;84&gt;<e2>&lt;96&gt;&lt;87&gt;<e2>&lt;96&gt;&lt;82&gt;                                                                          
+</e2></e2></e2></e2></e2></e2></pre></div>
+
+<div class="sourceCode r"><pre>spark_bar(seq(0, 1, length = 8))
+</pre></div>
+<div class="asciicast" style="color: #172431;font-family: 'Fira Code',Monaco,Consolas,Menlo,'Bitstream Vera Sans Mono','Powerline Symbols',monospace;line-height: 1.300000"><pre>
+#&gt; <e2>&lt;96&gt;&lt;81&gt;<e2>&lt;96&gt;&lt;82&gt;<e2>&lt;96&gt;&lt;83&gt;<e2>&lt;96&gt;&lt;84&gt;<e2>&lt;96&gt;&lt;85&gt;<e2>&lt;96&gt;&lt;86&gt;<e2>&lt;96&gt;&lt;87&gt;<e2>&lt;96&gt;&lt;88&gt;                                                                        
+</e2></e2></e2></e2></e2></e2></e2></e2></pre></div>
+
+<p><code>NA</code>s are left out:
+</p>
+<div class="sourceCode r"><pre>spark_bar(c(0, NA, 0.5, NA, 1))
+</pre></div>
+<div class="asciicast" style="color: #172431;font-family: 'Fira Code',Monaco,Consolas,Menlo,'Bitstream Vera Sans Mono','Powerline Symbols',monospace;line-height: 1.300000"><pre>
+#&gt; <e2>&lt;96&gt;&lt;81&gt; <e2>&lt;96&gt;&lt;84&gt; <e2>&lt;96&gt;&lt;88&gt;                                                                           
+</e2></e2></e2></pre></div>
+
+
+
+<h3>See Also</h3>
+
+<p><code>spark_line()</code>
+</p>
+
+</main></div>

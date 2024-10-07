@@ -1,0 +1,1 @@
+{"description":"Union (union()), intersect (intersect()), difference (setdiff()),\nand equality (setequal()) for two vectors representing sets. Determine\nmembership with is.element().\n","example_call":"setdiff(x, y, ...)"}

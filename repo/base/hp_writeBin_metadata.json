@@ -1,0 +1,1 @@
+{"description":"Read binary data from or write binary data to a connection or raw vector.\n","example_call":"writeBin(object, con, size = NA_integer_, endian = .Platform$endian,"}

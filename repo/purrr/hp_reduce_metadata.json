@@ -1,0 +1,1 @@
+{"description":"reduce() is an operation that combines the elements of a vector\ninto a single value. The combination is driven by .f, a binary\nfunction that takes two values and returns a single value: reducing\nf over 1:3 computes the value f(f(1, 2), 3).\n","example_call":"reduce(.x, .f, ..., .init, .dir = c(\"forward\", \"backward\"))"}

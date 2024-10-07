@@ -1,0 +1,1 @@
+{"description":"This function constructs and evaluates a call to .fn.\nIt has two primary uses:\n","example_call":"exec(.fn, ..., .env = caller_env())"}

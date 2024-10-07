@@ -1,0 +1,1 @@
+{"description":"This is used to power the auto_test() and\nauto_test_package() functions which are used to rerun tests\nwhenever source code changes.\n","example_call":"watch(path, callback, pattern = NULL, hash = TRUE)"}

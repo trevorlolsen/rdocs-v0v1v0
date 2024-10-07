@@ -1,0 +1,1 @@
+{"description":"CHMfactor is the virtual class of sparse Cholesky\nfactorizations of n \\times n real, symmetric\nmatrices A, having the general form\n","example_call":"isLDL(x)"}

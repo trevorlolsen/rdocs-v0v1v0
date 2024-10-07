@@ -1,0 +1,1 @@
+{"description":"A quick and dirty way to show colours in a plot.\n","example_call":"show_col(colours, labels = TRUE, borders = NULL, cex_label = 1,"}

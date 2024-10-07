@@ -1,0 +1,1 @@
+{"description":"Cross joins match each row in x to every row in y, resulting in a data\nframe with nrow(x) * nrow(y) rows.\n","example_call":"cross_join(x, y, ..., copy = FALSE, suffix = c(\".x\", \".y\"))"}

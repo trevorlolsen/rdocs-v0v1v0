@@ -1,0 +1,1 @@
+{"description":"Construct a formally diagonal Matrix,\ni.e., an object inheriting from virtual class\ndiagonalMatrix\n(or, if desired, a mathematically diagonal\nCsparseMatrix).\n","example_call":".symDiagonal(n, x = NULL, uplo = \"U\", kind)"}

@@ -1,0 +1,1 @@
+{"description":"Retrieve or set the dimension of an object.\n","example_call":"dim<-(x, value)"}

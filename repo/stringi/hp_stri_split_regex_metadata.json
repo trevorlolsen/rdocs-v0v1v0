@@ -1,0 +1,1 @@
+{"description":"These functions split each element in str into substrings.\npattern defines the delimiters that separate the inputs into tokens.\nThe input data between the matches become the fields themselves.\n","example_call":"stri_split_regex(str, pattern, n = -1L, omit_empty = FALSE, tokens_only = FALSE,"}

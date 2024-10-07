@@ -1,0 +1,1 @@
+{"description":"readxl comes bundled with some example files in its inst/extdata\ndirectory. This function make them easy to access.\n","example_call":"readxl_example(path = NULL)"}

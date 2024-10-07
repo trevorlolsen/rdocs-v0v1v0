@@ -1,0 +1,1 @@
+{"description":"This generic hook function is called whenever a grid grob is created\nor\nedited\nvia grob, gTree, grid.edit or editGrob.\nThis provides an opportunity for customising the validation of a\nnew class derived from grob (or gTree).\n","example_call":"validDetails(x)"}

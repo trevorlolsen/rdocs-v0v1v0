@@ -1,0 +1,1 @@
+{"description":"Functions to compute matrix of residual sums of squares and products,\nor the estimated variance matrix for multivariate linear models.\n","example_call":"estVar(object, ...)"}

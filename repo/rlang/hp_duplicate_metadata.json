@@ -1,0 +1,1 @@
+{"description":"duplicate() is an interface to the C-level duplicate() and\nshallow_duplicate() functions. It is mostly meant for users of\nthe C API of R, e.g. for debugging, experimenting, or prototyping C\ncode in R.\n","example_call":"duplicate(x, shallow = FALSE)"}

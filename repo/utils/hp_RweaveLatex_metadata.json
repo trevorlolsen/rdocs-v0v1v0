@@ -1,0 +1,1 @@
+{"description":"A driver for Sweave that translates R code chunks in\nLaTeX files by <U+201C>running them<U+201D>, i.e., parse() and\neval() each.\n","example_call":"RweaveLatex()"}

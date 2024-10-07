@@ -1,0 +1,1 @@
+{"description":"Pretty formatting of time intervals (difftime objects)\n","example_call":"pretty_dt(dt, compact = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"str_flatten() reduces a character vector to a single string. This is a\nsummary function because regardless of the length of the input x, it\nalways returns a single string.\n","example_call":"str_flatten_comma(string, last = NULL, na.rm = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Train (update) a discrete scale\n","example_call":"train_discrete(new, existing = NULL, drop = FALSE, na.rm = FALSE,"}

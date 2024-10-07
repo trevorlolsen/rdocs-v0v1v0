@@ -1,0 +1,1 @@
+{"description":"Return the matrix obtained by setting to zero elements below a diagonal\n(triu), above a diagonal (tril), or outside of a general\nband (band).\n","example_call":"band(x, k1, k2, ...)"}

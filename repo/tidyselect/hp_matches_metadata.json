@@ -1,0 +1,1 @@
+{"description":"These selection helpers match variables according\nto a given pattern.\n","example_call":"matches(match, ignore.case = TRUE, perl = FALSE, vars = NULL)"}

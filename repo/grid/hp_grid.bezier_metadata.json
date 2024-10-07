@@ -1,0 +1,1 @@
+{"description":"These functions create and draw Bezier Curves (a curve drawn\nrelative to 4 control points).\n","example_call":"grid.bezier(...)"}

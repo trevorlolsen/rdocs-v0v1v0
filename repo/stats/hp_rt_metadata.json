@@ -1,0 +1,1 @@
+{"description":"Density, distribution function, quantile function and random\ngeneration for the t distribution with df degrees of freedom\n(and optional non-centrality parameter ncp).\n","example_call":"rt(n, df, ncp)"}

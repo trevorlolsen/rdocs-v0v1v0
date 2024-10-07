@@ -1,0 +1,1 @@
+{"description":"This function visualizes a single isoband calculated from a matrix. It is mainly useful\nfor debugging and visualizing the isobanding algorithm. See isobands() for more\nexamples.\n","example_call":"plot_iso(m, vlo, vhi, fill_lo = \"gray95\", fill_mid = \"gray50\","}

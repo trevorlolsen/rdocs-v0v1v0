@@ -1,0 +1,1 @@
+{"description":"This is a small wrapper around tryCatch() that captures any\ncondition signalled while evaluating its argument. It is useful for\nsituations where you expect a specific condition to be signalled,\nfor debugging, and for unit testing.\n","example_call":"catch_cnd(expr, classes = \"condition\")"}

@@ -1,0 +1,1 @@
+{"description":"Namespaces are the environment where all the functions of a package\nlive. The parent environments of namespaces are the imports\nenvironments, which contain all the functions imported from other\npackages.\n","example_call":"ns_imports_env(x = caller_env())"}

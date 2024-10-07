@@ -1,0 +1,1 @@
+{"description":"These type predicates aim to make type testing in R more\nconsistent. They are wrappers around base::typeof(), so operate\nat a level beneath S3/S4 etc.\n","example_call":"is_raw(x, n = NULL)"}

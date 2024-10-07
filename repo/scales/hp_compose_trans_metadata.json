@@ -1,0 +1,1 @@
+{"description":"This transformer provides a general mechanism for composing two or more\ntransformers together. The most important use case is to combine reverse\nwith other transformations.\n","example_call":"compose_trans(...)"}

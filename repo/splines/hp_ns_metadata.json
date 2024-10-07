@@ -1,0 +1,1 @@
+{"description":"Generate the B-spline basis matrix for a natural cubic spline.\n","example_call":"ns(x, df = NULL, knots = NULL, intercept = FALSE, Boundary.knots = range(x))"}

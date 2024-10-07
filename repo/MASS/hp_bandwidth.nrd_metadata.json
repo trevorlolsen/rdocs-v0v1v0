@@ -1,0 +1,1 @@
+{"description":"A well-supported rule-of-thumb for choosing the bandwidth of a Gaussian\nkernel density estimator.\n","example_call":"bandwidth.nrd(x)"}

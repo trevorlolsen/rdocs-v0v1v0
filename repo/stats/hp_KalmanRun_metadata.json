@@ -1,0 +1,1 @@
+{"description":"Use Kalman Filtering to find the (Gaussian) log-likelihood, or for\nforecasting or smoothing.\n","example_call":"KalmanRun(y, mod, nit = 0L, update = FALSE)"}

@@ -1,0 +1,1 @@
+{"description":"Computes shortest edit script to convert a into b by removing\nelements from a and adding elements from b.  Intended primarily\nfor debugging or for other applications that understand that particular\nformat.  See GNU diff docs\nfor how to interpret the symbols.\n","example_call":"ses(a, b, max.diffs = gdo(\"max.diffs\"), warn = gdo(\"warn\"))"}

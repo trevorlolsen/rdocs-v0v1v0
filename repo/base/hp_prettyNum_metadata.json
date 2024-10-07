@@ -1,0 +1,1 @@
+{"description":"formatC() formats numbers individually and flexibly using\nC style format specifications.\n","example_call":"prettyNum(x, big.mark = \"\", big.interval = 3L, small.mark = \"\","}

@@ -1,0 +1,1 @@
+{"description":"Accurately computes the logarithm of the sum of exponentials across rows or\ncolumns.\n","example_call":"colLogSumExps(lx, rows = NULL, cols = NULL, na.rm = FALSE, dim. = dim(lx),"}

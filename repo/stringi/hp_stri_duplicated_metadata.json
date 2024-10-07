@@ -1,0 +1,1 @@
+{"description":"stri_duplicated() determines which strings in a character vector\nare duplicates of other elements.\n","example_call":"stri_duplicated(str, from_last = FALSE, fromLast = from_last, ...,"}

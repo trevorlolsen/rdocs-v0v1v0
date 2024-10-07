@@ -1,0 +1,1 @@
+{"description":"file_copy() copies files.\n","example_call":"dir_copy(path, new_path, overwrite = FALSE)"}

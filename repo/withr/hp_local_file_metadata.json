@@ -1,0 +1,1 @@
+{"description":"Create files, which are then automatically removed afterwards.\n","example_call":"local_file(.file, ..., .local_envir = parent.frame())"}

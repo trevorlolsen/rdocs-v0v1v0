@@ -1,0 +1,1 @@
+{"description":"Compares object and expected using all.equal() and\ncheck.attributes = FALSE.\n","example_call":"expect_equivalent(object, expected, ..., info = NULL, label = NULL, expected.label = NULL)"}

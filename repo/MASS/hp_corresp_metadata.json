@@ -1,0 +1,1 @@
+{"description":"Find the principal canonical correlation and corresponding row- and\ncolumn-scores from a correspondence analysis of a two-way contingency\ntable.\n","example_call":"corresp(x, ...)"}

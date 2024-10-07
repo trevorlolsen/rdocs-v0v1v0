@@ -1,0 +1,1 @@
+{"description":"remove and rm are identical R functions that\ncan be used to remove objects.  These can\nbe specified successively as character strings, or in the character\nvector list, or through a combination of both.  All objects\nthus specified will be removed.\n","example_call":"rm(..., list = character(), pos = -1, envir = as.environment(pos),"}

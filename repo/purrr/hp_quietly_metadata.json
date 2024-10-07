@@ -1,0 +1,1 @@
+{"description":"Create a modified version of .f that captures side-effects along with\nthe return value of the function and returns a list containing\nthe result, output, messages and warnings.\n","example_call":"quietly(.f)"}

@@ -1,0 +1,1 @@
+{"description":"Computes Holt-Winters Filtering of a given time series.\nUnknown parameters are determined by minimizing the squared\nprediction error.\n","example_call":"HoltWinters(x, alpha = NULL, beta = NULL, gamma = NULL, seasonal = c(\"additive\","}

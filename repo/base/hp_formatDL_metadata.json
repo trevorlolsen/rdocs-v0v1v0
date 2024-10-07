@@ -1,0 +1,1 @@
+{"description":"Format vectors of items and their descriptions as 2-column\ntables or LaTeX-style description lists.\n","example_call":"formatDL(x, y, style = c(\"table\", \"list\"), width = 0.9 * getOption(\"width\"),"}

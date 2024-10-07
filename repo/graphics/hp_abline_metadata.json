@@ -1,0 +1,1 @@
+{"description":"This function adds one or more straight lines through the current plot.\n","example_call":"abline(a = NULL, b = NULL, h = NULL, v = NULL, reg = NULL,"}

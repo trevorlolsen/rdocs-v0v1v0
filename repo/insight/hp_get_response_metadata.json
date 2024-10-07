@@ -1,0 +1,1 @@
+{"description":"Returns the values the response variable(s) from a model object.\nIf the model is a multivariate response model, a data frame with values\nfrom all response variables is returned.\n","example_call":"get_response(x, ...)"}

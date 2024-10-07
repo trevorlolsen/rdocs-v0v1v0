@@ -1,0 +1,1 @@
+{"description":"zapsmall determines a digits argument dr for\ncalling round(x, digits = dr) such that values close to\nzero (compared with the maximal absolute value in the vector) are\n<U+2018>zapped<U+2019>, i.e., replaced by 0.\n","example_call":"zapsmall(x, digits = getOption(\"digits\"), mFUN = function(x,"}

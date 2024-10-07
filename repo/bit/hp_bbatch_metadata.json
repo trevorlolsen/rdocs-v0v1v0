@@ -1,0 +1,1 @@
+{"description":"bbatch calculates batch sizes in 1..N so that they have rather balanced\nsizes than very different sizes.\n","example_call":"bbatch(N, B)"}

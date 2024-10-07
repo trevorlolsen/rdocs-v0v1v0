@@ -1,0 +1,1 @@
+{"description":"Removes installed packages/bundles and updates index information\nas necessary.\n","example_call":"remove.packages(pkgs, lib)"}
