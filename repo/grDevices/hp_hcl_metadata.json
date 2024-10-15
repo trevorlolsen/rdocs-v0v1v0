@@ -1,1 +1,0 @@
-{"description":"Create a vector of colors from vectors specifying hue,\nchroma and luminance.\n","example_call":"hcl(h = 0, c = 35, l = 85, alpha, fixup = TRUE)"}

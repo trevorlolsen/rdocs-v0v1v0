@@ -1,1 +1,0 @@
-{"description":"\nDeprecated in rlang 0.4.11.\n","example_call":"call_fn(call, env = caller_env())"}

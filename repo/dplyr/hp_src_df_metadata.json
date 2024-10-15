@@ -1,1 +1,0 @@
-{"description":"\nThis function was deprecated since it existed to support a style of testing\ndplyr backends that turned out not to be useful.\n","example_call":"src_df(pkg = NULL, env = NULL)"}

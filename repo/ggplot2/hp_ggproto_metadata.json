@@ -1,1 +1,0 @@
-{"description":"Construct a new object with ggproto(), test with is.ggproto(),\nand access parent methods/fields with ggproto_parent().\n","example_call":"ggproto(`_class` = NULL, `_inherit` = NULL, ...)"}

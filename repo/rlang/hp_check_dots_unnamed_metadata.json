@@ -1,1 +1,0 @@
-{"description":"In functions like paste(), named arguments in ... are often a\nsign of misspelled argument names. Call check_dots_unnamed() to\nfail with an error when named arguments are detected.\n","example_call":"check_dots_unnamed(env = caller_env(), error = NULL, call = caller_env(),"}

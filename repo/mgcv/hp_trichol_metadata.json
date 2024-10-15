@@ -1,1 +1,0 @@
-{"description":"Computes Choleski decomposition of a (symmetric positive definite) tri-diagonal matrix stored as a leading diagonal and sub/super diagonal.\n","example_call":"trichol(ld, sd)"}

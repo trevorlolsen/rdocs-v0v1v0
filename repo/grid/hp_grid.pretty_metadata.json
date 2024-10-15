@@ -1,1 +1,0 @@
-{"description":"Produces a pretty set of approximately n breakpoints within the\nrange given.\n","example_call":"grid.pretty(range, n = 5L)"}

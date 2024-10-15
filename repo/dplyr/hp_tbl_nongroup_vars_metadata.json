@@ -1,1 +1,0 @@
-{"description":"tbl_vars() returns all variables while tbl_nongroup_vars()\nreturns only non-grouping variables. The groups attribute\nof the object returned by tbl_vars() is a character vector of the\ngrouping columns.\n","example_call":"tbl_nongroup_vars(x)"}

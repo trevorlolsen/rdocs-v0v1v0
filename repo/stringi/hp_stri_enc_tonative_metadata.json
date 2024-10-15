@@ -1,1 +1,0 @@
-{"description":"Converts character strings with declared encodings\nto the current native encoding.\n","example_call":"stri_enc_tonative(str)"}

@@ -1,1 +1,0 @@
-{"description":"getwd returns an absolute filepath representing the current\nworking directory of the R process; setwd(dir) is used to set\nthe working directory to dir.\n","example_call":"setwd(dir)"}

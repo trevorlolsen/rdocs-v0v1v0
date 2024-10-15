@@ -1,1 +1,0 @@
-{"description":"This function consults the option readr.read_lazy to figure out whether to\ndo lazy reading or not. If the option is unset, the default is FALSE,\nmeaning readr will read files eagerly, not lazily. If you want to use this\noption to express a preference for lazy reading, do this:\n","example_call":"should_read_lazy()"}

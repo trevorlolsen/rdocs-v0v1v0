@@ -1,1 +1,0 @@
-{"description":"vroom_altrep() can be used directly as input to the altrep\nargument of vroom().\n","example_call":"vroom_altrep(which = NULL)"}

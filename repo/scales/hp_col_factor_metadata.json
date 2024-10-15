@@ -1,1 +1,0 @@
-{"description":"Conveniently maps data values (numeric or factor/character) to colours\naccording to a given palette, which can be provided in a variety of formats.\n","example_call":"col_factor(palette, domain, levels = NULL, ordered = FALSE, na.color = \"#808080\","}

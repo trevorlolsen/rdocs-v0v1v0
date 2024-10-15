@@ -1,1 +1,0 @@
-{"description":"Change the time zone, and restore it afterwards.\n","example_call":"with_timezone(tz, code)"}

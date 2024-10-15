@@ -1,1 +1,0 @@
-{"description":"Functions to define gradient fills and pattern fills.\n","example_call":"linearGradient(colours = c(\"black\", \"white\"), stops = seq(0, 1, length.out = length(colours)),"}

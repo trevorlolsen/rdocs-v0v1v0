@@ -1,1 +1,0 @@
-{"description":"Family objects provide a convenient way to specify the details of the\nmodels used by functions such as glm.  See the\ndocumentation for glm for the details on how such model\nfitting takes place.\n","example_call":"binomial(link = \"logit\")"}

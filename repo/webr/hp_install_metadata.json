@@ -1,1 +1,0 @@
-{"description":"Install one or more packages from a webR binary package repo\n","example_call":"install(packages, repos = NULL, info = NULL, lib = NULL, quiet = FALSE,"}

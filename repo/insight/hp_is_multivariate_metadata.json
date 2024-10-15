@@ -1,1 +1,0 @@
-{"description":"Small helper that checks if a model is a multivariate response\nmodel, i.e. a model with multiple outcomes.\n","example_call":"is_multivariate(x)"}

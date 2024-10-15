@@ -1,1 +1,0 @@
-{"description":"Keep only unique/distinct rows from a data frame. This is similar\nto unique.data.frame() but considerably faster.\n","example_call":"distinct(.data, ..., .keep_all = FALSE)"}

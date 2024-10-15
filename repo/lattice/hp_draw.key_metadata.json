@@ -1,1 +1,0 @@
-{"description":"Produces (and possibly draws) a Grid frame grob which is a legend (aka \nkey) that can be placed in other Grid plots.\n","example_call":"draw.key(key, draw = FALSE, vp = NULL, ...)"}

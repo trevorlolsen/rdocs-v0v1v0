@@ -1,1 +1,0 @@
-{"description":"df_list() constructs the data structure underlying a data\nframe, a named list of equal-length vectors. It is often used in\ncombination with new_data_frame() to safely and consistently create\na helper function for data frame subclasses.\n","example_call":"df_list(..., .size = NULL, .unpack = TRUE, .name_repair = c(\"check_unique\","}

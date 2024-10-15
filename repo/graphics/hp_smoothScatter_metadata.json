@@ -1,1 +1,0 @@
-{"description":"smoothScatter produces a smoothed color density\nrepresentation of a scatterplot, obtained through a (2D) kernel\ndensity estimate.\n","example_call":"smoothScatter(x, y = NULL, nbin = 128, bandwidth, colramp = colorRampPalette(c(\"white\","}

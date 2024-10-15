@@ -1,1 +1,0 @@
-{"description":"across() makes it easy to apply the same transformation to multiple\ncolumns, allowing you to use select() semantics inside in \"data-masking\"\nfunctions like summarise() and mutate(). See vignette(\"colwise\") for\nmore details.\n","example_call":"if_any(.cols, .fns, ..., .names = NULL)"}

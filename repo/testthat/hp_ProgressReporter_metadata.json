@@ -1,1 +1,0 @@
-{"description":"ProgressReporter is designed for interactive use. Its goal is to\ngive you actionable insights to help you understand the status of your\ncode. This reporter also praises you from time-to-time if all your tests\npass. It's the default reporter for test_dir().\n","example_call":"NULL"}

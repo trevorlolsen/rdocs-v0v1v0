@@ -1,1 +1,0 @@
-{"description":"vec_ptype_full() displays the full type of the vector. vec_ptype_abbr()\nprovides an abbreviated summary suitable for use in a column heading.\n","example_call":"vec_ptype_full(x, ...)"}

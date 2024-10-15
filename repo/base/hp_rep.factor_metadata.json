@@ -1,1 +1,0 @@
-{"description":"rep replicates the values in x.  It is a generic\nfunction, and the (internal) default method is described here.\n","example_call":"rep.factor(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"These functions locate all objects with name matching their argument,\nwhether visible on the search path, registered as an S3 method or in a\nnamespace but not exported.  getAnywhere() returns the objects\nand argsAnywhere() returns the arguments of any objects that\nare functions.\n","example_call":"argsAnywhere(x)"}

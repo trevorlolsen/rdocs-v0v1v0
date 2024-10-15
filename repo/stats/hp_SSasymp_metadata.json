@@ -1,1 +1,0 @@
-{"description":"This selfStart model evaluates the asymptotic regression\nfunction and its gradient.  It has an initial attribute that\nwill evaluate initial estimates of the parameters Asym, R0,\nand lrc for a given set of data.\n","example_call":"SSasymp(input, Asym, R0, lrc)"}

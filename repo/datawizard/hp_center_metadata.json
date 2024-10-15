@@ -1,1 +1,0 @@
-{"description":"Performs a grand-mean centering of data.\n","example_call":"center(x, ...)"}

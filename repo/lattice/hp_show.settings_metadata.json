@@ -1,1 +1,0 @@
-{"description":"Functions used to query, display and modify graphical parameters for\nfine control of Trellis displays.  Modifications are made to the\nsettings for the currently active device only.\n","example_call":"show.settings(x = NULL)"}

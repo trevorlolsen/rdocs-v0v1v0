@@ -1,1 +1,0 @@
-{"description":"Functions to test inheritance relationships between an object and a\nclass or between two classes (extends).\n","example_call":"is(object, class2)"}

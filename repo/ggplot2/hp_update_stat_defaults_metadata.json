@@ -1,1 +1,0 @@
-{"description":"Modify geom/stat aesthetic defaults for future plots\n","example_call":"update_stat_defaults(stat, new)"}

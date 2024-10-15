@@ -1,1 +1,0 @@
-{"description":"relist() is an S3 generic function with a few methods in order\nto allow easy inversion of unlist(obj) when that is used\nwith an object obj of (S3) class \"relistable\".\n","example_call":"relist(flesh, skeleton = attr(flesh, \"skeleton\"))"}

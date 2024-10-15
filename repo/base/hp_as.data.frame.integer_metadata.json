@@ -1,1 +1,0 @@
-{"description":"These functions are provided for compatibility with older versions of\nR only, and may be defunct as soon as the next release.\n","example_call":"as.data.frame.integer(x, row.names = NULL, optional = FALSE, ..., nm = deparse1(substitute(x)))"}

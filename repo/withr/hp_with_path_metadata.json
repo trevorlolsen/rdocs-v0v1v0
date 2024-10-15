@@ -1,1 +1,0 @@
-{"description":"Temporarily change the system search path.\n","example_call":"with_path(new, code, action = c(\"prefix\", \"suffix\", \"replace\"))"}

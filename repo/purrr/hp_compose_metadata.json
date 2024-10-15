@@ -1,1 +1,0 @@
-{"description":"Create a new function that is the composition of multiple functions,\ni.e. compose(f, g) is equivalent to function(...) f(g(...)).\n","example_call":"compose(..., .dir = c(\"backward\", \"forward\"))"}

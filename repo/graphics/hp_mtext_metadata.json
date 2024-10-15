@@ -1,1 +1,0 @@
-{"description":"Text is written in one of the four margins of the current figure region\nor one of the outer margins of the device region.\n","example_call":"mtext(text, side = 3, line = 0, outer = FALSE, at = NA, adj = NA,"}

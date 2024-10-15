@@ -1,1 +1,0 @@
-{"description":"Counts the number of bytes needed to store\neach string in the computer's memory.\n","example_call":"stri_numbytes(str)"}

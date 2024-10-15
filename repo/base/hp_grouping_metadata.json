@@ -1,1 +1,0 @@
-{"description":"grouping returns a permutation which rearranges its first\nargument such that identical values are adjacent to each other.  Also\nreturned as attributes are the group-wise partitioning and the maximum\ngroup size.\n","example_call":"grouping(...)"}

@@ -1,1 +1,0 @@
-{"description":"Compute the number of classes for a histogram, notably hist().\n","example_call":"nclass.FD(x, digits = 5)"}

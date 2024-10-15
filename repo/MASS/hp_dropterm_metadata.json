@@ -1,1 +1,0 @@
-{"description":"Try fitting all models that differ from the current model by dropping a\nsingle term, maintaining marginality.\n","example_call":"dropterm(object, ...)"}

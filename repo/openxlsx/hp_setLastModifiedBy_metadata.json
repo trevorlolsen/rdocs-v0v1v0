@@ -1,1 +1,0 @@
-{"description":"Just a wrapper of wb$changeLastModifiedBy()\n","example_call":"setLastModifiedBy(wb, LastModifiedBy)"}

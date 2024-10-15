@@ -1,1 +1,0 @@
-{"description":"Produce model matrices or penalty matrices for a tensor product smooth from the model matrices or\npenalty matrices for the marginal bases of the smooth (marginals and results can be sparse). The model matrix construction uses row Kronecker products.\n","example_call":"%.%(a, b)"}

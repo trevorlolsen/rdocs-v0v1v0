@@ -1,1 +1,0 @@
-{"description":"Compute the approximate string distance between character vectors.\nThe distance is a generalized Levenshtein (edit) distance, giving the\nminimal possibly weighted number of insertions, deletions and\nsubstitutions needed to transform one string into another.\n","example_call":"adist(x, y = NULL, costs = NULL, counts = FALSE, fixed = TRUE,"}

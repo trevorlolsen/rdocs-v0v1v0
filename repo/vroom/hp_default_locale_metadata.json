@@ -1,1 +1,0 @@
-{"description":"A locale object tries to capture all the defaults that can vary between\ncountries. You set the locale in once, and the details are automatically\npassed on down to the columns parsers. The defaults have been chosen to\nmatch R (i.e. US English) as closely as possible. See\nvignette(\"locales\") for more details.\n","example_call":"default_locale()"}

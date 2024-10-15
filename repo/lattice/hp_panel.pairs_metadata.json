@@ -1,1 +1,0 @@
-{"description":"This is the default superpanel function for splom.\n","example_call":"panel.pairs(z, panel = lattice.getOption(\"panel.splom\"), lower.panel = panel,"}

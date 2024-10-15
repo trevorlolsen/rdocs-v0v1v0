@@ -1,1 +1,0 @@
-{"description":"A downward-only version of Scheme's call with current continuation.\n","example_call":"callCC(fun)"}

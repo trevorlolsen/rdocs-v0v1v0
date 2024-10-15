@@ -1,1 +1,0 @@
-{"description":"An interface to the (C99) wide character classification functions in use.\n","example_call":"charClass(x, class)"}

@@ -1,1 +1,0 @@
-{"description":"Outputs the objects, concatenating the representations.  cat\nperforms much less conversion than print.\n","example_call":"cat(..., file = \"\", sep = \" \", fill = FALSE, labels = NULL,"}

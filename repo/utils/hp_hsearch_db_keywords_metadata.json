@@ -1,1 +1,0 @@
-{"description":"Utilities for searching the help system.\n","example_call":"hsearch_db_keywords(db = hsearch_db())"}

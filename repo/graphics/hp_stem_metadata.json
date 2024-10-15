@@ -1,1 +1,0 @@
-{"description":"stem produces a stem-and-leaf plot of the values in x.\nThe parameter scale can be used to expand the scale of the\nplot.  A value of scale = 2 will cause the plot to be roughly\ntwice as long as the default.\n","example_call":"stem(x, scale = 1, width = 80, atom = 1e-08)"}

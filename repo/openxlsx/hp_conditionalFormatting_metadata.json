@@ -1,1 +1,0 @@
-{"description":"Add conditional formatting to cells\n","example_call":"conditionalFormatting(wb, sheet, cols, rows, rule = NULL, style = NULL, type = \"expression\","}

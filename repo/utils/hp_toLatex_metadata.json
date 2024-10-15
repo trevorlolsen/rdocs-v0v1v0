@@ -1,1 +1,0 @@
-{"description":"These methods convert R objects to character vectors with\nBibTeX or LaTeX markup.\n","example_call":"toLatex(object, ...)"}

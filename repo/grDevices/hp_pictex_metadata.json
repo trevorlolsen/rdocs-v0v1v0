@@ -1,1 +1,0 @@
-{"description":"This function produces simple graphics suitable for inclusion in TeX\nand LaTeX documents.  It dates from the very early days of R and is\nfor historical interest only.  It was deprecated in R 4.4.0.\nConsider the tikzDevice instead.\n","example_call":"pictex(file = \"Rplots.tex\", width = 5, height = 4, debug = FALSE,"}

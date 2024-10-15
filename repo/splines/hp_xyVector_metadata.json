@@ -1,1 +1,0 @@
-{"description":"Create an object to represent a set of x-y pairs.  The resulting\nobject can be treated as a matrix or as a data frame or as a vector.\nWhen treated as a vector it reduces to the y component only.\n","example_call":"xyVector(x, y)"}

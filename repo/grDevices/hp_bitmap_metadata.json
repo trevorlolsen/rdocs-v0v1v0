@@ -1,1 +1,0 @@
-{"description":"bitmap generates a graphics file.\ndev2bitmap copies the current graphics device to a file in a\ngraphics format.\n","example_call":"bitmap(file, type = \"png16m\", height = 7, width = 7, res = 72,"}

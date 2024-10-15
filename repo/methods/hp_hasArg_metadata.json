@@ -1,1 +1,0 @@
-{"description":"Returns TRUE if name corresponds to an argument in the\ncall, either a formal argument to the function, or a component of\n..., and FALSE otherwise.\n","example_call":"hasArg(name)"}

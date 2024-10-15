@@ -1,1 +1,0 @@
-{"description":"Temporarily use a graphics device.\n","example_call":"local_svg(new, ..., .local_envir = parent.frame())"}

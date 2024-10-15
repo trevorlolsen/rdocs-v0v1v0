@@ -1,1 +1,0 @@
-{"description":"When loading R packages using library_shim() or require_shim(), if a\npackage is missing an attempt will be made to download and install the\nmissing package from the default webR binary repo.\n","example_call":"require_shim(pkg, ..., show_menu = getOption(\"webr.show_menu\"))"}

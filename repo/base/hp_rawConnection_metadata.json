@@ -1,1 +1,0 @@
-{"description":"Input and output raw connections.\n","example_call":"rawConnection(object, open = \"r\")"}

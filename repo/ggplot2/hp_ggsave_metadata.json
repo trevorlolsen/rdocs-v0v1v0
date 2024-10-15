@@ -1,1 +1,0 @@
-{"description":"ggsave() is a convenient function for saving a plot. It defaults to\nsaving the last plot that you displayed, using the size of the current\ngraphics device. It also guesses the type of graphics device from the\nextension.\n","example_call":"ggsave(filename, plot = last_plot(), device = NULL, path = NULL,"}

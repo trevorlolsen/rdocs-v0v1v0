@@ -1,1 +1,0 @@
-{"description":"Return a logical vector indicating which cases are complete, i.e.,\nhave no missing values.\n","example_call":"complete.cases(...)"}

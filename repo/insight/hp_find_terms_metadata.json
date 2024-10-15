@@ -1,1 +1,0 @@
-{"description":"Returns a list with the names of all terms, including response\nvalue and random effects, \"as is\". This means, on-the-fly tranformations\nor arithmetic expressions like log(), I(), as.factor() etc. are\npreserved.\n","example_call":"find_terms(x, ...)"}

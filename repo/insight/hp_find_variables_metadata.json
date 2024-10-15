@@ -1,1 +1,0 @@
-{"description":"Returns a list with the names of all variables, including\nresponse value and random effects.\n","example_call":"find_variables(x, effects = \"all\", component = \"all\", flatten = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"The search path is a chain of environments containing exported\nfunctions of attached packages.\n","example_call":"pkg_env_name(pkg)"}

@@ -1,1 +1,0 @@
-{"description":"These functions locate text boundaries\n(like character, word, line, or sentence boundaries).\nUse stri_locate_all_* to locate all the matches.\nstri_locate_first_* and stri_locate_last_*\ngive the first or the last matches, respectively.\n","example_call":"stri_locate_last_boundaries(str, get_length = FALSE, ..., opts_brkiter = NULL)"}

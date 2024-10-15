@@ -1,1 +1,0 @@
-{"description":"The functions documented here manage collections of methods associated\nwith a generic function, as well as providing information about the\ngeneric functions themselves.\n","example_call":"setReplaceMethod(f, ..., where = topenv(parent.frame()))"}

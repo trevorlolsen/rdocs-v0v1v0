@@ -1,1 +1,0 @@
-{"description":"Data is partitioned according to the levels of the grouping\nfactor defined in model and individual nls fits are\nobtained for each data partition, using the model defined in\nmodel.\n","example_call":"nlsList(model, data, start, control, level, subset, na.action = na.fail,"}

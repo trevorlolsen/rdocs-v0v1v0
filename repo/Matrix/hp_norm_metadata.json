@@ -1,1 +1,0 @@
-{"description":"Computes a matrix norm of x, using Lapack for dense matrices.\nThe norm can be the one  (\"O\", or \"1\") norm, the\ninfinity (\"I\") norm, the Frobenius  (\"F\") norm,\nthe maximum modulus (\"M\") among elements of a matrix, or the\nspectral norm or 2-norm (\"2\"), as determined by the value of\ntype.\n","example_call":"norm(x, type, ...)"}

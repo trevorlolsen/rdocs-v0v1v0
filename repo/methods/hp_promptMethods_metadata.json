@@ -1,1 +1,0 @@
-{"description":"Generates a shell of documentation for the methods of a generic\nfunction.\n","example_call":"promptMethods(f, filename = NULL, methods)"}

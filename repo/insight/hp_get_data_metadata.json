@@ -1,1 +1,0 @@
-{"description":"This functions tries to get the data that was used to fit the\nmodel and returns it as data frame.\n","example_call":"get_data(x, ...)"}

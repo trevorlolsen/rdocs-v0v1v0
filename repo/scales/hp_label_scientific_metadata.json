@@ -1,1 +1,0 @@
-{"description":"Label numbers with scientific notation (e.g. 1e05, 1.5e-02)\n","example_call":"label_scientific(digits = 3, scale = 1, prefix = \"\", suffix = \"\", decimal.mark = \".\","}

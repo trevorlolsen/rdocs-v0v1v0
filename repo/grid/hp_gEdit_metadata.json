@@ -1,1 +1,0 @@
-{"description":"The functions gEdit and gEditList create\nobjects representing an edit operation (essentially a list\nof arguments to editGrob).\n","example_call":"gEdit(...)"}

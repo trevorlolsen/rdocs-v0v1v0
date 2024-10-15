@@ -1,1 +1,0 @@
-{"description":"This is a generic function.  Methods for this function coerce objects\nof given classes to vectors.\n","example_call":"asVector(object)"}

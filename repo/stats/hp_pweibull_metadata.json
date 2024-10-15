@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the Weibull distribution with parameters shape\nand scale.\n","example_call":"pweibull(q, shape, scale = 1, lower.tail = TRUE, log.p = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"The (S3) generic function density computes kernel density\nestimates.  Its default method does so with the given kernel and\nbandwidth for univariate observations.\n","example_call":"density(x, ...)"}

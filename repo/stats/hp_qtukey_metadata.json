@@ -1,1 +1,0 @@
-{"description":"Functions of the distribution of the studentized range, R/s,\nwhere R is the range of a standard normal sample and\ndf \\times s^2 is independently distributed as\nchi-squared with df degrees of freedom, see pchisq.\n","example_call":"qtukey(p, nmeans, df, nranges = 1, lower.tail = TRUE, log.p = FALSE)"}

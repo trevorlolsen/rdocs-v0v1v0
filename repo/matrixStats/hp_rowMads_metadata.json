@@ -1,1 +1,0 @@
-{"description":"Standard deviation estimates for each row (column) in a matrix.\n","example_call":"rowMads(x, rows = NULL, cols = NULL, center = NULL, constant = 1.4826,"}

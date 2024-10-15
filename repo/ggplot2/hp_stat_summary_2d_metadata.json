@@ -1,1 +1,0 @@
-{"description":"stat_summary_2d() is a 2d variation of stat_summary().\nstat_summary_hex() is a hexagonal variation of\nstat_summary_2d(). The data are divided into bins defined\nby x and y, and then the values of z in each cell is\nare summarised with fun.\n","example_call":"stat_summary_2d(mapping = NULL, data = NULL, geom = \"tile\", position = \"identity\","}

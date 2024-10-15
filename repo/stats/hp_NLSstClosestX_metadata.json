@@ -1,1 +1,0 @@
-{"description":"Use inverse linear interpolation to approximate the x value at\nwhich the function represented by xy is equal to yval.\n","example_call":"NLSstClosestX(xy, yval)"}

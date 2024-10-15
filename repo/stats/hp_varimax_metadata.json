@@ -1,1 +1,0 @@
-{"description":"These functions <U+2018>rotate<U+2019> loading matrices in factor analysis.\n","example_call":"varimax(x, normalize = TRUE, eps = 1e-05)"}

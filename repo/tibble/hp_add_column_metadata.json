@@ -1,1 +1,0 @@
-{"description":"This is a convenient way to add one or more columns to an existing data\nframe.\n","example_call":"add_column(.data, ..., .before = NULL, .after = NULL, .name_repair = c(\"check_unique\","}

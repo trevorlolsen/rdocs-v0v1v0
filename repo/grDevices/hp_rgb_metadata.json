@@ -1,1 +1,0 @@
-{"description":"This function creates colors corresponding to the given\nintensities (between 0 and max) of the red, green and blue\nprimaries.  The colour specification refers to the\nstandard sRGB colorspace (IEC standard 61966).\n","example_call":"rgb(red, green, blue, alpha, names = NULL, maxColorValue = 1)"}

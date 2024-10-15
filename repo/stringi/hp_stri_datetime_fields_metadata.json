@@ -1,1 +1,0 @@
-{"description":"Computes and returns values for all date and time fields.\n","example_call":"stri_datetime_fields(time, tz = attr(time, \"tzone\"), locale = NULL)"}

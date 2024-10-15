@@ -1,1 +1,0 @@
-{"description":"Generate a random sparse matrix efficiently.  The default has rounded\ngaussian non-zero entries, and rand.x = NULL generates random\npattern matrices, i.e. inheriting from nsparseMatrix.\n","example_call":"rsparsematrix(nrow, ncol, density, nnz = round(density * maxE), symmetric = FALSE,"}

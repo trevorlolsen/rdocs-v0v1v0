@@ -1,1 +1,0 @@
-{"description":"The standardized residuals.  These are normalized to unit\nvariance, fitted including the current data point.\n","example_call":"stdres(object)"}

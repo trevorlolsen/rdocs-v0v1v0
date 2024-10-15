@@ -1,1 +1,0 @@
-{"description":"This function provides a front-end to the standard function,\nloglin, to allow log-linear models to be specified and fitted\nin a manner similar to that of other fitting functions, such as\nglm.\n","example_call":"loglm(formula, data, subset, na.action, ...)"}

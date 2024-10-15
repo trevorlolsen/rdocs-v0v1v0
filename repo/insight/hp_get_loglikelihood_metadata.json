@@ -1,1 +1,0 @@
-{"description":"A robust function to compute the log-likelihood of a model, as well as\nindividual log-likelihoods (for each observation) whenever possible. Can be\nused as a replacement for stats::logLik() out of the box, as the\nreturned object is of the same class (and it gives the same results by\ndefault).\n","example_call":"get_loglikelihood(x, ...)"}

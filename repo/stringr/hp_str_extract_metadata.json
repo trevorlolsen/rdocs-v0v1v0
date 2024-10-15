@@ -1,1 +1,0 @@
-{"description":"str_extract() extracts the first complete match from each string,\nstr_extract_all()extracts all matches from each string.\n","example_call":"str_extract(string, pattern, group = NULL)"}

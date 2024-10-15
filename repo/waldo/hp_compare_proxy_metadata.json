@@ -1,1 +1,0 @@
-{"description":"Use this generic to override waldo's default comparison if you need to\noverride the defaults (typically because your object stores data in an\nexternal pointer).\n","example_call":"compare_proxy(x, path = \"x\")"}

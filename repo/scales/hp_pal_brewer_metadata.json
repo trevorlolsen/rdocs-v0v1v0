@@ -1,1 +1,0 @@
-{"description":"Colour Brewer palette (discrete)\n","example_call":"pal_brewer(type = \"seq\", palette = 1, direction = 1)"}

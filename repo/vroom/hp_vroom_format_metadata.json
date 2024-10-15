@@ -1,1 +1,0 @@
-{"description":"This is equivalent to vroom_write(), but instead of writing to\ndisk, it returns a string. It is primarily useful for examples and for\ntesting.\n","example_call":"vroom_format(x, delim = \"\\t\", eol = \"\\n\", na = \"NA\", col_names = TRUE,"}

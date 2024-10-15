@@ -1,1 +1,0 @@
-{"description":"Construct a single row summary \"glance\" of a model, fit, or other\nobject\n","example_call":"glance(x, ...)"}

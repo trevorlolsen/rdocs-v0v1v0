@@ -1,1 +1,0 @@
-{"description":"Interpreting the columns (or rows) of a matrix as different groups, draw a\nboxplot for each.\n","example_call":"boxplot.matrix(x, use.cols = TRUE, ...)"}

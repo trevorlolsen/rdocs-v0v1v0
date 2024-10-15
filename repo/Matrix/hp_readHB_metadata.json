@@ -1,1 +1,0 @@
-{"description":"Read matrices stored in the Harwell-Boeing or MatrixMarket formats\nor write sparseMatrix objects to one of these\nformats.\n","example_call":"readHB(file)"}

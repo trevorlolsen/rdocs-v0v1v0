@@ -1,1 +1,0 @@
-{"description":"Fit an ARIMA model to a univariate time series.\n","example_call":"arima(x, order = c(0L, 0L, 0L), seasonal = list(order = c(0L,"}

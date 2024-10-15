@@ -1,1 +1,0 @@
-{"description":"data_frame() constructs a data frame. It is similar to\nbase::data.frame(), but there are a few notable differences that make it\nmore in line with vctrs principles. The Properties section outlines these.\n","example_call":"data_frame(..., .size = NULL, .name_repair = c(\"check_unique\","}

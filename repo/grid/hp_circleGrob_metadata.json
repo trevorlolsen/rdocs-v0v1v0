@@ -1,1 +1,0 @@
-{"description":"Functions to create and draw a circle.\n","example_call":"circleGrob(x = 0.5, y = 0.5, r = 0.5, default.units = \"npc\", name = NULL,"}

@@ -1,1 +1,0 @@
-{"description":"Decreases the chroma of the Munsell colour by one step steps (multiples of 2).\n","example_call":"desaturate(col, steps = 1)"}

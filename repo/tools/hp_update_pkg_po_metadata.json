@@ -1,1 +1,0 @@
-{"description":"Prepare the <U+2018>po<U+2019> directory of a package and optionally compile and install\nthe translations.\n","example_call":"update_pkg_po(pkgdir, pkg = NULL, version = NULL, pot_make = TRUE,"}

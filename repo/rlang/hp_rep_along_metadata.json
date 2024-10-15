@@ -1,1 +1,0 @@
-{"description":"These functions take the idea of seq_along() and apply it to\nrepeating values.\n","example_call":"rep_along(along, x)"}

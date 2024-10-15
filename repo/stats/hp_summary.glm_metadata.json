@@ -1,1 +1,0 @@
-{"description":"These functions are all methods for class glm or\nsummary.glm objects.\n","example_call":"summary.glm(object, dispersion = NULL, correlation = FALSE, symbolic.cor = FALSE,"}

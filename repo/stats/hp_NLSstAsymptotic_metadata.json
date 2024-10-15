@@ -1,1 +1,0 @@
-{"description":"Fits the asymptotic regression model, in the form b0 +\n      b1*(1-exp(-exp(lrc) * x)) to the xy data.\nThis can be used as a building block in determining starting estimates\nfor more complicated models.\n","example_call":"NLSstAsymptotic(xy)"}

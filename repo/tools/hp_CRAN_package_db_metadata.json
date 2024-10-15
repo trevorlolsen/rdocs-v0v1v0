@@ -1,1 +1,0 @@
-{"description":"Tools for obtaining information about current packages in the\nCRAN package repository, and their check status.\n","example_call":"CRAN_package_db()"}

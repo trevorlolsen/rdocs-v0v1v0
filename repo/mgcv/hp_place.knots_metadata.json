@@ -1,1 +1,0 @@
-{"description":"Given a univariate array of covariate values, places a set of knots for a regression spline evenly through the \ncovariate values.\n","example_call":"place.knots(x, nk)"}

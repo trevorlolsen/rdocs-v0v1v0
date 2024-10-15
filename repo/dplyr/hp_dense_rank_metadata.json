@@ -1,1 +1,0 @@
-{"description":"Three ranking functions inspired by SQL2003. They differ primarily in how\nthey handle ties:\n","example_call":"dense_rank(x)"}

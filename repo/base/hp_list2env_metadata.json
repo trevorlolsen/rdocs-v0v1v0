@@ -1,1 +1,0 @@
-{"description":"From a named list x, create an\nenvironment containing all list components as objects, or\n<U+201C>multi-assign<U+201D> from x into a pre-existing environment.\n","example_call":"list2env(x, envir = NULL, parent = parent.frame(), hash = (length(x) >"}

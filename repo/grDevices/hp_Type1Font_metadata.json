@@ -1,1 +1,0 @@
-{"description":"These functions are used to define the translation of a R graphics\nfont family name to Type 1 or CID font descriptions, used by\nthe pdf and postscript graphics devices.\n","example_call":"Type1Font(family, metrics, encoding = \"default\")"}

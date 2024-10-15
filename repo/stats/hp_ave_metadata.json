@@ -1,1 +1,0 @@
-{"description":"Subsets of x[] are averaged, where each subset consist of those\nobservations with the same factor levels.\n","example_call":"ave(x, ..., FUN = mean)"}

@@ -1,1 +1,0 @@
-{"description":"This function erases the current device or moves to a new page.\n","example_call":"grid.newpage(recording = TRUE, clearGroups = TRUE)"}

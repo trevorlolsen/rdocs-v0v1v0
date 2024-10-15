@@ -1,1 +1,0 @@
-{"description":"Invert a symmetric, positive definite square matrix from its Cholesky\ndecomposition.  Equivalently, compute (X'X)^{-1}\nfrom the (R part) of the QR decomposition of X.\n","example_call":"chol2inv(x, size = NCOL(x), LINPACK = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Many environments are associated with a package; this function\nattempts to determine that package.\n","example_call":"packageName(env = parent.frame())"}

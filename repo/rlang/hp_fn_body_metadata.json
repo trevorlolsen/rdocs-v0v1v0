@@ -1,1 +1,0 @@
-{"description":"fn_body() is a simple wrapper around base::body(). It always\nreturns a <U+2060>\\{<U+2060> expression and throws an error when the input is a\nprimitive function (whereas body() returns NULL). The setter\nversion preserves attributes, unlike <U+2060>body<-<U+2060>.\n","example_call":"fn_body(fn = caller_fn())"}

@@ -1,1 +1,0 @@
-{"description":"These functions create and draw Bezier Curves (a curve drawn\nrelative to 4 control points).\n","example_call":"bezierGrob(x = c(0, 0.5, 1, 0.5), y = c(0.5, 1, 0.5, 0), id = NULL,"}

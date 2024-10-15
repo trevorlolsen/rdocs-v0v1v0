@@ -1,1 +1,0 @@
-{"description":"Moves the hue of a munsell colour in the direction red->yellow->green->blue->purple->red\n","example_call":"rygbp(col, steps = 1)"}

@@ -1,1 +1,0 @@
-{"description":"Extract and encode the times the first and last observations were\ntaken. Provided only for compatibility with S version 2.\n","example_call":"start(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"This function blanks out all non-text in an Rd file,\nfor spell checking or other uses.\n","example_call":"RdTextFilter(ifile, encoding = \"unknown\", keepSpacing = TRUE, drop = character(),"}

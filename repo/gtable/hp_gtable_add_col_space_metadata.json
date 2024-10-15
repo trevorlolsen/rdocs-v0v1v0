@@ -1,1 +1,0 @@
-{"description":"Adds width space between the columns or height space between\nthe rows, effictvely pushing the existing cells apart.\n","example_call":"gtable_add_col_space(x, width)"}

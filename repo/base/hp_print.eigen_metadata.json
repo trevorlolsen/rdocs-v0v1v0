@@ -1,1 +1,0 @@
-{"description":"Computes eigenvalues and eigenvectors of numeric (double, integer,\nlogical) or complex matrices.\n","example_call":"print.eigen(x, ...)"}

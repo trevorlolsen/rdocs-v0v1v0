@@ -1,1 +1,0 @@
-{"description":"Load or save or display the commands history.\n","example_call":"timestamp(stamp = date(), prefix = \"##------ \", suffix = \" ------##\","}

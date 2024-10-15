@@ -1,1 +1,0 @@
-{"description":"Compute pretty axis scales and tick mark locations, the same way as\ntraditional R graphics do it.  This is interesting particularly for\nlog scale axes.\n","example_call":".axisPars(usr, log = FALSE, nintLog = 5)"}

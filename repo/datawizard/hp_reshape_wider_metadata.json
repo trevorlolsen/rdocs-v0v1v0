@@ -1,1 +1,0 @@
-{"description":"This function \"widens\" data, increasing the number of columns and decreasing\nthe number of rows. This is a dependency-free base-R equivalent of\ntidyr::pivot_wider().\n","example_call":"reshape_wider(data, id_cols = NULL, values_from = \"Value\", names_from = \"Name\","}

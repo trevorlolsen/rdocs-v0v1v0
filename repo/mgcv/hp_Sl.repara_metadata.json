@@ -1,1 +1,0 @@
-{"description":"INTERNAL routine to apply re-parameterization from log-determinant of penalty matrix, ldetS to\nmodel matrix, X, blockwise.\n","example_call":"Sl.repara(rp, X, inverse = FALSE, both.sides = TRUE)"}

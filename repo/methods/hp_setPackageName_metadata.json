@@ -1,1 +1,0 @@
-{"description":"The functions below produce the package associated with a particular\nenvironment or position on the search list, or of the package\ncontaining a particular function.  They are primarily used to support\ncomputations that need to differentiate objects on multiple packages.\n","example_call":"setPackageName(pkg, env)"}

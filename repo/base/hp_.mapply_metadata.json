@@ -1,1 +1,0 @@
-{"description":"mapply is a multivariate version of sapply.\nmapply applies FUN to the first elements of each ...\nargument, the second elements, the third elements, and so on.\nArguments are recycled if necessary.\n","example_call":".mapply(FUN, dots, MoreArgs)"}

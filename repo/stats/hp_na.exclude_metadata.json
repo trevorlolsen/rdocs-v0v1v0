@@ -1,1 +1,0 @@
-{"description":"These generic functions are useful for dealing with NAs\nin e.g., data frames.\nna.fail returns the object if it does not contain any\nmissing values, and signals an error otherwise.\nna.omit returns the object with incomplete cases removed.\nna.pass returns the object unchanged.\n","example_call":"na.exclude(object, ...)"}

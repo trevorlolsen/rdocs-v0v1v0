@@ -1,1 +1,0 @@
-{"description":"Query the capabilities of the current graphics device.\n","example_call":"dev.capabilities(what = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"The identity statistic leaves the data unchanged.\n","example_call":"stat_identity(mapping = NULL, data = NULL, geom = \"point\", position = \"identity\","}

@@ -1,1 +1,0 @@
-{"description":"system invokes the OS command specified by command.\n","example_call":"system(command, intern = FALSE, ignore.stdout = FALSE, ignore.stderr = FALSE,"}

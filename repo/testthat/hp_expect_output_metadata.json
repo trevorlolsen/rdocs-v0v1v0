@@ -1,1 +1,0 @@
-{"description":"Test for output produced by print() or cat(). This is best used for\nvery simple output; for more complex cases use expect_snapshot().\n","example_call":"expect_output(object, regexp = NULL, ..., info = NULL, label = NULL,"}

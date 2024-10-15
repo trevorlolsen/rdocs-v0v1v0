@@ -1,1 +1,0 @@
-{"description":"points is a generic function to draw a sequence of points at\nthe specified coordinates.  The specified character(s) are plotted,\ncentered at the coordinates.\n","example_call":"points.default(x, y = NULL, type = \"p\", ...)"}

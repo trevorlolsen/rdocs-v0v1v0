@@ -1,1 +1,0 @@
-{"description":"Checks if model is a null-model (intercept-only), i.e. if\nthe conditional part of the model has no predictors.\n","example_call":"is_nullmodel(x)"}

@@ -1,1 +1,0 @@
-{"description":"Copy tables to same source, if necessary\n","example_call":"auto_copy(x, y, copy = FALSE, ...)"}

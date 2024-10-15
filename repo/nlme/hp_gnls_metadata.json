@@ -1,1 +1,0 @@
-{"description":"This function fits a nonlinear model using generalized least\nsquares. The errors are allowed to be correlated and/or have unequal\nvariances.  \n","example_call":"gnls(model, data = sys.frame(sys.parent()), params, start,"}

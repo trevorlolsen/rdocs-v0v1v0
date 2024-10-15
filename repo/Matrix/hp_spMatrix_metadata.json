@@ -1,1 +1,0 @@
-{"description":"User friendly construction of a sparse matrix (inheriting from class\nTsparseMatrix) from the triplet representation.\n","example_call":"spMatrix(nrow, ncol, i = integer(0L), j = integer(0L), x = double(0L))"}

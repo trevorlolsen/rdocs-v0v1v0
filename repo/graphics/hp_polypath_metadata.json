@@ -1,1 +1,0 @@
-{"description":"path draws a path whose vertices are\ngiven in x and y.\n","example_call":"polypath(x, y = NULL, border = NULL, col = NA, lty = par(\"lty\"),"}

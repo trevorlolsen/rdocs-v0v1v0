@@ -1,1 +1,0 @@
-{"description":"Adjust (i.e., add, remove, or modify) or extract alpha transparency of a vector of colors.\n","example_call":"adjust_transparency(col, alpha = TRUE)"}

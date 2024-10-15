@@ -1,1 +1,0 @@
-{"description":"demangle gives the demangled type, sizeof its size (in bytes). \n","example_call":"demangle(type = \"int\", ...)"}

@@ -1,1 +1,0 @@
-{"description":"\n","example_call":"unnest_legacy(data, ..., .drop = NA, .id = NULL, .sep = NULL, .preserve = NULL)"}

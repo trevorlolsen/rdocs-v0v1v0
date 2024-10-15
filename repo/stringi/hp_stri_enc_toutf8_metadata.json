@@ -1,1 +1,0 @@
-{"description":"Converts character strings with declared marked encodings\nto UTF-8 strings.\n","example_call":"stri_enc_toutf8(str, is_unknown_8bit = FALSE, validate = FALSE)"}

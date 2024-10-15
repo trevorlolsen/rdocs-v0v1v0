@@ -1,1 +1,0 @@
-{"description":"Expand a path name, for example by replacing a leading tilde by the\nuser's home directory (if defined on that platform).\n","example_call":"path.expand(path)"}

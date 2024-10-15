@@ -1,1 +1,0 @@
-{"description":"Modifier functions control the meaning of the pattern argument to\nstringr functions:\n","example_call":"regex(pattern, ignore_case = FALSE, multiline = FALSE, comments = FALSE,"}

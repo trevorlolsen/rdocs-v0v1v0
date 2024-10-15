@@ -1,1 +1,0 @@
-{"description":"A function wrapped with auto_browse() will automatically enter an\ninteractive debugger using browser() when ever it encounters an error.\n","example_call":"auto_browse(.f)"}

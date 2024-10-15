@@ -1,1 +1,0 @@
-{"description":"This function breaks text paragraphs into lines,\nof total width (if it is possible) at most given width.\n","example_call":"stri_wrap(str, width = floor(0.9 * getOption(\"width\")), cost_exponent = 2,"}

@@ -1,1 +1,0 @@
-{"description":"quo_squash() flattens all nested quosures within an expression.\nFor example it transforms <U+2060>^foo(^bar(), ^baz)<U+2060> to the bare\nexpression foo(bar(), baz).\n","example_call":"quo_squash(quo, warn = FALSE)"}

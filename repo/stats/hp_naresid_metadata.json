@@ -1,1 +1,0 @@
-{"description":"Use missing value information to adjust residuals and predictions.\n","example_call":"naresid(omit, x, ...)"}

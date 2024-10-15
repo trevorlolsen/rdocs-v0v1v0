@@ -1,1 +1,0 @@
-{"description":"Returns the number of non-zero values of a numeric-like R object, and\nin particular an object x inheriting from class\nMatrix.\n","example_call":"nnzero(x, na.counted = NA)"}

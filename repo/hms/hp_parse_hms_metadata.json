@@ -1,1 +1,0 @@
-{"description":"These functions convert character vectors to objects of the hms class.\nNA values are supported.\n","example_call":"parse_hms(x)"}

@@ -1,1 +1,0 @@
-{"description":"Standardize column names from data frames, in particular objects returned\nfrom parameters::model_parameters(), so column names are consistent and\nthe same for any model object.\n","example_call":"standardize_names(data, ...)"}

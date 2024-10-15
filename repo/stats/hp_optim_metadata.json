@@ -1,1 +1,0 @@
-{"description":"General-purpose optimization based on Nelder<U+2013>Mead, quasi-Newton and\nconjugate-gradient algorithms. It includes an option for\nbox-constrained optimization and simulated annealing.\n","example_call":"optim(par, fn, gr = NULL, ..., method = c(\"Nelder-Mead\","}

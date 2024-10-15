@@ -1,1 +1,0 @@
-{"description":"These functions determine the number of text boundaries\n(like character, word, line, or sentence boundaries) in a string.\n","example_call":"stri_count_words(str, locale = NULL)"}

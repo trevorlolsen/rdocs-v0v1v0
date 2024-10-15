@@ -1,1 +1,0 @@
-{"description":"basename removes all of the path up to and including the last\npath separator (if any).\n","example_call":"basename(path)"}

@@ -1,1 +1,0 @@
-{"description":"List available vignettes in an HTML browser with links to PDF,\nLaTeX/Noweb source, and (tangled) R code (if available).\n","example_call":"browseVignettes(package = NULL, lib.loc = NULL, all = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":" This is a service routine for gamm. Given,\nV, an estimated covariance matrix obtained using extract.lme.cov2 this\nroutine forms a matrix square root of  X^TV^{-1}X as efficiently as possible, given\nthe structure of V (usually sparse).\n","example_call":"formXtViX(V, X)"}

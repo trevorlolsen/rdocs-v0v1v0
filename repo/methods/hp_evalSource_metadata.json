@@ -1,1 +1,0 @@
-{"description":"Definitions of functions and/or methods from a source file are\ninserted into a package, using the trace mechanism.\nTypically, this allows testing or debugging modified versions of a few\nfunctions without reinstalling a large package.\n","example_call":"evalSource(source, package = \"\", lock = TRUE, cache = FALSE)"}

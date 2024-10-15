@@ -1,1 +1,0 @@
-{"description":"The crayon package defines a number of functions used to\ncolor terminal output. glue_col() and glue_data_col() functions provide\nadditional syntax to make using these functions in glue strings easier.\n","example_call":"glue_data_col(.x, ..., .envir = parent.frame(), .na = \"NA\", .literal = FALSE)"}

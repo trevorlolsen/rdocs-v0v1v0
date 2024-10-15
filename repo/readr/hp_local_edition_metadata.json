@@ -1,1 +1,0 @@
-{"description":"with_edition() allows you to change the active edition of readr for a given\nblock of code. local_edition() allows you to change the active edition of\nreadr until the end of the current function or file.\n","example_call":"local_edition(edition, env = parent.frame())"}

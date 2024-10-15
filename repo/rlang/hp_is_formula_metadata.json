@@ -1,1 +1,0 @@
-{"description":"is_formula() tests whether x is a call to ~. is_bare_formula()\ntests in addition that x does not inherit from anything else than\n\"formula\".\n","example_call":"is_formula(x, scoped = NULL, lhs = NULL)"}

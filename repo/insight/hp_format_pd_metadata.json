@@ -1,1 +1,0 @@
-{"description":"Probability of direction (pd) formatting\n","example_call":"format_pd(pd, stars = FALSE, stars_only = FALSE, name = \"pd\")"}

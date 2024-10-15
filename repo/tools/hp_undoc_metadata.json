@@ -1,1 +1,0 @@
-{"description":"Finds the objects in a package which are undocumented, in the sense\nthat they are visible to the user (or data objects or S4 classes\nprovided by the package), but no documentation entry exists.\n","example_call":"undoc(package, dir, lib.loc = NULL)"}

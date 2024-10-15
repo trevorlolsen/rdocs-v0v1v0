@@ -1,1 +1,0 @@
-{"description":"Report on the optional features which have been compiled into this\nbuild of R.\n","example_call":"capabilities(what = NULL, Xchk = any(nas %in% c(\"X11\", \"jpeg\", \"png\","}

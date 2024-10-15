@@ -1,1 +1,0 @@
-{"description":"eval_select() and eval_rename() evaluate defused R code\n(i.e. quoted expressions) according to the special rules of the\ntidyselect syntax. They\npower functions like dplyr::select(), dplyr::rename(), or\ntidyr::pivot_longer().\n","example_call":"eval_rename(expr, data, env = caller_env(), ..., strict = TRUE,"}

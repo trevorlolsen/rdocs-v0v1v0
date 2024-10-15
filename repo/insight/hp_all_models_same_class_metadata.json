@@ -1,1 +1,0 @@
-{"description":"Small helper that checks if all objects are supported\n(regression) model objects and of same class.\n","example_call":"all_models_same_class(..., verbose = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Returns the variance-covariance matrix of the main parameters of\na fitted model object.  The <U+201C>main<U+201D> parameters of model\ncorrespond to those returned by coef, and typically do\nnot contain a nuisance scale parameter (sigma).\n","example_call":"vcov(object, ...)"}

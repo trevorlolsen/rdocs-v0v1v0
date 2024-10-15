@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the distribution of the Wilcoxon rank sum statistic\nobtained from samples with size m and n, respectively.\n","example_call":"qwilcox(p, m, n, lower.tail = TRUE, log.p = FALSE)"}

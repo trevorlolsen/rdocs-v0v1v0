@@ -1,1 +1,0 @@
-{"description":"You can use this function to list all availables crayon styles,\nvia names(styles()), or to explicitly apply an ANSI\nescape seauence to a string.\n","example_call":"styles()"}

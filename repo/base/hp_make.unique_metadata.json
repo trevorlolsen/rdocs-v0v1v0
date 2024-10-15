@@ -1,1 +1,0 @@
-{"description":"Makes the elements of a character vector unique by\nappending sequence numbers to duplicates.\n","example_call":"make.unique(names, sep = \".\")"}

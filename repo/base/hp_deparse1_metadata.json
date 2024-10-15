@@ -1,1 +1,0 @@
-{"description":"Turn unevaluated expressions into character strings.\n","example_call":"deparse1(expr, collapse = \" \", width.cutoff = 500L, ...)"}

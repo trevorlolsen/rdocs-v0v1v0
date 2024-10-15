@@ -1,1 +1,0 @@
-{"description":"For boolean or <U+201C>pattern<U+201D> matrices, i.e., R objects of\nclass nMatrix, it is natural to allow matrix\nproducts using boolean instead of numerical arithmetic.\n","example_call":"%&%(x, y)"}

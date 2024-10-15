@@ -1,1 +1,0 @@
-{"description":"This function returns the variable labels of labelled data.\n","example_call":"get_label(x, ..., def.value = NULL, case = NULL)"}

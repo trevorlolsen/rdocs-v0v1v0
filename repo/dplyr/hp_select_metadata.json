@@ -1,1 +1,0 @@
-{"description":"Select (and optionally rename) variables in a data frame, using a concise\nmini-language that makes it easy to refer to variables based on their name\n(e.g. a:f selects all columns from a on the left to f on the\nright) or type (e.g. where(is.numeric) selects all numeric columns).\n","example_call":"select(.data, ...)"}

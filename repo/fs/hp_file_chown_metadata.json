@@ -1,1 +1,0 @@
-{"description":"Change owner or group of a file\n","example_call":"file_chown(path, user_id = NULL, group_id = NULL)"}

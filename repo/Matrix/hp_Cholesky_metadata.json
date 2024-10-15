@@ -1,1 +1,0 @@
-{"description":"Computes the pivoted Cholesky factorization of an\nn \\times n real, symmetric matrix A,\nwhich has the general form\n","example_call":"Cholesky(A, ...)"}

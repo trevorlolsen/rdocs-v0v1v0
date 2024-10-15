@@ -1,1 +1,0 @@
-{"description":"Set control parameters for loess fits.\n","example_call":"loess.control(surface = c(\"interpolate\", \"direct\"), statistics = c(\"approximate\","}

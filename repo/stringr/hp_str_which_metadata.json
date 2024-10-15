@@ -1,1 +1,0 @@
-{"description":"str_which() returns the indices of string where there's at least\none match to pattern. It's a wrapper around\nwhich(str_detect(x, pattern)), and is equivalent to grep(pattern, x).\n","example_call":"str_which(string, pattern, negate = FALSE)"}

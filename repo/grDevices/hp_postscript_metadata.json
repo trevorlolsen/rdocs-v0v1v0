@@ -1,1 +1,0 @@
-{"description":"postscript starts the graphics device driver for producing\nPostScript graphics.\n","example_call":"postscript(file = if (onefile) \"Rplots.ps\" else \"Rplot%03d.ps\","}

@@ -1,1 +1,0 @@
-{"description":"path_expand() differs from base::path.expand() in the interpretation of\nthe home directory of Windows. In particular path_expand() uses the path\nset in the USERPROFILE environment variable and, if unset, then uses\nHOMEDRIVE/HOMEPATH.\n","example_call":"path_home(...)"}

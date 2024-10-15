@@ -1,1 +1,0 @@
-{"description":"Similar to on.exit(), but allows one to attach\nan expression to be evaluated when exiting any frame currently\non the stack. This provides a nice mechanism for scoping side\neffects for the duration of a function's execution.\n","example_call":"defer_parent(expr, priority = c(\"first\", \"last\"))"}

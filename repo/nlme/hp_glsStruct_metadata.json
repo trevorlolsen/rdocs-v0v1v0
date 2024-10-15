@@ -1,1 +1,0 @@
-{"description":"A generalized least squares structure is a list of model components\nrepresenting different sets of parameters in the linear \nmodel. A glsStruct  may contain corStruct and\nvarFunc objects. NULL arguments are not included in the\nglsStruct list. \n","example_call":"glsStruct(corStruct = NULL, varStruct = NULL)"}

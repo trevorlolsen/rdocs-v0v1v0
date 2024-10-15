@@ -1,1 +1,0 @@
-{"description":"model.frame (a generic function) and its methods return a\ndata.frame with the variables needed to use\nformula and any ... arguments.\n","example_call":"model.frame.default(formula, data = NULL, subset = NULL, na.action, drop.unused.levels = FALSE,"}

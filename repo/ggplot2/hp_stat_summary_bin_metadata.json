@@ -1,1 +1,0 @@
-{"description":"stat_summary() operates on unique x or y; stat_summary_bin()\noperates on binned x or y. They are more flexible versions of\nstat_bin(): instead of just counting, they can compute any\naggregate.\n","example_call":"stat_summary_bin(mapping = NULL, data = NULL, geom = \"pointrange\", position = \"identity\","}

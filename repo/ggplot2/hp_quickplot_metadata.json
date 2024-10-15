@@ -1,1 +1,0 @@
-{"description":"qplot() is now deprecated in order to encourage the users to\nlearn ggplot() as it makes it easier to create complex graphics.\n","example_call":"quickplot(x, y, ..., data, facets = NULL, margins = FALSE, geom = \"auto\","}

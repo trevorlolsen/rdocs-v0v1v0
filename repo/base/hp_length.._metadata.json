@@ -1,1 +1,0 @@
-{"description":"Get or set the length of vectors (including lists) and factors, and of\nany other R object for which a method has been defined.\n","example_call":"length<-(x, value)"}

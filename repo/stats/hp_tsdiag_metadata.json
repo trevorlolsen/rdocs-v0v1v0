@@ -1,1 +1,0 @@
-{"description":"A generic function to plot time-series diagnostics.\n","example_call":"tsdiag(object, gof.lag, ...)"}

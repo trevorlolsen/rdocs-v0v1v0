@@ -1,1 +1,0 @@
-{"description":"Graphics devices for SVG, PDF and PostScript graphics files using\nthe cairo graphics API.\n","example_call":"cairo_ps(filename = if (onefile) \"Rplots.ps\" else \"Rplot%03d.ps\","}

@@ -1,1 +1,0 @@
-{"description":"Detects if env is user-facing, that is, whether it's an environment\nthat inherits from:\n","example_call":"env_is_user_facing(env)"}

@@ -1,1 +1,0 @@
-{"description":"Format an R object for pretty printing.\n","example_call":"format.AsIs(x, width = 12, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Tools for working with row names or row ids\n","example_call":"rowid_as_column(x, var = \"rowid\")"}

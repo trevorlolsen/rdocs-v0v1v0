@@ -1,1 +1,0 @@
-{"description":"Calculates the root mean square parameter effects and intrinsic relative\ncurvatures, c^\\theta and c^\\iota, for a\nfitted nonlinear regression, as defined in Bates & Watts, section 7.3,\np. 253ff\n","example_call":"rms.curv(obj)"}

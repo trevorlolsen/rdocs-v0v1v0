@@ -1,1 +1,0 @@
-{"description":"This is the default panel function for bwplot.\n","example_call":"panel.bwplot(x, y, box.ratio = 1, box.width = box.ratio/(1 + box.ratio),"}

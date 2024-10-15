@@ -1,1 +1,0 @@
-{"description":"These functions determine, for each string in str,\nif there is at least one match to a corresponding pattern.\n","example_call":"stri_detect_charclass(str, pattern, negate = FALSE, max_count = -1)"}

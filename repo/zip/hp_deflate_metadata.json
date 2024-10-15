@@ -1,1 +1,0 @@
-{"description":"Compress a raw GZIP stream\n","example_call":"deflate(buffer, level = 6L, pos = 1L, size = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"This functions checks whether any transformation, such as log- or\nexp-transforming, was applied to the response variable (dependent variable)\nin a regression formula, and returns the related function that was used for\ntransformation.\n","example_call":"get_transformation(x, verbose = TRUE)"}

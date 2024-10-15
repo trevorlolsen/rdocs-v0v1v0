@@ -1,1 +1,0 @@
-{"description":"Plot and add a smooth curve computed by loess to a scatter plot.\n","example_call":"scatter.smooth(x, y = NULL, span = 2/3, degree = 1, family = c(\"symmetric\","}

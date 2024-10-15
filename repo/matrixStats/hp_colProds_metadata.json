@@ -1,1 +1,0 @@
-{"description":"Calculates the product for each row (column) in a matrix.\n","example_call":"colProds(x, rows = NULL, cols = NULL, na.rm = FALSE, method = c(\"direct\","}

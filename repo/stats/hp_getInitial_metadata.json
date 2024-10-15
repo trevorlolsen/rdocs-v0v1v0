@@ -1,1 +1,0 @@
-{"description":"This function evaluates initial parameter estimates for a nonlinear\nregression model.  If data is a parameterized data frame or\npframe object, its parameters attribute is returned.\nOtherwise the object is examined to see if it contains a call to a\nselfStart object whose initial attribute can be\nevaluated.\n","example_call":"getInitial(object, data, ...)"}

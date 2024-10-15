@@ -1,1 +1,0 @@
-{"description":"Remove the method for a given function and signature.  Obsolete for\nordinary applications: Method definitions in a package should never\nneed to remove methods and it's very bad practice to remove methods\nthat were defined in other packages.\n","example_call":"removeMethod(f, signature = character(), where = topenv(parent.frame()))"}

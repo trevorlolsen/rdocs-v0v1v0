@@ -1,1 +1,0 @@
-{"description":"sign returns a vector with the signs of the corresponding\nelements of x (the sign of a real number is 1, 0, or -1\nif the number is positive, zero, or negative, respectively).\n","example_call":"sign(x)"}

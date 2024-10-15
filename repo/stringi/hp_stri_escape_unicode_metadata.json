@@ -1,1 +1,0 @@
-{"description":"Generates an ASCII string where all non-printable characters\nand non-ASCII characters are converted to escape sequences.\n","example_call":"stri_escape_unicode(str)"}

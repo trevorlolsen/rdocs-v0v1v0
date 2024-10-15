@@ -1,1 +1,0 @@
-{"description":"Bind any number of data frames by column, making a wider result.\nThis is similar to do.call(cbind, dfs).\n","example_call":"bind_cols(..., .name_repair = c(\"unique\", \"universal\", \"check_unique\","}

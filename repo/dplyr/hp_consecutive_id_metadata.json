@@ -1,1 +1,0 @@
-{"description":"consecutive_id() generates a unique identifier that increments every time\na variable (or combination of variables) changes. Inspired by\ndata.table::rleid().\n","example_call":"consecutive_id(...)"}

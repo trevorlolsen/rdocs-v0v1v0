@@ -1,1 +1,0 @@
-{"description":"Quantile-Quantile plots for comparing two Distributions\n","example_call":"qq(x, data, ...)"}

@@ -1,1 +1,0 @@
-{"description":"This function is a low-level helper that powers many of the labelling\nfunctions. You should generally not need to call it directly unless you\nare creating your own labelling function.\n","example_call":"number(x, accuracy = NULL, scale = 1, prefix = \"\", suffix = \"\","}

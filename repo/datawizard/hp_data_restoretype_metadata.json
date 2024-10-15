@@ -1,1 +1,0 @@
-{"description":"Restore the type of columns according to a reference data frame\n","example_call":"data_restoretype(data, reference = NULL, ...)"}

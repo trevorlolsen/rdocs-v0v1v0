@@ -1,1 +1,0 @@
-{"description":"Calculates the number of negative, zero, positive and missing values in a\nnumeric vector.  For double vectors,\nthe number of negative and positive infinite values are also counted.\n","example_call":"signTabulate(x, idxs = NULL, ...)"}

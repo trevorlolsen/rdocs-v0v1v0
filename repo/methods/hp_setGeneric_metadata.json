@@ -1,1 +1,0 @@
-{"description":"Create a generic version of the named function so that methods may\nbe defined for it.  A call to setMethod will call\nsetGeneric automatically if applied to a non-generic\nfunction.\n","example_call":"setGeneric(name, def = NULL, group = list(), valueClass = character(),"}

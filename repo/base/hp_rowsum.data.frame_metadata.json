@@ -1,1 +1,0 @@
-{"description":"Compute column sums across rows of a numeric matrix-like object for\neach level of a grouping variable.  rowsum is generic, with a\nmethod for data frames and a default method for vectors and matrices.\n","example_call":"rowsum.data.frame(x, group, reorder = TRUE, na.rm = FALSE, ...)"}

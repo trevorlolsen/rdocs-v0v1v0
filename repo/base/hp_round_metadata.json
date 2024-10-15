@@ -1,1 +1,0 @@
-{"description":"ceiling takes a single numeric argument x and returns a\nnumeric vector containing the smallest integers not less than the\ncorresponding elements of x.\n","example_call":"round(x, digits = 0, ...)"}

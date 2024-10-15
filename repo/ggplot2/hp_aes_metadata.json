@@ -1,1 +1,0 @@
-{"description":"Aesthetic mappings describe how variables in the data are mapped to visual\nproperties (aesthetics) of geoms. Aesthetic mappings can be set in\nggplot() and in individual layers.\n","example_call":"aes(x, y, ...)"}

@@ -1,1 +1,0 @@
-{"description":"In its simplest use, toeplitz() forms a symmetric Toeplitz matrix\ngiven its first column (or row).  For the general case, asymmetric and\nnon-square Toeplitz matrices are formed either by specifying the first\ncolumn and row separately,\n","example_call":"toeplitz(x, r = NULL, symmetric = is.null(r))"}

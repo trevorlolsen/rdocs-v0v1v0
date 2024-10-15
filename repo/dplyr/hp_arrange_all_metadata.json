@@ -1,1 +1,0 @@
-{"description":"\n","example_call":"arrange_all(.tbl, .funs = list(), ..., .by_group = FALSE, .locale = NULL)"}

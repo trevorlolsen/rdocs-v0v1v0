@@ -1,1 +1,0 @@
-{"description":"Prompts the user to check they have done all that is expected of them\nbefore sending a post to the R-help mailing list, provides a template\nfor the post with session information included and optionally sends\nthe email (on Unix systems).\n","example_call":"help.request(subject = \"\", address = \"r-help@R-project.org\", file = \"R.help.request\","}

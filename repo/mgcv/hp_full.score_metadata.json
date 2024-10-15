@@ -1,1 +1,0 @@
-{"description":" Evaluates GCV/UBRE score for a GAM, given smoothing\nparameters. The routine calls gam.fit to fit the model, and is\nusually called by nlm to optimize the smoothing parameters. \n","example_call":"full.score(sp, G, family, control, gamma, ...)"}

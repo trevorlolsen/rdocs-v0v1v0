@@ -1,1 +1,0 @@
-{"description":"Since 2005, package Matrix has supported coercions to and\nfrom class graph from package\ngraph.\nSince 2013, this functionality has been exposed via functions\nT2graph and graph2T, which, unlike methods for\nas(from, \"<Class>\"), support optional arguments.\n","example_call":"T2graph(from, need.uniq = !isUniqueT(from), edgemode = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"The Rcpp utilizes several internal functions which\nneed to visible within its namespace, yet are not user-facing. This\npage provides basic documentation for them.\n","example_call":"cpp_object_dummy(.self, .refClassDef)"}

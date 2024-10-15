@@ -1,1 +1,0 @@
-{"description":"chisq.test performs chi-squared contingency table tests\nand goodness-of-fit tests.\n","example_call":"chisq.test(x, y = NULL, correct = TRUE, p = rep(1/length(x), length(x)),"}

@@ -1,1 +1,0 @@
-{"description":"Returns weighting variable of a model.\n","example_call":"get_weights(x, ...)"}

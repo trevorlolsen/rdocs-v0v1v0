@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the hypergeometric distribution.\n","example_call":"phyper(q, m, n, k, lower.tail = TRUE, log.p = FALSE)"}

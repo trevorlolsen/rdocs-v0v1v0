@@ -1,1 +1,0 @@
-{"description":"A function to evaluate the log of the Tweedie density for variance powers between 1 and 2, inclusive.\nAlso evaluates first and second derivatives of log density w.r.t. its scale parameter, phi, and p, \nor w.r.t. rho=log(phi) and theta where p = (a+b*exp(theta))/(1+exp(theta)).\n","example_call":"ldTweedie(y, mu = y, p = 1.5, phi = 1, rho = NA, theta = NA,"}

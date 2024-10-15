@@ -1,1 +1,0 @@
-{"description":"Test if a string contains valid JSON. Characters vectors will be collapsed into a single string.\n","example_call":"validate(txt)"}

@@ -1,1 +1,0 @@
-{"description":"Counts the number of times pattern is found within each element\nof string.\n","example_call":"str_count(string, pattern = \"\")"}

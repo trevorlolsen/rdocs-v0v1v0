@@ -1,1 +1,0 @@
-{"description":"The various built in smooth classes for use with gam have associate Predict.matrix \nmethod functions to enable prediction from the fitted model. ","example_call":"Predict.matrix.cs.smooth(object, data)"}

@@ -1,1 +1,0 @@
-{"description":"Given a path, find all matching grobs and/or viewports on the display list\nor within a given grob.\n","example_call":"grid.grep(path, x = NULL, grobs = TRUE, viewports = FALSE, strict = FALSE,"}

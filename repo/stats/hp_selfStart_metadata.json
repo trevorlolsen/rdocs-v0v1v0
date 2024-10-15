@@ -1,1 +1,0 @@
-{"description":"Construct self-starting nonlinear models to be used in\nnls, etc.  Via function initial to compute\napproximate parameter values from data, such models are\n<U+201C>self-starting<U+201D>, i.e., do not need a start argument in,\ne.g., nls().\n","example_call":"selfStart(model, initial, parameters, template)"}

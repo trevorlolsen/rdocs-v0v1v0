@@ -1,1 +1,0 @@
-{"description":"A square-root factor of the positive-definite matrix represented by\nobject is obtained. Letting \\Sigma denote a\npositive-definite matrix, a square-root factor of \\Sigma is\nany square matrix L such that \\Sigma = L'L. This function extracts L.\n","example_call":"pdFactor(object)"}

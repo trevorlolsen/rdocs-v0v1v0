@@ -1,1 +1,0 @@
-{"description":"Returns the data from all predictor variables (fixed effects).\n","example_call":"get_predictors(x, verbose = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"A simple low-level interface for serializing to connections.\n","example_call":"unserialize(connection, refhook = NULL)"}

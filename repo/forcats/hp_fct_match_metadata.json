@@ -1,1 +1,0 @@
-{"description":"Do any of lvls occur in f? Compared to %in%, this function validates\nlvls to ensure that they're actually present in f. In other words,\nx %in% \"not present\" will return FALSE, but fct_match(x, \"not present\")\nwill throw an error.\n","example_call":"fct_match(f, lvls)"}

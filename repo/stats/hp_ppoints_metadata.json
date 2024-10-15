@@ -1,1 +1,0 @@
-{"description":"Generates the sequence of probability points\n(1:m - a)/(m + (1-a)-a)\nwhere m is either n, if length(n)==1, or\nlength(n).\n","example_call":"ppoints(n, a = if (n <= 10) 3/8 else 1/2)"}

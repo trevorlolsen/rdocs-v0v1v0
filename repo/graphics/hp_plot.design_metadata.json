@@ -1,1 +1,0 @@
-{"description":"Plot univariate effects of one or more factors,\ntypically for a designed experiment as analyzed by aov().\n","example_call":"plot.design(x, y = NULL, fun = mean, data = NULL, ..., ylim = NULL,"}

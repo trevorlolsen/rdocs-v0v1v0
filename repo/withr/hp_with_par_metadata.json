@@ -1,1 +1,0 @@
-{"description":"Temporarily change graphics parameters.\n","example_call":"with_par(new, code, no.readonly = FALSE)"}

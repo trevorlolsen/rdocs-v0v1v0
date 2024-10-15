@@ -1,1 +1,0 @@
-{"description":"Computes a multiple correspondence analysis of a set of factors.\n","example_call":"mca(df, nf = 2, abbrev = FALSE)"}

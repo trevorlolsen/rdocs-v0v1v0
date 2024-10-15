@@ -1,1 +1,0 @@
-{"description":"Retrieve the headers for a URL for a supported protocol such as\n<U+2018><U+2060>http://<U+2060><U+2019>, <U+2018><U+2060>ftp://<U+2060><U+2019>, <U+2018><U+2060>https://<U+2060><U+2019> and <U+2018><U+2060>ftps://<U+2060><U+2019>.\n","example_call":"curlGetHeaders(url, redirect = TRUE, verify = TRUE, timeout = 0L,"}

@@ -1,1 +1,0 @@
-{"description":"Functions for performing various quality control (QC) checks on R code\nand documentation, notably on R packages.\n","example_call":"checkRdContents(package, dir, lib.loc = NULL, chkInternal = NULL)"}

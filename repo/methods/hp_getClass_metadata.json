@@ -1,1 +1,0 @@
-{"description":"Get the definition of a class.\n","example_call":"getClass(Class, .Force = FALSE, where = .classEnv(Class, topenv(parent.frame()),"}

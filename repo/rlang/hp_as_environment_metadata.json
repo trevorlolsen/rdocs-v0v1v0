@@ -1,1 +1,0 @@
-{"description":"as_environment() coerces named vectors (including lists) to an\nenvironment. The names must be unique. If supplied an unnamed\nstring, it returns the corresponding package environment (see\npkg_env()).\n","example_call":"as_environment(x, parent = NULL)"}

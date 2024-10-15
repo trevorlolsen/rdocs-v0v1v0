@@ -1,1 +1,0 @@
-{"description":"This function marks an object so that a message is printed whenever the\ninternal code copies the object.  It is a\nmajor cause of hard-to-predict memory use in R.\n","example_call":"untracemem(x)"}

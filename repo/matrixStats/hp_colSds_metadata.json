@@ -1,1 +1,0 @@
-{"description":"Standard deviation estimates for each row (column) in a matrix.\n","example_call":"colSds(x, rows = NULL, cols = NULL, na.rm = FALSE, refine = TRUE,"}

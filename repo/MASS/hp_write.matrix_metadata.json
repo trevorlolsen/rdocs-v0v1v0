@@ -1,1 +1,0 @@
-{"description":"Writes a matrix or data frame to a file or the console, using column\nlabels and a layout respecting columns.\n","example_call":"write.matrix(x, file = \"\", sep = \" \", blocksize)"}

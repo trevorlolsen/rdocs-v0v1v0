@@ -1,1 +1,0 @@
-{"description":"These allow you to manually trigger success or failure. Failure is\nparticularly useful to a pre-condition or mark a test as not yet\nimplemented.\n","example_call":"succeed(message = \"Success has been forced\", info = NULL)"}

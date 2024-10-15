@@ -1,1 +1,0 @@
-{"description":"Finds the Huber M-estimator for location with scale specified, scale\nwith location specified, or both if neither is specified.\n","example_call":"hubers(y, k = 1.5, mu, s, initmu = median(y), tol = 1e-06)"}

@@ -1,1 +1,0 @@
-{"description":"This trims a character vector according to the trimming rules used by glue.\nThese follow similar rules to Python Docstrings,\nwith the following features.\n","example_call":"trim(x)"}

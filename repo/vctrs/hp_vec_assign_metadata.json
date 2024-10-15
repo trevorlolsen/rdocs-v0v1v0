@@ -1,1 +1,0 @@
-{"description":"This provides a common interface to extracting and modifying observations\nfor all vector types, regardless of dimensionality. It is an analog to [\nthat matches vec_size() instead of length().\n","example_call":"vec_assign(x, i, value, ..., x_arg = \"\", value_arg = \"\")"}

@@ -1,1 +1,0 @@
-{"description":"Determines whether f acts as a standard S3-style generic\nfunction.\n","example_call":"isS3stdGeneric(f)"}

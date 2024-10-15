@@ -1,1 +1,0 @@
-{"description":"Compared to file.rename file_move() always fails if it is unable to move\na file, rather than signaling a Warning and returning an error code.\n","example_call":"file_move(path, new_path)"}

@@ -1,1 +1,0 @@
-{"description":"Create a modified version of .f that return a default value (otherwise)\nwhenever an error occurs.\n","example_call":"possibly(.f, otherwise = NULL, quiet = TRUE)"}

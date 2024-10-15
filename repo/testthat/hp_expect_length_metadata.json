@@ -1,1 +1,0 @@
-{"description":"Does code return a vector with the specified length?\n","example_call":"expect_length(object, n)"}

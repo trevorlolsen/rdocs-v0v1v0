@@ -1,1 +1,0 @@
-{"description":"This function prints elements of a character vector which contain\nnon-ASCII bytes, printing such bytes as a escape like <U+2018><U+2060><fc><U+2060><U+2019>.\n","example_call":"showNonASCII(x)"}

@@ -1,1 +1,0 @@
-{"description":"Returns model deviance (see stats::deviance()).\n","example_call":"get_deviance(x, ...)"}

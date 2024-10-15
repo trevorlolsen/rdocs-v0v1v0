@@ -1,1 +1,0 @@
-{"description":"vec_as_names() takes a character vector of names and repairs it\naccording to the repair argument. It is the r-lib and tidyverse\nequivalent of base::make.names().\n","example_call":"vec_as_names(names, ..., repair = c(\"minimal\", \"unique\", \"universal\","}

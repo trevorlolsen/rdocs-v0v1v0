@@ -1,1 +1,0 @@
-{"description":"Splits the right hand side of form into a list of subformulas\naccording to the presence of sep. The left hand side of\nform, if present, will be ignored. The length of the returned\nlist will be equal to the number of occurrences of sep in\nform plus one. \n","example_call":"splitFormula(form, sep = \"/\")"}

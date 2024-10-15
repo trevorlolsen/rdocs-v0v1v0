@@ -1,1 +1,0 @@
-{"description":"Read a delimited file by chunks\n","example_call":"read_tsv_chunked(file, callback, chunk_size = 10000, col_names = TRUE,"}

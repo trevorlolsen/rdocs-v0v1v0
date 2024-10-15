@@ -1,1 +1,0 @@
-{"description":"Removes value labels, leaving unlabelled vectors as is. Use this if you\nwant to simply drop all labels from a data frame.\n","example_call":"zap_labels(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the log normal distribution whose logarithm has mean\nequal to meanlog and standard deviation equal to sdlog.\n","example_call":"qlnorm(p, meanlog = 0, sdlog = 1, lower.tail = TRUE, log.p = FALSE)"}

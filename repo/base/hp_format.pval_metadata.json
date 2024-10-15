@@ -1,1 +1,0 @@
-{"description":"format.pval is intended for formatting p-values.\n","example_call":"format.pval(pv, digits = max(1L, getOption(\"digits\") - 2L), eps = .Machine$double.eps,"}

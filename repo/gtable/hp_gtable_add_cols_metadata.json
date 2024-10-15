@@ -1,1 +1,0 @@
-{"description":"Insert new columns in a gtable and adjust the grob placement accordingly. If\ncolumns are added in the middle of a grob spanning multiple columns, the grob\nwill continue to span them all. If a column is added to the left or right of\na grob, the grob will not span the new column(s).\n","example_call":"gtable_add_cols(x, widths, pos = -1)"}

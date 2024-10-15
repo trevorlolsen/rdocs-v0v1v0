@@ -1,1 +1,0 @@
-{"description":"This function is used in conjunction with a position scale to create a\nsecondary axis, positioned opposite of the primary axis. All secondary\naxes must be based on a one-to-one transformation of the primary axes.\n","example_call":"dup_axis(transform = ~., name = derive(), breaks = derive(),"}

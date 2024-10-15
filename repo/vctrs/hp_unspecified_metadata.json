@@ -1,1 +1,0 @@
-{"description":"This is a partial type used to represent logical vectors\nthat only contain NA. These require special handling because we want to\nallow NA to specify missingness without requiring a type.\n","example_call":"unspecified(n = 0)"}

@@ -1,1 +1,0 @@
-{"description":"Decreases the value of the Munsell colour by 1.\n","example_call":"darker(col, steps = 1)"}

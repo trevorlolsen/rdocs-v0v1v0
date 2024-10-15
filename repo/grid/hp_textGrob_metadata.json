@@ -1,1 +1,0 @@
-{"description":"These functions create and draw text and plotmath expressions.\n","example_call":"textGrob(label, x = unit(0.5, \"npc\"), y = unit(0.5, \"npc\"),"}

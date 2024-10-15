@@ -1,1 +1,0 @@
-{"description":"Transformation of R colors by simulating color vision deficiencies,\nbased on a CVD transform matrix.\n","example_call":"protan(col, severity = 1, linear = TRUE)"}

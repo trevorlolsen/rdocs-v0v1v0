@@ -1,1 +1,0 @@
-{"description":"This function reads a set of hexadecimal color descriptions from a file and\ncreates a color object containing the corresponding colors.\n","example_call":"readhex(file = \"\", class = \"RGB\")"}

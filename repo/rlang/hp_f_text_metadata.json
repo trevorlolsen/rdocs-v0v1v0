@@ -1,1 +1,0 @@
-{"description":"Equivalent of expr_text() and expr_label() for formulas.\n","example_call":"f_text(x, width = 60L, nlines = Inf)"}

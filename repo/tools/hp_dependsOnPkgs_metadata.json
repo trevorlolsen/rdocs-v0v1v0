@@ -1,1 +1,0 @@
-{"description":"Find <U+2018>reverse<U+2019> dependencies of packages, that is those packages\nwhich depend on this one, and (optionally) so on recursively.\n","example_call":"dependsOnPkgs(pkgs, dependencies = \"strong\", recursive = TRUE, lib.loc = NULL,"}

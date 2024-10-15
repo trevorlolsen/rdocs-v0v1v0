@@ -1,1 +1,0 @@
-{"description":"Get and set worksheet visible state\n","example_call":"sheetVisibility<-(wb, value)"}

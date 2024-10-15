@@ -1,1 +1,0 @@
-{"description":" Uses splineDesign to set up the model matrix for a cyclic B-spline basis.\n","example_call":"cSplineDes(x, knots, ord = 4, derivs = 0)"}

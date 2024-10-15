@@ -1,1 +1,0 @@
-{"description":"These functions are wrappers around glue::glue() and glue::glue_data(),\nwhich provide a powerful and elegant syntax for interpolating strings\nwith {}.\n","example_call":"str_glue_data(.x, ..., .sep = \"\", .envir = parent.frame(), .na = \"NA\")"}

@@ -1,1 +1,0 @@
-{"description":"levels provides access to the levels attribute of a variable.\nThe first form returns the value of the levels of its argument\nand the second sets the attribute.\n","example_call":"levels<-.factor(x, value)"}

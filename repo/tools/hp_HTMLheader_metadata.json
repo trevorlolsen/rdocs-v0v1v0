@@ -1,1 +1,0 @@
-{"description":"This function generates the standard HTML header used on R help pages.\n","example_call":"HTMLheader(title = \"R\", logo = TRUE, up = NULL, top = file.path(Rhome,"}

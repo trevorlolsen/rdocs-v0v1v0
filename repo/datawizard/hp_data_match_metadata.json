@@ -1,1 +1,0 @@
-{"description":"Return a filtered (or sliced) data frame or row indices of a data frame that\nmatch a specific condition. data_filter() works like data_match(), but works\nwith logical expressions or row indices of a data frame to specify matching\nconditions.\n","example_call":"data_match(x, to, match = \"and\", return_indices = FALSE, drop_na = TRUE,"}

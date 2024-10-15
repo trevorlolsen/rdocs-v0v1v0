@@ -1,1 +1,0 @@
-{"description":"Use the Fast Fourier Transform to compute the several kinds of\nconvolutions of two sequences.\n","example_call":"convolve(x, y, conj = TRUE, type = c(\"circular\", \"open\", \"filter\"))"}

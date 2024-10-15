@@ -1,1 +1,0 @@
-{"description":"Takes a text specification of a Munsell colour and returns\nthe hue, chroma and value triplet.\n","example_call":"mnsl2hvc(col, ...)"}

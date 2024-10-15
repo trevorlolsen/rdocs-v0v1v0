@@ -1,1 +1,0 @@
-{"description":"A convenience function used to tune up the behavior of stri_*_fixed\nfunctions, see stringi-search-fixed.\n","example_call":"stri_opts_fixed(case_insensitive = FALSE, overlap = FALSE)"}

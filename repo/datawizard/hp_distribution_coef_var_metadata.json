@@ -1,1 +1,0 @@
-{"description":"Compute the coefficient of variation (CV, ratio of the standard deviation to\nthe mean, \\sigma/\\mu) for a set of numeric values.\n","example_call":"distribution_coef_var(x, ...)"}

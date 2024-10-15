@@ -1,1 +1,0 @@
-{"description":"These predicates check for a given type and whether the vector is\n\"scalar\", that is, of length 1.\n","example_call":"is_scalar_logical(x)"}

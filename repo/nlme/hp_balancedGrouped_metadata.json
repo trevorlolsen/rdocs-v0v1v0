@@ -1,1 +1,0 @@
-{"description":"Create a groupedData object from a data matrix.  This function\ncan be used only with balanced data.  The opposite conversion, from a\ngroupedData object to a matrix, is done with asTable.\n","example_call":"balancedGrouped(form, data, labels = NULL, units = NULL)"}

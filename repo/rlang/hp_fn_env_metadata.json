@@ -1,1 +1,0 @@
-{"description":"Closure environments define the scope of functions (see env()).\nWhen a function call is evaluated, R creates an evaluation frame\nthat inherits from the closure environment. This makes all objects\ndefined in the closure environment and all its parents available to\ncode executed within the function.\n","example_call":"fn_env(fn)"}

@@ -1,1 +1,0 @@
-{"description":"chooseOpsMethod is a function called by the Ops Group Generic when two\nsuitable methods are found for a given call. It determines which method to\nuse for the operation based on the objects being dispatched.\n","example_call":"chooseOpsMethod(x, y, mx, my, cl, reverse)"}

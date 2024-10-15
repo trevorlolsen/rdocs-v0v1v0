@@ -1,1 +1,0 @@
-{"description":"Facilitate the constructing of files documenting R objects.\n","example_call":"promptImport(object, filename = NULL, name = NULL, importedFrom = NULL,"}

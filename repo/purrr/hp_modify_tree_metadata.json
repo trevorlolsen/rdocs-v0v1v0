@@ -1,1 +1,0 @@
-{"description":"modify_tree() allows you to recursively modify a list, supplying functions\nthat either modify each leaf or each node (or both).\n","example_call":"modify_tree(x, ..., leaf = identity, is_node = NULL, pre = identity,"}

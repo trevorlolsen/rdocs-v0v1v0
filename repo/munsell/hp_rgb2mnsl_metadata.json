@@ -1,1 +1,0 @@
-{"description":"Finds the closest Munsell colour (in LUV space) to the specified sRGB colour\n","example_call":"rgb2mnsl(R, G = NULL, B = NULL)"}

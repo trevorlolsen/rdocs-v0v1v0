@@ -1,1 +1,0 @@
-{"description":"The .ignore_data() function is used to hide <U+2060><AsIs><U+2060> columns during\nscale interactions in ggplot_build(). The .expose_data() function is\nused to restore hidden columns.\n","example_call":".ignore_data(data)"}

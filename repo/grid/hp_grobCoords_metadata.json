@@ -1,1 +1,0 @@
-{"description":"These functions calculate points along the perimeter (or length) of\na grob.\n","example_call":"grobCoords(x, closed, ...)"}

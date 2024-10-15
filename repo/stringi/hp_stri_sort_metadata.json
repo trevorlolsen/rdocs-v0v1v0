@@ -1,1 +1,0 @@
-{"description":"This function sorts a character vector according to a locale-dependent\nlexicographic order.\n","example_call":"stri_sort(str, decreasing = FALSE, na_last = NA, ..., opts_collator = NULL)"}

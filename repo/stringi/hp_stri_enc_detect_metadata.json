@@ -1,1 +1,0 @@
-{"description":"This function uses the ICU engine to determine the character set,\nor encoding, of character data in an unknown format.\n","example_call":"stri_enc_detect(str, filter_angle_brackets = FALSE)"}

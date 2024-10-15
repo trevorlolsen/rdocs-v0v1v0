@@ -1,1 +1,0 @@
-{"description":"Consistent wrapper around data() that forces the promise. This is also a\nstronger parallel to loading data from a file.\n","example_call":"read_builtin(x, package = NULL)"}

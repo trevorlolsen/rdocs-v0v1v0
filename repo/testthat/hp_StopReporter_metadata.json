@@ -1,1 +1,0 @@
-{"description":"The default reporter used when expect_that() is run interactively.\nIt responds by stop()ping on failures and doing nothing otherwise. This\nwill ensure that a failing test will raise an error.\n","example_call":"NULL"}

@@ -1,1 +1,0 @@
-{"description":"Returns the formula(s) for the different parts of a model\n(like fixed or random effects, zero-inflated component, ...).\nformula_ok() checks if a model formula has valid syntax\nregarding writing TRUE instead of T inside poly()\nand that no data names are used (i.e. no data$variable, but rather\nvariable).\n","example_call":"find_formula(x, ...)"}

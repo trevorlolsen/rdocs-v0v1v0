@@ -1,1 +1,0 @@
-{"description":"Register an inline plugin for use with \nsourceCpp or cppFunction. Inline plugins are functions\nthat return a list with additional includes, environment variables, and\nother compilation context. \n","example_call":"registerPlugin(name, plugin)"}

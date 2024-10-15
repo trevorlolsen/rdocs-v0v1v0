@@ -1,1 +1,0 @@
-{"description":"env_cache() is a wrapper around env_get() and env_poke()\ndesigned to retrieve a cached value from env.\n","example_call":"env_cache(env, nm, default)"}

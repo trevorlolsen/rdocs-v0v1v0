@@ -1,1 +1,0 @@
-{"description":"Returns residuals for a fitted gam model\nobject. Pearson, deviance, working and response residuals are\navailable. \n","example_call":"residuals.gam(object, type = \"deviance\", ...)"}

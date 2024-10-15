@@ -1,1 +1,0 @@
-{"description":"Find head/tail that all satisfies a predicate.\n","example_call":"tail_while(.x, .p, ...)"}

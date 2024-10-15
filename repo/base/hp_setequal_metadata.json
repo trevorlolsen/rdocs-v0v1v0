@@ -1,1 +1,0 @@
-{"description":"Performs set union, intersection, (asymmetric!) difference,\nequality and membership on two vectors.\n","example_call":"setequal(x, y)"}

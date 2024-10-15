@@ -1,1 +1,0 @@
-{"description":"Checks user supplied munsell specification for validity.  \nI.e. colour is of form \"h v/c\" and h,  v and c take valid values.\n","example_call":"check_mnsl(col)"}

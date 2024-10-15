@@ -1,1 +1,0 @@
-{"description":"Read or set the declared encodings for a character vector.\n","example_call":"enc2utf8(x)"}

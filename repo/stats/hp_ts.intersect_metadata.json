@@ -1,1 +1,0 @@
-{"description":"Bind time series which have a common frequency. ts.union pads\nwith NAs to the total time coverage, ts.intersect\nrestricts to the time covered by all the series.\n","example_call":"ts.intersect(..., dframe = FALSE)"}

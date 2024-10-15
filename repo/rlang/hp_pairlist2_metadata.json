@@ -1,1 +1,0 @@
-{"description":"This pairlist constructor uses dynamic dots. Use\nit to manually create argument lists for calls or parameter lists\nfor functions.\n","example_call":"pairlist2(...)"}

@@ -1,1 +1,0 @@
-{"description":"A generic function coercing an R object to an\nenvironment.  A number or a character string is\nconverted to the corresponding environment on the search path.\n","example_call":"as.environment(x)"}

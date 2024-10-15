@@ -1,1 +1,0 @@
-{"description":"Returns the requested auxiliary parameters from models, like\ndispersion, sigma, or beta...\n","example_call":"get_auxiliary(x, type = \"sigma\", summary = TRUE, centrality = \"mean\","}

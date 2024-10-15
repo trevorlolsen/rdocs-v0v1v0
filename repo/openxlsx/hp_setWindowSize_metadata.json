@@ -1,1 +1,0 @@
-{"description":"Set and Get Window Size for xlsx file\n","example_call":"setWindowSize(wb, xWindow = NULL, yWindow = NULL, windowWidth = NULL,"}

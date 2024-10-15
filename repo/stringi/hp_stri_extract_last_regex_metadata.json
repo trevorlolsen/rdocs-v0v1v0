@@ -1,1 +1,0 @@
-{"description":"These functions extract all substrings matching a given pattern.\n","example_call":"stri_extract_last_regex(str, pattern, ..., opts_regex = NULL)"}

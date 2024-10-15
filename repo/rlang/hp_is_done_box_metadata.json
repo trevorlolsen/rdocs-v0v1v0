@@ -1,1 +1,0 @@
-{"description":"A value boxed with done() signals to its caller that it\nshould stop iterating. Use it to shortcircuit a loop.\n","example_call":"is_done_box(x, empty = NULL)"}

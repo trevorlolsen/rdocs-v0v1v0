@@ -1,1 +1,0 @@
-{"description":"This function gives LaTeX-oriented statistics for a character vector,\ne.g., obtained by loading a text file with the\nreadLines function, where each text line\nis represented by a separate string.\n","example_call":"stri_stats_latex(str)"}

@@ -1,1 +1,0 @@
-{"description":"Creates (and optionally draws) a grid frame grob representing a color\nkey that can be placed in other grid-based plots. Primarily used by\nlevelplot when a color key is requested.\n","example_call":"draw.colorkey(key, draw = FALSE, vp = NULL)"}

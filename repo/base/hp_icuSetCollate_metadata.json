@@ -1,1 +1,0 @@
-{"description":"Controls the way collation is done by ICU (an optional part of the R\nbuild).\n","example_call":"icuSetCollate(...)"}

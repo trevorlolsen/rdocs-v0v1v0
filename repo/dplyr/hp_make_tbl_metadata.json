@@ -1,1 +1,0 @@
-{"description":"tbl() is the standard constructor for tbls. as.tbl() coerces,\nand is.tbl() tests.\n","example_call":"make_tbl(subclass, ...)"}

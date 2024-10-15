@@ -1,1 +1,0 @@
-{"description":"Return the workbook default font\n","example_call":"getBaseFont(wb)"}

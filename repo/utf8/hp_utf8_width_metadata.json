@@ -1,1 +1,0 @@
-{"description":"Compute the display widths of the elements of a character object.\n","example_call":"utf8_width(x, encode = TRUE, quote = FALSE, utf8 = NULL)"}

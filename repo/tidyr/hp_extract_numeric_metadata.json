@@ -1,1 +1,0 @@
-{"description":"DEPRECATED: please use readr::parse_number() instead.\n","example_call":"extract_numeric(x)"}

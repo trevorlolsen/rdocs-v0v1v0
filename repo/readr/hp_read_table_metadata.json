@@ -1,1 +1,0 @@
-{"description":"read_table() is designed to read the type of textual\ndata where each column is separated by one (or more) columns of space.\n","example_call":"read_table(file, col_names = TRUE, col_types = NULL, locale = default_locale(),"}

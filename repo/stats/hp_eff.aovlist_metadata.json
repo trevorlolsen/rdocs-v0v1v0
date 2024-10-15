@@ -1,1 +1,0 @@
-{"description":"Computes the efficiencies of fixed-effect terms in an analysis of\nvariance model with multiple strata.\n","example_call":"eff.aovlist(aovlist)"}

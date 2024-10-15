@@ -1,1 +1,0 @@
-{"description":"Detect or standardize a TsparseMatrix with\nunsorted or duplicated (i,j) pairs.\n","example_call":"aggregateT(x)"}

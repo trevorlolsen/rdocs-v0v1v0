@@ -1,1 +1,0 @@
-{"description":"This transforms objects to labeller functions. Used internally by\nlabeller().\n","example_call":"as_labeller(x, default = label_value, multi_line = TRUE)"}

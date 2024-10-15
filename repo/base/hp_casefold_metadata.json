@@ -1,1 +1,0 @@
-{"description":"Translate characters in character vectors, in particular from upper to\nlower case or vice versa.\n","example_call":"casefold(x, upper = FALSE)"}

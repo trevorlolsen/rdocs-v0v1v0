@@ -1,1 +1,0 @@
-{"description":"Returns all lowest to highest order interaction terms from a model.\n","example_call":"find_interactions(x, component = c(\"all\", \"conditional\", \"zi\", \"zero_inflated\","}

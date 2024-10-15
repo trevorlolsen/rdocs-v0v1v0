@@ -1,1 +1,0 @@
-{"description":"slice() lets you index rows by their (integer) locations. It allows you\nto select, remove, and duplicate rows. It is accompanied by a number of\nhelpers for common use cases:\n","example_call":"slice_sample(.data, ..., n, prop, by = NULL, weight_by = NULL, replace = FALSE)"}

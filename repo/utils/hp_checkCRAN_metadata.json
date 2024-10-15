@@ -1,1 +1,0 @@
-{"description":"Functions helping to maintain CRAN, some of them may also be useful\nfor administrators of other repository networks.\n","example_call":"checkCRAN(method)"}

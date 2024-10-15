@@ -1,1 +1,0 @@
-{"description":"delete.response returns a terms object for the same\nmodel but with no response variable.\n","example_call":"drop.terms(termobj, dropx = NULL, keep.response = FALSE)"}

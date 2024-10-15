@@ -1,1 +1,0 @@
-{"description":"Test if a path is an absolute path\n","example_call":"is_absolute_path(path)"}

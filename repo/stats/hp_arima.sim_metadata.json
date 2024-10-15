@@ -1,1 +1,0 @@
-{"description":"Simulate from an ARIMA model.\n","example_call":"arima.sim(model, n, rand.gen = rnorm, innov = rand.gen(n, ...),"}

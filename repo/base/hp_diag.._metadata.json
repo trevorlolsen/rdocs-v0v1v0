@@ -1,1 +1,0 @@
-{"description":"Extract or replace the diagonal of a matrix,\nor construct a diagonal matrix.\n","example_call":"diag<-(x, value)"}

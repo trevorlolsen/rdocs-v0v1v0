@@ -1,1 +1,0 @@
-{"description":"User-friendly construction of sparse matrices (inheriting from\nvirtual class CsparseMatrix,\nRsparseMatrix, or\nTsparseMatrix)\nfrom the positions and values of their nonzero entries.\n","example_call":"sparseMatrix(i, j, p, x, dims, dimnames, symmetric = FALSE, triangular = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"Check all vignettes of a package by running\nSweave (or other custom weave function) and/or\nStangle (or other custom tangle function) on them.\nAll R source code files found after the tangling step are\nsourceed to check whether all code can be\nexecuted without errors.\n","example_call":"checkVignettes(package, dir, lib.loc = NULL, tangle = TRUE, weave = TRUE,"}

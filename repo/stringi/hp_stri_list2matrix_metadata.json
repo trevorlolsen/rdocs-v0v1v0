@@ -1,1 +1,0 @@
-{"description":"This function converts a given list of atomic vectors to\na character matrix.\n","example_call":"stri_list2matrix(x, byrow = FALSE, fill = NA_character_, n_min = 0,"}

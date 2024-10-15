@@ -1,1 +1,0 @@
-{"description":"Takes separate specifications of hue, value and chroma and returns the \ntext specification of that colour.\n","example_call":"hvc2mnsl(hue, value = NULL, chroma = NULL, ...)"}

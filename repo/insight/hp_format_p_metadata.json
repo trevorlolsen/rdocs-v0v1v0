@@ -1,1 +1,0 @@
-{"description":"Format p-values.\n","example_call":"format_p(p, stars = FALSE, stars_only = FALSE, whitespace = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"Sequential colour gradient palette (continuous)\n","example_call":"pal_seq_gradient(low = mnsl(\"10B 4/6\"), high = mnsl(\"10R 4/6\"), space = \"Lab\")"}

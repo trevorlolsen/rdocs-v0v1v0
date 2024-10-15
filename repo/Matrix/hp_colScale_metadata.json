@@ -1,1 +1,0 @@
-{"description":"dimScale, rowScale, and colScale implement\nD1 %*% x %*% D2, D %*% x, and x %*% D\nfor diagonal matrices D1, D2, and D with\ndiagonal entries d1, d2, and d, respectively.\nUnlike the explicit products, these functions preserve dimnames(x)\nand symmetry where appropriate.\n","example_call":"colScale(x, d)"}

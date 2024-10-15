@@ -1,1 +1,0 @@
-{"description":"These are predefined prepanel functions available in Lattice.\n","example_call":"prepanel.spline(x, y, npoints = 101, horizontal = FALSE, ..., keep.data = FALSE)"}

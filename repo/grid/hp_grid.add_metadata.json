@@ -1,1 +1,0 @@
-{"description":"Add a grob to a gTree or a descendant of a gTree.\n","example_call":"grid.add(gPath, child, strict = FALSE, grep = FALSE, global = FALSE,"}

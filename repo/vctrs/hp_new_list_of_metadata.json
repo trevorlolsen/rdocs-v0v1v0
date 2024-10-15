@@ -1,1 +1,0 @@
-{"description":"Create list_of subclass\n","example_call":"new_list_of(x = list(), ptype = logical(), ..., class = character())"}

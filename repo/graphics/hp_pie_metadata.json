@@ -1,1 +1,0 @@
-{"description":"Draw a pie chart.\n","example_call":"pie(x, labels = names(x), edges = 200, radius = 0.8, clockwise = FALSE,"}

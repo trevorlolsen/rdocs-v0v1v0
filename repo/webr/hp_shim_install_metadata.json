@@ -1,1 +1,0 @@
-{"description":"Replace base R functions with implementations\nthat work in the webR environment.\n","example_call":"shim_install()"}

@@ -1,1 +1,0 @@
-{"description":"This function produces a new unit object by combining the\nunit objects specified as arguments.\n","example_call":"unit.c(..., check = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"This generic function fits a linear mixed-effects model in the\nformulation described in Laird and Ware (1982) but allowing for nested\nrandom effects. The within-group errors are allowed to be correlated\nand/or have unequal variances.\n","example_call":"lme.formula(fixed, data = sys.frame(sys.parent()), random = pdSymm(eval(as.call(fixed[-2]))),"}

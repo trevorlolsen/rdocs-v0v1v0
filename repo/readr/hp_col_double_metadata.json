@@ -1,1 +1,0 @@
-{"description":"Use <U+2060>parse_*()<U+2060> if you have a character vector you want to parse. Use\n<U+2060>col_*()<U+2060> in conjunction with a <U+2060>read_*()<U+2060> function to parse the\nvalues as they're read in.\n","example_call":"col_double()"}

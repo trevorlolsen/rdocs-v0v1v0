@@ -1,1 +1,0 @@
-{"description":"Methods for function all.equal() (from R package\nbase) are defined for all Matrix classes.\n","example_call":"all.equal(target, current, ...)"}

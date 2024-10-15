@@ -1,1 +1,0 @@
-{"description":"The outer product of the arrays X and Y is the array\nA with dimension c(dim(X), dim(Y)) where element\nA[c(arrayindex.x, arrayindex.y)]\n    = FUN(X[arrayindex.x], Y[arrayindex.y], ...).\n","example_call":"%o%(X, Y)"}

@@ -1,1 +1,0 @@
-{"description":"The right hand side of formula(object), without any\nconditioning expressions (i.e. any expressions after a |\noperator) is returned as a one-sided formula.\n","example_call":"getCovariateFormula(object)"}

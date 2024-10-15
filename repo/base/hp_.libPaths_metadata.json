@@ -1,1 +1,0 @@
-{"description":".libPaths gets/sets the library trees within which packages are\nlooked for.\n","example_call":".libPaths(new, include.site = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"Compare two vectors\n","example_call":"vec_compare(x, y, na_equal = FALSE, .ptype = NULL)"}

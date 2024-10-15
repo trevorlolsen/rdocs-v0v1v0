@@ -1,1 +1,0 @@
-{"description":"Function to do wildcard expansion (also known as <U+2018>globbing<U+2019>) on\nfile paths.\n","example_call":"Sys.glob(paths, dirmark = FALSE)"}

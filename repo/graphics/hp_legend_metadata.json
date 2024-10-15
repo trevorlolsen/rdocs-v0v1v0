@@ -1,1 +1,0 @@
-{"description":"This function can be used to add legends to plots.  Note that a call\nto the function locator(1) can be used in place of the x\nand y arguments.\n","example_call":"legend(x, y = NULL, legend, fill = NULL, col = par(\"col\"),"}

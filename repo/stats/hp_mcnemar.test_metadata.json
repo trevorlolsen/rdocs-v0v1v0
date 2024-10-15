@@ -1,1 +1,0 @@
-{"description":"Performs McNemar's chi-squared test for symmetry of rows and columns\nin a two-dimensional contingency table.\n","example_call":"mcnemar.test(x, y = NULL, correct = TRUE)"}

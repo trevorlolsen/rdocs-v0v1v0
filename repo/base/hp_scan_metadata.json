@@ -1,1 +1,0 @@
-{"description":"Read data into a vector or list from the console or file.\n","example_call":"scan(file = \"\", what = double(), nmax = -1L, n = -1L, sep = \"\","}

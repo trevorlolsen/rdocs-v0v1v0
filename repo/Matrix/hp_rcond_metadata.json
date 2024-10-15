@@ -1,1 +1,0 @@
-{"description":"Estimate the reciprocal of the condition number of a matrix.\n","example_call":"rcond(x, norm, ...)"}

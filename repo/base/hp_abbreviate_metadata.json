@@ -1,1 +1,0 @@
-{"description":"Abbreviate strings to at least minlength characters,\nsuch that they remain unique (if they were),\nunless strict = TRUE.\n","example_call":"abbreviate(names.arg, minlength = 4L, use.classes = TRUE, dot = FALSE,"}

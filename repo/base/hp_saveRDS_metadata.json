@@ -1,1 +1,0 @@
-{"description":"Functions to write a single R object to a file, and to restore it.\n","example_call":"saveRDS(object, file = \"\", ascii = FALSE, version = NULL, compress = TRUE,"}

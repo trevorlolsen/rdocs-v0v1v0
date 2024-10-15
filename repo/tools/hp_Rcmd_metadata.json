@@ -1,1 +1,0 @@
-{"description":"Invoke R CMD tools from within R.\n","example_call":"Rcmd(args, ...)"}

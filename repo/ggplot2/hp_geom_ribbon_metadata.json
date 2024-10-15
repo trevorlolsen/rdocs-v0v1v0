@@ -1,1 +1,0 @@
-{"description":"For each x value, geom_ribbon() displays a y interval defined\nby ymin and ymax. geom_area() is a special case of\ngeom_ribbon(), where the ymin is fixed to 0 and y is used instead\nof ymax.\n","example_call":"geom_ribbon(mapping = NULL, data = NULL, stat = \"identity\", position = \"identity\","}

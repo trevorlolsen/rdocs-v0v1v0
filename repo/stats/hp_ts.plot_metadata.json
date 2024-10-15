@@ -1,1 +1,0 @@
-{"description":"Plot several time series on a common plot. Unlike\nplot.ts the series can have a different time bases,\nbut they should have the same frequency.\n","example_call":"ts.plot(..., gpars = list())"}

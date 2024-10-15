@@ -1,1 +1,0 @@
-{"description":"The method for seq for objects of class\n\"Date\" representing calendar dates.\n","example_call":"seq.Date(from, to, by, length.out = NULL, along.with = NULL,"}

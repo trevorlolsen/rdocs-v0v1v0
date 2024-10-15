@@ -1,1 +1,0 @@
-{"description":"Stacking vectors concatenates multiple vectors into a single vector\nalong with a factor indicating where each observation originated.\nUnstacking reverses this operation.\n","example_call":"stack(x, ...)"}

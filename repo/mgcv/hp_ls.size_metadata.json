@@ -1,1 +1,0 @@
-{"description":"Produces a named array giving the size, in bytes, of the elements of a list.\n","example_call":"ls.size(x)"}

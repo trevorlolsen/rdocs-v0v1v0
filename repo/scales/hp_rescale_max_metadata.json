@@ -1,1 +1,0 @@
-{"description":"Rescale numeric vector to have specified maximum\n","example_call":"rescale_max(x, to = c(0, 1), from = range(x, na.rm = TRUE))"}

@@ -1,1 +1,0 @@
-{"description":"Draw Histograms and Kernel Density Plots, possibly conditioned on\nother variables.\n","example_call":"do.breaks(endpoints, nint)"}

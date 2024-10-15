@@ -1,1 +1,0 @@
-{"description":"Returns a list of all localizable date-time formatting data,\nincluding month and weekday names, localized AM/PM strings, etc.\n","example_call":"stri_datetime_symbols(locale = NULL, context = \"standalone\", width = \"wide\")"}

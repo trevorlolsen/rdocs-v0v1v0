@@ -1,1 +1,0 @@
-{"description":"This is useful when the levels of an ordered factor are actually cyclical,\nwith different conventions on the starting point.\n","example_call":"fct_shift(f, n = 1L)"}

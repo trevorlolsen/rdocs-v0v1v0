@@ -1,1 +1,0 @@
-{"description":"Utility function for setting options with some consistency checks.\nThe attributes of the new settings in new are\nchecked for consistency with the model (often default)\nlist in name.opt.\n","example_call":"check.options(new, name.opt, reset = FALSE, assign.opt = FALSE, envir = .GlobalEnv,"}

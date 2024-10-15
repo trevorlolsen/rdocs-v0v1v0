@@ -1,1 +1,0 @@
-{"description":"Ensures all column names are unique using the approach found in\ntidyr 0.8.3 and earlier. Only use this function if you want to preserve\nthe naming strategy, otherwise you're better off adopting the new\ntidyverse standard with name_repair = \"universal\"\n","example_call":"tidyr_legacy(nms, prefix = \"V\", sep = \"\")"}

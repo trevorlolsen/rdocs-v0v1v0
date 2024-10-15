@@ -1,1 +1,0 @@
-{"description":"When printed, only the first 20 columns are printed by default. To override,\nset options(readr.num_columns) can be used to modify this (a value of 0\nturns off printing).\n","example_call":"spec_delim(file, delim = NULL, quote = \"\\\"\", escape_backslash = FALSE,"}

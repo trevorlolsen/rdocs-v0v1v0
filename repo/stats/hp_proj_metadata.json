@@ -1,1 +1,0 @@
-{"description":"proj returns a matrix or list of matrices giving the projections\nof the data onto the terms of a linear model.  It is most frequently\nused for aov models.\n","example_call":"proj(object, ...)"}

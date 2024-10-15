@@ -1,1 +1,0 @@
-{"description":"This is a helper function for format to produce a single\ncharacter string describing an R object.\n","example_call":"toString(x, ...)"}

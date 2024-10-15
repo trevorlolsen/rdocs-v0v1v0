@@ -1,1 +1,0 @@
-{"description":"quartz starts a graphics device driver for the macOS system.\nIt supports plotting both to the screen (the default) and to various\ngraphics file formats.\n","example_call":"quartz(title, width, height, pointsize, family, antialias,"}

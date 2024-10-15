@@ -1,1 +1,0 @@
-{"description":"match.call returns a call in which all of the specified arguments are\nspecified by their full names.\n","example_call":"match.call(definition = sys.function(sys.parent()), call = sys.call(sys.parent()),"}

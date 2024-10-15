@@ -1,1 +1,0 @@
-{"description":"Returns the coefficients (or posterior samples for Bayesian\nmodels) from a model. See the documentation for your object's class:\n","example_call":"get_parameters(x, ...)"}

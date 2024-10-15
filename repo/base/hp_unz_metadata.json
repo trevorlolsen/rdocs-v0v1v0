@@ -1,1 +1,0 @@
-{"description":"Functions to create, open and close connections, i.e.,\n<U+201C>generalized files<U+201D>, such as possibly compressed files, URLs,\npipes, etc.\n","example_call":"unz(description, filename, open = \"\", encoding = getOption(\"encoding\"))"}

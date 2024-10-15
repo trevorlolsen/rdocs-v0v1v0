@@ -1,1 +1,0 @@
-{"description":"expand() generates all combination of variables found in a dataset.\nIt is paired with nesting() and crossing() helpers. crossing()\nis a wrapper around expand_grid() that de-duplicates and sorts its inputs;\nnesting() is a helper that only finds combinations already present in the\ndata.\n","example_call":"crossing(..., .name_repair = \"check_unique\")"}

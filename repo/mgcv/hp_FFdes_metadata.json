@@ -1,1 +1,0 @@
-{"description":"Computes level 5 fractional factorial designs for up to 120 factors\nusing the agorithm of Sanchez and Sanchez (2005), and optionally central composite designs.\n","example_call":"FFdes(size = 5, ccd = FALSE)"}

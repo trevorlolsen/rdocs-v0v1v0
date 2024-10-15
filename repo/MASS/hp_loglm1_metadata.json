@@ -1,1 +1,0 @@
-{"description":"loglm1 is an internal function used by loglm.\nIt is a generic function dispatching on the data argument.\n","example_call":"loglm1(formula, data, ...)"}

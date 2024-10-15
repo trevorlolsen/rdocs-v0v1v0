@@ -1,1 +1,0 @@
-{"description":"Retrieves an Rcpp module from a dynamic library, usually associated with a \npackage.\n","example_call":"Module(module, PACKAGE = methods::getPackageName(where), where = topenv(parent.frame()),"}

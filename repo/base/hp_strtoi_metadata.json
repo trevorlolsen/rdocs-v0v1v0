@@ -1,1 +1,0 @@
-{"description":"Convert strings to integers according to the given base using the C\nfunction strtol, or choose a suitable base following the C rules.\n","example_call":"strtoi(x, base = 0L)"}

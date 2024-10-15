@@ -1,1 +1,0 @@
-{"description":"This function tries to detect character encoding\nin case the language of text is known.\n","example_call":"stri_enc_detect2(str, locale = NULL)"}

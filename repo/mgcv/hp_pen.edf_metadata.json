@@ -1,1 +1,0 @@
-{"description":"Finds the coefficients penalized by each penalty and adds up their effective degrees of freedom.\nVery useful for t2 terms, but hard to interpret for terms where the penalties penalize \noverlapping sets of parameters (e.g. te terms). \n","example_call":"pen.edf(x)"}

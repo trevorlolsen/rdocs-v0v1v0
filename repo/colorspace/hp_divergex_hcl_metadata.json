@@ -1,1 +1,0 @@
-{"description":"Diverging HCL color palettes generated through combination of two fully\nflexible (and possibly unbalanced) multi-hue sequential palettes.\n","example_call":"divergex_hcl(n, palette = \"Geyser\", ..., fixup = TRUE, alpha = 1,"}

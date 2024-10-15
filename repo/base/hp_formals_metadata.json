@@ -1,1 +1,0 @@
-{"description":"Get or set the formal arguments of a function.\n","example_call":"formals(fun = sys.function(sys.parent()), envir = parent.frame())"}

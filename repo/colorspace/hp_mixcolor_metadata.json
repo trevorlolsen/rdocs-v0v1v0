@@ -1,1 +1,0 @@
-{"description":"This function can be used to compute the result of color mixing, assuming\nadditive mixing (e.g., as appropriate for RGB or XYZ).\n","example_call":"mixcolor(alpha, color1, color2, where = class(color1))"}

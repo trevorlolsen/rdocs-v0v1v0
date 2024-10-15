@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the Beta distribution with parameters shape1 and\nshape2 (and optional non-centrality parameter ncp).\n","example_call":"pbeta(q, shape1, shape2, ncp = 0, lower.tail = TRUE, log.p = FALSE)"}

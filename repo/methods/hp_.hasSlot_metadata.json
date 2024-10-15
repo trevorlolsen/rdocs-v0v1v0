@@ -1,1 +1,0 @@
-{"description":"These functions return or set information about the individual slots\nin an object.\n","example_call":".hasSlot(object, name)"}

@@ -1,1 +1,0 @@
-{"description":"These functions provide two levels of strictness when comparing a\ncomputation to a reference value. expect_identical() is the baseline;\nexpect_equal() relaxes the test to ignore small numeric differences.\n","example_call":"expect_identical(object, expected, info = NULL, label = NULL, expected.label = NULL,"}

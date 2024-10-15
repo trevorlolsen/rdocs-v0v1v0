@@ -1,1 +1,0 @@
-{"description":"Returns a vector or array or list of values obtained by applying a\nfunction to margins of an array or matrix.\n","example_call":"apply(X, MARGIN, FUN, ..., simplify = TRUE)"}

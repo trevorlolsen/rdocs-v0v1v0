@@ -1,1 +1,0 @@
-{"description":"These are internal support routines for computations on formal methods.\n","example_call":"resetGeneric(f, fdef = getGeneric(f, where = where), mlist = getMethodsForDispatch(fdef),"}

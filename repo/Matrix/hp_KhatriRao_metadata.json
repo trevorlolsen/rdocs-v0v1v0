@@ -1,1 +1,0 @@
-{"description":"Computes Khatri-Rao products for any kind of matrices.\n","example_call":"KhatriRao(X, Y = X, FUN = \"*\", sparseY = TRUE, make.dimnames = FALSE)"}

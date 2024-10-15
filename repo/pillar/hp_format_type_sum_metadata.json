@@ -1,1 +1,0 @@
-{"description":"Called on values returned from type_sum() for defining the description\nin the capital.\n","example_call":"format_type_sum(x, width, ...)"}

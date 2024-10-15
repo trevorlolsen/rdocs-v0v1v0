@@ -1,1 +1,0 @@
-{"description":"Compute the median absolute deviation, i.e., the (lo-/hi-) median of\nthe absolute deviations from the median, and (by default) adjust by a\nfactor for asymptotically normal consistency.\n","example_call":"mad(x, center = median(x), constant = 1.4826, na.rm = FALSE,"}

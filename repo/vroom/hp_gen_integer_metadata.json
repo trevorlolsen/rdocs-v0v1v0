@@ -1,1 +1,0 @@
-{"description":"Generate individual vectors of the types supported by vroom\n","example_call":"gen_integer(n, min = 1L, max = .Machine$integer.max, prob = NULL,"}

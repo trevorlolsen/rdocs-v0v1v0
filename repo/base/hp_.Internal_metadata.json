@@ -1,1 +1,0 @@
-{"description":".Internal performs a call to an internal code\nwhich is built in to the R interpreter.\n","example_call":".Internal(call)"}

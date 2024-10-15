@@ -1,1 +1,0 @@
-{"description":"Plot a histogram with automatic bin width selection, using the Scott\nor Freedman<U+2013>Diaconis formulae.\n","example_call":"hist.scott(x, prob = TRUE, xlab = deparse(substitute(x)), ...)"}

@@ -1,1 +1,0 @@
-{"description":"Create a contingency table (optionally a sparse matrix) from\ncross-classifying factors, usually contained in a data frame,\nusing a formula interface.\n","example_call":"xtabs(formula = ~., data = parent.frame(), subset, sparse = FALSE,"}

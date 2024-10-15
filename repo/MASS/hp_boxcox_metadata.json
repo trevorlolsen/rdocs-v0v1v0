@@ -1,1 +1,0 @@
-{"description":"Computes and optionally plots profile log-likelihoods for the\nparameter of the Box-Cox power transformation.\n","example_call":"boxcox(object, ...)"}

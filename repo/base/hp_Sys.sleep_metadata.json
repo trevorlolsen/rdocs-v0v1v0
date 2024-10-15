@@ -1,1 +1,0 @@
-{"description":"Suspend execution of R expressions for a specified time interval.\n","example_call":"Sys.sleep(time)"}

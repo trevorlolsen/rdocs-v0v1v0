@@ -1,1 +1,0 @@
-{"description":"stri_sprintf (synonym: stri_string_format)\nis a Unicode-aware replacement for and enhancement of\nthe built-in sprintf function.\nMoreover, stri_printf prints formatted strings.\n","example_call":"stri_sprintf(format, ..., na_string = NA_character_, inf_string = \"Inf\","}

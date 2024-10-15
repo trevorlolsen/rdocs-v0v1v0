@@ -1,1 +1,0 @@
-{"description":"This function is the low-level workhorse that powers test_local() and\ntest_package(). Generally, you should not call this function directly.\nIn particular, you are responsible for ensuring that the functions to test\nare available in the test env (e.g. via load_package).\n","example_call":"test_dir(path, filter = NULL, reporter = NULL, env = NULL, ...,"}

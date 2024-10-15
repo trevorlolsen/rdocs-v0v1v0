@@ -1,1 +1,0 @@
-{"description":"Coerce an R object into a form suitable for graphics annotation.\n","example_call":"as.graphicsAnnot(x)"}

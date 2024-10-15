@@ -1,1 +1,0 @@
-{"description":"invertPerm and signPerm compute the inverse and sign\nof a length-n permutation vector.  isPerm tests\nif a length-n integer vector is a valid permutation vector.\nasPerm coerces a length-m transposition vector to a\nlength-n permutation vector, where m <= n.\n","example_call":"invertPerm(p, off = 1L, ioff = 1L)"}

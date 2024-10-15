@@ -1,1 +1,0 @@
-{"description":"Draw an X-spline, a curve drawn relative to control points.\n","example_call":"xspline(x, y = NULL, shape = 0, open = TRUE, repEnds = TRUE,"}

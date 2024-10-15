@@ -1,1 +1,0 @@
-{"description":"Most BLAS implementations are thread safe, but some versions of OpenBLAS, for example, are not. This routine is a diagnostic helper function, which you will never need if you don't set nthreads>1, and even then are unlikely to need.   \n","example_call":"blas.thread.test(n = 1000, nt = 4)"}

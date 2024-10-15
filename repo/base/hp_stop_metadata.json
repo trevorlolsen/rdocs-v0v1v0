@@ -1,1 +1,0 @@
-{"description":"stop stops execution of the current expression and executes\nan error action.\n","example_call":"stop(..., call. = TRUE, domain = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Evaluate an R expression in a specified environment.\n","example_call":"eval(expr, envir = parent.frame(), enclos = if (is.list(envir) ||"}

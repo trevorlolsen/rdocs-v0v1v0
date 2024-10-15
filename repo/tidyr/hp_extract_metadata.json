@@ -1,1 +1,0 @@
-{"description":"\n","example_call":"extract(data, col, into, regex = \"([[:alnum:]]+)\", remove = TRUE,"}

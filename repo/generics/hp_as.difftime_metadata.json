@@ -1,1 +1,0 @@
-{"description":"Coercion functions for creating difftime objects from other\nexisting objects.\n","example_call":"as.difftime(tim, ...)"}

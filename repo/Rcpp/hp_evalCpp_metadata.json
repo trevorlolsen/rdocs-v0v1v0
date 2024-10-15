@@ -1,1 +1,0 @@
-{"description":"Evaluates a C++ expression. This creates a C++ function using \ncppFunction and calls it to get the result. \n","example_call":"evalCpp(code, depends = character(), plugins = character(),"}

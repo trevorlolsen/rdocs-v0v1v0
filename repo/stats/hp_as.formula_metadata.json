@@ -1,1 +1,0 @@
-{"description":"The generic function formula and its specific methods provide a\nway of extracting formulae which have been included in other objects.\n","example_call":"as.formula(object, env = parent.frame())"}

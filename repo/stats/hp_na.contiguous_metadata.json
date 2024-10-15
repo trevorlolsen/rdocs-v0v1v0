@@ -1,1 +1,0 @@
-{"description":"Find the longest consecutive stretch of non-missing values in a time\nseries object.  (In the event of a tie, the first such stretch.)\n","example_call":"na.contiguous(object, ...)"}

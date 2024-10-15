@@ -1,1 +1,0 @@
-{"description":"These functions stroke (draw a line along the border) or\nfill (or both) a path, where the path is defined by\na grob.\n","example_call":"fillGrob(x, ...)"}

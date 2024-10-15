@@ -1,1 +1,0 @@
-{"description":"Returns or evaluates orthogonal polynomials of degree 1 to\ndegree over the specified set of points x: these are all\northogonal to the constant polynomial of degree 0.  Alternatively,\nevaluate raw polynomials.\n","example_call":"poly(x, ..., degree = 1, coefs = NULL, raw = FALSE, simple = FALSE)"}

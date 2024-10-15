@@ -1,1 +1,0 @@
-{"description":"Translation of text messages typically from calls to\nstop(), warning(), or message()\nhappens when Native Language Support (NLS) was enabled in this build of\nR as it is almost always, see also the bindtextdomain() example.\n","example_call":"bindtextdomain(domain, dirname = NULL)"}

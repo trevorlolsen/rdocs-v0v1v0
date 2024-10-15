@@ -1,1 +1,0 @@
-{"description":"Create a cell Comment object to pass to writeComment()\n","example_call":"createComment(comment, author = Sys.getenv(\"USERNAME\"), style = NULL,"}

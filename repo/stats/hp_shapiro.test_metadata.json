@@ -1,1 +1,0 @@
-{"description":"Performs the Shapiro-Wilk test of normality.\n","example_call":"shapiro.test(x)"}

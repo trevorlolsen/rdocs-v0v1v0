@@ -1,1 +1,0 @@
-{"description":"In a dot plot, the width of a dot corresponds to the bin width\n(or maximum width, depending on the binning algorithm), and dots are\nstacked, with each dot representing one observation.\n","example_call":"geom_dotplot(mapping = NULL, data = NULL, position = \"identity\","}

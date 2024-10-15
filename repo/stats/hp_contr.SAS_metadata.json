@@ -1,1 +1,0 @@
-{"description":"Return a matrix of contrasts.\n","example_call":"contr.SAS(n, contrasts = TRUE, sparse = FALSE)"}

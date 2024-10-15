@@ -1,1 +1,0 @@
-{"description":"There are many ways to measure the distance between colours. farver\nprovides 5 different algorithms, ranging from simple euclidean distance in\nRGB space, to different perceptual measures such as CIE2000.\n","example_call":"compare_colour(from, to = NULL, from_space, to_space = from_space,"}

@@ -1,1 +1,0 @@
-{"description":"Constructs an object of class classRepresentation\nto describe a particular class.  Mostly a utility function, but you can\ncall it to create a class definition without assigning it, as\nsetClass would do.\n","example_call":"makeClassRepresentation(name, slots = list(), superClasses = character(), prototype = NULL,"}

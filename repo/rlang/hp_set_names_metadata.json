@@ -1,1 +1,0 @@
-{"description":"This is equivalent to stats::setNames(), with more features and\nstricter argument checking.\n","example_call":"set_names(x, nm = x, ...)"}

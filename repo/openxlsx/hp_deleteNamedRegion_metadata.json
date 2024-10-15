@@ -1,1 +1,0 @@
-{"description":"Create / delete a named region\n","example_call":"deleteNamedRegion(wb, name)"}

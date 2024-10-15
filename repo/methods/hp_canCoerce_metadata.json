@@ -1,1 +1,0 @@
-{"description":"Test if an object can be coerced to a given S4 class.\nMaybe useful inside if() to ensure that calling\nas(object, Class) will find a method.\n","example_call":"canCoerce(object, Class)"}

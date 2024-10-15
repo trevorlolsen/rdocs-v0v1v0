@@ -1,1 +1,0 @@
-{"description":"Percentage in ROPE formatting\n","example_call":"format_rope(rope_percentage, name = \"in ROPE\", digits = 2)"}

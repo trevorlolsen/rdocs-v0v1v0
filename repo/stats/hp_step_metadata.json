@@ -1,1 +1,0 @@
-{"description":"Select a formula-based model by AIC.\n","example_call":"step(object, scope, scale = 0, direction = c(\"both\", \"backward\","}

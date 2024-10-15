@@ -1,1 +1,0 @@
-{"description":"This is a generic method which individual src's will provide methods for.\nMost methods will not be documented because it's usually pretty obvious what\npossible results will be.\n","example_call":"src_tbls(x, ...)"}

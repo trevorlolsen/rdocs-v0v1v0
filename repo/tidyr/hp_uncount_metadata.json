@@ -1,1 +1,0 @@
-{"description":"Performs the opposite operation to dplyr::count(), duplicating rows\naccording to a weighting variable (or expression).\n","example_call":"uncount(data, weights, ..., .remove = TRUE, .id = NULL)"}

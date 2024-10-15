@@ -1,1 +1,0 @@
-{"description":"Re-save PDF files (especially vignettes) more compactly.\nSupport function for R CMD build --compact-vignettes.\n","example_call":"compactPDF(paths, qpdf = Sys.which(Sys.getenv(\"R_QPDF\", \"qpdf\")),"}

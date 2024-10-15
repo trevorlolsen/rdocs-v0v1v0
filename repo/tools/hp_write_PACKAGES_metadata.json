@@ -1,1 +1,0 @@
-{"description":"Generate <U+2018>PACKAGES<U+2019>, <U+2018>PACKAGES.gz<U+2019> and <U+2018>PACKAGES.rds<U+2019>\nfiles for a repository of source or Mac/Windows binary packages.\n","example_call":"write_PACKAGES(dir = \".\", fields = NULL, type = c(\"source\", \"mac.binary\","}

@@ -1,1 +1,0 @@
-{"description":"The \"CsparseMatrix\" class is the virtual class of\nall sparse matrices coded in sorted compressed column-oriented form.\nSince it is a virtual class, no objects may be created from it.  See\nshowClass(\"CsparseMatrix\") for its subclasses.\n","example_call":".validateCsparse(x, sort.if.needed = FALSE)"}

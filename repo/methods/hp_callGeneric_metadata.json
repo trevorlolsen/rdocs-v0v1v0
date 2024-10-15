@@ -1,1 +1,0 @@
-{"description":"A call to callGeneric can only appear inside a method\ndefinition.  It then results in a call to the current generic\nfunction.  The value of that call is the value of callGeneric.\nWhile it can be called from any method, it is useful and typically\nused in methods for group generic functions.\n","example_call":"callGeneric(...)"}

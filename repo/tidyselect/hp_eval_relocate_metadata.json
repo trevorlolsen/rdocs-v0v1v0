@@ -1,1 +1,0 @@
-{"description":"eval_relocate() is a variant of eval_select() that moves a selection to\na new location. Either before or after can be provided to specify where\nto move the selection to. This powers dplyr::relocate().\n","example_call":"eval_relocate(expr, data, ..., before = NULL, after = NULL, strict = TRUE,"}

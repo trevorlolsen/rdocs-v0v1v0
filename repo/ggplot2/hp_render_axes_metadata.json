@@ -1,1 +1,0 @@
-{"description":"These helpers facilitates generating theme compliant axes when\nbuilding up the plot.\n","example_call":"render_axes(x = NULL, y = NULL, coord, theme, transpose = FALSE)"}

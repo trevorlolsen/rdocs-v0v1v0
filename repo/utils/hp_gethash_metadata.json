@@ -1,1 +1,0 @@
-{"description":"Create and manipulate mutable hash tables.\n","example_call":"gethash(h, key, nomatch = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Computes answers to a generalised birthday paradox problem.\npbirthday computes the probability of a coincidence and\nqbirthday computes the smallest number of observations needed\nto have at least a specified probability of coincidence.\n","example_call":"pbirthday(n, classes = 365, coincident = 2)"}

@@ -1,1 +1,0 @@
-{"description":"Enable or disable profiling of the execution of R expressions.\n","example_call":"Rprof(filename = \"Rprof.out\", append = FALSE, interval = 0.02,"}

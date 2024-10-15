@@ -1,1 +1,0 @@
-{"description":"Functions to pass R objects to compiled C/C++ code that has been\nloaded into R.\n","example_call":".Call(.NAME, ..., PACKAGE)"}

@@ -1,1 +1,0 @@
-{"description":"NULL represents the null object in R: it is a reserved\nword.  NULL is often returned by expressions and functions\nwhose value is undefined.\n","example_call":"is.null(x)"}

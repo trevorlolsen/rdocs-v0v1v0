@@ -1,1 +1,0 @@
-{"description":"Given a set of logical vectors, is at least one of the values true?\n","example_call":"any(..., na.rm = FALSE)"}

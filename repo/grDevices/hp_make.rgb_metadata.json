@@ -1,1 +1,0 @@
-{"description":"These functions specify colour spaces for use in\nconvertColor.\n","example_call":"make.rgb(red, green, blue, name = NULL, white = \"D65\", gamma = 2.2)"}

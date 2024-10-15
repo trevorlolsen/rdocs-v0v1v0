@@ -1,1 +1,0 @@
-{"description":"These are the basic computing engines called by lm used\nto fit linear models.  These should usually not be used\ndirectly unless by experienced users.  .lm.fit() is a bare-bones\nwrapper to the innermost QR-based C code, on which\nglm.fit and lsfit are also based, for\neven more experienced users.\n","example_call":".lm.fit(x, y, tol = 1e-07)"}

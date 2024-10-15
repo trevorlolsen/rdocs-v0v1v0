@@ -1,1 +1,0 @@
-{"description":"update.formula is used to update model formulae.\nThis typically involves adding or dropping terms,\nbut updates can be more general.\n","example_call":"update.formula(old, new, ...)"}

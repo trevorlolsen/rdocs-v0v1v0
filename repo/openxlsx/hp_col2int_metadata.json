@@ -1,1 +1,0 @@
-{"description":"Converts an Excel column label to an integer.\n","example_call":"col2int(x)"}

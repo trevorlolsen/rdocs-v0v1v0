@@ -1,1 +1,0 @@
-{"description":"Packing and unpacking preserve the length of a data frame, changing its\nwidth. pack() makes df narrow by collapsing a set of columns into a\nsingle df-column. unpack() makes data wider by expanding df-columns\nback out into individual columns.\n","example_call":"pack(.data, ..., .names_sep = NULL, .error_call = current_env())"}

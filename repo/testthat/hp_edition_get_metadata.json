@@ -1,1 +1,0 @@
-{"description":"local_edition() allows you to temporarily (within a single test or\na single test file) change the active edition of testthat.\nedition_get() allows you to retrieve the currently active edition.\n","example_call":"edition_get()"}

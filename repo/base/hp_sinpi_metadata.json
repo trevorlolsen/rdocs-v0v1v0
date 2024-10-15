@@ -1,1 +1,0 @@
-{"description":"These functions give the obvious trigonometric functions.  They\nrespectively compute the cosine, sine, tangent, arc-cosine, arc-sine,\narc-tangent, and the two-argument arc-tangent.\n","example_call":"sinpi(x)"}

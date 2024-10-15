@@ -1,1 +1,0 @@
-{"description":"The functions or variables listed here are no longer part of R as\nthey are not needed (any more).\n","example_call":"package.dependencies(x, check = FALSE, depLevel = c(\"Depends\", \"Imports\","}

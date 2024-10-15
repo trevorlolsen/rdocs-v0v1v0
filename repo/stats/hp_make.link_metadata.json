@@ -1,1 +1,0 @@
-{"description":"This function is used with the family functions in\nglm().\nGiven the name of a link, it returns a link function, an inverse link\nfunction, the derivative d\\mu / d\\eta and a function\nfor domain checking.\n","example_call":"make.link(link)"}

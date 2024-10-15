@@ -1,1 +1,0 @@
-{"description":"str_unique() removes duplicated values, with optional control over\nhow duplication is measured.\n","example_call":"str_unique(string, locale = \"en\", ignore_case = FALSE, ...)"}

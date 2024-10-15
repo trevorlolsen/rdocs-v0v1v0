@@ -1,1 +1,0 @@
-{"description":"When options(\"keep.source\") is TRUE, a copy of the\noriginal source code to a function is stored with it.  Similarly,\nparse() may keep formatted source for an expression.\nSuch source reference attributes are removed from the object by\nremoveSource().\n","example_call":"removeSource(fn)"}

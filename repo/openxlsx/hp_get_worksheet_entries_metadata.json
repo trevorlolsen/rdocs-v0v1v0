@@ -1,1 +1,0 @@
-{"description":"Get all entries from workbook worksheet without xml tags\n","example_call":"get_worksheet_entries(wb, sheet)"}

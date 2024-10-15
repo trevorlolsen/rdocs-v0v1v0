@@ -1,1 +1,0 @@
-{"description":"A coding for factors based on successive differences.\n","example_call":"contr.sdif(n, contrasts = TRUE, sparse = FALSE)"}

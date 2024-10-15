@@ -1,1 +1,0 @@
-{"description":"write a data.frame or list of data.frames to an xlsx file\n","example_call":"write.xlsx(x, file, asTable = FALSE, overwrite = TRUE, ...)"}

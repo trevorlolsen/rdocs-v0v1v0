@@ -1,1 +1,0 @@
-{"description":"These functions access an object's attributes.\nThe first form below returns the object's attribute list.\nThe replacement forms uses the list on the right-hand\nside of the assignment as the object's attributes (if appropriate).\n","example_call":"attributes(x)"}

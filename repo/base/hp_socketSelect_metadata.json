@@ -1,1 +1,0 @@
-{"description":"Waits for the first of several socket connections and server sockets\nto become available.\n","example_call":"socketSelect(socklist, write = FALSE, timeout = NULL)"}

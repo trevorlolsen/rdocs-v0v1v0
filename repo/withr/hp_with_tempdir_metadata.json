@@ -1,1 +1,0 @@
-{"description":"Temporarily create a file or directory, which will automatically deleted\nonce you're finished with it.\n","example_call":"with_tempdir(code, clean = TRUE, pattern = \"file\", tmpdir = tempdir(),"}

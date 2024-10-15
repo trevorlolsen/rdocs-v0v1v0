@@ -1,1 +1,0 @@
-{"description":"sink diverts R output to a connection (and stops such diversions).\n","example_call":"sink(file = NULL, append = FALSE, type = c(\"output\", \"message\"),"}

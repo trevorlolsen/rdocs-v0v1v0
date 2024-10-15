@@ -1,1 +1,0 @@
-{"description":"This function retrieves tagged NA values and their associated\nvalue labels from a labelled vector.\n","example_call":"get_na(x, as.tag = FALSE)"}

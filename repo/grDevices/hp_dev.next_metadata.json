@@ -1,1 +1,0 @@
-{"description":"These functions provide control over multiple graphics devices.\n","example_call":"dev.next(which = dev.cur())"}

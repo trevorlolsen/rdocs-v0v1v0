@@ -1,1 +1,0 @@
-{"description":"\nDrop unused levels of all factors that are used as grouping variables,\nthen recalculates the grouping structure.\n","example_call":"group_trim(.tbl, .drop = group_by_drop_default(.tbl))"}

@@ -1,1 +1,0 @@
-{"description":"These are wrappers around functions from Hmisc designed to make them\neasier to use with stat_summary(). See the Hmisc documentation\nfor more details:\n","example_call":"mean_cl_boot(x, ...)"}

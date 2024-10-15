@@ -1,1 +1,0 @@
-{"description":"These functions work like rlang::names2(), names() and names<-(),\nexcept that they return or modify the the rowwise names of the vector. These are:\n","example_call":"vec_names(x)"}

@@ -1,1 +1,0 @@
-{"description":"This function locates text boundaries\n(like character, word, line, or sentence boundaries)\nand splits strings at the indicated positions.\n","example_call":"stri_split_boundaries(str, n = -1L, tokens_only = FALSE, simplify = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"An analogue of the LISP backquote macro.  bquote quotes its\nargument except that terms wrapped in .() are evaluated in the\nspecified where environment. If splice = TRUE then\nterms wrapped in ..() are evaluated and spliced into a call.\n","example_call":"bquote(expr, where = parent.frame(), splice = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"vroom comes bundled with a number of sample files in\nits 'inst/extdata' directory. Use vroom_examples() to list all the\navailable examples and vroom_example() to retrieve the path to one\nexample.\n","example_call":"vroom_example(path)"}

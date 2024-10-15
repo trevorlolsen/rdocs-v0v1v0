@@ -1,1 +1,0 @@
-{"description":"glm is used to fit generalized linear models, specified by\ngiving a symbolic description of the linear predictor and a\ndescription of the error distribution.\n","example_call":"glm.fit(x, y, weights = rep.int(1, nobs), start = NULL, etastart = NULL,"}

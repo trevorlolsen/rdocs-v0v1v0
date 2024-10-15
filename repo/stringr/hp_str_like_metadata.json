@@ -1,1 +1,0 @@
-{"description":"str_like() follows the conventions of the SQL LIKE operator:\n","example_call":"str_like(string, pattern, ignore_case = TRUE)"}

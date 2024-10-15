@@ -1,1 +1,0 @@
-{"description":"Helper function to report the package version of the R installation.\n","example_call":"getRcppVersion(devel = FALSE)"}

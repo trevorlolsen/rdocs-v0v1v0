@@ -1,1 +1,0 @@
-{"description":"Compute an empirical cumulative distribution function, with several\nmethods for plotting, printing and computing with such an\n<U+201C>ecdf<U+201D> object.\n","example_call":"plot.ecdf(x, ..., ylab = \"Fn(x)\", verticals = FALSE, col.01line = \"gray70\","}

@@ -1,1 +1,0 @@
-{"description":"vec_expand_grid() creates a new data frame by creating a grid of all\npossible combinations of the input vectors. It is inspired by\nexpand.grid(). Compared with expand.grid(), it:\n","example_call":"vec_expand_grid(..., .vary = \"slowest\", .name_repair = \"check_unique\","}

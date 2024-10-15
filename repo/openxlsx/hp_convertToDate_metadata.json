@@ -1,1 +1,0 @@
-{"description":"Convert from excel date number to R Date type\n","example_call":"convertToDate(x, origin = \"1900-01-01\", ...)"}

@@ -1,1 +1,0 @@
-{"description":"The generic function quantile produces sample quantiles\ncorresponding to the given probabilities.\nThe smallest observation corresponds to a probability of 0 and the\nlargest to a probability of 1.\n","example_call":"quantile(x, ...)"}

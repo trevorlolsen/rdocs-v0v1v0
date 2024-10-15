@@ -1,1 +1,0 @@
-{"description":"Compute the power of the one- or two- sample t test,\nor determine parameters to obtain a target power.\n","example_call":"power.t.test(n = NULL, delta = NULL, sd = 1, sig.level = 0.05, power = NULL,"}

@@ -1,1 +1,0 @@
-{"description":"model.matrix creates a design (or model) matrix, e.g., by\nexpanding factors to a set of dummy variables (depending on the\ncontrasts) and expanding interactions similarly.\n","example_call":"model.matrix(object, ...)"}

@@ -1,1 +1,0 @@
-{"description":"tbl_sum() gives a brief textual description of a table-like object,\nwhich should include the dimensions and the data source in the first element,\nand additional information in the other elements (such as grouping for dplyr).\nThe default implementation forwards to obj_sum().\n","example_call":"tbl_sum(x)"}

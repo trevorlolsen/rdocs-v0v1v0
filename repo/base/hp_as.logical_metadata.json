@@ -1,1 +1,0 @@
-{"description":"Create or test for objects of type \"logical\", and the basic\nlogical constants.\n","example_call":"as.logical(x, ...)"}

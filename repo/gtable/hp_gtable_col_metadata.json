@@ -1,1 +1,0 @@
-{"description":"This function stacks a list of grobs into a single column gtable of the given\nwidth and heights.\n","example_call":"gtable_col(name, grobs, width = NULL, heights = NULL, z = NULL,"}

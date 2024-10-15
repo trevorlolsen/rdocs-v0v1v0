@@ -1,1 +1,0 @@
-{"description":"Generates a warning message that corresponds to its argument(s) and\n(optionally) the expression or function from which it was called.\n","example_call":"suppressWarnings(expr, classes = \"warning\")"}

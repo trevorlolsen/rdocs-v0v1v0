@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the chi-squared (\\chi^2) distribution with\ndf degrees of freedom and optional non-centrality parameter\nncp.\n","example_call":"dchisq(x, df, ncp = 0, log = FALSE)"}

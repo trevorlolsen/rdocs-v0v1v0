@@ -1,1 +1,0 @@
-{"description":"Returns a character vector containing the names of all\ntop-level grobs on the display list.\n","example_call":"getNames()"}

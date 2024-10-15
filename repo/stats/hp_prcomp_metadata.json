@@ -1,1 +1,0 @@
-{"description":"Performs a principal components analysis on the given data matrix\nand returns the results as an object of class prcomp.","example_call":"prcomp(x, ...)"}

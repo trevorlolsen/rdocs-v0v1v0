@@ -1,1 +1,0 @@
-{"description":"These functions give the obvious hyperbolic functions.  They\nrespectively compute the hyperbolic cosine, sine, tangent, and their\ninverses, arc-cosine, arc-sine, arc-tangent (or <U+2018>area cosine<U+2019>,\netc).\n","example_call":"sinh(x)"}

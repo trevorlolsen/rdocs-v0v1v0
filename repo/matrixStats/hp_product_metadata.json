@@ -1,1 +1,0 @@
-{"description":"Calculates the product for each row (column) in a matrix.\n","example_call":"product(x, idxs = NULL, na.rm = FALSE, ...)"}

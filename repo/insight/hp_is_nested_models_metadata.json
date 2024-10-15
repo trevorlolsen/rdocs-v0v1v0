@@ -1,1 +1,0 @@
-{"description":"Checks whether a list of models are nested models, strictly\nfollowing the order they were passed to the function.\n","example_call":"is_nested_models(...)"}

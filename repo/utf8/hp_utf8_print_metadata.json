@@ -1,1 +1,0 @@
-{"description":"Print a UTF-8 character object.\n","example_call":"utf8_print(x, chars = NULL, quote = TRUE, na.print = NULL, print.gap = NULL,"}

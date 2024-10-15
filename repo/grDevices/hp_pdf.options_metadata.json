@@ -1,1 +1,0 @@
-{"description":"The auxiliary function pdf.options can be used to set or view\n(if called without arguments) the default values for some of the\narguments to pdf.\n","example_call":"pdf.options(..., reset = FALSE)"}

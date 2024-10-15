@@ -1,1 +1,0 @@
-{"description":"Apply a cosine-bell taper to a time series.\n","example_call":"spec.taper(x, p = 0.1)"}

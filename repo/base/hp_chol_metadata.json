@@ -1,1 +1,0 @@
-{"description":"Compute the Cholesky factorization of a real symmetric\npositive-definite square matrix.\n","example_call":"chol(x, ...)"}

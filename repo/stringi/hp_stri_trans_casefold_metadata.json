@@ -1,1 +1,0 @@
-{"description":"These functions transform strings either to lower case,\nUPPER CASE, or Title Case or perform case folding.\n","example_call":"stri_trans_casefold(str)"}

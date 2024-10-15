@@ -1,1 +1,0 @@
-{"description":"This generic function solves the equation a %*% x = b for x,\nwhere b can be either a vector or a matrix.\n","example_call":"solve.default(a, b, tol = .Machine$double.eps, LINPACK = FALSE, ...)"}

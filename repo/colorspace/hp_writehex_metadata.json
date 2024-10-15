@@ -1,1 +1,0 @@
-{"description":"Given a color object, this function writes a file containing the hexadecimal\nrepresentation of the colors in the object.\n","example_call":"writehex(x, file = \"\")"}

@@ -1,1 +1,0 @@
-{"description":"sample takes a sample of the specified size from the elements\nof x using either with or without replacement.\n","example_call":"sample.int(n, size = n, replace = FALSE, prob = NULL, useHash = (n >"}

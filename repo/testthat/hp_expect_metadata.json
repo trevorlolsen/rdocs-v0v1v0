@@ -1,1 +1,0 @@
-{"description":"Call expect() when writing your own expectations. See\nvignette(\"custom-expectation\") for details.\n","example_call":"expect(ok, failure_message, info = NULL, srcref = NULL, trace = NULL,"}

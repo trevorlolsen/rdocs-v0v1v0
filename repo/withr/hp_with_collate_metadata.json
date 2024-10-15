@@ -1,1 +1,0 @@
-{"description":"Temporarily change collation order by changing the value of the\nLC_COLLATE locale.\n","example_call":"with_collate(new, code)"}

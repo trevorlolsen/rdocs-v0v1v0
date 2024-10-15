@@ -1,1 +1,0 @@
-{"description":"See https://adv-r.hadley.nz/oo.html for an overview of R's OO systems, and\nthe vocabulary used here.\n","example_call":"expect_s4_class(object, class)"}

@@ -1,1 +1,0 @@
-{"description":"Form row and column sums and means for\nobjects, for sparseMatrix the result may\noptionally be sparse (sparseVector), too.\nRow or column names are kept respectively as for base matrices\nand colSums methods, when the result is\nnumeric vector.\n","example_call":"colSums(x, na.rm = FALSE, dims = 1, ...)"}

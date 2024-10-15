@@ -1,1 +1,0 @@
-{"description":"A class may be defined as the union of other classes; that\nis, as a virtual class defined as a superclass of several other\nclasses. Class unions are useful in method signatures or as slots in\nother classes, when we want to allow one of several classes to be supplied.\n","example_call":"setClassUnion(name, members = character(), where = topenv(parent.frame()))"}

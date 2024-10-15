@@ -1,1 +1,0 @@
-{"description":"These helpers create rate settings that you can pass to insistently() and\nslowly(). You can also use them in your own functions with rate_sleep().\n","example_call":"is_rate(x)"}

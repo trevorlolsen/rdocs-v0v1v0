@@ -1,1 +1,0 @@
-{"description":"How to cite R and R packages in publications.\n","example_call":"citation(package = \"base\", lib.loc = NULL, auto = NULL)"}

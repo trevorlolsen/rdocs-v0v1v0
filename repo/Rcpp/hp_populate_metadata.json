@@ -1,1 +1,0 @@
-{"description":"Populates a namespace or an environment with the content of a module\n","example_call":"populate(module, env)"}

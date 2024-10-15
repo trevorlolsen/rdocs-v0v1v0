@@ -1,1 +1,0 @@
-{"description":"These functions plot seasonal (or other) subseries of a time series.\nFor each season (or other category), a time series is plotted.\n","example_call":"monthplot(x, ...)"}

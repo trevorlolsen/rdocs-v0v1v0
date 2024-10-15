@@ -1,1 +1,0 @@
-{"description":"This is used to power the ordering parameters of dplyr's window functions\n","example_call":"with_order(order_by, fun, x, ...)"}

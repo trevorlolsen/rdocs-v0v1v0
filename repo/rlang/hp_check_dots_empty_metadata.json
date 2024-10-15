@@ -1,1 +1,0 @@
-{"description":"... can be inserted in a function signature to force users to\nfully name the details arguments. In this case, supplying data in\n... is almost always a programming error. This function checks\nthat ... is empty and fails otherwise.\n","example_call":"check_dots_empty(env = caller_env(), error = NULL, call = caller_env(),"}

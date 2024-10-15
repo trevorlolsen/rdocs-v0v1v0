@@ -1,1 +1,0 @@
-{"description":"Perform maximum-likelihood factor analysis on a covariance matrix or\ndata matrix.\n","example_call":"factanal(x, factors, data = NULL, covmat = NULL, n.obs = NA,"}

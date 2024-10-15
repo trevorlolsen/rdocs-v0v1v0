@@ -1,1 +1,0 @@
-{"description":"The least squares estimate of \\beta in the model\n","example_call":"lsfit(x, y, wt = NULL, intercept = TRUE, tolerance = 1e-07,"}

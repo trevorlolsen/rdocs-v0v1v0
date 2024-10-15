@@ -1,1 +1,0 @@
-{"description":"Generic function to test if object is symmetric or not.\nCurrently only a matrix method is implemented, where a\ncomplex matrix Z must be <U+201C>Hermitian<U+201D> for\nisSymmetric(Z) to be true.\n","example_call":"isSymmetric(object, ...)"}

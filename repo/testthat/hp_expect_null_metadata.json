@@ -1,1 +1,0 @@
-{"description":"This is a special case because NULL is a singleton so it's possible\ncheck for it either with expect_equal(x, NULL) or expect_type(x, \"NULL\").\n","example_call":"expect_null(object, info = NULL, label = NULL)"}

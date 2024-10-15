@@ -1,1 +1,0 @@
-{"description":"These functions are called for their side effect of raising\nerrors and warnings.\nThese conditions have custom classes and structures to make\ntesting easier.\n","example_call":"stop_incompatible_cast(x, to, ..., x_arg, to_arg, details = NULL, message = NULL,"}

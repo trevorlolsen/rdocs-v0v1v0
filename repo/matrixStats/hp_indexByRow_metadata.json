@@ -1,1 +1,0 @@
-{"description":"Translates matrix indices by rows into indices by columns.\n","example_call":"indexByRow(dim, idxs = NULL, ...)"}

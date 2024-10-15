@@ -1,1 +1,0 @@
-{"description":"kernapply computes the convolution between an input sequence\nand a specific kernel.\n","example_call":"kernapply(x, ...)"}

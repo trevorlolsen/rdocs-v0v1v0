@@ -1,1 +1,0 @@
-{"description":"Replicates the units according to the values given in times and\nlength.out.\n","example_call":"unit.rep(x, ...)"}

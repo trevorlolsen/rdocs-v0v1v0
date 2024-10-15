@@ -1,1 +1,0 @@
-{"description":"Maximum-likelihood fitting of univariate distributions, allowing\nparameters to be held fixed if desired.\n","example_call":"fitdistr(x, densfun, start, ...)"}

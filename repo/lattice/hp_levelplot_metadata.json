@@ -1,1 +1,0 @@
-{"description":"Draws false color level plots and contour plots.\n","example_call":"levelplot(x, data, ...)"}

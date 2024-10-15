@@ -1,1 +1,0 @@
-{"description":"englue() creates a string with the glue operators <U+2060>{<U+2060> and <U+2060>{{<U+2060>. These operators are\nnormally used to inject names within dynamic dots.\nenglue() makes them available anywhere within a function.\n","example_call":"englue(x, env = caller_env(), error_call = current_env(),"}

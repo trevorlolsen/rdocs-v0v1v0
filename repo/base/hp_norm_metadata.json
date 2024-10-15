@@ -1,1 +1,0 @@
-{"description":"Computes a matrix norm of x using LAPACK.  The norm can be\nthe one (\"O\") norm, the infinity (\"I\") norm, the\nFrobenius (\"F\") norm, the maximum modulus (\"M\") among\nelements of a matrix, or the <U+201C>spectral<U+201D> or \"2\"-norm, as\ndetermined by the value of type.\n","example_call":"norm(x, type = c(\"O\", \"I\", \"F\", \"M\", \"2\"))"}

@@ -1,1 +1,0 @@
-{"description":"Group generic methods can be defined for the following pre-specified groups of\nfunctions, Math, Ops, matrixOps, Summary and Complex.\n(There are no objects of these names in base R, but there are in the\nmethods package, not yet for matrixOps.)\n","example_call":"Math.data.frame(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Interface to the system gethostbyname, currently available\nonly on unix-alikes, i.e., not on Windows.\n","example_call":"nsl(hostname)"}

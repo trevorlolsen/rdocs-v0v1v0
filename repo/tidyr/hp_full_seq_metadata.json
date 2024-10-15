@@ -1,1 +1,0 @@
-{"description":"This is useful if you want to fill in missing values that should have\nbeen observed but weren't. For example, full_seq(c(1, 2, 4, 6), 1)\nwill return 1:6.\n","example_call":"full_seq(x, period, tol = 1e-06)"}

@@ -1,1 +1,0 @@
-{"description":"Add the necessary infrastructure to enable C++ unit testing\nin R packages with Catch and\ntestthat.\n","example_call":"use_catch(dir = getwd())"}

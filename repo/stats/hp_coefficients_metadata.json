@@ -1,1 +1,0 @@
-{"description":"coef is a generic function which extracts model coefficients\nfrom objects returned by modeling functions.  coefficients is\nan alias for it.\n","example_call":"coefficients(object, ...)"}

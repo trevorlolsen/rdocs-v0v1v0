@@ -1,1 +1,0 @@
-{"description":"Joins the elements of a character vector into one string.\n","example_call":"stri_flatten(str, collapse = \"\", na_empty = FALSE, omit_empty = FALSE)"}

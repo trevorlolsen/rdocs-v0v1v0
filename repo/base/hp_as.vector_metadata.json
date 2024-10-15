@@ -1,1 +1,0 @@
-{"description":"A vector in R is either an atomic vector i.e., one of the atomic\ntypes, see <U+2018>Details<U+2019>, or of type (typeof) or mode\nlist or expression.\n","example_call":"as.vector(x, mode = \"any\")"}

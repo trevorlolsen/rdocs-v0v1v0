@@ -1,1 +1,0 @@
-{"description":"GAM coefficients can be simulated directly from the Gaussian approximation to the posterior for the coefficients, or using a simple Metropolis Hastings sampler. See also ginla.\n","example_call":"gam.mh(b, ns = 10000, burn = 1000, t.df = 40, rw.scale = 0.25,"}

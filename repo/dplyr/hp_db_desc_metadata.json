@@ -1,1 +1,0 @@
-{"description":"The sql_ generics are used to build the different types of SQL queries.\nThe default implementations in dbplyr generates ANSI 92 compliant SQL.\nThe db_ generics execute actions on the database. The default\nimplementations in dbplyr typically just call the standard DBI S4\nmethod.\n","example_call":"db_desc(x)"}

@@ -1,1 +1,0 @@
-{"description":"env_names() returns object names from an enviroment env as a\ncharacter vector. All names are returned, even those starting with\na dot. env_length() returns the number of bindings.\n","example_call":"env_names(env)"}

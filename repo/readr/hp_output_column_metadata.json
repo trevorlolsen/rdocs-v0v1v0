@@ -1,1 +1,0 @@
-{"description":"This is a generic function that applied to each column before it is saved\nto disk. It provides a hook for S3 classes that need special handling.\n","example_call":"output_column(x, name)"}

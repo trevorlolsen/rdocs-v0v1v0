@@ -1,1 +1,0 @@
-{"description":"The easiest way to create a grouped data frame is to call the group_by()\nmethod on a data frame or tbl: this will take care of capturing\nthe unevaluated expressions for you.\n","example_call":"is_grouped_df(x)"}

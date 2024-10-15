@@ -1,1 +1,0 @@
-{"description":"These functions allow you to specify your own set of mappings from levels in the\ndata to aesthetic values.\n","example_call":"scale_size_manual(..., values, breaks = waiver(), na.value = NA)"}

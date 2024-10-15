@@ -1,1 +1,0 @@
-{"description":"is.single reports an error.  There are no single precision\nvalues in R.\n","example_call":"is.single(x)"}

@@ -1,1 +1,0 @@
-{"description":"This function sets up the world coordinate system for a graphics\nwindow.  It is called by higher level functions such as\nplot.default (after plot.new).\n","example_call":"plot.window(xlim, ylim, log = \"\", asp = NA, ...)"}

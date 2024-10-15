@@ -1,1 +1,0 @@
-{"description":"Fit an autoregressive time series model to the data, by default\nselecting the complexity by AIC.\n","example_call":"ar.yw(x, ...)"}

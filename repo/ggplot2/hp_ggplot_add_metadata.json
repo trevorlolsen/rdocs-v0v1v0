@@ -1,1 +1,0 @@
-{"description":"This generic allows you to add your own methods for adding custom objects to\na ggplot with +.gg.\n","example_call":"ggplot_add(object, plot, object_name)"}

@@ -1,1 +1,0 @@
-{"description":"This functions aims to find a suitable coding for the locale named, by\ndefault the current locale, and if it is a UTF-8 locale a suitable\nsingle-byte encoding.\n","example_call":"localeToCharset(locale = Sys.getlocale(\"LC_CTYPE\"))"}

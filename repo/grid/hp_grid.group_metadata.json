@@ -1,1 +1,0 @@
-{"description":"These functions define and draw one or more groups, where\na group is a grob that is drawn in isolation before being\ncombined with the main image.  The concept of groups\nallows for compositing operators, object reuse, and\naffine transformations (see the Details section).\n","example_call":"grid.group(src, op = \"over\", dst = NULL, coords = TRUE, name = NULL,"}

@@ -1,1 +1,0 @@
-{"description":"Smooth end points of a vector y using subsequently smaller\nmedians and Tukey's end point rule at the very end. (of odd span),\n","example_call":"smoothEnds(y, k = 3)"}

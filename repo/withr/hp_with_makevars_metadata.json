@@ -1,1 +1,0 @@
-{"description":"Temporarily change contents of an existing Makevars file.\n","example_call":"with_makevars(new, code, path = makevars_user(), assignment = c(\"=\","}

@@ -1,1 +1,0 @@
-{"description":"Functions to handle shingles\n","example_call":"as.factorOrShingle(x, subset = TRUE, drop = FALSE)"}

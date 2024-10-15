@@ -1,1 +1,0 @@
-{"description":"This is the default panel function for densityplot.\n","example_call":"panel.densityplot(x, darg = list(n = 512), plot.points = \"jitter\", ref = FALSE,"}

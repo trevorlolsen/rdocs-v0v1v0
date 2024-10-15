@@ -1,1 +1,0 @@
-{"description":"This selfStart model evaluates an alternative parametrization\nof the asymptotic\nregression function and the gradient with respect to those parameters.\nIt has an initial\nattribute that creates initial estimates of the parameters\nAsym, lrc, and c0.\n","example_call":"SSasympOff(input, Asym, lrc, c0)"}

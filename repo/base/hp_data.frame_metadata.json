@@ -1,1 +1,0 @@
-{"description":"The function data.frame() creates data frames, tightly coupled\ncollections of variables which share many of the properties of\nmatrices and of lists, used as the fundamental data structure by most\nof R's modeling software.\n","example_call":"data.frame(..., row.names = NULL, check.rows = FALSE, check.names = TRUE,"}

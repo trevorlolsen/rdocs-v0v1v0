@@ -1,1 +1,0 @@
-{"description":"gzcon provides a modified connection that wraps an existing\nconnection, and decompresses reads or compresses writes through that\nconnection.  Standard gzip headers are assumed.\n","example_call":"gzcon(con, level = 6, allowNonCompressed = TRUE, text = FALSE)"}

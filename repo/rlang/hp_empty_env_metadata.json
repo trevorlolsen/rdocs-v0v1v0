@@ -1,1 +1,0 @@
-{"description":"The empty environment is the only one that does not have a parent.\nIt is always used as the tail of an environment chain such as the\nsearch path (see search_envs()).\n","example_call":"empty_env()"}

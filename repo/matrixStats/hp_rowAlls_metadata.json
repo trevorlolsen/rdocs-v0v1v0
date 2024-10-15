@@ -1,1 +1,0 @@
-{"description":"Checks if a value exists / does not exist in each row (column) of a matrix.\n","example_call":"rowAlls(x, rows = NULL, cols = NULL, value = TRUE, na.rm = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"For a class (or class definition, see getClass and\nthe description of class classRepresentation),\ngive the names which are inherited from <U+201C>above<U+201D>, i.e., super\nclasses, rather than by this class' definition itself.\n","example_call":"inheritedSlotNames(Class, where = topenv(parent.frame()))"}

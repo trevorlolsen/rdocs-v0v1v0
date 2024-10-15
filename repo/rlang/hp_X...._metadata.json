@@ -1,1 +1,0 @@
-{"description":"This infix function makes it easy to replace NULLs with a default\nvalue. It's inspired by the way that Ruby's or operation (||)\nworks.\n","example_call":"%||%(x, y)"}

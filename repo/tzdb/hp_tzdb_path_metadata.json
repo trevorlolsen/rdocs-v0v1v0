@@ -1,1 +1,0 @@
-{"description":"Retrieve the path to the time zone database\n","example_call":"tzdb_path(type)"}

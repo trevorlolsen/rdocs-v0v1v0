@@ -1,1 +1,0 @@
-{"description":"Provokes garbage collection on (nearly) every memory allocation.\nIntended to ferret out memory protection bugs.  Also makes R run\nvery slowly, unfortunately.\n","example_call":"gctorture2(step, wait = step, inhibit_release = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"str_locate() returns the start and end position of the first match;\nstr_locate_all() returns the start and end position of each match.\n","example_call":"str_locate(string, pattern)"}

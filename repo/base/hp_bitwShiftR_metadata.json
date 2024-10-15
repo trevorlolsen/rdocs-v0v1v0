@@ -1,1 +1,0 @@
-{"description":"Logical operations on integer vectors with elements viewed as sets of bits.\n","example_call":"bitwShiftR(a, n)"}

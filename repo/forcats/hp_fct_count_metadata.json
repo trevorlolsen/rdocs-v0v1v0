@@ -1,1 +1,0 @@
-{"description":"Count entries in a factor\n","example_call":"fct_count(f, sort = FALSE, prop = FALSE)"}

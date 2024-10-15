@@ -1,1 +1,0 @@
-{"description":"This function sets variable labels as column names, to use \"labelled\ndata\" also for those functions that cannot cope with labelled data by default.\n","example_call":"label_to_colnames(x, ...)"}

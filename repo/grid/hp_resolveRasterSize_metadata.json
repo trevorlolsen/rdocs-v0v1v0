@@ -1,1 +1,0 @@
-{"description":"Determine the width and height of a raster grob when one or both\nare not given explicitly.\n","example_call":"resolveRasterSize(x)"}

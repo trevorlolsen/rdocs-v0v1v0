@@ -1,1 +1,0 @@
-{"description":"These functions handle the translation of a R graphics\nfont family name to a PostScript or PDF font description, used by the\npostscript or pdf graphics devices.\n","example_call":"pdfFonts(...)"}

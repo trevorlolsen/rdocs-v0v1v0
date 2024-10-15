@@ -1,1 +1,0 @@
-{"description":"Returns the names of model parameters, like they typically\nappear in the summary() output. For Bayesian models, the parameter\nnames equal the column names of the posterior samples after coercion\nfrom as.data.frame(). See the documentation for your object's class:\n","example_call":"find_parameters(x, ...)"}

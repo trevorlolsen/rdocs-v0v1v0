@@ -1,1 +1,0 @@
-{"description":"Returns sigma, which corresponds the estimated standard\ndeviation of the residuals. This function extends the sigma() base R\ngeneric for models that don't have implemented it. It also computes the\nconfidence interval (CI), which is stored as an attribute.\n","example_call":"get_sigma(x, ci = NULL, verbose = TRUE)"}

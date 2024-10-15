@@ -1,1 +1,0 @@
-{"description":"This function takes a matrix of grobs and create a gtable matching with the\ngrobs in the same position as they were in the matrix, with the given heights\nand widths.\n","example_call":"gtable_matrix(name, grobs, widths = NULL, heights = NULL, z = NULL,"}

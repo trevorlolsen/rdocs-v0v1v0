@@ -1,1 +1,0 @@
-{"description":"reorder is a generic function.  The \"default\" method\ntreats its first argument as a categorical variable, and reorders its\nlevels based on the values of a second variable, usually numeric.\n","example_call":"reorder(x, ...)"}

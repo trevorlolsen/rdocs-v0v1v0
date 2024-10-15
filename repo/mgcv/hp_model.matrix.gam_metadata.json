@@ -1,1 +1,0 @@
-{"description":"Obtains the model matrix from a fitted gam object.\n","example_call":"model.matrix.gam(object, ...)"}

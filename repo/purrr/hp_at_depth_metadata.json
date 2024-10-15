@@ -1,1 +1,0 @@
-{"description":"This function is defunct and has been replaced by map_depth().\nSee also modify_depth() for a version that preserves the types of\nthe elements of the tree.\n","example_call":"at_depth(.x, .depth, .f, ...)"}

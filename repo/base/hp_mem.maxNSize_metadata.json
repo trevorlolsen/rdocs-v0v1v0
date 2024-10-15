@@ -1,1 +1,0 @@
-{"description":"Query and set the maximal size of the vector heap and the maximal\nnumber of heap nodes for the current R process.\n","example_call":"mem.maxNSize(nsize = 0)"}

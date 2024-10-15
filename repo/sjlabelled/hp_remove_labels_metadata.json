@@ -1,1 +1,0 @@
-{"description":"These functions add, replace or remove value labels to or from variables.\n","example_call":"remove_labels(x, ..., labels)"}

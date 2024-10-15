@@ -1,1 +1,0 @@
-{"description":"See vignette(\"special-files\") to learn about the various files that\ntestthat works with.\n","example_call":"test_package(package, reporter = check_reporter(), ...)"}

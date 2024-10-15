@@ -1,1 +1,0 @@
-{"description":"Temporarily divert output to a file via sink().  For\nsinks of type message, an error is raised if such a sink is already\nactive.\n","example_call":"local_message_sink(new = list(), append = FALSE, .local_envir = parent.frame())"}

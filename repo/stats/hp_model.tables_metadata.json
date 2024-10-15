@@ -1,1 +1,0 @@
-{"description":"Computes summary tables for model fits, especially complex aov\nfits.\n","example_call":"model.tables(x, ...)"}

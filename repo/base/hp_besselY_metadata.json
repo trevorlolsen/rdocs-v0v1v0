@@ -1,1 +1,0 @@
-{"description":"Bessel Functions of integer and fractional order, of first\nand second kind, J_{\\nu} and Y_{\\nu}, and\nModified Bessel functions (of first and third kind),\nI_{\\nu} and K_{\\nu}.\n","example_call":"besselY(x, nu)"}

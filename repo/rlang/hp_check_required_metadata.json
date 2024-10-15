@@ -1,1 +1,0 @@
-{"description":"Throws an error if x is missing.\n","example_call":"check_required(x, arg = caller_arg(x), call = caller_env())"}

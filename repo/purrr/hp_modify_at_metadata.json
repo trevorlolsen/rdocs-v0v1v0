@@ -1,1 +1,0 @@
-{"description":"Unlike map() and its variants which always return a fixed object\ntype (list for map(), integer vector for map_int(), etc), the\nmodify() family always returns the same type as the input object.\n","example_call":"modify_at(.x, .at, .f, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Extension of file.show to display text files from a remote\nserver.\n","example_call":"url.show(url, title = url, file = tempfile(), delete.file = TRUE,"}

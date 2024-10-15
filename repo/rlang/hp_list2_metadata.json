@@ -1,1 +1,0 @@
-{"description":"list2(...) is equivalent to list(...) with a few additional\nfeatures, collectively called dynamic dots. While\nlist2() hard-code these features, dots_list() is a lower-level\nversion that offers more control.\n","example_call":"list2(...)"}

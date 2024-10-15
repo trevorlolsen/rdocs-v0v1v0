@@ -1,1 +1,0 @@
-{"description":"old.packages indicates packages which have a (suitable) later\nversion on the repositories whereas update.packages offers to\ndownload and install such packages.\n","example_call":"update.packages(lib.loc = NULL, repos = getOption(\"repos\"), contriburl = contrib.url(repos,"}

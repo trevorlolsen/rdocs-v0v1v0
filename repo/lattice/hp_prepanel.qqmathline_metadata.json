@@ -1,1 +1,0 @@
-{"description":"These are predefined prepanel functions available in Lattice.\n","example_call":"prepanel.qqmathline(x, y = x, distribution = qnorm, probs = c(0.25, 0.75),"}

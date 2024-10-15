@@ -1,1 +1,0 @@
-{"description":"The values supplied in the function call replace the defaults and a\nlist with all possible arguments is returned. The returned list is\nused as the control argument to the gls function.\n","example_call":"glsControl(maxIter = 50L, msMaxIter = 200L, tolerance = 1e-06,"}

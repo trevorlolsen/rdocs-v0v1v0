@@ -1,1 +1,0 @@
-{"description":"Tabulates the values in a matrix by row (column).\n","example_call":"rowTabulates(x, rows = NULL, cols = NULL, values = NULL, ..., useNames = TRUE)"}

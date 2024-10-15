@@ -1,1 +1,0 @@
-{"description":"Utility function to extract information about files on the user's\nfile systems.\n","example_call":"file.mode(...)"}

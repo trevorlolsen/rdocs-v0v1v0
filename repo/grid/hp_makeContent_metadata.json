@@ -1,1 +1,0 @@
-{"description":"These generic hook functions are called whenever a grid grob is drawn.\nThey provide an opportunity for customising the drawing context\nand drawing content of a\nnew class derived from grob (or gTree).\n","example_call":"makeContent(x)"}

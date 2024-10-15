@@ -1,1 +1,0 @@
-{"description":"Create a vector of colors from vectors specifying hue, saturation and\nvalue.\n","example_call":"hsv(h = 1, s = 1, v = 1, alpha)"}

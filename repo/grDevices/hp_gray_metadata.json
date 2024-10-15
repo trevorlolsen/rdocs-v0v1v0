@@ -1,1 +1,0 @@
-{"description":"Create a vector of colors from a vector of gray levels.\n","example_call":"gray(level, alpha)"}

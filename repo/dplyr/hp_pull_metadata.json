@@ -1,1 +1,0 @@
-{"description":"pull() is similar to $. It's mostly useful because it looks a little\nnicer in pipes, it also works with remote data frames, and it can optionally\nname the output.\n","example_call":"pull(.data, var = -1, name = NULL, ...)"}

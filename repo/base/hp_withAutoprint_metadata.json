@@ -1,1 +1,0 @@
-{"description":"source causes R to accept its input from the named file or URL\nor connection or expressions directly.  Input is read and\nparsed from that file\nuntil the end of the file is reached, then the parsed expressions are\nevaluated sequentially in the chosen environment.\n","example_call":"withAutoprint(exprs, evaluated = FALSE, local = parent.frame(), print. = TRUE,"}

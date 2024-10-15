@@ -1,1 +1,0 @@
-{"description":"For data observed over discrete spatial units, a simple Markov random field \nsmoother is sometimes appropriate. These functions provide such a smoother class for mgcv. \nSee details for how to deal with regions with missing data.\n","example_call":"Predict.matrix.mrf.smooth(object, data)"}

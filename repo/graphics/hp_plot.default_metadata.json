@@ -1,1 +1,0 @@
-{"description":"Draw a scatter plot with decorations such as axes and titles\nin the active graphics window.\n","example_call":"plot.default(x, y = NULL, type = \"p\", xlim = NULL, ylim = NULL,"}

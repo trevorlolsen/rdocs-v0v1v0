@@ -1,1 +1,0 @@
-{"description":"This generic provides a common double dispatch mechanism for all infix\noperators (+, -, /, *, ^, %%, %/%, !, &, |). It is used\nto power the default arithmetic and boolean operators for vctrs objects,\novercoming the limitations of the base Ops generic.\n","example_call":"MISSING()"}

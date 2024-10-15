@@ -1,1 +1,0 @@
-{"description":"These functions use the GETPWENT(3) and GETGRENT(3) system calls to query\nusers and groups respectively.\n","example_call":"user_ids()"}

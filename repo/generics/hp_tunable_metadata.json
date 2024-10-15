@@ -1,1 +1,0 @@
-{"description":"Returns information on potential hyper-parameters that can be optimized.\n","example_call":"tunable(x, ...)"}

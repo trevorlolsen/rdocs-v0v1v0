@@ -1,1 +1,0 @@
-{"description":"Returns a matrix of integers indicating their row number in a\nmatrix-like object, or a factor indicating the row labels.\n","example_call":"row(x, as.factor = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Returns the sample ranks of the values in a vector.  Ties (i.e., equal\nvalues) and missing values can be handled in several ways.\n","example_call":"rank(x, na.last = TRUE, ties.method = c(\"average\", \"first\","}

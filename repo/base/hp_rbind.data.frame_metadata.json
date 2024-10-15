@@ -1,1 +1,0 @@
-{"description":"Take a sequence of vector, matrix or data-frame arguments and combine\nby columns or rows, respectively.  These are generic\nfunctions with methods for other R classes.\n","example_call":"rbind.data.frame(..., deparse.level = 1, make.row.names = TRUE, stringsAsFactors = FALSE,"}

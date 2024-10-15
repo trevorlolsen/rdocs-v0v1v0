@@ -1,1 +1,0 @@
-{"description":"This function detects rows and columns that does not contain any grobs and\nremoves thewm from the gtable. If the rows and/or columns removed had a\nnon-zero height/width the relative layout of the gtable may change.\n","example_call":"gtable_trim(x)"}

@@ -1,1 +1,0 @@
-{"description":"stri_enc_set sets the encoding used to re-encode strings\ninternally (i.e., by R) declared to be in native encoding,\nsee stringi-encoding and stri_enc_mark.\nstri_enc_get returns the currently used default encoding.\n","example_call":"stri_enc_set(enc)"}

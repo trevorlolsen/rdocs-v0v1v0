@@ -1,1 +1,0 @@
-{"description":"Generate multinomially distributed random number vectors and\ncompute multinomial probabilities.\n","example_call":"dmultinom(x, size = NULL, prob, log = FALSE)"}

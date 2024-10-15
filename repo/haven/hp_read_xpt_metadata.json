@@ -1,1 +1,0 @@
-{"description":"The SAS transport format is a open format, as is required for submission\nof the data to the FDA.\n","example_call":"read_xpt(file, col_select = NULL, skip = 0, n_max = Inf, .name_repair = \"unique\")"}

@@ -1,1 +1,0 @@
-{"description":"unique returns a vector, data frame or array like x\nbut with duplicate elements/rows removed.\n","example_call":"unique.default(x, incomparables = FALSE, fromLast = FALSE, nmax = NA,"}

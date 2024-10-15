@@ -1,1 +1,0 @@
-{"description":"Reads or writes an R object from/to a file in Debian Control File\nformat.\n","example_call":"write.dcf(x, file = \"\", append = FALSE, useBytes = FALSE, indent = 0.1 *"}

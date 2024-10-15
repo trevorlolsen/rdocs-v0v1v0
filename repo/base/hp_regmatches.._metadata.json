@@ -1,1 +1,0 @@
-{"description":"Extract or replace matched substrings from match data obtained by\nregexpr, gregexpr,\nregexec or gregexec.\n","example_call":"regmatches<-(x, m, invert = FALSE, value)"}

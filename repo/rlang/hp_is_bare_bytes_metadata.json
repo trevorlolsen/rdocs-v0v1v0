@@ -1,1 +1,0 @@
-{"description":"These predicates check for a given type but only return TRUE for\nbare R objects. Bare objects have no class attributes. For example,\na data frame is a list, but not a bare list.\n","example_call":"is_bare_bytes(x, n = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Simple utilities returning (non-missing) case names, and\n(non-eliminated) variable names.\n","example_call":"variable.names(object, ...)"}

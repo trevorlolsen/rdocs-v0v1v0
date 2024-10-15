@@ -1,1 +1,0 @@
-{"description":"lmap(), lmap_at() and lmap_if() are similar to map(), map_at() and\nmap_if(), except instead of mapping over .x[[i]], they instead map over\n.x[i].\n","example_call":"lmap_at(.x, .at, .f, ...)"}

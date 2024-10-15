@@ -1,1 +1,0 @@
-{"description":"Run latex/pdflatex, makeindex and bibtex\nuntil all cross-references are resolved to create a DVI or a PDF file.\n","example_call":"texi2dvi(file, pdf = FALSE, clean = FALSE, quiet = TRUE, texi2dvi = getOption(\"texi2dvi\"),"}

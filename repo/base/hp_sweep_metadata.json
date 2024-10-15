@@ -1,1 +1,0 @@
-{"description":"Return an array obtained from an input array by sweeping out a summary\nstatistic.\n","example_call":"sweep(x, MARGIN, STATS, FUN = \"-\", check.margin = TRUE, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Find the maximum likelihood estimate of the shape parameter of\nthe gamma distribution after fitting a Gamma generalized\nlinear model.\n","example_call":"gamma.shape(object, ...)"}

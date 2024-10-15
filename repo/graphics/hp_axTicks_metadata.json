@@ -1,1 +1,0 @@
-{"description":"Compute pretty tickmark locations, the same way as R does internally.\nThis is only non-trivial when log coordinates are active.\nBy default, gives the at values which\naxis(side) would use.\n","example_call":"axTicks(side, axp = NULL, usr = NULL, log = NULL, nintLog = NULL)"}

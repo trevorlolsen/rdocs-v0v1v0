@@ -1,1 +1,0 @@
-{"description":"These functions help detect the placement of panels in a gtable, if they are\nnamed with \"panel\" in the beginning. find_panel() returns the extend of\nthe panel area, while panel_cols() and panel_rows() returns the\ncolumns and rows that contains panels respectively.\n","example_call":"find_panel(table)"}

@@ -1,1 +1,0 @@
-{"description":"This function creates a unit object <U+2014> a vector of unit values.\nA unit value is typically just a single numeric value with an\nassociated unit.\n","example_call":"is.unit(x)"}

@@ -1,1 +1,0 @@
-{"description":"Tidy file paths, character vectors which are coloured by file type on\ncapable terminals.\n","example_call":"as_fs_path(x)"}

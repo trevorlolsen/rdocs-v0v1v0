@@ -1,1 +1,0 @@
-{"description":"Parse a character vector.\n","example_call":"parse_vector(x, collector, na = c(\"\", \"NA\"), locale = default_locale(),"}

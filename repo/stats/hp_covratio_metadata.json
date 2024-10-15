@@ -1,1 +1,0 @@
-{"description":"This suite of functions can be used to compute some of the regression\n(leave-one-out deletion) diagnostics for linear and generalized linear\nmodels discussed in Belsley, Kuh and Welsch (1980),\nCook and Weisberg (1982), etc.\n","example_call":"covratio(model, infl = lm.influence(model, do.coef = FALSE),"}

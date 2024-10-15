@@ -1,1 +1,0 @@
-{"description":"order returns a permutation which rearranges its first\nargument into ascending or descending order, breaking ties by further\narguments.  sort.list does the same, using only one argument.\nSee the examples for how to use these functions to sort data frames,\netc.\n","example_call":"order(..., na.last = TRUE, decreasing = FALSE, method = c(\"auto\","}

@@ -1,1 +1,0 @@
-{"description":"stri_timezone_set changes the current default time zone for all functions\nin the stringi package, i.e., establishes the meaning of the\n<U+201C>NULL time zone<U+201D> argument to date/time processing functions.\n","example_call":"stri_timezone_get()"}

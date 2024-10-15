@@ -1,1 +1,0 @@
-{"description":"These functions check for either a method or a class that has been\nsealed when it was defined, and which therefore cannot be\nre-defined.\n","example_call":"isSealedMethod(f, signature, fdef = getGeneric(f, FALSE, where = where),"}

@@ -1,1 +1,0 @@
-{"description":"layout divides the device up into as many rows and columns as\nthere are in matrix mat, with the column-widths and the\nrow-heights specified in the respective arguments.\n","example_call":"layout(mat, widths = rep.int(1, ncol(mat)), heights = rep.int(1,"}

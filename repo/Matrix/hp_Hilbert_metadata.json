@@ -1,1 +1,0 @@
-{"description":"Generate the n by n symmetric Hilbert matrix.  Because\nthese matrices are ill-conditioned for moderate to large n,\nthey are often used for testing numerical linear algebra code.\n","example_call":"Hilbert(n)"}

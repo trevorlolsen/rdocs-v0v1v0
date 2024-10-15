@@ -1,1 +1,0 @@
-{"description":"Tests whether each of a set of points lie within a region defined by one or more \n(possibly nested) polygons. Points count as <U+2018>inside<U+2019> if they are interior to an odd number of polygons.\n","example_call":"in.out(bnd, x)"}

@@ -1,1 +1,0 @@
-{"description":"Checks if method is the name of a valid / registered S3\nmethod.  Alternatively, when f and class are specified,\nit is checked if f is the name of an S3 generic function and\npaste(f, class, sep=\".\") is a valid S3 method.\n","example_call":"isS3method(method, f, class, envir = parent.frame())"}

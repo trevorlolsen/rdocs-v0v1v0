@@ -1,1 +1,0 @@
-{"description":"Multi-dimensional objects are formatted as <U+2060>a x b x ...<U+2060>, for vectors the\nlength is returned.\n","example_call":"dim_desc(x)"}

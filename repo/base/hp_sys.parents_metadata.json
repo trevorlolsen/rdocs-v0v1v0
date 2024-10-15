@@ -1,1 +1,0 @@
-{"description":"These functions provide access to environments\n(<U+2018>frames<U+2019> in S terminology) associated with functions further\nup the calling stack.\n","example_call":"sys.parents()"}

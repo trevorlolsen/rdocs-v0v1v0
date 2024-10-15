@@ -1,1 +1,0 @@
-{"description":"Take an sRGB colour and plots it along with the closest Munsell colour (using rgb2mnsl to find it)\n","example_call":"plot_closest(R, G = NULL, B = NULL, back.col = \"white\")"}

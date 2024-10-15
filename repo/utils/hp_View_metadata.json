@@ -1,1 +1,0 @@
-{"description":"Invoke a spreadsheet-style data viewer on a matrix-like R object.\n","example_call":"View(x, title)"}

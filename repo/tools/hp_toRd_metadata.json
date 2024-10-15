@@ -1,1 +1,0 @@
-{"description":"Methods for this function render their associated classes as a fragment of Rd\ncode, which can then be rendered into text, HTML, or LaTeX.\n","example_call":"toRd(obj, ...)"}

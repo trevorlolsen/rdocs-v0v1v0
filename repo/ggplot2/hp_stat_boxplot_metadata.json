@@ -1,1 +1,0 @@
-{"description":"The boxplot compactly displays the distribution of a continuous variable.\nIt visualises five summary statistics (the median, two hinges\nand two whiskers), and all \"outlying\" points individually.\n","example_call":"stat_boxplot(mapping = NULL, data = NULL, geom = \"boxplot\", position = \"dodge2\","}

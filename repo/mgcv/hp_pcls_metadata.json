@@ -1,1 +1,0 @@
-{"description":"Solves least squares problems with quadratic penalties subject to linear\nequality and inequality constraints using quadratic programming.\n","example_call":"pcls(M)"}

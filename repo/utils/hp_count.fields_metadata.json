@@ -1,1 +1,0 @@
-{"description":"count.fields counts the number of fields, as separated by\nsep, in each of the lines of file read.\n","example_call":"count.fields(file, sep = \"\", quote = \"\\\"'\", skip = 0, blank.lines.skip = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"Returns a matrix of integers indicating their column number in a\nmatrix-like object, or a factor of column labels.\n","example_call":".col(dim)"}

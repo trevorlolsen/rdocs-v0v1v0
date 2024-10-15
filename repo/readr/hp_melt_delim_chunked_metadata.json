@@ -1,1 +1,0 @@
-{"description":"For certain non-rectangular data formats, it can be useful to parse the data\ninto a melted format where each row represents a single token.\n","example_call":"melt_delim_chunked(file, callback, chunk_size = 10000, delim, quote = \"\\\"\","}

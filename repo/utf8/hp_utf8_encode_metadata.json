@@ -1,1 +1,0 @@
-{"description":"Escape the strings in a character object, optionally adding\nquotes or spaces, adjusting the width for display.\n","example_call":"utf8_encode(x, width = 0L, quote = FALSE, justify = \"left\", escapes = NULL,"}

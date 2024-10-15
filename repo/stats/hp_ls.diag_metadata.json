@@ -1,1 +1,0 @@
-{"description":"Computes basic statistics, including standard errors, t- and p-values\nfor the regression coefficients.\n","example_call":"ls.diag(ls.out)"}

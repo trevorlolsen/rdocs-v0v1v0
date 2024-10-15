@@ -1,1 +1,0 @@
-{"description":"Captures the result of function, flexibly serializing it into a text\nrepresentation that's stored in a snapshot file. See expect_snapshot()\nfor more details on snapshot testing.\n","example_call":"expect_snapshot_value(x, style = c(\"json\", \"json2\", \"deparse\", \"serialize\"),"}

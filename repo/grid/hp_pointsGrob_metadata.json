@@ -1,1 +1,0 @@
-{"description":"These functions create and draw data symbols.\n","example_call":"pointsGrob(x = stats::runif(10), y = stats::runif(10), pch = 1,"}

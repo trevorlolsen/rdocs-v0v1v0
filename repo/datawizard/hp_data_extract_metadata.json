@@ -1,1 +1,0 @@
-{"description":"data_extract() (or its alias extract()) is similar to $. It extracts\neither a single column or element from an object (e.g., a data frame, list),\nor multiple columns resp. elements.\n","example_call":"data_extract(data, select, ...)"}

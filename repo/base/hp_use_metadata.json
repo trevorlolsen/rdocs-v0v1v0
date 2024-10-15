@@ -1,1 +1,0 @@
-{"description":"Use packages in R scripts by loading their namespace and attaching a\npackage environment including (a subset of) their exports to the\nsearch path.\n","example_call":"use(package, include.only)"}

@@ -1,1 +1,0 @@
-{"description":"Return the names of all the built-in objects.  These are fetched\ndirectly from the symbol table of the R interpreter.\n","example_call":"builtins(internal = FALSE)"}

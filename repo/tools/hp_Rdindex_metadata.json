@@ -1,1 +1,0 @@
-{"description":"Print a 2-column index table with names and titles from given\nR documentation files to a given output file or connection.  The\ntitles are nicely formatted between two column positions (typically 25\nand 72, respectively).\n","example_call":"Rdindex(RdFiles, outFile = \"\", type = NULL, width = 0.9 * getOption(\"width\"),"}

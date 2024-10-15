@@ -1,1 +1,0 @@
-{"description":"These functions compare formats embedded in English messages\nwith translated strings to check for consistency.  checkPoFile\nchecks one file, while checkPoFiles checks all files for specified\nor all languages.\n","example_call":"checkPoFiles(language, dir = \".\")"}

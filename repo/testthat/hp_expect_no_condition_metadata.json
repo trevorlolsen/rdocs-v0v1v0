@@ -1,1 +1,0 @@
-{"description":"These expectations are the opposite of expect_error(),\nexpect_warning(), expect_message(), and expect_condition(). They\nassert the absence of an error, warning, or message, respectively.\n","example_call":"expect_no_condition(object, ..., message = NULL, class = NULL)"}

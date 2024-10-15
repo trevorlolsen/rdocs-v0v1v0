@@ -1,1 +1,0 @@
-{"description":"Methods for generic function solve for solving\nlinear systems of equations,\ni.e., for X in A X = B,\nwhere A is a square matrix and X and B are matrices\nwith dimensions consistent with A.\n","example_call":"solve(a, b, ...)"}

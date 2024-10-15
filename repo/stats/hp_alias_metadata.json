@@ -1,1 +1,0 @@
-{"description":"Find aliases (linearly dependent terms) in a linear model specified by\na formula.\n","example_call":"alias(object, ...)"}

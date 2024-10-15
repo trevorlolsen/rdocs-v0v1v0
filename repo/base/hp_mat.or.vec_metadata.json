@@ -1,1 +1,0 @@
-{"description":"mat.or.vec creates an nr by nc zero matrix if\nnc is greater than 1, and a zero vector of length nr if\nnc equals 1.\n","example_call":"mat.or.vec(nr, nc)"}

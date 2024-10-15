@@ -1,1 +1,0 @@
-{"description":"Silently drops any ranges outside of the domain of transform.\n","example_call":"trans_range(transform, x)"}

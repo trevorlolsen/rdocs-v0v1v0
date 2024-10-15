@@ -1,1 +1,0 @@
-{"description":"By default, readr shows progress bars. However, progress reporting is\nsuppressed if any of the following conditions hold:\n","example_call":"show_progress()"}

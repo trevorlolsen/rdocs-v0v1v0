@@ -1,1 +1,0 @@
-{"description":"Coercion functions for creating factors from other existing objects.\n","example_call":"as.factor(x, ...)"}

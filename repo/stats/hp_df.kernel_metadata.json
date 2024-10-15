@@ -1,1 +1,0 @@
-{"description":"The \"tskernel\" class is designed to represent discrete\nsymmetric normalized smoothing kernels.  These kernels can be used to\nsmooth vectors, matrices, or time series objects.\n","example_call":"df.kernel(k)"}

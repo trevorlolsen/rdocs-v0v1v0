@@ -1,1 +1,0 @@
-{"description":"This selfStart model evaluates the logistic\nfunction and its gradient.  It has an initial attribute that\ncreates initial estimates of the parameters Asym,\nxmid, and scal.   In R 3.4.2 and earlier, that\ninit function failed when min(input) was exactly zero.\n","example_call":"SSlogis(input, Asym, xmid, scal)"}

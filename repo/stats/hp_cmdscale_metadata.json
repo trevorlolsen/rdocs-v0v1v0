@@ -1,1 +1,0 @@
-{"description":"Classical multidimensional scaling (MDS) of a data matrix.\nAlso known as principal coordinates analysis (Gower, 1966).\n","example_call":"cmdscale(d, k = 2, eig = FALSE, add = FALSE, x.ret = FALSE,"}

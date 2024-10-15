@@ -1,1 +1,0 @@
-{"description":"Create a method for a generic function, corresponding to a signature of classes for the arguments. Standard usage will be of the form:\n","example_call":"setMethod(f, signature = character(), definition, where = topenv(parent.frame()),"}

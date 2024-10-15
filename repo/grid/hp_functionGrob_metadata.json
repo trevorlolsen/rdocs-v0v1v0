@@ -1,1 +1,0 @@
-{"description":"Draw a curve representing a function.\n","example_call":"functionGrob(f, n = 101, range = \"x\", units = \"native\", name = NULL,"}

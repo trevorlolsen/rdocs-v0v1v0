@@ -1,1 +1,0 @@
-{"description":"Update an existing repository by reading the PACKAGES\nfile, retaining entries which are still valid, removing entries which\nare no longer valid, and only processing built package tarballs which do not\nmatch existing entries.\n","example_call":"update_PACKAGES(dir = \".\", fields = NULL, type = c(\"source\", \"mac.binary\","}

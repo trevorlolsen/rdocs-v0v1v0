@@ -1,1 +1,0 @@
-{"description":"These function help the base Date, POSIXct, and difftime classes fit\ninto the vctrs type system by providing constructors, coercion functions,\nand casting functions.\n","example_call":"vec_ptype2.POSIXct(x, y, ...)"}

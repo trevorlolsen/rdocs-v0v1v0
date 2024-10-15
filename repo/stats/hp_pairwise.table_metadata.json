@@ -1,1 +1,0 @@
-{"description":"Creates  table of p values for pairwise comparisons\nwith corrections for multiple testing.\n","example_call":"pairwise.table(compare.levels, level.names, p.adjust.method)"}

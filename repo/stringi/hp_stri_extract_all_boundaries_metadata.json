@@ -1,1 +1,0 @@
-{"description":"These functions extract data between text boundaries.\n","example_call":"stri_extract_all_boundaries(str, simplify = FALSE, omit_no_match = FALSE, ...,"}

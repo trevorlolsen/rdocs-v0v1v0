@@ -1,1 +1,0 @@
-{"description":"Read a delimited file into a tibble\n","example_call":"vroom(file, delim = NULL, col_names = TRUE, col_types = NULL,"}

@@ -1,1 +1,0 @@
-{"description":"Provides information regarding the models entered in an ellipsis.\nIt detects whether all are models, regressions, nested regressions etc.,\nassigning different classes to the list of objects.\n","example_call":"ellipsis_info(objects, ...)"}

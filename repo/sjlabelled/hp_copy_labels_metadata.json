@@ -1,1 +1,0 @@
-{"description":"Subsetting-functions usually drop value and variable labels from\nsubsetted data frames (if the original data frame has value and variable\nlabel attributes). This function copies these value and variable\nlabels back to subsetted data frames that have been subsetted, for instance,\nwith subset.\n","example_call":"copy_labels(df_new, df_origin = NULL, ...)"}

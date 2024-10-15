@@ -1,1 +1,0 @@
-{"description":"The values are stored as a difftime vector with a custom class,\nand always with \"seconds\" as unit for robust coercion to numeric.\nSupports construction from time values, coercion to and from\nvarious data types, and formatting.  Can be used as a regular column in a\ndata frame.\n","example_call":"is_hms(x)"}

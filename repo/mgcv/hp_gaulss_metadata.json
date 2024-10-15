@@ -1,1 +1,0 @@
-{"description":"The gaulss family implements Gaussian location scale additive models in which \nthe mean and the logb of the standard deviation (see details) can depend on additive smooth predictors. Useable \nonly with gam, the linear predictors are specified via a list of formulae.\n","example_call":"gaulss(link = list(\"identity\", \"logb\"), b = 0.01)"}

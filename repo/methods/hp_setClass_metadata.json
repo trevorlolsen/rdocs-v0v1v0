@@ -1,1 +1,0 @@
-{"description":"Create  a class definition and return a generator function to create\nobjects from the class.  Typical usage will be\nof the style:\n","example_call":"setClass(Class, representation = list(), prototype = NULL, contains = character(),"}

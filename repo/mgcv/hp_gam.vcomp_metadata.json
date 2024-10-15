@@ -1,1 +1,0 @@
-{"description":"GAMs can be viewed as mixed models, where the smoothing parameters are related to variance \ncomponents. This routine extracts the estimated variance components associated with each smooth term, and if possible returns confidence intervals on the standard deviation scale.\n","example_call":"gam.vcomp(x, rescale = TRUE, conf.lev = 0.95)"}

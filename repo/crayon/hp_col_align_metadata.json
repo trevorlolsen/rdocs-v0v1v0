@@ -1,1 +1,0 @@
-{"description":"Align an ANSI colored string\n","example_call":"col_align(text, width = getOption(\"width\"), align = c(\"left\","}

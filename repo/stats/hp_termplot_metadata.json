@@ -1,1 +1,0 @@
-{"description":"Plots regression terms against their predictors, optionally with\nstandard errors and partial residuals added.\n","example_call":"termplot(model, data = NULL, envir = environment(formula(model)),"}

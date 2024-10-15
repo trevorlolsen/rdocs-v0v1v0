@@ -1,1 +1,0 @@
-{"description":"map_depth() calls map(.y, .f) on all .y at the specified .depth in\n.x. modify_depth() calls modify(.y, .f) on .y at the specified\n.depth in .x.\n","example_call":"map_depth(.x, .depth, .f, ..., .ragged = .depth < 0, .is_node = NULL)"}

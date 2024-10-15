@@ -1,1 +1,0 @@
-{"description":"Wrapper to create internal hyperlink string to pass to writeFormula(). Either link to external urls or local files or straight to cells of local Excel sheets.\n","example_call":"makeHyperlinkString(sheet, row = 1, col = 1, text = NULL, file = NULL)"}

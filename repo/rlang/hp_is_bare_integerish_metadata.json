@@ -1,1 +1,0 @@
-{"description":"These predicates check whether R considers a number vector to be\ninteger-like, according to its own tolerance check (which is in\nfact delegated to the C library). This function is not adapted to\ndata analysis, see the help for base::is.integer() for examples\nof how to check for whole numbers.\n","example_call":"is_bare_integerish(x, n = NULL, finite = NULL)"}

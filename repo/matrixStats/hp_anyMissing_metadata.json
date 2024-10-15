@@ -1,1 +1,0 @@
-{"description":"Checks if there are any missing values in an object or not.\nPlease use base::anyNA() instead of anyMissing(),\ncolAnyNAs() instead of colAnyMissings(), and\nrowAnyNAs() instead of rowAnyMissings().\n","example_call":"anyMissing(x, idxs = NULL, ...)"}

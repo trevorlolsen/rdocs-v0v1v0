@@ -1,1 +1,0 @@
-{"description":"grep, grepl, regexpr, gregexpr, \nregexec and gregexec search for matches to argument\npattern within each element of a character vector: they differ in\nthe format of and amount of detail in the results.\n","example_call":"grep(pattern, x, ignore.case = FALSE, perl = FALSE, value = FALSE,"}

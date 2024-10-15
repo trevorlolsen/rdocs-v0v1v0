@@ -1,1 +1,0 @@
-{"description":"available.packages returns a matrix of details corresponding to\npackages currently available at one or more repositories. The\ncurrent list of packages is downloaded over the internet (or copied\nfrom a local mirror).\n","example_call":"available.packages(contriburl = contrib.url(repos, type), method, fields = NULL,"}

@@ -1,1 +1,0 @@
-{"description":" Gaussian with identity link models fitted by bam can be efficiently updated as new data becomes available,\nby simply updating the QR decomposition on which estimation is based, and re-optimizing the smoothing parameters, starting\nfrom the previous estimates. This routine implements this.\n","example_call":"bam.update(b, data, chunk.size = 10000)"}

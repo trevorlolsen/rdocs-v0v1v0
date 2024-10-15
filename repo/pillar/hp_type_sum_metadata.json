@@ -1,1 +1,0 @@
-{"description":"type_sum() gives a brief summary of object type. Objects that commonly\noccur in a data frame should return a string with four or less characters.\nFor most inputs, the argument is forwarded to vctrs::vec_ptype_abbr().\n","example_call":"type_sum(x)"}

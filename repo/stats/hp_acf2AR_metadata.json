@@ -1,1 +1,0 @@
-{"description":"Compute an AR process exactly fitting an autocorrelation function.\n","example_call":"acf2AR(acf)"}

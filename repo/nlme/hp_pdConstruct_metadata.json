@@ -1,1 +1,0 @@
-{"description":"This function is an alternative constructor for the pdMat\nclass associated with object and is mostly used internally in other\nfunctions. See the documentation on the principal constructor\nfunction, generally with the same name as the pdMat class of\nobject. \n","example_call":"pdConstruct(object, value, form, nam, data, ...)"}

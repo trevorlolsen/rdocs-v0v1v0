@@ -1,1 +1,0 @@
-{"description":"This function reads a set of RGB color descriptions (of the form written by\ngcolorsel) from a file and creates a color object containing the\ncorresponding colors.\n","example_call":"readRGB(file, class = \"RGB\")"}

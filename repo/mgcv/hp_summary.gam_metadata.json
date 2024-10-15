@@ -1,1 +1,0 @@
-{"description":" Takes a fitted gam object produced by gam() and produces various useful\nsummaries from it. (See sink to divert output to a file.)\n","example_call":"summary.gam(object, dispersion = NULL, freq = FALSE, re.test = TRUE,"}

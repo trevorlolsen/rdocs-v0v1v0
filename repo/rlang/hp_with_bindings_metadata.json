@@ -1,1 +1,0 @@
-{"description":"local_bindings() returns the values of old bindings\ninvisibly; with_bindings() returns the value of expr.\n","example_call":"with_bindings(.expr, ..., .env = caller_env())"}

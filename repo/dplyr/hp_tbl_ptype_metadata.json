@@ -1,1 +1,0 @@
-{"description":"Used in <U+2060>_if<U+2060> functions to enable type-based selection even when the data\nis lazily generated. Should either return the complete tibble, or if that\ncan not be computed quickly, a 0-row tibble where the columns are of\nthe correct type.\n","example_call":"tbl_ptype(.data)"}

@@ -1,1 +1,0 @@
-{"description":"Draws a curve corresponding to a function over the interval\n[from, to]. curve can plot also an expression in the variable\nxname, default <U+2018><U+2060>x<U+2060><U+2019>.\n","example_call":"curve(expr, from = NULL, to = NULL, n = 101, add = FALSE,"}

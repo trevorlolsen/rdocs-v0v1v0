@@ -1,1 +1,0 @@
-{"description":"These helpers provide a means of standardizing common indexing\nmethods such as integer, character or logical indexing.\n","example_call":"vec_as_location(i, n, names = NULL, ..., missing = c(\"propagate\", \"remove\","}

@@ -1,1 +1,0 @@
-{"description":"Open files or directories\n","example_call":"file_show(path = \".\", browser = getOption(\"browser\"))"}

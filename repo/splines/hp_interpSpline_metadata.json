@@ -1,1 +1,0 @@
-{"description":"Create an interpolation spline, either from x and y\nvectors (default method), or from a formula / data.frame\ncombination (formula method).\n","example_call":"interpSpline(obj1, obj2, bSpline = FALSE, period = NULL, ord = 4L,"}

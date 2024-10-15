@@ -1,1 +1,0 @@
-{"description":"Create a style, or a style function, or both. This function\nis intended for those who wish to use 256 ANSI colors,\ninstead of the more widely supported eight colors.\n","example_call":"make_style(..., bg = FALSE, grey = FALSE, colors = num_colors())"}

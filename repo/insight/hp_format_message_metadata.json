@@ -1,1 +1,0 @@
-{"description":"Inserts line breaks into a longer message or warning string.\nLine length is adjusted to maximum length of the console, if the width\ncan be accessed. By default, new lines are indented by two spaces.\n","example_call":"format_message(string, ..., line_length = 0.9 * getOption(\"width\","}

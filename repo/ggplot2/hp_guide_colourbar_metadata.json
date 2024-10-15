@@ -1,1 +1,0 @@
-{"description":"Colour bar guide shows continuous colour scales mapped onto values.\nColour bar is available with scale_fill and scale_colour.\nFor more information, see the inspiration for this function:\nMatlab's colorbar function.\n","example_call":"guide_colourbar(title = waiver(), theme = NULL, nbin = NULL, display = \"raster\","}

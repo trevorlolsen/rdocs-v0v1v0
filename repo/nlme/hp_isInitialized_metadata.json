@@ -1,1 +1,0 @@
-{"description":"Checks if object has been initialized (generally through a call\nto Initialize), by searching for components and attributes\nwhich are modified during initialization.\n","example_call":"isInitialized(object)"}

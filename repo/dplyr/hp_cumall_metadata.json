@@ -1,1 +1,0 @@
-{"description":"dplyr provides cumall(), cumany(), and cummean() to complete R's set\nof cumulative functions.\n","example_call":"cumall(x)"}

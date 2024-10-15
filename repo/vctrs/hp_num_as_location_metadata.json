@@ -1,1 +1,0 @@
-{"description":"These helpers provide a means of standardizing common indexing\nmethods such as integer, character or logical indexing.\n","example_call":"num_as_location(i, n, ..., missing = c(\"propagate\", \"remove\", \"error\"),"}

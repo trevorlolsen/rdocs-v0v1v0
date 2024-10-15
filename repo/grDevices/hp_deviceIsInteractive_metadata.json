@@ -1,1 +1,0 @@
-{"description":"Test if the current graphics device (or that which would be opened) is\ninteractive.\n","example_call":"deviceIsInteractive(name = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Estimation of GAM smoothing parameters is most stable if\noptimization of the smoothness selection score (GCV, GACV, UBRE/AIC, REML, ML etc) \nis outer to the penalized iteratively\nre-weighted least squares scheme used to estimate the model given smoothing \nparameters.\n","example_call":"gam.outer(lsp, fscale, family, control, method, optimizer, criterion,"}

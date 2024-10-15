@@ -1,1 +1,0 @@
-{"description":"Remove empty elements from lists\n","example_call":"compact_list(x, remove_na = FALSE)"}

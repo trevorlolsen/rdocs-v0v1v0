@@ -1,1 +1,0 @@
-{"description":"Group a selection of rows\n","example_call":"groupRows(wb, sheet, rows, hidden = FALSE, level = -1)"}

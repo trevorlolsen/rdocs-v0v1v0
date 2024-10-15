@@ -1,1 +1,0 @@
-{"description":"Performs fixed-interval smoothing on a univariate time series via a\nstate-space model.  Fixed-interval smoothing gives the best estimate\nof the state at each time point based on the whole observed series.\n","example_call":"tsSmooth(object, ...)"}

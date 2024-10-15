@@ -1,1 +1,0 @@
-{"description":"Create files, which are then automatically removed afterwards.\n","example_call":"with_file(file, code)"}

@@ -1,1 +1,0 @@
-{"description":"Rather than drawing an xspline (or Bezier curve), this function returns\nthe points that would be used to draw the series of line\nsegments for the xspline.  This may be useful to post-process\nthe xspline curve, for example, to clip the curve.\n","example_call":"xsplinePoints(x)"}

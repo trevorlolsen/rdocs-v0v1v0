@@ -1,1 +1,0 @@
-{"description":"Fast calculation of 'z <- x OP y' and 'z <- t(t(x) OP y)', where OP can be\n+, -, *, and /.  For + and *, na.rm = TRUE will drop missing values first.\n","example_call":"t_tx_OP_y(x, y, OP, xrows = NULL, xcols = NULL, yidxs = NULL,"}

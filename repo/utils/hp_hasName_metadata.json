@@ -1,1 +1,0 @@
-{"description":"hasName is a convenient way to test for one or more names\nin an R object.\n","example_call":"hasName(x, name)"}

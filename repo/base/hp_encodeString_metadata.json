@@ -1,1 +1,0 @@
-{"description":"encodeString escapes the strings in a character vector in the\nsame way print.default does, and optionally fits the encoded\nstrings within a field width.\n","example_call":"encodeString(x, width = 0L, quote = \"\", na.encode = TRUE, justify = c(\"left\","}

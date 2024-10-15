@@ -1,1 +1,0 @@
-{"description":"Produces graphical output from a graphical object.\n","example_call":"grid.draw(x, recording = TRUE)"}

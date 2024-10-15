@@ -1,1 +1,0 @@
-{"description":"This function handles time series plotting, including cut-and-stack plots.\nExamples are given of superposing, juxtaposing and styling\ndifferent time series.\n","example_call":"xyplot.ts(x, data = NULL, screens = if (superpose) 1 else colnames(x),"}

@@ -1,1 +1,0 @@
-{"description":"Plots the mean (or other summary) of the response for two-way\ncombinations of factors, thereby illustrating possible interactions.\n","example_call":"interaction.plot(x.factor, trace.factor, response, fun = mean, type = c(\"l\","}

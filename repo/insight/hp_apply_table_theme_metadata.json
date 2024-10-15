@@ -1,1 +1,0 @@
-{"description":"Data frame and Tables Pretty Formatting\n","example_call":"apply_table_theme(out, x, theme = \"default\", sub_header_positions = NULL)"}

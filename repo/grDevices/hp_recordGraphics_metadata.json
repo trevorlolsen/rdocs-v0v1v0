@@ -1,1 +1,0 @@
-{"description":"Records arbitrary code on the graphics engine display list.\nUseful for encapsulating calculations with graphical output\nthat depends on the calculations.\nIntended only for expert use.\n","example_call":"recordGraphics(expr, list, env)"}

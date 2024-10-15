@@ -1,1 +1,0 @@
-{"description":"unzip_process() returns an R6 class that represents an unzip process.\nIt is implemented as a subclass of processx::process.\n","example_call":"unzip_process()"}

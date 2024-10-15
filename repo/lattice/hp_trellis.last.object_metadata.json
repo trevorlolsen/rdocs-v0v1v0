@@ -1,1 +1,0 @@
-{"description":"Update method for objects of class \"trellis\", and a way to retrieve\nthe last printed trellis object (that was saved).\n","example_call":"trellis.last.object(..., prefix = lattice.getStatus(\"current.prefix\"))"}

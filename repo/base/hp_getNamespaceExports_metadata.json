@@ -1,1 +1,0 @@
-{"description":"Internal functions to support reflection on namespace objects.\n","example_call":"getNamespaceExports(ns)"}

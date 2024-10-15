@@ -1,1 +1,0 @@
-{"description":"tempfile returns a vector of character strings which can be used as\nnames for temporary files.\n","example_call":"tempfile(pattern = \"file\", tmpdir = tempdir(), fileext = \"\")"}

@@ -1,1 +1,0 @@
-{"description":"Delete contents and styling from a cell.\n","example_call":"deleteData(wb, sheet, cols, rows, gridExpand = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Performs a Quade test with unreplicated blocked data.\n","example_call":"quade.test(y, ...)"}

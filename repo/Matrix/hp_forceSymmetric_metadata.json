@@ -1,1 +1,0 @@
-{"description":"Force a square matrix x to a symmetricMatrix,\nwithout a symmetry check as it would be applied for as(x,\n    \"symmetricMatrix\").\n","example_call":"forceSymmetric(x, uplo)"}

@@ -1,1 +1,0 @@
-{"description":"Investigates the behavior of the objective function near the solution\nrepresented by fitted.\n","example_call":"profile(fitted, ...)"}

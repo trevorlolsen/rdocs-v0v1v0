@@ -1,1 +1,0 @@
-{"description":"This is a panel function that can create a violin plot.  It is\ntypically used in a high-level call to bwplot.\n","example_call":"panel.violin(x, y, box.ratio = 1, box.width = box.ratio/(1 + box.ratio),"}

@@ -1,1 +1,0 @@
-{"description":"Set worksheet column widths to specific width or \"auto\".\n","example_call":"setColWidths(wb, sheet, cols, widths = 8.43, hidden = rep(FALSE,"}

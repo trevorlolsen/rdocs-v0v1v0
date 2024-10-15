@@ -1,1 +1,0 @@
-{"description":"This is a quick and dirty way to get map data (from the maps package)\nonto your plot. This is a good place to start if you need some crude\nreference lines, but you'll typically want something more sophisticated\nfor communication graphics.\n","example_call":"borders(database = \"world\", regions = \".\", fill = NA, colour = \"grey50\","}

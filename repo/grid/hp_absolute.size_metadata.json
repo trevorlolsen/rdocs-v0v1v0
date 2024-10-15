@@ -1,1 +1,0 @@
-{"description":"This function converts a unit object into absolute units.\nAbsolute units are unaffected, but non-absolute units are\nconverted into \"null\" units.\n","example_call":"absolute.size(unit)"}

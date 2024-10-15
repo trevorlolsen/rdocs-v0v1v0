@@ -1,1 +1,0 @@
-{"description":"\nPlease use tibble::as_tibble() instead.\n","example_call":"tbl_df(data)"}

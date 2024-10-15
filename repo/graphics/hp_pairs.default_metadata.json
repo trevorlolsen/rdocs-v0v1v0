@@ -1,1 +1,0 @@
-{"description":"A matrix of scatterplots is produced.\n","example_call":"pairs.default(x, labels, panel = points, ..., horInd = 1:nc, verInd = 1:nc,"}

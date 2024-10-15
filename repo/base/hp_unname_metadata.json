@@ -1,1 +1,0 @@
-{"description":"Remove the names or dimnames attribute of\nan R object.\n","example_call":"unname(obj, force = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"The generated hash is guaranteed to be reproducible across platforms that\nhave the same endianness and are using the same R version.\n","example_call":"hash(x)"}

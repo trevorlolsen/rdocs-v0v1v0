@@ -1,1 +1,0 @@
-{"description":"Remove matches, i.e. replace them with \"\".\n","example_call":"str_remove(string, pattern)"}

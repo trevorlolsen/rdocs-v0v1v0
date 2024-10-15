@@ -1,1 +1,0 @@
-{"description":"imap(x, ...), an indexed map, is short hand for\nmap2(x, names(x), ...) if x has names, or map2(x, seq_along(x), ...)\nif it does not. This is useful if you need to compute on both the value\nand the position of an element.\n","example_call":"imap_lgl(.x, .f, ...)"}

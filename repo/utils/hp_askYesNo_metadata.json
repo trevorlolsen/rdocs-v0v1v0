@@ -1,1 +1,0 @@
-{"description":"askYesNo provides a standard way to ask the user a yes/no question.  \nIt provides a way for front-ends to substitute their own dialogs.\n","example_call":"askYesNo(msg, default = TRUE, prompts = getOption(\"askYesNo\","}

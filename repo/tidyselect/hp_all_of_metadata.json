@@ -1,1 +1,0 @@
-{"description":"These selection helpers select variables\ncontained in a character vector. They are especially useful for\nprogramming with selecting functions.\n","example_call":"all_of(x)"}

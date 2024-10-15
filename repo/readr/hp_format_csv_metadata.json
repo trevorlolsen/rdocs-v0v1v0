@@ -1,1 +1,0 @@
-{"description":"These functions are equivalent to write_csv() etc., but instead\nof writing to disk, they return a string.\n","example_call":"format_csv(x, na = \"NA\", append = FALSE, col_names = !append,"}

@@ -1,1 +1,0 @@
-{"description":"contrib.url adds the appropriate type-specific path within a\nrepository to each URL in repos.\n","example_call":"contrib.url(repos, type = getOption(\"pkgType\"))"}

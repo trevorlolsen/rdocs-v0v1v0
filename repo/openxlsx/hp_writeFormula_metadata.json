@@ -1,1 +1,0 @@
-{"description":"Write a a character vector containing Excel formula to a worksheet.\n","example_call":"writeFormula(wb, sheet, x, startCol = 1, startRow = 1, array = FALSE,"}

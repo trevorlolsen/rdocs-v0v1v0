@@ -1,1 +1,0 @@
-{"description":"Smooth the (x, y) values by Friedman's <U+2018>super smoother<U+2019>.\n","example_call":"supsmu(x, y, wt = rep(1, n), span = \"cv\", periodic = FALSE,"}

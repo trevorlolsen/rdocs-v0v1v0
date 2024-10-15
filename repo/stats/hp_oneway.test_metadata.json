@@ -1,1 +1,0 @@
-{"description":"Test whether two or more samples from normal distributions have the\nsame means.  The variances are not necessarily assumed to be equal.\n","example_call":"oneway.test(formula, data, subset, na.action, var.equal = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Get details of the numerical and monetary representations in the\ncurrent locale.\n","example_call":"Sys.localeconv()"}

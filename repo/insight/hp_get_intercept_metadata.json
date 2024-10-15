@@ -1,1 +1,0 @@
-{"description":"Returns the value at the intercept (i.e., the intercept\nparameter), and NA if there isn't one.\n","example_call":"get_intercept(x, ...)"}

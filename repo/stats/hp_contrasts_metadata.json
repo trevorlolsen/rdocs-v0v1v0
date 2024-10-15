@@ -1,1 +1,0 @@
-{"description":"Set and view the contrasts associated with a factor.\n","example_call":"contrasts(x, contrasts = TRUE, sparse = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"This compares two R objects, identifying the key differences. It:\n","example_call":"compare(x, y, ..., x_arg = \"old\", y_arg = \"new\", tolerance = NULL,"}

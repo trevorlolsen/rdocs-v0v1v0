@@ -1,1 +1,0 @@
-{"description":"Evaluate an approximate Hessian and gradient of a scalar function\nusing finite differences.\n","example_call":"fdHess(pars, fun, ..., .relStep = .Machine$double.eps^(1/3),"}

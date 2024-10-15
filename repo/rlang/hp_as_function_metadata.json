@@ -1,1 +1,0 @@
-{"description":"as_function() transforms a one-sided formula into a function.\nThis powers the lambda syntax in packages like purrr.\n","example_call":"as_function(x, env = global_env(), ..., arg = caller_arg(x), call = caller_env())"}

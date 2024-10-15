@@ -1,1 +1,0 @@
-{"description":"Assesses whether points are inside a boundary. The boundary must enclose the\ndomain, but may include islands. \n","example_call":"inSide(bnd, x, y)"}

@@ -1,1 +1,0 @@
-{"description":"The idea behind auto_test() is that you just leave it running while\nyou develop your code.  Every time you save a file it will be automatically\ntested and you can easily see if your changes have caused any test\nfailures.\n","example_call":"auto_test(code_path, test_path, reporter = default_reporter(),"}

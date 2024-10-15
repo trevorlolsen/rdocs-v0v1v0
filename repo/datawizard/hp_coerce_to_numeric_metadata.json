@@ -1,1 +1,0 @@
-{"description":"Tries to convert vector to numeric if possible (if no warnings or errors).\nOtherwise, leaves it as is.\n","example_call":"coerce_to_numeric(x)"}

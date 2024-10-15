@@ -1,1 +1,0 @@
-{"description":"Parse a YAML string and return R objects.\n","example_call":"yaml.load_file(input, error.label, readLines.warn = TRUE, ...)"}

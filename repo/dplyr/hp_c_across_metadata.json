@@ -1,1 +1,0 @@
-{"description":"c_across() is designed to work with rowwise() to make it easy to\nperform row-wise aggregations. It has two differences from c():\n","example_call":"c_across(cols)"}

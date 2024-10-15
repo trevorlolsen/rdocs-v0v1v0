@@ -1,1 +1,0 @@
-{"description":"Performs a normalization of data, i.e., it scales variables in the range\n0 - 1. This is a special case of rescale(). unnormalize() is the\ncounterpart, but only works for variables that have been normalized with\nnormalize().\n","example_call":"normalize(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"From an R object coercible to \"TsparseMatrix\",\ntypically a (sparse) matrix, produce its triplet representation which may\ncollapse to a <U+201C>Duplet<U+201D> in the case of binary aka pattern, such as\n\"nMatrix\" objects.\n","example_call":"mat2triplet(x, uniqT = FALSE)"}

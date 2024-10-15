@@ -1,1 +1,0 @@
-{"description":"A nest join leaves x almost unchanged, except that it adds a new\nlist-column, where each element contains the rows from y that match the\ncorresponding row in x.\n","example_call":"nest_join(x, y, by = NULL, copy = FALSE, keep = NULL, name = NULL,"}

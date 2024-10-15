@@ -1,1 +1,0 @@
-{"description":"Draw line segments between pairs of points.\n","example_call":"segments(x0, y0, x1 = x0, y1 = y0, col = par(\"fg\"), lty = par(\"lty\"),"}

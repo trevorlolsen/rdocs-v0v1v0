@@ -1,1 +1,0 @@
-{"description":"The filter() function is used to subset a data frame,\nretaining all rows that satisfy your conditions.\nTo be retained, the row must produce a value of TRUE for all conditions.\nNote that when a condition evaluates to NA\nthe row will be dropped, unlike base subsetting with [.\n","example_call":"filter(.data, ..., .by = NULL, .preserve = FALSE)"}

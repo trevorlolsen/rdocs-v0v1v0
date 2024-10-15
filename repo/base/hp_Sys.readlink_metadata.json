@@ -1,1 +1,0 @@
-{"description":"Find out if a file path is a symbolic link, and if so what it is\nlinked to, via the system call readlink.\n","example_call":"Sys.readlink(paths)"}

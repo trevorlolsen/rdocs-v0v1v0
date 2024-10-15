@@ -1,1 +1,0 @@
-{"description":"grid adds an nx by ny rectangular grid to an\nexisting plot.\n","example_call":"grid(nx = NULL, ny = nx, col = \"lightgray\", lty = \"dotted\","}

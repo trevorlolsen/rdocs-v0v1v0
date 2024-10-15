@@ -1,1 +1,0 @@
-{"description":"This selfStart model evaluates the first-order compartment\nfunction and its gradient.  It has an initial attribute that\ncreates initial estimates of the parameters lKe, lKa,\nand lCl.\n","example_call":"SSfol(Dose, input, lKe, lKa, lCl)"}

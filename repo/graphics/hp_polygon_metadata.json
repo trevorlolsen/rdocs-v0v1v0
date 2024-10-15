@@ -1,1 +1,0 @@
-{"description":"polygon draws the polygons whose vertices are\ngiven in x and y.\n","example_call":"polygon(x, y = NULL, density = NULL, angle = 45, border = NULL,"}

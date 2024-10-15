@@ -1,1 +1,0 @@
-{"description":"This is a special guide that can be used to display any graphical object\n(grob) along with the regular guides. This guide has no associated scale.\n","example_call":"guide_custom(grob, width = grobWidth(grob), height = grobHeight(grob),"}

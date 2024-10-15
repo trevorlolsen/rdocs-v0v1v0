@@ -1,1 +1,0 @@
-{"description":"Data is partitioned according to the levels of the grouping\nfactor g and individual lm fits are obtained for each\ndata partition, using the model defined in object.\n","example_call":"lmList.formula(object, data, level, subset, na.action = na.fail, pool = TRUE,"}

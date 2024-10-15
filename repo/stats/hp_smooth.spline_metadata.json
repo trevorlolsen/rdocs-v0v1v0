@@ -1,1 +1,0 @@
-{"description":"Fits a cubic smoothing spline to the supplied data.\n","example_call":"smooth.spline(x, y = NULL, w = NULL, df, spar = NULL, lambda = NULL,"}

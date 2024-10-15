@@ -1,1 +1,0 @@
-{"description":"A generic function for converting mgcv smooth objects to forms suitable for estimation as random effects by e.g. lme. Exported mostly for use by other package developers. \n","example_call":"smooth2random(object, vnames, type = 1)"}

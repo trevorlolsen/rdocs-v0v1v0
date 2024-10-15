@@ -1,1 +1,0 @@
-{"description":"This function takes a formula and some optional arguments and\nconstructs a terms object. The terms object can then be used to\nconstruct a model.matrix.\n","example_call":"terms.formula(x, specials = NULL, abb = NULL, data = NULL, neg.out = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"str_dup() duplicates the characters within a string, e.g.\nstr_dup(\"xy\", 3) returns \"xyxyxy\".\n","example_call":"str_dup(string, times)"}

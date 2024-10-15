@@ -1,1 +1,0 @@
-{"description":"This function converts the first letter in a string into upper case.\n","example_call":"format_capitalize(x, verbose = TRUE)"}

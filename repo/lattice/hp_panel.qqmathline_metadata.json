@@ -1,1 +1,0 @@
-{"description":"Useful panel function with qqmath. Draws a line passing through the\npoints (usually) determined by the .25 and .75 quantiles of the sample\nand the theoretical distribution.\n","example_call":"panel.qqmathline(x, y = x, distribution = qnorm, probs = c(0.25, 0.75),"}

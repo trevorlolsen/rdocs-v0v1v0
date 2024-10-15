@@ -1,1 +1,0 @@
-{"description":"Compute a weighted mean.\n","example_call":"weighted.mean(x, w, ...)"}

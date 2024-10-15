@@ -1,1 +1,0 @@
-{"description":"Computes a weighted variance / standard deviation of a numeric vector or\nacross rows or columns of a matrix.\n","example_call":"colWeightedVars(x, w = NULL, rows = NULL, cols = NULL, na.rm = FALSE,"}

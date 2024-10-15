@@ -1,1 +1,0 @@
-{"description":"is_bare_environment() tests whether x is an environment without a s3 or\ns4 class.\n","example_call":"is_bare_environment(x)"}

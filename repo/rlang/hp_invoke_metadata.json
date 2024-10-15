@@ -1,1 +1,0 @@
-{"description":"\nDeprecated in rlang 0.4.0 in favour of exec().\n","example_call":"invoke(.fn, .args = list(), ..., .env = caller_env(), .bury = c(\".fn\","}

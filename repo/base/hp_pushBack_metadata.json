@@ -1,1 +1,0 @@
-{"description":"Functions to push back text lines onto a connection, and to enquire\nhow many lines are currently pushed back.\n","example_call":"pushBack(data, connection, newLine = TRUE, encoding = c(\"\","}

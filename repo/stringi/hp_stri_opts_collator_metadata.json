@@ -1,1 +1,0 @@
-{"description":"A convenience function to tune the ICU Collator's behavior,\ne.g., in stri_compare, stri_order,\nstri_unique, stri_duplicated,\nas well as stri_detect_coll\nand other stringi-search-coll functions.\n","example_call":"stri_opts_collator(locale = NULL, strength = 3L, alternate_shifted = FALSE,"}

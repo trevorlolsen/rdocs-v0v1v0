@@ -1,1 +1,0 @@
-{"description":"An example of a simple useful panel function to be used as\nargument in e.g., coplot or pairs.\n","example_call":"panel.smooth(x, y, col = par(\"col\"), bg = NA, pch = par(\"pch\"),"}

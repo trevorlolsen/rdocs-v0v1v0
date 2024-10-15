@@ -1,1 +1,0 @@
-{"description":"Duplicates each str(e1) string times(e2) times\nand concatenates the results.\n","example_call":"stri_dup(str, times)"}

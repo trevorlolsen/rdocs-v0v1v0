@@ -1,1 +1,0 @@
-{"description":"Computes the generalised Kronecker product of two arrays,\nX and Y.\n","example_call":"kronecker(X, Y, FUN = \"*\", make.dimnames = FALSE, ...)"}

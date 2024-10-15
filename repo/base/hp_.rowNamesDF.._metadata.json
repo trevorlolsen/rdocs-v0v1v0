@@ -1,1 +1,0 @@
-{"description":"All data frames have row names, a character vector of\nlength the number of rows with no duplicates nor missing values.\n","example_call":".rowNamesDF<-(x, make.names = FALSE, value)"}

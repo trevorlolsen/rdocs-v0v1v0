@@ -1,1 +1,0 @@
-{"description":"Returns a function that maps the interval [0,1] to a set of colours.\nInterpolation is performed in the CIELAB colour space. Similar to\ncolorRamp(space = 'Lab'), but hundreds of\ntimes faster, and provides results in \"#RRGGBB\" (or\n\"#RRGGBBAA\") character form instead of RGB colour matrices.\n","example_call":"colour_ramp(colors, na.color = NA, alpha = TRUE)"}

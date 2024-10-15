@@ -1,1 +1,0 @@
-{"description":"Merge (join) two data frames, or a list of data frames. However, unlike\nbase R's merge(), data_merge() offers a few more methods to join data\nframes, and it does not drop data frame nor column attributes.\n","example_call":"data_merge(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"For local_options() and push_options(), the old option\nvalues. peek_option() returns the current value of an option\nwhile the plural peek_options() returns a list of current\noption values.\n","example_call":"local_options(..., .frame = caller_env())"}

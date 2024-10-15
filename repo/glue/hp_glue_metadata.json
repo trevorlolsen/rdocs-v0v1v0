@@ -1,1 +1,0 @@
-{"description":"Expressions enclosed by braces will be evaluated as R code. Long strings are\nbroken by line and concatenated together. Leading whitespace and blank lines\nfrom the first and last lines are automatically trimmed.\n","example_call":"glue(..., .sep = \"\", .envir = parent.frame(), .open = \"{\","}

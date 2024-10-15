@@ -1,1 +1,0 @@
-{"description":"caller_arg() is a variant of substitute() or ensym() for\narguments that reference other arguments. Unlike substitute()\nwhich returns an expression, caller_arg() formats the expression\nas a single line string which can be included in error messages.\n","example_call":"caller_arg(arg)"}

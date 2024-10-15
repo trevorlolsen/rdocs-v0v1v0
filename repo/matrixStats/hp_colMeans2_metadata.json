@@ -1,1 +1,0 @@
-{"description":"Calculates the mean for each row (column) in a matrix.\n","example_call":"colMeans2(x, rows = NULL, cols = NULL, na.rm = FALSE, refine = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"Fit an analysis of variance model by a call to lm (for each\nstratum if an Error(.) is used).\n","example_call":"aov(formula, data = NULL, projections = FALSE, qr = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"Perform cubic (or Hermite) spline interpolation of given data points,\nreturning either a list of points obtained by the interpolation or a\nfunction performing the interpolation.\n","example_call":"splinefunH(x, y, m)"}

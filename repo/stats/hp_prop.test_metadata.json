@@ -1,1 +1,0 @@
-{"description":"prop.test can be used for testing the null that the\nproportions (probabilities of success) in several groups are the\nsame, or that they equal certain given values.\n","example_call":"prop.test(x, n, p = NULL, alternative = c(\"two.sided\", \"less\","}

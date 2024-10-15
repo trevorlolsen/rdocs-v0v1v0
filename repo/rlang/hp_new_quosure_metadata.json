@@ -1,1 +1,0 @@
-{"description":null,"example_call":"new_quosure(expr, env = caller_env())"}

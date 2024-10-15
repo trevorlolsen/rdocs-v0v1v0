@@ -1,1 +1,0 @@
-{"description":"Interpolates missing values provided in the training dataset using the\nfitted model.\n","example_call":"interpolate(object, ...)"}

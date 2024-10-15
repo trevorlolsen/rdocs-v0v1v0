@@ -1,1 +1,0 @@
-{"description":"The function checks whether all bytes in a string are <= 127.\n","example_call":"stri_enc_isascii(str)"}

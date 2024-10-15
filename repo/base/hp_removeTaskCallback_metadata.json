@@ -1,1 +1,0 @@
-{"description":"addTaskCallback registers an R function\nthat is to be called each time a top-level task\nis completed.\n","example_call":"removeTaskCallback(id)"}

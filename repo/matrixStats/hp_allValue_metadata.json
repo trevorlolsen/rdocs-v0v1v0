@@ -1,1 +1,0 @@
-{"description":"Checks if a value exists / does not exist in each row (column) of a matrix.\n","example_call":"allValue(x, idxs = NULL, value = TRUE, na.rm = FALSE, ...)"}

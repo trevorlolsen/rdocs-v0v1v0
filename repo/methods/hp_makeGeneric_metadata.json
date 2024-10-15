@@ -1,1 +1,0 @@
-{"description":"Utility functions to support the definition and use of formal\nmethods.  Most of these functions will not normally be called directly\nby the user.\n","example_call":"makeGeneric(f, fdef, fdefault = fdef, group = list(), valueClass = character(),"}

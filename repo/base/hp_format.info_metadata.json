@@ -1,1 +1,0 @@
-{"description":"Information is returned on how format(x, digits, nsmall)\nwould be formatted.\n","example_call":"format.info(x, digits = NULL, nsmall = 0L)"}

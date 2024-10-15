@@ -1,1 +1,0 @@
-{"description":"This uses system facilities to convert a character vector between\nencodings: the <U+2018>i<U+2019> stands for <U+2018>internationalization<U+2019>.\n","example_call":"iconv(x, from = \"\", to = \"\", sub = NA, mark = TRUE, toRaw = FALSE)"}

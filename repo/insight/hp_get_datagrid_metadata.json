@@ -1,1 +1,0 @@
-{"description":"Create a reference matrix, useful for visualisation, with evenly spread and\ncombined values. Usually used to make generate predictions using get_predicted().\nSee this vignette\nfor a tutorial on how to create a visualisation matrix using this function.\n","example_call":"get_datagrid(x, ...)"}

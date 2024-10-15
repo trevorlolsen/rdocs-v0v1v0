@@ -1,1 +1,0 @@
-{"description":"This is a simple wrapper around eval(parse()), used as the default\ntransformer.\n","example_call":"identity_transformer(text, envir = parent.frame())"}

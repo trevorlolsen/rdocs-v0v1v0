@@ -1,1 +1,0 @@
-{"description":"These functions compute the width or height, respectively, of the\ngiven strings or mathematical expressions s[i] on\nthe current plotting device in user coordinates, inches\nor as fraction of the figure width par(\"fin\").\n","example_call":"strheight(s, units = \"user\", cex = NULL, font = NULL, vfont = NULL,"}

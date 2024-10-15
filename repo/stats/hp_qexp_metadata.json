@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the exponential distribution with rate rate\n(i.e., mean 1/rate).\n","example_call":"qexp(p, rate = 1, lower.tail = TRUE, log.p = FALSE)"}

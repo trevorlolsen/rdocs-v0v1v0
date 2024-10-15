@@ -1,1 +1,0 @@
-{"description":"This is a generalisation of split() that can split by any type of vector,\nnot just factors. Instead of returning the keys in the character names,\nthe are returned in a separate parallel vector.\n","example_call":"vec_split(x, by)"}

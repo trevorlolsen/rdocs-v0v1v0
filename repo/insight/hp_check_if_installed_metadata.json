@@ -1,1 +1,0 @@
-{"description":"Checking if needed package is installed\n","example_call":"check_if_installed(package, reason = \"for this function to work\", stop = TRUE,"}

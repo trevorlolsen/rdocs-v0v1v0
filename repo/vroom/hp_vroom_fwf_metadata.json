@@ -1,1 +1,0 @@
-{"description":"Read a fixed width file into a tibble\n","example_call":"vroom_fwf(file, col_positions = fwf_empty(file, skip, n = guess_max),"}

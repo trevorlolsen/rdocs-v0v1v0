@@ -1,1 +1,0 @@
-{"description":"Extract or print loadings in factor analysis (or principal\ncomponents analysis).\n","example_call":"loadings(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Returns a character vector of the Munsell hues in hue order starting at 2.5R and excluding grey (\"N\").\n","example_call":"mnsl_hues()"}

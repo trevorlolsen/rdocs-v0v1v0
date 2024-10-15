@@ -1,1 +1,0 @@
-{"description":"This is useful for benchmarking, but also for bug reports when you cannot\nshare the real dataset.\n","example_call":"gen_tbl(rows, cols = NULL, col_types = NULL, locale = default_locale(),"}

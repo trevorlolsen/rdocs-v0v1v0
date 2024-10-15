@@ -1,1 +1,0 @@
-{"description":"You can either check for the presence of names (leaving expected\nblank), specific names (by supplying a vector of names), or absence of\nnames (with NULL).\n","example_call":"expect_named(object, expected, ignore.order = FALSE, ignore.case = FALSE,"}

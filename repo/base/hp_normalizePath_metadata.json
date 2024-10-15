@@ -1,1 +1,0 @@
-{"description":"Convert file paths to canonical form for the platform, to display them\nin a user-understandable form and so that relative and absolute paths can\nbe compared.\n","example_call":"normalizePath(path, winslash = \"\\\\\", mustWork = NA)"}

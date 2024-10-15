@@ -1,1 +1,0 @@
-{"description":"path_package differs from system.file() in that it always returns an\nerror if the package does not exist. It also returns a different error if\nthe file within the package does not exist.\n","example_call":"path_package(package, ...)"}

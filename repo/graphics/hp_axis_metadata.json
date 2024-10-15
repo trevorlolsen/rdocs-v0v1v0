@@ -1,1 +1,0 @@
-{"description":"Generic function to add a suitable axis to the current plot.\n","example_call":"Axis(x = NULL, at = NULL, ..., side, labels = NULL)"}

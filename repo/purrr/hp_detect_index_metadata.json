@@ -1,1 +1,0 @@
-{"description":"Find the value or position of the first match\n","example_call":"detect_index(.x, .f, ..., .dir = c(\"forward\", \"backward\"), .right = NULL)"}

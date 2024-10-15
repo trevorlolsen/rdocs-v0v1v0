@@ -1,1 +1,0 @@
-{"description":"Functions to handle settings used by lattice.  Their main purpose is\nto make code maintainance easier, and users normally should not need\nto use these functions.  However, fine control at this level maybe\nuseful in certain cases.\n","example_call":"lattice.options(...)"}

@@ -1,1 +1,0 @@
-{"description":"Gives a list of attached packages\n(see library), and R objects, usually\ndata.frames.\n","example_call":"searchpaths()"}

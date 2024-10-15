@@ -1,1 +1,0 @@
-{"description":"R file connections which are automatically closed.\n","example_call":"local_connection(con, .local_envir = parent.frame())"}

@@ -1,1 +1,0 @@
-{"description":"Estimates quantiles for each row (column) in a matrix.\n","example_call":"colQuantiles(x, rows = NULL, cols = NULL, probs = seq(from = 0,"}

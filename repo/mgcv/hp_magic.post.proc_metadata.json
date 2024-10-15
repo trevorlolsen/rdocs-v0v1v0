@@ -1,1 +1,0 @@
-{"description":"Obtains Bayesian parameter covariance matrix, frequentist\nparameter estimator covariance matrix, estimated degrees of \nfreedom for each parameter and leading diagonal of influence/hat matrix, \nfor a penalized regression estimated by magic.\n","example_call":"magic.post.proc(X, object, w = NULL)"}

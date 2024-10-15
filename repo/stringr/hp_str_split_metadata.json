@@ -1,1 +1,0 @@
-{"description":"This family of functions provides various ways of splitting a string up\ninto pieces. These two functions return a character vector:\n","example_call":"str_split(string, pattern, n = Inf, simplify = FALSE)"}

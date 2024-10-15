@@ -1,1 +1,0 @@
-{"description":"This functions recodes values from one or more variables into a new variable.\nIt is a convenient function to avoid nested ifelse() statements, which\nis similar to dplyr::case_when().\n","example_call":"recode_into(..., data = NULL, default = NA, overwrite = TRUE, preserve_na = FALSE,"}

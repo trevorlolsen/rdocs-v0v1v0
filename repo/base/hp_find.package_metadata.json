@@ -1,1 +1,0 @@
-{"description":"Find the paths to one or more packages.\n","example_call":"find.package(package = NULL, lib.loc = NULL, quiet = FALSE, verbose = getOption(\"verbose\"))"}

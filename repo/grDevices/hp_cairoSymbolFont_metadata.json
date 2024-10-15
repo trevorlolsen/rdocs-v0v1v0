@@ -1,1 +1,0 @@
-{"description":"Specify a symbol font for a Cairo-based graphics device.\nThis function provides the opportunity to specify whether the font\nsupports Private Use Area code points.\n","example_call":"cairoSymbolFont(family, usePUA = TRUE)"}

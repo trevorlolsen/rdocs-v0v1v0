@@ -1,1 +1,0 @@
-{"description":"Return the matrix obtained by converting all the variables in a data\nframe to numeric mode and then binding them together as the columns of\na matrix.  Factors and ordered factors are replaced by their internal\ncodes.\n","example_call":"data.matrix(frame, rownames.force = NA)"}

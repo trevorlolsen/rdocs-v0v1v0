@@ -1,1 +1,0 @@
-{"description":"As timespan units span a variety of bases (1000 below seconds, 60 for second\nand minutes, 24 for hours, and 7 for days), the range of the input data\ndetermines the base used for calculating breaks\n","example_call":"breaks_timespan(unit = c(\"secs\", \"mins\", \"hours\", \"days\", \"weeks\"),"}

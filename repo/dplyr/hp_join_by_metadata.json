@@ -1,1 +1,0 @@
-{"description":"join_by() constructs a specification that describes how to join two tables\nusing a small domain specific language. The result can be supplied as the\nby argument to any of the join functions (such as left_join()).\n","example_call":"join_by(...)"}

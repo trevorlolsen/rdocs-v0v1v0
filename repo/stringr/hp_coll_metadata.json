@@ -1,1 +1,0 @@
-{"description":"Modifier functions control the meaning of the pattern argument to\nstringr functions:\n","example_call":"coll(pattern, ignore_case = FALSE, locale = \"en\", ...)"}

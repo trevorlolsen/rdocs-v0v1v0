@@ -1,1 +1,0 @@
-{"description":"Retrieve a grob or a descendant of a grob.\n","example_call":"grid.gget(..., grep = TRUE, global = TRUE)"}

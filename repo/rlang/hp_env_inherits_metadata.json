@@ -1,1 +1,0 @@
-{"description":"This returns TRUE if x has ancestor among its parents.\n","example_call":"env_inherits(env, ancestor)"}

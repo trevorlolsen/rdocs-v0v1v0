@@ -1,1 +1,0 @@
-{"description":"notLog2 and notExp2 are alternatives to log\nand exp or notLog and notExp for\nre-parameterization of variance parameters. They are used by the\npdTens and pdIdnot classes which in turn implement\nsmooths for gamm.\n","example_call":"notExp2(x, d = .Options$mgcv.vc.logrange, b = 1/d)"}

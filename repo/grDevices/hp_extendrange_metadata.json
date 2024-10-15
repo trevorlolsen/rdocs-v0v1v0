@@ -1,1 +1,0 @@
-{"description":"Extends a numerical range by a small percentage, i.e., fraction,\non both sides.\n","example_call":"extendrange(x, r = range(x, na.rm = TRUE), f = 0.05)"}

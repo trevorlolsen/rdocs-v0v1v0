@@ -1,1 +1,0 @@
-{"description":"reversing transformation works by multiplying the input with -1. This means\nthat reverse transformation cannot easily be composed with transformations\nthat require positive input unless the reversing is done as a final step.\n","example_call":"reverse_trans()"}

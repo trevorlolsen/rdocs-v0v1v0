@@ -1,1 +1,0 @@
-{"description":"Informally, a vector is a collection that makes sense to use as column in a\ndata frame. The following rules define whether or not x is considered a\nvector.\n","example_call":"vec_check_size(x, size, ..., arg = caller_arg(x), call = caller_env())"}

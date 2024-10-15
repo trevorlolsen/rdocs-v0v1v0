@@ -1,1 +1,0 @@
-{"description":"local_error_call() is an alternative to explicitly passing a\ncall argument to abort(). It sets the call (or a value that\nindicates where to find the call, see below) in a local binding\nthat is automatically picked up by abort().\n","example_call":"local_error_call(call, frame = caller_env())"}

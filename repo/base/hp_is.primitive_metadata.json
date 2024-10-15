@@ -1,1 +1,0 @@
-{"description":"Checks whether its argument is a (primitive) function.","example_call":"is.primitive(x)"}

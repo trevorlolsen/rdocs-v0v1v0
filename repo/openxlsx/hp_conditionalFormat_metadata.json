@@ -1,1 +1,0 @@
-{"description":"DEPRECATED! USE conditionalFormatting()\n","example_call":"conditionalFormat(wb, sheet, cols, rows, rule = NULL, style = NULL, type = \"expression\")"}

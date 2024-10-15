@@ -1,1 +1,0 @@
-{"description":"Produces summary measures of concurvity between gam components.\n","example_call":"concurvity(b, full = TRUE)"}

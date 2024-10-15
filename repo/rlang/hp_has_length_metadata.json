@@ -1,1 +1,0 @@
-{"description":"This is a function for the common task of testing the length of an\nobject. It checks the length of an object in a non-generic way:\nbase::length() methods are ignored.\n","example_call":"has_length(x, n = NULL)"}

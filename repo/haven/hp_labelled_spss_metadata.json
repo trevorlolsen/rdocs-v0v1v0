@@ -1,1 +1,0 @@
-{"description":"This class is only used when user_na = TRUE in\nread_sav(). It is similar to the labelled() class\nbut it also models SPSS's user-defined missings, which can be up to\nthree distinct values, or for numeric vectors a range.\n","example_call":"labelled_spss(x = double(), labels = NULL, na_values = NULL, na_range = NULL,"}

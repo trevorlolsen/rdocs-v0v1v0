@@ -1,1 +1,0 @@
-{"description":"This function describes a distribution by a set of indices (e.g., measures of\ncentrality, dispersion, range, skewness, kurtosis).\n","example_call":"describe_distribution(x, ...)"}

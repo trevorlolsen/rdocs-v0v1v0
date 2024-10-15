@@ -1,1 +1,0 @@
-{"description":"In rlang, an expression is the return type of parse_expr(), the\nset of objects that can be obtained from parsing R code. Under this\ndefinition expressions include numbers, strings, NULL, symbols,\nand function calls. These objects can be classified as:\n","example_call":"is_expression(x)"}

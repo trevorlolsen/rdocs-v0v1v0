@@ -1,1 +1,0 @@
-{"description":"residuals is a generic function which extracts model residuals\nfrom objects returned by modeling functions.\n","example_call":"residuals(object, ...)"}

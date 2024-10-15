@@ -1,1 +1,0 @@
-{"description":"Note: This operator is now out of scope for rlang. It will be\nreplaced by a vctrs-powered operator (probably in the funs package) at which point the\nrlang version of <U+2060>%|%<U+2060> will be deprecated.\n","example_call":"%|%(x, y)"}

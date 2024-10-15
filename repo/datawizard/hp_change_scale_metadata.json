@@ -1,1 +1,0 @@
-{"description":"Rescale variables to a new range. Can also be used to reverse-score variables\n(change the keying/scoring direction), or to expand a range.\n","example_call":"change_scale(x, ...)"}

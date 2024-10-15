@@ -1,1 +1,0 @@
-{"description":"Relabel factor levels with a function, collapsing as necessary\n","example_call":"fct_relabel(.f, .fun, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Extract files from or list a zip archive.\n","example_call":"unzip(zipfile, files = NULL, list = FALSE, overwrite = TRUE,"}

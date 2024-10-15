@@ -1,1 +1,0 @@
-{"description":"Add a worksheet to a Workbook object\n","example_call":"addWorksheet(wb, sheetName, gridLines = openxlsx_getOp(\"gridLines\","}

@@ -1,1 +1,0 @@
-{"description":"menu presents the user with a menu of choices labelled from 1\nto the number of choices.  To exit without choosing an item one can\nselect <U+2018><U+2060>0<U+2060><U+2019>.\n","example_call":"menu(choices, graphics = FALSE, title = NULL)"}

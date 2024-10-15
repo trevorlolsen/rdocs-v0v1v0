@@ -1,1 +1,0 @@
-{"description":"These functions convert strings to NFC, NFKC, NFD, NFKD, or NFKC_Casefold\nUnicode Normalization Form or check whether strings are normalized.\n","example_call":"stri_trans_nfd(str)"}

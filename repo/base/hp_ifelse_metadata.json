@@ -1,1 +1,0 @@
-{"description":"ifelse returns a value with the same shape as\ntest which is filled with elements selected\nfrom either yes or no\ndepending on whether the element of test\nis TRUE or FALSE.\n","example_call":"ifelse(test, yes, no)"}

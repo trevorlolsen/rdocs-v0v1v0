@@ -1,1 +1,0 @@
-{"description":"xinch and yinch convert the specified number of inches\ngiven as their arguments into the correct units for plotting with\ngraphics functions.  Usually, this only makes sense when normal\ncoordinates are used, i.e., no log scale (see the\nlog argument to par).\n","example_call":"xyinch(xy = 1, warn.log = TRUE)"}

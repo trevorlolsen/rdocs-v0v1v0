@@ -1,1 +1,0 @@
-{"description":"These functions parse and transform text into R expressions. This\nis the first step to interpret or evaluate a piece of R code\nwritten by a programmer.\n","example_call":"parse_quo(x, env)"}

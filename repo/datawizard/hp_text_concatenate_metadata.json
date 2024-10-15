@@ -1,1 +1,0 @@
-{"description":"Convenience functions to manipulate and format text.\n","example_call":"text_concatenate(text, sep = \", \", last = \" and \", enclose = NULL)"}

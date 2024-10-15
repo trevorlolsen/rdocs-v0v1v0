@@ -1,1 +1,0 @@
-{"description":"Visualization of color palettes in HCL space projections.\n","example_call":"hclplot(x, type = NULL, h = NULL, c = NULL, l = NULL, xlab = NULL,"}

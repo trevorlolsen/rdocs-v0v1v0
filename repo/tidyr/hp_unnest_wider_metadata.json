@@ -1,1 +1,0 @@
-{"description":"unnest_wider() turns each element of a list-column into a column. It\nis most naturally suited to list-columns where every element is named,\nand the names are consistent from row-to-row.\nunnest_wider() preserves the rows of x while modifying the columns.\n","example_call":"unnest_wider(data, col, names_sep = NULL, simplify = TRUE, strict = FALSE,"}

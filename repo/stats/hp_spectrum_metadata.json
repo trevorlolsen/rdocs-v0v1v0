@@ -1,1 +1,0 @@
-{"description":"The spectrum function estimates the spectral density of a\ntime series.\n","example_call":"spectrum(x, ..., method = c(\"pgram\", \"ar\"))"}

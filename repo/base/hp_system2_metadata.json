@@ -1,1 +1,0 @@
-{"description":"system2 invokes the OS command specified by command.\n","example_call":"system2(command, args = character(), stdout = \"\", stderr = \"\","}

@@ -1,1 +1,0 @@
-{"description":"Create a formula\n","example_call":"new_formula(lhs, rhs, env = caller_env())"}

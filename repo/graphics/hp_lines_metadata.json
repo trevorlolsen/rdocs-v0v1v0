@@ -1,1 +1,0 @@
-{"description":"A generic function taking coordinates given in various ways and\njoining the corresponding points with line segments.\n","example_call":"lines(x, ...)"}

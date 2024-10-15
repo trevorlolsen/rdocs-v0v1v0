@@ -1,1 +1,0 @@
-{"description":"Temporarily change locale settings.\n","example_call":"local_locale(.new = list(), ..., .local_envir = parent.frame())"}

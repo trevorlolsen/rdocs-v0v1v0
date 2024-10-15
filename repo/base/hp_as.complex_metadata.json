@@ -1,1 +1,0 @@
-{"description":"Basic functions which support complex arithmetic in R, in addition to\nthe arithmetic operators +, -, *, /, and ^.\n","example_call":"as.complex(x, ...)"}

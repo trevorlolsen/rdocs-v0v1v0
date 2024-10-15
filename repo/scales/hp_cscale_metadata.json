@@ -1,1 +1,0 @@
-{"description":"Continuous scale\n","example_call":"cscale(x, palette, na.value = NA_real_, trans = transform_identity())"}

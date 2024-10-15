@@ -1,1 +1,0 @@
-{"description":"A waiver is a \"flag\" object, similar to NULL, that indicates the\ncalling function should just use the default value.  It is used in certain\nfunctions to distinguish between displaying nothing (NULL) and\ndisplaying a default value calculated elsewhere (waiver())\n","example_call":"waiver()"}

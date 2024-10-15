@@ -1,1 +1,0 @@
-{"description":"Returns the number of group levels of random effects from mixed models.\n","example_call":"n_grouplevels(x, ...)"}

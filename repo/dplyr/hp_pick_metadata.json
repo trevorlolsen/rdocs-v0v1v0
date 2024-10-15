@@ -1,1 +1,0 @@
-{"description":"pick() provides a way to easily select a subset of columns from your data\nusing select() semantics while inside a\n\"data-masking\" function like mutate() or\nsummarise(). pick() returns a data frame containing the selected columns\nfor the current group.\n","example_call":"pick(...)"}

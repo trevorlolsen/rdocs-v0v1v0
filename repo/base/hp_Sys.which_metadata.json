@@ -1,1 +1,0 @@
-{"description":"This is an interface to the system command which, or to an\nemulation on Windows.\n","example_call":"Sys.which(names)"}

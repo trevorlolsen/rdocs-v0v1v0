@@ -1,1 +1,0 @@
-{"description":"Single or double quote text by combining with appropriate single or\ndouble left and right quotation marks.\n","example_call":"sQuote(x, q = getOption(\"useFancyQuotes\"))"}

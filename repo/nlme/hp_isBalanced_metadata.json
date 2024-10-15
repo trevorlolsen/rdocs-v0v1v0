@@ -1,1 +1,0 @@
-{"description":"Check the design of the experiment or study for balance.\n","example_call":"isBalanced(object, countOnly = FALSE, level)"}

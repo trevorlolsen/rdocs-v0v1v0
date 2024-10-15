@@ -1,1 +1,0 @@
-{"description":"Expand a data frame by replicating rows based on another variable that\ncontains the counts of replications per row.\n","example_call":"data_replicate(data, expand = NULL, select = NULL, exclude = NULL,"}

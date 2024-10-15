@@ -1,1 +1,0 @@
-{"description":"Calls type_sum() to format the type.\nCall format() on the result to render column types.\n","example_call":"new_pillar_type(x, ...)"}

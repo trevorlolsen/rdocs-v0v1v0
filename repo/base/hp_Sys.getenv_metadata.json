@@ -1,1 +1,0 @@
-{"description":"Sys.getenv obtains the values of the environment variables.\n","example_call":"Sys.getenv(x = NULL, unset = \"\", names = NA)"}

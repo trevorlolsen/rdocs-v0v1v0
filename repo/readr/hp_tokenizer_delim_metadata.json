@@ -1,1 +1,0 @@
-{"description":"Explicitly create tokenizer objects. Usually you will not call these\nfunction, but will instead use one of the use friendly wrappers like\nread_csv().\n","example_call":"tokenizer_delim(delim, quote = \"\\\"\", na = \"NA\", quoted_na = TRUE, comment = \"\","}

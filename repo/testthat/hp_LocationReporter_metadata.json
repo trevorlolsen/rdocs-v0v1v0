@@ -1,1 +1,0 @@
-{"description":"This reporter simply prints the location of every expectation and error.\nThis is useful if you're trying to figure out the source of a segfault,\nor you want to figure out which code triggers a C/C++ breakpoint\n","example_call":"NULL"}

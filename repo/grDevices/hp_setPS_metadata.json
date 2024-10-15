@@ -1,1 +1,0 @@
-{"description":"The auxiliary function ps.options can be used to set or view\n(if called without arguments) the default values for some of the\narguments to postscript.\n","example_call":"setPS(...)"}

@@ -1,1 +1,0 @@
-{"description":"Functions to find classes:  isClass tests for a class;\nfindClass returns the name(s) of packages containing the\nclass; getClasses returns the names of all the classes in an\nenvironment, typically a namespace.  To examine the definition of a class, use getClass.\n","example_call":"isClass(Class, formal = TRUE, where = topenv(parent.frame()))"}

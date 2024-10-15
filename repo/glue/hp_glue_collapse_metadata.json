@@ -1,1 +1,0 @@
-{"description":"glue_collapse() collapses a character vector of any length into a length 1 vector.\nglue_sql_collapse() does the same but returns a <U+2060>[DBI::SQL()]<U+2060>\nobject rather than a glue object.\n","example_call":"glue_collapse(x, sep = \"\", width = Inf, last = \"\")"}

@@ -1,1 +1,0 @@
-{"description":"table uses cross-classifying factors to build a contingency\ntable of the counts at each combination of factor levels.\n","example_call":"is.table(x)"}

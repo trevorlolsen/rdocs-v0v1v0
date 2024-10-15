@@ -1,1 +1,0 @@
-{"description":"Counts the number of elements in non-overlapping bins\n","example_call":"binCounts(x, idxs = NULL, bx, right = FALSE, ...)"}

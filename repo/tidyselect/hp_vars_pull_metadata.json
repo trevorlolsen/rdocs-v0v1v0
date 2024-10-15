@@ -1,1 +1,0 @@
-{"description":"This function powers dplyr::pull() and various functions of the\ntidyr package. It is similar to vars_select() but returns only\none column name and has slightly different semantics: it allows\nnegative numbers to select columns from the end.\n","example_call":"vars_pull(vars, var = -1, error_call = caller_env(), error_arg = caller_arg(var))"}

@@ -1,1 +1,0 @@
-{"description":"Utility function to find and display R documentation.\n","example_call":"RShowDoc(what, type = c(\"pdf\", \"html\", \"txt\"), package)"}

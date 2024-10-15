@@ -1,1 +1,0 @@
-{"description":"env_has() is a vectorised predicate that queries whether an\nenvironment owns bindings personally (with inherit set to\nFALSE, the default), or sees them in its own environment or in\nany of its parents (with inherit = TRUE).\n","example_call":"env_has(env = caller_env(), nms, inherit = FALSE)"}

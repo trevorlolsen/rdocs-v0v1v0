@@ -1,1 +1,0 @@
-{"description":"Finds the Huber M-estimator of location with MAD scale.\n","example_call":"huber(y, k = 1.5, tol = 1e-06)"}

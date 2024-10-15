@@ -1,1 +1,0 @@
-{"description":"weights is a generic function which extracts fitting weights from\nobjects returned by modeling functions.\n","example_call":"weights(object, ...)"}

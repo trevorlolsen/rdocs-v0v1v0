@@ -1,1 +1,0 @@
-{"description":"Vectorize creates a function wrapper that vectorizes the\naction of its argument FUN.\n","example_call":"Vectorize(FUN, vectorize.args = arg.names, SIMPLIFY = TRUE, USE.NAMES = TRUE)"}

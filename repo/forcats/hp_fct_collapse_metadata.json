@@ -1,1 +1,0 @@
-{"description":"Collapse factor levels into manually defined groups\n","example_call":"fct_collapse(.f, ..., other_level = NULL, group_other = \"DEPRECATED\")"}

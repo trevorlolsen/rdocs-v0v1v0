@@ -1,1 +1,0 @@
-{"description":"This function finds a permutation which rearranges the\nstrings in a given character vector into the ascending or descending\nlocale-dependent lexicographic order.\n","example_call":"stri_order(str, decreasing = FALSE, na_last = TRUE, ..., opts_collator = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Checks that the code produces no output, messages, or warnings.\n","example_call":"expect_silent(object)"}

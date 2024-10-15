@@ -1,1 +1,0 @@
-{"description":"Gets the rank of the elements in each row (column) of a matrix.\n","example_call":"colRanks(x, rows = NULL, cols = NULL, ties.method = c(\"max\","}

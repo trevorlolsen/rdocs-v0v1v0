@@ -1,1 +1,0 @@
-{"description":"A simple S3 class for representing numeric versions\nincluding package versions, and associated methods.","example_call":"is.package_version(x)"}

@@ -1,1 +1,0 @@
-{"description":"Set R options so that the webR canvas graphics device is used as the default\ngraphics device for new plots.\n","example_call":"canvas_install(...)"}

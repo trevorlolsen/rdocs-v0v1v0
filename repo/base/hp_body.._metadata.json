@@ -1,1 +1,0 @@
-{"description":"Get or set the body of a function which is basically all of\nthe function definition but its formal arguments (formals),\nsee the <U+2018>Details<U+2019>.\n","example_call":"body<-(fun, envir = environment(fun), value)"}

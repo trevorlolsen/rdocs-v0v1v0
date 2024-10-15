@@ -1,1 +1,0 @@
-{"description":"summary is a generic function used to produce result summaries\nof the results of various model fitting functions.  The function\ninvokes particular methods which depend on the\nclass of the first argument.\n","example_call":"format.summaryDefault(x, digits = max(3L, getOption(\"digits\") - 3L), ...)"}

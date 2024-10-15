@@ -1,1 +1,0 @@
-{"description":"All functions apart from path_real() are purely path computations, so the\nfiles in question do not need to exist on the filesystem.\n","example_call":"path_has_parent(path, parent)"}

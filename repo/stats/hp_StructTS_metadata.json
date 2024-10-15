@@ -1,1 +1,0 @@
-{"description":"Fit a structural model for a time series by maximum likelihood.\n","example_call":"StructTS(x, type = c(\"level\", \"trend\", \"BSM\"), init = NULL,"}

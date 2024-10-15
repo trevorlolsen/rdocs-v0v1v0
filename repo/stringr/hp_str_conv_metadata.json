@@ -1,1 +1,0 @@
-{"description":"This is a convenient way to override the current encoding of a string.\n","example_call":"str_conv(string, encoding)"}

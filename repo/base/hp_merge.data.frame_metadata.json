@@ -1,1 +1,0 @@
-{"description":"Merge two data frames by common columns or row names, or do other\nversions of database join operations.\n","example_call":"merge.data.frame(x, y, by = intersect(names(x), names(y)), by.x = by,"}

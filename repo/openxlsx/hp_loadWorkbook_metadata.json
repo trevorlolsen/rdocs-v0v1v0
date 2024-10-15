@@ -1,1 +1,0 @@
-{"description":"loadWorkbook returns a workbook object conserving styles and\nformatting of the original .xlsx file.\n","example_call":"loadWorkbook(file, xlsxFile = NULL, isUnzipped = FALSE, na.convert = TRUE)"}

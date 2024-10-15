@@ -1,1 +1,0 @@
-{"description":"The viridis scales provide colour maps that are perceptually uniform in both\ncolour and black-and-white. They are also designed to be perceived by viewers\nwith common forms of colour blindness. See also\nhttps://bids.github.io/colormap/.\n","example_call":"scale_color_viridis_d(name = waiver(), ..., alpha = 1, begin = 0, end = 1,"}

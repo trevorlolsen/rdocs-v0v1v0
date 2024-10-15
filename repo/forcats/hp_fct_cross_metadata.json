@@ -1,1 +1,0 @@
-{"description":"Computes a factor whose levels are all the combinations of the levels of the input factors.\n","example_call":"fct_cross(..., sep = \":\", keep_empty = FALSE)"}

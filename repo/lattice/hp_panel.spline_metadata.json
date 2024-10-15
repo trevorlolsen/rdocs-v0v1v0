@@ -1,1 +1,0 @@
-{"description":"A predefined panel function that can be used to add a spline smooth\nbased on the provided data.\n","example_call":"panel.spline(x, y, npoints = 101, lwd = plot.line$lwd, lty = plot.line$lty,"}

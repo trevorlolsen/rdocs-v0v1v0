@@ -1,1 +1,0 @@
-{"description":"INTERNAL function to obtain (orthogonal) basis for the null space and\nrange space of the penalty, and obtain actual null space dimension\ncomponents are roughly rescaled to avoid any dominating.\n","example_call":"totalPenaltySpace(S, H, off, p)"}

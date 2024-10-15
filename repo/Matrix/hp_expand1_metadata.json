@@ -1,1 +1,0 @@
-{"description":"expand1 and expand2 construct matrix factors from\nobjects specifying matrix factorizations.  Such objects typically\ndo not store the factors explicitly, employing instead a compact\nrepresentation to save memory.\n","example_call":"expand1(x, which, ...)"}

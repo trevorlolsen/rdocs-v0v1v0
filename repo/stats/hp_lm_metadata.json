@@ -1,1 +1,0 @@
-{"description":"lm is used to fit linear models, including multivariate ones.\nIt can be used to carry out regression,\nsingle stratum analysis of variance and\nanalysis of covariance (although aov may provide a more\nconvenient interface for these).\n","example_call":"lm(formula, data, subset, weights, na.action, method = \"qr\","}

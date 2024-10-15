@@ -1,1 +1,0 @@
-{"description":"This function wraps to_any_case() from the snakecase\npackage with certain defaults for the sep_in and\nsep_out arguments, used for instance to convert cases in\nterm_labels.\n","example_call":"convert_case(lab, case = NULL, verbose = FALSE, ...)"}

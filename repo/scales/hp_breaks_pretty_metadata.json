@@ -1,1 +1,0 @@
-{"description":"Uses default R break algorithm as implemented in pretty(). This is\nprimarily useful for date/times, as extended_breaks() should do a slightly\nbetter job for numeric scales.\n","example_call":"breaks_pretty(n = 5, ...)"}

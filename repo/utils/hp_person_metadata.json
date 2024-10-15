@@ -1,1 +1,0 @@
-{"description":"A class and utility methods for holding information about persons\nlike name and email address.\n","example_call":"person(given = NULL, family = NULL, middle = NULL, email = NULL,"}

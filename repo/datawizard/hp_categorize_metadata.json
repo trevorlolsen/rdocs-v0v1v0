@@ -1,1 +1,0 @@
-{"description":"This functions divides the range of variables into intervals and recodes\nthe values inside these intervals according to their related interval.\nIt is basically a wrapper around base R's cut(), providing a simplified\nand more accessible way to define the interval breaks (cut-off values).\n","example_call":"categorize(x, ...)"}

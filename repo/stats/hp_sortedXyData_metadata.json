@@ -1,1 +1,0 @@
-{"description":"This is a constructor function for the class of sortedXyData\nobjects.  These objects are mostly used in the initial\nfunction for a self-starting nonlinear regression model, which will be\nof the selfStart class.\n","example_call":"sortedXyData(x, y, data)"}

@@ -1,1 +1,0 @@
-{"description":"Closes the socket and frees the space in the file descriptor table.  The\nport may not be freed immediately.\n","example_call":"close.socket(socket, ...)"}

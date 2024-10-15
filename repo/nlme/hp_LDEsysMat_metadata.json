@@ -1,1 +1,0 @@
-{"description":"Generate the system matrix for the linear differential equations\ndetermined by a compartment model.\n","example_call":"LDEsysMat(pars, incidence)"}

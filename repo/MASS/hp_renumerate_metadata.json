@@ -1,1 +1,0 @@
-{"description":"denumerate converts a formula written using the conventions of\nloglm into one that terms is able to process.  renumerate\nconverts it back again to a form like the original.\n","example_call":"renumerate(x)"}

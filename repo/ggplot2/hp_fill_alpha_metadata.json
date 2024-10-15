@@ -1,1 +1,0 @@
-{"description":"This works much like alpha() in that it modifies the\ntransparency of fill colours. It differs in that fill_alpha() also attempts\nto set the transparency of <U+2060><GridPattern><U+2060> objects.\n","example_call":"fill_alpha(fill, alpha)"}

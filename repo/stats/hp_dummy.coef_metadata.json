@@ -1,1 +1,0 @@
-{"description":"This extracts coefficients in terms of the original levels of the\ncoefficients rather than the coded variables.\n","example_call":"dummy.coef(object, ...)"}

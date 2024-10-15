@@ -1,1 +1,0 @@
-{"description":"Construct a sparse banded matrix by specifying its non-zero sup- and\nsuper-diagonals.\n","example_call":"bandSparse(n, m = n, k, diagonals, symmetric = FALSE, repr = \"C\","}

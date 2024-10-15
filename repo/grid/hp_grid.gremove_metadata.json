@@ -1,1 +1,0 @@
-{"description":"Remove a grob from a gTree or a descendant of a gTree.\n","example_call":"grid.gremove(..., grep = TRUE, global = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"Bind any number of data frames by row, making a longer result. This is\nsimilar to do.call(rbind, dfs), but the output will contain all columns\nthat appear in any of the inputs.\n","example_call":"bind_rows(..., .id = NULL)"}

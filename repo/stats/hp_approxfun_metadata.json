@@ -1,1 +1,0 @@
-{"description":"Return a list of points which linearly interpolate given data points,\nor a function performing the linear (or constant) interpolation.\n","example_call":"approxfun(x, y = NULL, method = \"linear\", yleft, yright, rule = 1,"}

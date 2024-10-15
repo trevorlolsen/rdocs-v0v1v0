@@ -1,1 +1,0 @@
-{"description":"is_converged() provides an alternative convergence\ntest for merMod-objects.\n","example_call":"is_converged(x, tolerance = 0.001, ...)"}

@@ -1,1 +1,0 @@
-{"description":"This function defines and registers styles for rendering\nbibentry objects into <U+2018>Rd<U+2019> format, for later\nconversion to text, HTML, etc.\n","example_call":"getBibstyle(all = FALSE)"}

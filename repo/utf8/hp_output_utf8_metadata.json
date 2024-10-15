@@ -1,1 +1,0 @@
-{"description":"Test whether the output connection has ANSI style escape support\nor UTF-8 support.\n","example_call":"output_utf8()"}

@@ -1,1 +1,0 @@
-{"description":"Check if each element of a character vector is valid in its implied\nencoding.\n","example_call":"validEnc(x)"}

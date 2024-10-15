@@ -1,1 +1,0 @@
-{"description":"A wrapper for the C function sprintf, that returns a character\nvector containing a formatted combination of text and variable values.\n","example_call":"gettextf(fmt, ..., domain = NULL, trim = TRUE)"}

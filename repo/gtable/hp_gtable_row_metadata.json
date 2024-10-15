@@ -1,1 +1,0 @@
-{"description":"This function puts grobs in a list side-by-side in a single-row gtable from\nleft to right witrh the given widths and height.\n","example_call":"gtable_row(name, grobs, height = NULL, widths = NULL, z = NULL,"}

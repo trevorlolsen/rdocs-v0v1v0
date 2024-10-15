@@ -1,1 +1,0 @@
-{"description":"Performs a Kruskal-Wallis rank sum test.\n","example_call":"kruskal.test(x, ...)"}

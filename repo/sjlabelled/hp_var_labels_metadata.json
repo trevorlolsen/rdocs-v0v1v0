@@ -1,1 +1,0 @@
-{"description":"This function adds variable labels as attribute\n(named \"label\") to the variable x, resp. to a\nset of variables in a data frame or a list-object. var_labels()\nis intended for use within pipe-workflows and has a tidyverse-consistent\nsyntax, including support for quasi-quotation (see 'Examples').\n","example_call":"var_labels(x, ...)"}

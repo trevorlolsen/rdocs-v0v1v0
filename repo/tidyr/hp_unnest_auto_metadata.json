@@ -1,1 +1,0 @@
-{"description":"unnest_auto() picks between unnest_wider() or unnest_longer()\nby inspecting the inner names of the list-col:\n","example_call":"unnest_auto(data, col)"}

@@ -1,1 +1,0 @@
-{"description":" Takes smooth objects produced by smooth.construct methods and obtains the matrix mapping \nthe parameters associated with such a smooth to the predicted values of the smooth at a set of new covariate values.\n","example_call":"Predict.matrix2(object, data)"}

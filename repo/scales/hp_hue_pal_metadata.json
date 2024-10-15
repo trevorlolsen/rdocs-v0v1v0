@@ -1,1 +1,0 @@
-{"description":"Hue palette (discrete)\n","example_call":"hue_pal(h = c(0, 360) + 15, c = 100, l = 65, h.start = 0, direction = 1)"}

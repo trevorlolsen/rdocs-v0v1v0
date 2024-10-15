@@ -1,1 +1,0 @@
-{"description":"Count the number of unique values in a vector. vec_count() has two\nimportant differences to table(): it returns a data frame, and when\ngiven multiple inputs (as a data frame), it only counts combinations that\nappear in the input.\n","example_call":"vec_count(x, sort = c(\"count\", \"key\", \"location\", \"none\"))"}

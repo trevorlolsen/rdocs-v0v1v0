@@ -1,1 +1,0 @@
-{"description":"Functions to save the current plot in an R variable, and to replay it.\n","example_call":"replayPlot(x, reloadPkgs = FALSE)"}

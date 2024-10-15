@@ -1,1 +1,0 @@
-{"description":"Assign variable and values labels to a variable or variables in a data frame.\nLabels are stored as attributes (\"label\" for variable labels and \"labels\")\nfor value labels.\n","example_call":"assign_labels(x, ...)"}

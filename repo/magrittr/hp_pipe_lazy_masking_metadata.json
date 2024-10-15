@@ -1,1 +1,0 @@
-{"description":"Assign these pipe variants to an infix symbol like <U+2060>%>%<U+2060>.\n","example_call":"pipe_lazy_masking(lhs, rhs)"}

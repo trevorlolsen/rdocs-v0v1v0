@@ -1,1 +1,0 @@
-{"description":"These functions write the content of a data frame to an SPSS, SAS or\nStata-file.\n","example_call":"write_stata(x, path, drop.na = FALSE, version = 14)"}

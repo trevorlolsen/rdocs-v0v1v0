@@ -1,1 +1,0 @@
-{"description":"A grob table captures all the information needed to layout grobs in a table\nstructure. It supports row and column spanning, offers some tools to\nautomatically figure out the correct dimensions, and makes it easy to\nalign and combine multiple tables.\n","example_call":"gtable(widths = list(), heights = list(), respect = FALSE,"}

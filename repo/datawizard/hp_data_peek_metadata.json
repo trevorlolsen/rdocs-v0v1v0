@@ -1,1 +1,0 @@
-{"description":"This function creates a table a data frame, showing all\ncolumn names, variable types and the first values (as many as fit into\nthe screen).\n","example_call":"data_peek(x, ...)"}

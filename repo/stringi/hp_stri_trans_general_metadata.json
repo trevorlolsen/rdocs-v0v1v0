@@ -1,1 +1,0 @@
-{"description":"ICU General transforms provide different ways\nfor processing Unicode text. They are useful in handling a variety\nof different tasks, including:\n","example_call":"stri_trans_general(str, id, rules = FALSE, forward = TRUE)"}

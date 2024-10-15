@@ -1,1 +1,0 @@
-{"description":"Unify the levels in a list of factors\n","example_call":"fct_unify(fs, levels = lvls_union(fs))"}

@@ -1,1 +1,0 @@
-{"description":"Evaluate the design matrix for the B-splines defined by knots\nat the values in x.\n","example_call":"splineDesign(knots, x, ord = 4L, derivs = 0L, outer.ok = FALSE,"}

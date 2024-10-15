@@ -1,1 +1,0 @@
-{"description":"princomp performs a principal components analysis on the given\nnumeric data matrix and returns the results as an object of class\nprincomp.\n","example_call":"princomp(x, ...)"}

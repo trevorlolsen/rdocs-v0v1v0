@@ -1,1 +1,0 @@
-{"description":"Returns the name(s) of the response variable(s) from a model object.\n","example_call":"find_response(x, combine = TRUE, ...)"}

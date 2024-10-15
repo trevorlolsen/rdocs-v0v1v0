@@ -1,1 +1,0 @@
-{"description":"These functions are similar to toJSON() and fromJSON() except they\nexplicitly distinguish between path and literal input, and do not simplify\nby default.\n","example_call":"read_json(path, simplifyVector = FALSE, ...)"}

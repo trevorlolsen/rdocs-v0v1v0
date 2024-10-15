@@ -1,1 +1,0 @@
-{"description":"This function is a constructor for the corARMA class,\nrepresenting an autocorrelation-moving average correlation structure\nof order (p, q). Objects created using this constructor must later\nbe initialized using the appropriate Initialize method. \n","example_call":"corARMA(value = double(p + q), form = ~1, p = 0, q = 0, fixed = FALSE)"}

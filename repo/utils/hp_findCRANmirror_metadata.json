@@ -1,1 +1,0 @@
-{"description":"Find out if a CRAN mirror has been selected for the current session.\n","example_call":"findCRANmirror(type = c(\"src\", \"web\"))"}

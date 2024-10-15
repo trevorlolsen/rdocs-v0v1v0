@@ -1,1 +1,0 @@
-{"description":"This function returns a Grid layout, which describes a subdivision\nof a rectangular region.\n","example_call":"grid.layout(nrow = 1, ncol = 1, widths = unit(rep_len(1, ncol),"}

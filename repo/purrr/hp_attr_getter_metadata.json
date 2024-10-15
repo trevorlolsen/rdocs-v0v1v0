@@ -1,1 +1,0 @@
-{"description":"attr_getter() generates an attribute accessor function; i.e., it\ngenerates a function for extracting an attribute with a given\nname. Unlike the base R attr() function with default options, it\ndoesn't use partial matching.\n","example_call":"attr_getter(attr)"}

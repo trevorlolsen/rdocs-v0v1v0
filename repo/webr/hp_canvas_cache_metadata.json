@@ -1,1 +1,0 @@
-{"description":"canvas_cache() returns an integer vector containing the current canvas\ncache IDs.\n","example_call":"canvas_cache()"}

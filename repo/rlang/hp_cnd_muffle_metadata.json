@@ -1,1 +1,0 @@
-{"description":"Unlike exiting() handlers, calling() handlers must be explicit\nthat they have handled a condition to stop it from propagating to\nother handlers. Use cnd_muffle() within a calling handler (or as\na calling handler, see examples) to prevent any other handlers from\nbeing called for that condition.\n","example_call":"cnd_muffle(cnd)"}

@@ -1,1 +1,0 @@
-{"description":"These are old utility functions  to construct, respectively\na list designed to represent the slots and superclasses and\na list of prototype specifications.  The representation()\nfunction is no longer useful, since the arguments slots and\ncontains to setClass are now recommended.\n","example_call":"representation(...)"}

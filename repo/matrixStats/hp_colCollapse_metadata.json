@@ -1,1 +1,0 @@
-{"description":"Extracts one cell per row (column) from a matrix.  The implementation is\noptimized for memory and speed.\n","example_call":"colCollapse(x, idxs, cols = NULL, dim. = dim(x), ..., useNames = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"A rug plot is a compact visualisation designed to supplement a 2d display\nwith the two 1d marginal distributions. Rug plots display individual\ncases so are best used with smaller datasets.\n","example_call":"geom_rug(mapping = NULL, data = NULL, stat = \"identity\", position = \"identity\","}

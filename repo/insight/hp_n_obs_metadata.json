@@ -1,1 +1,0 @@
-{"description":"This method returns the number of observation that were used\nto fit the model, as numeric value.\n","example_call":"n_obs(x, ...)"}

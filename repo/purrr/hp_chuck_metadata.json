@@ -1,1 +1,0 @@
-{"description":"chuck() implements a generalised form of [[ that allow you to index\ndeeply and flexibly into data structures. If the index you are trying to\naccess does not exist (or is NULL), it will throw (i.e. chuck) an error.\n","example_call":"chuck(.x, ...)"}

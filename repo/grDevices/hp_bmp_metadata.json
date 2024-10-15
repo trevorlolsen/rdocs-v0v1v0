@@ -1,1 +1,0 @@
-{"description":"Graphics devices for BMP, JPEG, PNG and TIFF format bitmap files.\n","example_call":"bmp(filename = \"Rplot%03d.bmp\", width = 480, height = 480,"}

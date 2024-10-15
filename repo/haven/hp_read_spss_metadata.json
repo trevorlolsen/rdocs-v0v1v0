@@ -1,1 +1,0 @@
-{"description":"read_sav() reads both .sav and .zsav files; write_sav() creates\n.zsav files when compress = TRUE. read_por() reads .por files.\nread_spss() uses either read_por() or read_sav() based on the\nfile extension.\n","example_call":"read_spss(file, user_na = FALSE, col_select = NULL, skip = 0,"}

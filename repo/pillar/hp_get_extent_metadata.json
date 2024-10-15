@@ -1,1 +1,0 @@
-{"description":"get_extent() calculates the display width for each string in a character\nvector.\n","example_call":"get_extent(x)"}

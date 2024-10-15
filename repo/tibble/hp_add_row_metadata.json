@@ -1,1 +1,0 @@
-{"description":"This is a convenient way to add one or more rows of data to an existing data\nframe. See tribble() for an easy way to create an complete\ndata frame row-by-row. Use tibble_row() to ensure that the new data\nhas only one row.\n","example_call":"add_row(.data, ..., .before = NULL, .after = NULL)"}

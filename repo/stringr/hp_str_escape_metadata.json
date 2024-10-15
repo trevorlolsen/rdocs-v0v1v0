@@ -1,1 +1,0 @@
-{"description":"This function escapes metacharacter, the characters that have special\nmeaning to the regular expression engine. In most cases you are better\noff using fixed() since it is faster, but str_escape() is useful\nif you are composing user provided strings into a pattern.\n","example_call":"str_escape(string)"}

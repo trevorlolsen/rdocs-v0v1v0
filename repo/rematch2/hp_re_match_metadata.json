@@ -1,1 +1,0 @@
-{"description":"re_match wraps regexpr and returns the\nmatch results in a convenient data frame. The data frame has one\ncolumn for each capture group if perl=TRUE, and one final columns\ncalled .match for the matching (sub)string. The columns of the capture\ngroups are named if the groups themselves are named.\n","example_call":"re_match(text, pattern, perl = TRUE, ...)"}

@@ -1,1 +1,0 @@
-{"description":"nrow and ncol return the number of rows or columns\npresent in x.\nNCOL and NROW do the same treating a vector as\n1-column matrix, even a 0-length vector, compatibly with\nas.matrix() or cbind(), see the example.\n","example_call":"NCOL(x)"}

@@ -1,1 +1,0 @@
-{"description":"Compute the Box<U+2013>Pierce or Ljung<U+2013>Box test statistic for examining the\nnull hypothesis of independence in a given time series.  These are\nsometimes known as <U+2018>portmanteau<U+2019> tests.\n","example_call":"Box.test(x, lag = 1, type = c(\"Box-Pierce\", \"Ljung-Box\"), fitdf = 0)"}

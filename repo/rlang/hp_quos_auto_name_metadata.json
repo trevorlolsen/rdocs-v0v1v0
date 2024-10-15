@@ -1,1 +1,0 @@
-{"description":"This gives default names to unnamed elements of a list of\nexpressions (or expression wrappers such as formulas or\nquosures), deparsed with as_label().\n","example_call":"quos_auto_name(quos)"}

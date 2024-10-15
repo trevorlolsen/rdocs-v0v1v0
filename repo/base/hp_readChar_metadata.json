@@ -1,1 +1,0 @@
-{"description":"Transfer character strings to and from connections, without assuming\nthey are null-terminated on the connection.\n","example_call":"readChar(con, nchars, useBytes = FALSE)"}

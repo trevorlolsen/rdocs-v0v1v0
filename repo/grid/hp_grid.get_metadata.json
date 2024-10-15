@@ -1,1 +1,0 @@
-{"description":"Retrieve a grob or a descendant of a grob.\n","example_call":"grid.get(gPath, strict = FALSE, grep = FALSE, global = FALSE,"}

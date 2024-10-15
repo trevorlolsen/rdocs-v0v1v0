@@ -1,1 +1,0 @@
-{"description":"Trim character strings to specified display widths.\n","example_call":"strtrim(x, width)"}

@@ -1,1 +1,0 @@
-{"description":"Hierarchical cluster analysis on a set of dissimilarities and\nmethods for analyzing it.\n","example_call":"hclust(d, method = \"complete\", members = NULL)"}

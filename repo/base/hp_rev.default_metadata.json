@@ -1,1 +1,0 @@
-{"description":"rev provides a reversed version of its argument.  It is generic\nfunction with a default method for vectors and one for\ndendrograms.\n","example_call":"rev.default(x)"}

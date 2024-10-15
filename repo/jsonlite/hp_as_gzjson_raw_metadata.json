@@ -1,1 +1,0 @@
-{"description":"Wrapper to generate and parse gzipped JSON, in order to save some disk or\nnetwork space. This is mainly effective for larger json objects with many\nrepeated keys, as is common in serialized data frames.\n","example_call":"as_gzjson_raw(x, ...)"}

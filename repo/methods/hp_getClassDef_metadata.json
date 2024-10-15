@@ -1,1 +1,0 @@
-{"description":"Get the definition of a class.\n","example_call":"getClassDef(Class, where = topenv(parent.frame()), package = packageSlot(Class),"}

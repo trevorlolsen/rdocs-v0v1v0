@@ -1,1 +1,0 @@
-{"description":"Uses strwrap() to split long labels across multiple lines.\n","example_call":"label_wrap(width)"}

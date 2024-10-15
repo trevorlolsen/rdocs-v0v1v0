@@ -1,1 +1,0 @@
-{"description":"Convert a character vector to title case, especially package titles.\n","example_call":"toTitleCase(text)"}

@@ -1,1 +1,0 @@
-{"description":"fct_unique() extracts the complete set of possible values from the\nlevels of the factor, rather than looking at the actual values, like\nunique().\n","example_call":"fct_unique(f)"}

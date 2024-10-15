@@ -1,1 +1,0 @@
-{"description":"xy.coords is used by many functions to obtain\nx and y coordinates for plotting.  The use of this common mechanism\nacross all relevant R functions produces a measure of consistency.\n","example_call":"xy.coords(x, y = NULL, xlab = NULL, ylab = NULL, log = NULL,"}

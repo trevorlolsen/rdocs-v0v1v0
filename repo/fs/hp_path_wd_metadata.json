@@ -1,1 +1,0 @@
-{"description":"path() constructs a relative path, path_wd() constructs an absolute path\nfrom the current working directory.\n","example_call":"path_wd(..., ext = \"\")"}

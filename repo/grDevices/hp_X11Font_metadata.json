@@ -1,1 +1,0 @@
-{"description":"These functions handle the translation of a device-independent R graphics\nfont family name to an X11 font description on Unix-alike platforms.\n","example_call":"X11Font(font)"}

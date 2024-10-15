@@ -1,1 +1,0 @@
-{"description":"Accurately computes the logarithm of the sum of exponentials, that is,\nlog(sum(exp(lx))).  If lx = log(x), then this is equivalently to\ncalculating log(sum(x)).\n","example_call":"logSumExp(lx, idxs = NULL, na.rm = FALSE, ...)"}

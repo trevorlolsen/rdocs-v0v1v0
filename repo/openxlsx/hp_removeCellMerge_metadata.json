@@ -1,1 +1,0 @@
-{"description":"Unmerges any merged cells that intersect\nwith the region specified by, min(cols):max(cols) X min(rows):max(rows)\n","example_call":"removeCellMerge(wb, sheet, cols, rows)"}

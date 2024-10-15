@@ -1,1 +1,0 @@
-{"description":"This function draws a grill within a Grid viewport.\n","example_call":"grid.grill(h = unit(seq(0.25, 0.75, 0.25), \"npc\"), v = unit(seq(0.25,"}

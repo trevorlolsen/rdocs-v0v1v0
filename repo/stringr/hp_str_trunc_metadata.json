@@ -1,1 +1,0 @@
-{"description":"Truncate a string to a fixed of characters, so that\nstr_length(str_trunc(x, n)) is always less than or equal to n.\n","example_call":"str_trunc(string, width, side = c(\"right\", \"left\", \"center\"),"}

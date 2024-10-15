@@ -1,1 +1,0 @@
-{"description":"position_stack() stacks bars on top of each other;\nposition_fill() stacks bars and standardises each stack to have\nconstant height.\n","example_call":"position_stack(vjust = 1, reverse = FALSE)"}

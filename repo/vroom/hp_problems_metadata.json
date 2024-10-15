@@ -1,1 +1,0 @@
-{"description":"vroom will only fail to parse a file if the file is invalid in a way that is\nunrecoverable. However there are a number of non-fatal problems that you\nmight want to know about. You can retrieve a data frame of these problems\nwith this function.\n","example_call":"problems(x = .Last.value, lazy = FALSE)"}

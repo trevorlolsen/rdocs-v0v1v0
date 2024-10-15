@@ -1,1 +1,0 @@
-{"description":"Helper, setup, and teardown files located in the same directory as the\ntest will also be run. See vignette(\"special-files\") for details.\n","example_call":"test_file(path, reporter = default_compact_reporter(), desc = NULL,"}

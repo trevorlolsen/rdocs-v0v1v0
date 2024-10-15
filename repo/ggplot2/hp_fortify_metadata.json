@@ -1,1 +1,0 @@
-{"description":"Rather than using this function, I now recommend using the broom\npackage, which implements a much wider range of methods. fortify()\nmay be deprecated in the future.\n","example_call":"fortify(model, data, ...)"}

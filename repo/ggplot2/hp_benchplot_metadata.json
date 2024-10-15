@@ -1,1 +1,0 @@
-{"description":"Benchmark plot creation time.\nBroken down into construct, build, render and draw times.\n","example_call":"benchplot(x)"}

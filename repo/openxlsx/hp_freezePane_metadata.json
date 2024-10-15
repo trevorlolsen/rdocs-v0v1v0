@@ -1,1 +1,0 @@
-{"description":"Freeze a worksheet pane\n","example_call":"freezePane(wb, sheet, firstActiveRow = NULL, firstActiveCol = NULL,"}

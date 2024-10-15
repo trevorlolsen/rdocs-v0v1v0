@@ -1,1 +1,0 @@
-{"description":"Returns the original matrix from which the object was constructed or\nthe components of the decomposition.\n","example_call":"qr.R(qr, complete = FALSE)"}

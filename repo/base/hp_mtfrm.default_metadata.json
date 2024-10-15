@@ -1,1 +1,0 @@
-{"description":"Transform objects for matching via match(), think\n<U+201C>match form<U+201D> -> \"mtfrm\".\nbase provides the S3 generic and a default plus\n\"POSIXct\" and \"POSIXlt\" methods.\n","example_call":"mtfrm.default(x)"}

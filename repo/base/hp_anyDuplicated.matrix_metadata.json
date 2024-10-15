@@ -1,1 +1,0 @@
-{"description":"duplicated() determines which elements of a vector or data\nframe are duplicates\nof elements with smaller subscripts, and returns a logical vector\nindicating which elements (rows) are duplicates.\n","example_call":"anyDuplicated.matrix(x, incomparables = FALSE, MARGIN = 1L, fromLast = FALSE,"}

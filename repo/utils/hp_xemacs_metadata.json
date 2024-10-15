@@ -1,1 +1,0 @@
-{"description":"Invoke a text editor on an R object.\n","example_call":"xemacs(name = NULL, file = \"\")"}

@@ -1,1 +1,0 @@
-{"description":"if_else() is a vectorized if-else. Compared to the base R equivalent,\nifelse(), this function allows you to handle missing values in the\ncondition with missing and always takes true, false, and missing\ninto account when determining what the output type should be.\n","example_call":"if_else(condition, true, false, missing = NULL, ..., ptype = NULL,"}

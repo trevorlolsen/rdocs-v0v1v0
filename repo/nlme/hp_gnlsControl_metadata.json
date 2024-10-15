@@ -1,1 +1,0 @@
-{"description":"The values supplied in the function call replace the defaults and a\nlist with all possible arguments is returned. The returned list is\nused as the control argument to the gnls function.\n","example_call":"gnlsControl(maxIter = 50, nlsMaxIter = 7, msMaxIter = 50, minScale = 0.001,"}

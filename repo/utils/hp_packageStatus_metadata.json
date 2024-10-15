@@ -1,1 +1,0 @@
-{"description":"Summarize information about installed packages and packages\navailable at various repositories, and automatically upgrade outdated\npackages.\n","example_call":"packageStatus(lib.loc = NULL, repositories = NULL, method, type = getOption(\"pkgType\"),"}

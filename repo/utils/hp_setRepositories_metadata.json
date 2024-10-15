@@ -1,1 +1,0 @@
-{"description":"Interact with the user to choose the package repositories to be used.\n","example_call":"setRepositories(graphics = getOption(\"menu.graphics\"), ind = NULL,"}

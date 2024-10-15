@@ -1,1 +1,0 @@
-{"description":"formatC() formats numbers individually and flexibly using\nC style format specifications.\n","example_call":"formatC(x, digits = NULL, width = NULL, format = NULL, flag = \"\","}

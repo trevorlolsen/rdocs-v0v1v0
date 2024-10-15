@@ -1,1 +1,0 @@
-{"description":"This function is a constructor for the corAR1 class,\nrepresenting an autocorrelation structure of order 1. Objects\ncreated using this constructor must later be initialized using the\nappropriate Initialize method. \n","example_call":"corAR1(value = 0, form = ~1, fixed = FALSE)"}

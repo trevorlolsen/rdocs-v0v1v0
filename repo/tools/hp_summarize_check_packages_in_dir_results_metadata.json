@@ -1,1 +1,0 @@
-{"description":"Check source packages in a given directory, optionally with their\nreverse dependencies.\n","example_call":"summarize_check_packages_in_dir_results(dir, all = TRUE, full = FALSE, ...)"}

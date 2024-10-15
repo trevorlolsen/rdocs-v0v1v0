@@ -1,1 +1,0 @@
-{"description":"Retrieve or set the dimnames of an object.\n","example_call":"dimnames<-(x, value)"}

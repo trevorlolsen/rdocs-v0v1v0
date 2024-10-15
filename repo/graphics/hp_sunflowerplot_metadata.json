@@ -1,1 +1,0 @@
-{"description":"Multiple points are plotted as <U+2018>sunflowers<U+2019> with multiple leaves\n(<U+2018>petals<U+2019>) such that overplotting is visualized instead of\naccidental and invisible.\n","example_call":"sunflowerplot(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"text draws the strings given in the vector labels at the\ncoordinates given by x and y.\ny may be missing since xy.coords(x, y) is used for\nconstruction of the coordinates.\n","example_call":"text.default(x, y = NULL, labels = seq_along(x$x), adj = NULL, pos = NULL,"}

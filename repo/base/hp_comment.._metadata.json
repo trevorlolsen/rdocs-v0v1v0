@@ -1,1 +1,0 @@
-{"description":"These functions set and query a comment\nattribute for any R objects.  This is typically useful for\ndata.frames or model fits.\n","example_call":"comment<-(x, value)"}

@@ -1,1 +1,0 @@
-{"description":"The generic function hist computes a histogram of the given\ndata values.  If plot = TRUE, the resulting object of\nclass \"histogram\" is plotted by\nplot.histogram, before it is returned.\n","example_call":"hist(x, ...)"}

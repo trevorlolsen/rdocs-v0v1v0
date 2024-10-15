@@ -1,1 +1,0 @@
-{"description":"This reporter will simply throw an error if any of the tests failed. It is\nbest combined with another reporter, such as the\nSummaryReporter.\n","example_call":"NULL"}

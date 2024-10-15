@@ -1,1 +1,0 @@
-{"description":"Simple in-memory base64 encoder and decoder. Used internally for converting\nraw vectors to text. Interchangeable with encoder from base64enc or\nopenssl package.\n","example_call":"base64_enc(input)"}

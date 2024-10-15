@@ -1,1 +1,0 @@
-{"description":"Given a matrix, M, find a matrix N giving a basis for the\n(left) null space.  That is crossprod(N, M) = t(N) %*% M\nis an all-zero matrix and N has the maximum number of linearly\nindependent columns.\n","example_call":"Null(M)"}

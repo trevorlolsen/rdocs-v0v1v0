@@ -1,1 +1,0 @@
-{"description":"zip() creates a new zip archive file.\n","example_call":"zipr(zipfile, files, recurse = TRUE, compression_level = 9,"}

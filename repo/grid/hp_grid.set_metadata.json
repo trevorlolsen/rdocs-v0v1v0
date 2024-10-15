@@ -1,1 +1,0 @@
-{"description":"Replace a grob or a descendant of a grob.\n","example_call":"grid.set(gPath, newGrob, strict = FALSE, grep = FALSE, redraw = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"str_c() combines multiple character vectors into a single character\nvector. It's very similar to paste0() but uses tidyverse recycling and\nNA rules.\n","example_call":"str_c(..., sep = \"\", collapse = NULL)"}

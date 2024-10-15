@@ -1,1 +1,0 @@
-{"description":"Assign a value to a name in an environment.\n","example_call":"assign(x, value, pos = -1, envir = as.environment(pos), inherits = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"This function allows the user to place smoothScatter plots in\nlattice graphics.\n","example_call":"panel.smoothScatter(x, y = NULL, nbin = 64, cuts = 255, bandwidth, col.regions,"}

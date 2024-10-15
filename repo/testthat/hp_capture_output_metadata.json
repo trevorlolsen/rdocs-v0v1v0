@@ -1,1 +1,0 @@
-{"description":"Evaluates code in a special context in which all output is captured,\nsimilar to capture.output().\n","example_call":"capture_output(code, print = FALSE, width = 80)"}

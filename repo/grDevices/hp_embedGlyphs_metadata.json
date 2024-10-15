@@ -1,1 +1,0 @@
-{"description":"Runs Ghostscript to process a PDF or PostScript file and\nembed all fonts in the file.\n","example_call":"embedGlyphs(file, glyphInfo, outfile = file, options = character())"}

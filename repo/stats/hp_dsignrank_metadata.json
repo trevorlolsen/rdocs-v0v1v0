@@ -1,1 +1,0 @@
-{"description":"Density, distribution function, quantile function and random\ngeneration for the distribution of the Wilcoxon Signed Rank statistic\nobtained from a sample with size n.\n","example_call":"dsignrank(x, n, log = FALSE)"}

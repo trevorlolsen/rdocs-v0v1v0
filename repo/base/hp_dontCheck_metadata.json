@@ -1,1 +1,0 @@
-{"description":"The dontCheck function is the same as identity, but \nis interpreted by R CMD check code analysis as a directive\nto suppress checking of x.  Currently this is only used by\ncheckFF(registration = TRUE)\nwhen checking the .NAME argument of foreign function calls.\n","example_call":"dontCheck(x)"}

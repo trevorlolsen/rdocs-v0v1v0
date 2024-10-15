@@ -1,1 +1,0 @@
-{"description":"Generate random 2-way tables with given marginals using Patefield's\nalgorithm.\n","example_call":"r2dtable(n, r, c)"}

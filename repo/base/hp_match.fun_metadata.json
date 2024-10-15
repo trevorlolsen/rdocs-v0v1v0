@@ -1,1 +1,0 @@
-{"description":"When called inside functions that take a function as argument, extract\nthe desired function object while avoiding undesired matching to\nobjects of other types.\n","example_call":"match.fun(FUN, descend = TRUE)"}

@@ -1,1 +1,0 @@
-{"description":"Spell check given files via Aspell, Hunspell or Ispell.\n","example_call":"aspell(files, filter, control = list(), encoding = \"unknown\","}

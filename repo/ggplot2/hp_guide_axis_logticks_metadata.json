@@ -1,1 +1,0 @@
-{"description":"This axis guide replaces the placement of ticks marks at intervals in\nlog10 space.\n","example_call":"guide_axis_logticks(long = 2.25, mid = 1.5, short = 0.75, prescale.base = NULL,"}

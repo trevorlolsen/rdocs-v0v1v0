@@ -1,1 +1,0 @@
-{"description":"Get or set the <U+2018>niceness<U+2019> of the current process, or one or\nmore other processes.\n","example_call":"psnice(pid = Sys.getpid(), value = NA_integer_)"}

@@ -1,1 +1,0 @@
-{"description":"Draw a curve representing a function.\n","example_call":"grid.abline(intercept = 0, slope = 1, ...)"}

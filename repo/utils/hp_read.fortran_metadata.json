@@ -1,1 +1,0 @@
-{"description":"Read fixed-format data files using Fortran-style format specifications.\n","example_call":"read.fortran(file, format, ..., as.is = TRUE, colClasses = NA)"}

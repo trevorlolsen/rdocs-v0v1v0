@@ -1,1 +1,0 @@
-{"description":"rtags provides etags-like indexing capabilities for R code,\nusing R's own parser.\n","example_call":"rtags(path = \".\", pattern = \"\\\\.[RrSs]$\", recursive = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"Returns a matrix of logicals the same size of a given matrix with\nentries TRUE in the lower or upper triangle.\n","example_call":"lower.tri(x, diag = FALSE)"}

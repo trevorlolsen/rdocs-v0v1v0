@@ -1,1 +1,0 @@
-{"description":"These functions check that packages are installed with minimal side\neffects. If installed, the packages will be loaded but not\nattached.\n","example_call":"is_installed(pkg, ..., version = NULL, compare = NULL)"}

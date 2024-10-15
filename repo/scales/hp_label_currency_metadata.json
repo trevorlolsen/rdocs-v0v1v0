@@ -1,1 +1,0 @@
-{"description":"Format numbers as currency, rounding values to monetary or fractional\nmonetary using unit a convenient heuristic.\n","example_call":"label_currency(accuracy = NULL, scale = 1, prefix = \"$\", suffix = \"\","}

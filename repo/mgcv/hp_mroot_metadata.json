@@ -1,1 +1,0 @@
-{"description":" Find a square root of a positive semi-definite matrix, \nhaving as few columns as possible. Uses either pivoted choleski \ndecomposition or singular value decomposition to do this.  \n","example_call":"mroot(A, rank = NULL, method = \"chol\")"}

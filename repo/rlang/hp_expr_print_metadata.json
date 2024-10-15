@@ -1,1 +1,0 @@
-{"description":"expr_print(), powered by expr_deparse(), is an alternative\nprinter for R expressions with a few improvements over the base R\nprinter.\n","example_call":"expr_print(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"These functions find the indexes (positions) where\nthere is a match to some pattern.\nThe functions stri_locate_all_* locate all the matches.\nstri_locate_first_* and stri_locate_last_*\ngive the first and the last matches, respectively.\n","example_call":"stri_locate_last_charclass(str, pattern, get_length = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Approximates the number of text columns the 'cat()' function\nmight use to print a string using a mono-spaced font.\n","example_call":"stri_width(str)"}

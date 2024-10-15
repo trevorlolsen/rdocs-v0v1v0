@@ -1,1 +1,0 @@
-{"description":"Transforms rgb to hcl, sets non-missing arguments and then backtransforms\nto rgb.\n","example_call":"col2hcl(colour, h = NULL, c = NULL, l = NULL, alpha = NULL)"}

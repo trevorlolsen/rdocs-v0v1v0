@@ -1,1 +1,0 @@
-{"description":"Fits a One-way model to univariate data grouped by a factor, the\nresult often being displayed using rfs \n","example_call":"oneway(formula, data, location = mean, spread = function(x) sqrt(var(x)))"}

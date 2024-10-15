@@ -1,1 +1,0 @@
-{"description":"Cuts a tree, e.g., as resulting from hclust, into several\ngroups either by specifying the desired number(s) of groups or the cut\nheight(s).\n","example_call":"cutree(tree, k = NULL, h = NULL)"}

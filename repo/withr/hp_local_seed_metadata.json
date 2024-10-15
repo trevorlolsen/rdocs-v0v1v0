@@ -1,1 +1,0 @@
-{"description":"with_seed() runs code with a specific random seed and resets it afterwards.\n","example_call":"local_seed(seed, .local_envir = parent.frame(), .rng_kind = NULL,"}

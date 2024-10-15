@@ -1,1 +1,0 @@
-{"description":"Find the \"previous\" (lag()) or \"next\" (lead()) values in a vector. Useful\nfor comparing values behind of or ahead of the current values.\n","example_call":"lead(x, n = 1L, default = NULL, order_by = NULL, ...)"}

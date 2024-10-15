@@ -1,1 +1,0 @@
-{"description":"Compute the isotonic (monotonically increasing nonparametric) least\nsquares regression which is piecewise constant.\n","example_call":"isoreg(x, y = NULL)"}

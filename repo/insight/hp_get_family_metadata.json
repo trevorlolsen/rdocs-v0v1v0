@@ -1,1 +1,0 @@
-{"description":"A robust and resilient alternative to stats::family. To avoid issues\nwith models like gamm4.\n","example_call":"get_family(x, ...)"}

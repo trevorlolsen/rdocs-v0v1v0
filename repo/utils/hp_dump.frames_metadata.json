@@ -1,1 +1,0 @@
-{"description":"Functions to dump the evaluation environments (frames) and to examine\ndumped frames.\n","example_call":"dump.frames(dumpto = \"last.dump\", to.file = FALSE, include.GlobalEnv = FALSE)"}

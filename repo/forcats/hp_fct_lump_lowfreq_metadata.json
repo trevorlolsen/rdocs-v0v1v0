@@ -1,1 +1,0 @@
-{"description":"A family for lumping together levels that meet some criteria.\n","example_call":"fct_lump_lowfreq(f, w = NULL, other_level = \"Other\")"}

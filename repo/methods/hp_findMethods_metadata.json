@@ -1,1 +1,0 @@
-{"description":"The function findMethods converts the methods defined in a table for a generic\nfunction (as used for selection of methods) into a list, for study or\ndisplay.  The list is actually from the class listOfMethods\n(see the section describing the class, below).\n","example_call":"findMethods(f, where, classes = character(), inherited = FALSE,"}

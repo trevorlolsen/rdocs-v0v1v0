@@ -1,1 +1,0 @@
-{"description":"expect_reference() compares the underlying memory addresses of\ntwo symbols. It is for expert use only.\n","example_call":"expect_reference(object, expected, info = NULL, label = NULL, expected.label = NULL)"}

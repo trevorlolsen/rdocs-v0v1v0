@@ -1,1 +1,0 @@
-{"description":"The Rd parser records locations in <U+2018>.Rd<U+2019> files from\nwhich components of the file are read.  Output generators\nRd2HTML and Rd2latex can output\ninformation about these locations as <U+201C>concordances<U+201D> between\nsource and output lines.  \n","example_call":"as.Rconcordance(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Write the YAML representation of an R object to a file\n","example_call":"write_yaml(x, file, fileEncoding = \"UTF-8\", ...)"}

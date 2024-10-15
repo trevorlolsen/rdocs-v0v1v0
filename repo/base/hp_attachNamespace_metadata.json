@@ -1,1 +1,0 @@
-{"description":"Functions to load and unload name spaces.\n","example_call":"attachNamespace(ns, pos = 2L, depends = NULL, exclude, include.only)"}

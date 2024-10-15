@@ -1,1 +1,0 @@
-{"description":"Read a YAML document from a file and create an R object from it\n","example_call":"read_yaml(file, fileEncoding = \"UTF-8\", text, error.label, readLines.warn = TRUE,"}

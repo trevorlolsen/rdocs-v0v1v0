@@ -1,1 +1,0 @@
-{"description":"A glue object is a character vector with S3 class \"glue\". The \"glue\"\nclass implements a print method that shows the literal contents (rather than\nthe string implementation) and a + method, so that you can concatenate with\nthe addition operator.\n","example_call":"as_glue(x, ...)"}

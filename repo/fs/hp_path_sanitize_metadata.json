@@ -1,1 +1,0 @@
-{"description":"path_sanitize() removes the following:\n","example_call":"path_sanitize(filename, replacement = \"\")"}

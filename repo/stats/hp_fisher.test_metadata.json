@@ -1,1 +1,0 @@
-{"description":"Performs Fisher's exact test for testing the null of independence of\nrows and columns in a contingency table with fixed marginals.\n","example_call":"fisher.test(x, y = NULL, workspace = 2e+05, hybrid = FALSE, hybridPars = c(expect = 5,"}

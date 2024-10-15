@@ -1,1 +1,0 @@
-{"description":"translate_shape_string() is a helper function for translating point shapes\ngiven as a character vector into integers that are interpreted by the\ngrid system.\n","example_call":"translate_shape_string(shape_string)"}

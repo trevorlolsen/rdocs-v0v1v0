@@ -1,1 +1,0 @@
-{"description":"This function creates frequency or crosstables of variables,\nincluding the number of levels/values as well as the distribution of raw,\nvalid and cumulative percentages. For crosstables, row, column  and cell\npercentages can be calculated.\n","example_call":"data_tabulate(x, ...)"}

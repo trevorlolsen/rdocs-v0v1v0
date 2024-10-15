@@ -1,1 +1,0 @@
-{"description":"List all available methods for a S3 and S4 generic function, or all\nmethods for an S3 or S4 class.\n","example_call":"methods(generic.function, class, all.names = FALSE, dropPath = FALSE)"}

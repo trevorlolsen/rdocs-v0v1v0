@@ -1,1 +1,0 @@
-{"description":"Takes correctly specified but undefined colours and outputs something\nsensible.  Normally this happens when the chroma is too high.  So,  here\nsensible means the colour with the same hue and value and maximum defined\nchroma.\n","example_call":"fix_mnsl(col)"}

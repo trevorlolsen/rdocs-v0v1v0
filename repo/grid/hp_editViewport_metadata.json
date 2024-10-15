@@ -1,1 +1,0 @@
-{"description":"This is a convenience function for producing a new viewport\nfrom a copy of an existing viewport (by default the current\nviewport), with specified modifications.\n","example_call":"editViewport(vp = current.viewport(), ...)"}

@@ -1,1 +1,0 @@
-{"description":"This function performs the computations for the\nLOWESS smoother which uses locally-weighted polynomial\nregression (see the references).\n","example_call":"lowess(x, y = NULL, f = 2/3, iter = 3L, delta = 0.01 * diff(range(x)))"}

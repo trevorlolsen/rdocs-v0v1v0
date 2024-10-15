@@ -1,1 +1,0 @@
-{"description":"One form of non-metric multidimensional scaling\n","example_call":"isoMDS(d, y = cmdscale(d, k), k = 2, maxit = 50, trace = TRUE,"}

@@ -1,1 +1,0 @@
-{"description":"This function standardises aesthetic names by converting color to colour\n(also in substrings, e.g. point_color to point_colour) and translating old style\nR names to ggplot names (eg. pch to shape, cex to size).\n","example_call":"standardise_aes_names(x)"}

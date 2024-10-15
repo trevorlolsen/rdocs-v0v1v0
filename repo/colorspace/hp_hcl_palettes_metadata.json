@@ -1,1 +1,0 @@
-{"description":"Qualitative, sequential (single-hue and multi-hue), and diverging\ncolor palettes based on the HCL (hue-chroma-luminance) color model.\n","example_call":"hcl_palettes(type = NULL, palette = NULL, plot = FALSE, n = 5L,"}

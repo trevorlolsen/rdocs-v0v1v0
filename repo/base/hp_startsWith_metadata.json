@@ -1,1 +1,0 @@
-{"description":"Determines if entries of x start or end with string (entries of)\nprefix or suffix respectively, where strings are\nrecycled to common lengths.\n","example_call":"startsWith(x, prefix)"}

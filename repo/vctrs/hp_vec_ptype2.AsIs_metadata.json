@@ -1,1 +1,0 @@
-{"description":"These functions help the base AsIs class fit into the vctrs type system\nby providing coercion and casting functions.\n","example_call":"vec_ptype2.AsIs(x, y, ..., x_arg = \"\", y_arg = \"\")"}

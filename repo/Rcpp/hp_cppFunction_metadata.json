@@ -1,1 +1,0 @@
-{"description":"Dynamically define an R function with C++ source code. Compiles and links a shared library with bindings to the C++ function then defines an R function that uses .Call to invoke the library.\n","example_call":"cppFunction(code, depends = character(), plugins = character(),"}

@@ -1,1 +1,0 @@
-{"description":"expect_output_file() behaves identically to expect_known_output().\n","example_call":"expect_output_file(object, file, update = TRUE, ..., info = NULL, label = NULL,"}

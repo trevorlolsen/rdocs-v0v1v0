@@ -1,1 +1,0 @@
-{"description":"Search by name for an object (get) or zero or more objects\n(mget).\n","example_call":"get(x, pos = -1L, envir = as.environment(pos), mode = \"any\","}

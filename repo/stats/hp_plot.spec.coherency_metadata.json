@@ -1,1 +1,0 @@
-{"description":"Plotting method for objects of class \"spec\".  For multivariate\ntime series it plots the marginal spectra of the series or pairs plots\nof the coherency and phase of the cross-spectra.\n","example_call":"plot.spec.coherency(x, ci = 0.95, xlab = \"frequency\", ylab = \"squared coherency\","}

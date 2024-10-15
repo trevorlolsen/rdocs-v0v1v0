@@ -1,1 +1,0 @@
-{"description":"Facilitates easy alignment of strings within a character vector. Designed to\nhelp implementers of formatters for custom data types.\n","example_call":"align(x, width = NULL, align = c(\"left\", \"right\"), space = \" \")"}

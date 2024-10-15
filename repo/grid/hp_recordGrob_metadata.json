@@ -1,1 +1,0 @@
-{"description":"Evaluates an expression that includes both calculations\nand drawing that depends on the calculations so that\nboth the calculations and the drawing will be rerun when\nthe scene is redrawn (e.g., device resize or editing).\n","example_call":"recordGrob(expr, list, name = NULL, gp = NULL, vp = NULL)"}

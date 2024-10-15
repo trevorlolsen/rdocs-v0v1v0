@@ -1,1 +1,0 @@
-{"description":"These functions may be used to determine if two strings\nare equal, canonically equivalent (this is performed in a much more clever\nfashion than when testing for equality), or to check whether they are in\na specific lexicographic order.\n","example_call":"stri_cmp_eq(e1, e2)"}

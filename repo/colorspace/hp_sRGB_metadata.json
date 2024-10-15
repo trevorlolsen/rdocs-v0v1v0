@@ -1,1 +1,0 @@
-{"description":"This function creates colors of class sRGB; a subclass of the virtual\ncolor-class class.\n","example_call":"sRGB(R, G, B, names)"}

@@ -1,1 +1,0 @@
-{"description":"Internal grDevices functions\n","example_call":".radialGradientPattern(colours = c(\"black\", \"white\"), stops = seq(0, 1, length.out = length(colours)),"}

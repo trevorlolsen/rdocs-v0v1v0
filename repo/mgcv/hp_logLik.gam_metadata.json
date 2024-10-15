@@ -1,1 +1,0 @@
-{"description":" Function to extract the log-likelihood for a fitted gam\nmodel (note that the models are usually fitted by penalized likelihood maximization). \nUsed by AIC. See details for more information on AIC computation.  \n","example_call":"logLik.gam(object, ...)"}

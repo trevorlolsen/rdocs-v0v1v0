@@ -1,1 +1,0 @@
-{"description":"Write an object to worksheet with optional styling.\n","example_call":"writeData(wb, sheet, x, startCol = 1, startRow = 1, array = FALSE,"}

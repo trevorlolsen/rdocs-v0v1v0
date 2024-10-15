@@ -1,1 +1,0 @@
-{"description":"Adds a rug representation (1-d plot) of the data to the plot.\n","example_call":"rug(x, ticksize = 0.03, side = 1, lwd = 0.5, col = par(\"fg\"),"}

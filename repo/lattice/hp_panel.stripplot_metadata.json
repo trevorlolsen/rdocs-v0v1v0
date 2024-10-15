@@ -1,1 +1,0 @@
-{"description":"This is the default panel function for stripplot. Also see\npanel.superpose\n","example_call":"panel.stripplot(x, y, jitter.data = FALSE, factor = 0.5, amount = NULL,"}

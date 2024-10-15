@@ -1,1 +1,0 @@
-{"description":"\nThese functions are deprecated, please use call2() and\nnew_call() instead.\n","example_call":"lang(.fn, ..., .ns = NULL)"}

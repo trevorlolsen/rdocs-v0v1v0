@@ -1,1 +1,0 @@
-{"description":"This function converts strptime or\nstrftime-style\nformat strings to ICU format strings that may be used\nin stri_datetime_parse and stri_datetime_format\nfunctions.\n","example_call":"stri_datetime_fstr(x, ignore_special = TRUE)"}

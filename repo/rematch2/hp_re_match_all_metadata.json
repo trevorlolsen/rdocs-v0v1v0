@@ -1,1 +1,0 @@
-{"description":"This function is a thin wrapper on the gregexpr\nbase R function, to extract the matching (sub)strings as a data frame.\nIt extracts all matches, and potentially their capture groups as well.\n","example_call":"re_match_all(text, pattern, perl = TRUE, ...)"}

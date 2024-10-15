@@ -1,1 +1,0 @@
-{"description":"Provides some basic information on a given locale identifier.\n","example_call":"stri_locale_info(locale = NULL)"}

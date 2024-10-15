@@ -1,1 +1,0 @@
-{"description":"These functions are currently stubs which report infinity\n(Inf) with a warning on all platforms.  OS's own facilities\ncan be used on some systems to limit memory allocation.\n\n","example_call":"memory.limit(size = NA)"}

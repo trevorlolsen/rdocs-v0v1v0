@@ -1,1 +1,0 @@
-{"description":"Test if an object is not sorted (in increasing order), without the\ncost of sorting it.\n","example_call":"is.unsorted(x, na.rm = FALSE, strictly = FALSE)"}

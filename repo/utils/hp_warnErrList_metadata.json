@@ -1,1 +1,0 @@
-{"description":"Collect errors (class \"error\", typically from tryCatch)\nfrom a list x into a <U+201C>summary warning<U+201D>, by default\nproduce a warning and keep that message as\n\"warningMsg\" attribute.\n","example_call":"warnErrList(x, warn = TRUE, errValue = NULL)"}

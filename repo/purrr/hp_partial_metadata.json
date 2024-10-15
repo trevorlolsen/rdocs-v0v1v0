@@ -1,1 +1,0 @@
-{"description":"Partial function application allows you to modify a function by pre-filling\nsome of the arguments. It is particularly useful in conjunction with\nfunctionals and other function operators.\n","example_call":"partial(.f, ..., .env = deprecated(), .lazy = deprecated(),"}

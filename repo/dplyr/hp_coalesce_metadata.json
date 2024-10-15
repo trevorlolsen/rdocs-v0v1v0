@@ -1,1 +1,0 @@
-{"description":"Given a set of vectors, coalesce() finds the first non-missing value at\neach position. It's inspired by the SQL COALESCE function which does the\nsame thing for SQL NULLs.\n","example_call":"coalesce(..., .ptype = NULL, .size = NULL)"}

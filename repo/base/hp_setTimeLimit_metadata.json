@@ -1,1 +1,0 @@
-{"description":"Functions to set CPU and/or elapsed time limits for top-level\ncomputations or the current session.\n","example_call":"setTimeLimit(cpu = Inf, elapsed = Inf, transient = FALSE)"}

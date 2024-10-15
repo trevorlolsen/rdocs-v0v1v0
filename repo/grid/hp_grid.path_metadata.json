@@ -1,1 +1,0 @@
-{"description":"These functions create and draw one or more paths.\nThe final point of a path will automatically\nbe connected to the initial point.\n","example_call":"grid.path(...)"}

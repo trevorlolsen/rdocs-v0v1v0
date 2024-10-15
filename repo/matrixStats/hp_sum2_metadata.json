@@ -1,1 +1,0 @@
-{"description":"Computes the sum of all or a subset of values.\n","example_call":"sum2(x, idxs = NULL, na.rm = FALSE, mode = typeof(x), ...)"}

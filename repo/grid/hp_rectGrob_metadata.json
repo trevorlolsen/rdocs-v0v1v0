@@ -1,1 +1,0 @@
-{"description":"These functions create and draw rectangles.\n","example_call":"rectGrob(x = unit(0.5, \"npc\"), y = unit(0.5, \"npc\"), width = unit(1,"}

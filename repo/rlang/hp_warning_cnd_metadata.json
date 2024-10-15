@@ -1,1 +1,0 @@
-{"description":"These constructors create subclassed conditions, the objects that\npower the error, warning, and message system in R.\n","example_call":"warning_cnd(class = NULL, ..., message = \"\", call = NULL, use_cli_format = NULL)"}

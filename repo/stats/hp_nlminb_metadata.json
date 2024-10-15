@@ -1,1 +1,0 @@
-{"description":"Unconstrained and box-constrained optimization using PORT routines.\n","example_call":"nlminb(start, objective, gradient = NULL, hessian = NULL,"}

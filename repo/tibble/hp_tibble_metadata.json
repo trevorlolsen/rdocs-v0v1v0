@@ -1,1 +1,0 @@
-{"description":"tibble() constructs a data frame. It is used like base::data.frame(), but\nwith a couple notable differences:\n","example_call":"tibble(..., .rows = NULL, .name_repair = c(\"check_unique\","}

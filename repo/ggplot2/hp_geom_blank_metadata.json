@@ -1,1 +1,0 @@
-{"description":"The blank geom draws nothing, but can be a useful way of ensuring common\nscales between different plots. See expand_limits() for\nmore details.\n","example_call":"geom_blank(mapping = NULL, data = NULL, stat = \"identity\", position = \"identity\","}

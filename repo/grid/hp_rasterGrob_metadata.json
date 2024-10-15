@@ -1,1 +1,0 @@
-{"description":"Render a raster object (bitmap image) at the given location, size,\nand orientation.\n","example_call":"rasterGrob(image, x = unit(0.5, \"npc\"), y = unit(0.5, \"npc\"),"}

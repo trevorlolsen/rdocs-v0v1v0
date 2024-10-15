@@ -1,1 +1,0 @@
-{"description":"These tools inspect and modify quosures, a type of\ndefused expression that includes a reference to the\ncontext where it was created. A quosure is guaranteed to evaluate\nin its original environment and can refer to local objects safely.\n","example_call":"quo_is_null(quo)"}

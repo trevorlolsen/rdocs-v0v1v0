@@ -1,1 +1,0 @@
-{"description":"This function removes value and variable label attributes\nfrom a vector or data frame. These attributes are typically\nadded to variables when importing foreign data (see\nread_spss) or manually adding label attributes\nwith set_labels.\n","example_call":"remove_all_labels(x)"}

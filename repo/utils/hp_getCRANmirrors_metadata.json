@@ -1,1 +1,0 @@
-{"description":"Interact with the user to choose a CRAN mirror.\n","example_call":"getCRANmirrors(all = FALSE, local.only = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Create a zero-column or zero-row gtable with the given heights or widths\nrespectively.\n","example_call":"gtable_col_spacer(heights)"}

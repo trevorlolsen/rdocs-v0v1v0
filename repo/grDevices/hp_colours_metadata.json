@@ -1,1 +1,0 @@
-{"description":"Returns the built-in color names which R knows about.\n","example_call":"colours(distinct = FALSE)"}

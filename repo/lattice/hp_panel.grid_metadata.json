@@ -1,1 +1,0 @@
-{"description":"These are predefined panel functions available in lattice for use in\nconstructing new panel functions (often on-the-fly).\n","example_call":"panel.grid(h = 3, v = 3, col, col.line = reference.line$col, lty = reference.line$lty,"}

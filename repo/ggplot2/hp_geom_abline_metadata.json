@@ -1,1 +1,0 @@
-{"description":"These geoms add reference lines (sometimes called rules) to a plot, either\nhorizontal, vertical, or diagonal (specified by slope and intercept).\nThese are useful for annotating plots.\n","example_call":"geom_abline(mapping = NULL, data = NULL, ..., slope, intercept,"}

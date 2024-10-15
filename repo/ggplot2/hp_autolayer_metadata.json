@@ -1,1 +1,0 @@
-{"description":"autolayer() uses ggplot2 to draw a particular layer for an object of a\nparticular class in a single command. This defines the S3 generic that\nother classes and packages can extend.\n","example_call":"autolayer(object, ...)"}

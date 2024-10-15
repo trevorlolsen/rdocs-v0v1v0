@@ -1,1 +1,0 @@
-{"description":"Determines the location, i.e., index of the (first) minimum or maximum\nof a numeric (or logical) vector.\n","example_call":"which.max(x)"}

@@ -1,1 +1,0 @@
-{"description":"Determine if files are xls or xlsx (or from the xlsx family).\n","example_call":"format_from_ext(path)"}

@@ -1,1 +1,0 @@
-{"description":"Return subsets of vectors, matrices or data frames which meet conditions.\n","example_call":"subset.data.frame(x, subset, select, drop = FALSE, ...)"}

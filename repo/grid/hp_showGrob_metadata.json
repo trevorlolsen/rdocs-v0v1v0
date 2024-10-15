@@ -1,1 +1,0 @@
-{"description":"Produces a graphical display of (by default) the current grid scene,\nwith labels showing the names of each grob in the scene.\nIt is also possible to label only specific grobs in the scene.\n","example_call":"showGrob(x = NULL, gPath = NULL, strict = FALSE, grep = FALSE,"}

@@ -1,1 +1,0 @@
-{"description":"Functions to convert between character representations and objects of\nclasses \"POSIXlt\" and \"POSIXct\" representing calendar\ndates and times.\n","example_call":"as.character.POSIXt(x, digits = if (inherits(x, \"POSIXlt\")) 14L else 6L,"}

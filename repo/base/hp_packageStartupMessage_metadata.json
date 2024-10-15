@@ -1,1 +1,0 @@
-{"description":"Generate a diagnostic message from its arguments.\n","example_call":"packageStartupMessage(..., domain = NULL, appendLF = TRUE)"}

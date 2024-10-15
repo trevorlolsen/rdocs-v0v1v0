@@ -1,1 +1,0 @@
-{"description":"The function quit or its alias q terminate the current\nR session.\n","example_call":"quit(save = \"default\", status = 0, runLast = TRUE)"}

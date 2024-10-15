@@ -1,1 +1,0 @@
-{"description":"Some grobs only generate their content to draw at\ndrawing time;  this function replaces such grobs with\ntheir at-drawing-time content.\n","example_call":"grid.revert(x, ...)"}

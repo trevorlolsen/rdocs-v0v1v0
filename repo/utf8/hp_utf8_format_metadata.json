@@ -1,1 +1,0 @@
-{"description":"Format a character object for UTF-8 printing.\n","example_call":"utf8_format(x, trim = FALSE, chars = NULL, justify = \"left\", width = NULL,"}

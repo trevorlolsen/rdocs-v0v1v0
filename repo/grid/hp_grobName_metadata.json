@@ -1,1 +1,0 @@
-{"description":"This function generates a unique (within-session) name for\na grob, based on the grob's class.\n","example_call":"grobName(grob = NULL, prefix = \"GRID\")"}

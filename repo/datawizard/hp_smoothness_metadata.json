@@ -1,1 +1,0 @@
-{"description":"Quantify the smoothness of a vector\n","example_call":"smoothness(x, method = \"cor\", lag = 1, iterations = NULL, ...)"}

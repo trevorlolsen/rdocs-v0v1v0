@@ -1,1 +1,0 @@
-{"description":"These functions handle the translation of a device-independent R graphics\nfont family name to a quartz font description.\n","example_call":"quartzFonts(...)"}

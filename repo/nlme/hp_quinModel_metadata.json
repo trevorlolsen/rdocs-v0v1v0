@@ -1,1 +1,0 @@
-{"description":"A model function for a model used with the Quinidine data.\nThis function calls compiled C code.\n","example_call":"quinModel(Subject, time, conc, dose, interval, lV, lKa, lCl)"}

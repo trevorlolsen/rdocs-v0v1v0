@@ -1,1 +1,0 @@
-{"description":"This function can be used to control (for the current device)\nwhether the user is prompted before starting a new page of output.\n","example_call":"devAskNewPage(ask = NULL)"}

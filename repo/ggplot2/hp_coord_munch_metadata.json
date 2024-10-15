@@ -1,1 +1,0 @@
-{"description":"This function \"munches\" lines, dividing each line into many small pieces\nso they can be transformed independently. Used inside geom functions.\n","example_call":"coord_munch(coord, data, range, segment_length = 0.01, is_closed = FALSE)"}

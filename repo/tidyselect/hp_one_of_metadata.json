@@ -1,1 +1,0 @@
-{"description":"one_of() is superseded in favour of the more precise any_of() and\nall_of() selectors.\n","example_call":"one_of(..., .vars = NULL)"}

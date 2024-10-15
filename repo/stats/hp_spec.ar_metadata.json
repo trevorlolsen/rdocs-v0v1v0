@@ -1,1 +1,0 @@
-{"description":"Fits an AR model to x (or uses the existing fit) and computes\n(and by default plots) the spectral density of the fitted model.\n","example_call":"spec.ar(x, n.freq, order = NULL, plot = TRUE, na.action = na.fail,"}

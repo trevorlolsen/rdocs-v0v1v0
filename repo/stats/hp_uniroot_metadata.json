@@ -1,1 +1,0 @@
-{"description":"The function uniroot searches the interval from lower\nto upper for a root (i.e., zero) of the function f with\nrespect to its first argument.\n","example_call":"uniroot(f, interval, ..., lower = min(interval), upper = max(interval),"}

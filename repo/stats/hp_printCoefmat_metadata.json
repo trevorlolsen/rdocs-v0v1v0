@@ -1,1 +1,0 @@
-{"description":"Utility function to be used in higher-level print\nmethods, such as those for summary.lm,\nsummary.glm and anova.  The\ngoal is to provide a flexible interface with smart defaults such\nthat often, only x needs to be specified.\n","example_call":"printCoefmat(x, digits = max(3L, getOption(\"digits\") - 2L), signif.stars = getOption(\"show.signif.stars\"),"}

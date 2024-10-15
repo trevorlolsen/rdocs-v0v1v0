@@ -1,1 +1,0 @@
-{"description":"When enabled, the R pager function is replaced so that a request to display\na file's contents instead generates a webR output message. The request is\nforwarded to the main thread to be handled by the application loading webR.\n","example_call":"pager_install()"}

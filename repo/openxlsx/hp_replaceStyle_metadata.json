@@ -1,1 +1,0 @@
-{"description":"Replace an existing cell style\n","example_call":"replaceStyle(wb, index, newStyle)"}

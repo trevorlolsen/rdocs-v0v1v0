@@ -1,1 +1,0 @@
-{"description":"Downloads pre-compiled models from the circus-repository.\nThe circus-repository contains a variety of fitted models to help\nthe systematic testing of other packages\n","example_call":"download_model(name, url = \"https://raw.github.com/easystats/circus/master/data/\","}

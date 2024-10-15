@@ -1,1 +1,0 @@
-{"description":"cnd_signal() takes a condition as argument and emits the\ncorresponding signal. The type of signal depends on the class of\nthe condition:\n","example_call":"cnd_signal(cnd, ...)"}

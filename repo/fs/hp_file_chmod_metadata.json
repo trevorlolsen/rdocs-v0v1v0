@@ -1,1 +1,0 @@
-{"description":"Change file permissions\n","example_call":"file_chmod(path, mode)"}

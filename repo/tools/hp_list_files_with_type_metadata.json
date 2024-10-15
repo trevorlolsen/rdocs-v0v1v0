@@ -1,1 +1,0 @@
-{"description":"Utilities for listing files, and manipulating file paths.\n","example_call":"list_files_with_type(dir, type, all.files = FALSE, full.names = TRUE, OS_subdirs = .OStype())"}

@@ -1,1 +1,0 @@
-{"description":"Compared to base::droplevels(), does not drop NA levels that have values.\n","example_call":"fct_drop(f, only = NULL)"}

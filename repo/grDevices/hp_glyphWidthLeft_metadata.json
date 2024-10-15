@@ -1,1 +1,0 @@
-{"description":"Create an object that contains information about typeset glyphs.\nThis includes glyph identifiers, glyph locations, font and colour\ninformation, and metric information.\n","example_call":"glyphWidthLeft(w, label)"}

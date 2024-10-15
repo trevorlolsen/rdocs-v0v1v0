@@ -1,1 +1,0 @@
-{"description":"Unnest expands a list-column containing data frames into rows and columns.\n","example_call":"unnest(data, cols, ..., keep_empty = FALSE, ptype = NULL,"}

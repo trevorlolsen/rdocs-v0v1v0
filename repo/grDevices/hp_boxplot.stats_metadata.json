@@ -1,1 +1,0 @@
-{"description":"This function is typically called by another function to\ngather the statistics necessary for producing box plots,\nbut may be invoked separately.\n","example_call":"boxplot.stats(x, coef = 1.5, do.conf = TRUE, do.out = TRUE)"}

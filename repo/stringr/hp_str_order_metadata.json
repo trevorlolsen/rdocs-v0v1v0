@@ -1,1 +1,0 @@
-{"description":"A character vector the same length as string.\n","example_call":"str_order(x, decreasing = FALSE, na_last = TRUE, locale = \"en\","}

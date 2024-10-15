@@ -1,1 +1,0 @@
-{"description":"The gevlss family implements Generalized Extreme Value location scale additive models in which the location, scale and shape parameters depend on additive smooth predictors. Usable \nonly with gam, the linear predictors are specified via a list of formulae.\n","example_call":"gevlss(link = list(\"identity\", \"identity\", \"logit\"))"}

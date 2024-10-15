@@ -1,1 +1,0 @@
-{"description":"Calculates false colors from a numeric variable (including factors,\nusing their numeric codes) given a color scheme and breakpoints.\n","example_call":"level.colors(x, at, col.regions, colors = TRUE, ...)"}

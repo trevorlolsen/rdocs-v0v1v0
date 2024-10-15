@@ -1,1 +1,0 @@
-{"description":"Define either an alpha mask or a luminance mask,\nbased on a grob.\n","example_call":"as.mask(x, type = c(\"alpha\", \"luminance\"))"}

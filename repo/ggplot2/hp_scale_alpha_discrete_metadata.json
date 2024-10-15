@@ -1,1 +1,0 @@
-{"description":"Alpha-transparency scales are not tremendously useful, but can be a\nconvenient way to visually down-weight less important observations.\nscale_alpha() is an alias for scale_alpha_continuous() since\nthat is the most common use of alpha, and it saves a bit of typing.\n","example_call":"scale_alpha_discrete(...)"}

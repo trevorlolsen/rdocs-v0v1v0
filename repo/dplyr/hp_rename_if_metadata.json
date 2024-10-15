@@ -1,1 +1,0 @@
-{"description":"\n","example_call":"rename_if(.tbl, .predicate, .funs = list(), ...)"}

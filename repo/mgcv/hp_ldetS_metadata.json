@@ -1,1 +1,0 @@
-{"description":"INTERNAL function calculating the log generalized determinant of penalty matrix S stored blockwise in an Sl list\n(which is the output of Sl.setup).\n","example_call":"ldetS(Sl, rho, fixed, np, root = FALSE, repara = TRUE, nt = 1,"}

@@ -1,1 +1,0 @@
-{"description":".packages returns information about package availability.\n","example_call":".packages(all.available = FALSE, lib.loc = NULL)"}

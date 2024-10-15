@@ -1,1 +1,0 @@
-{"description":"expect_error(), expect_warning(), expect_message(), and\nexpect_condition() check that code throws an error, warning, message,\nor condition with a message that matches regexp, or a class that inherits\nfrom class. See below for more details.\n","example_call":"expect_message(object, regexp = NULL, class = NULL, ..., inherit = TRUE,"}

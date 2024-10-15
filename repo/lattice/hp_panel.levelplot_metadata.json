@@ -1,1 +1,0 @@
-{"description":"These are the default panel functions for levelplot and\ncontourplot.  Also documented is an alternative raster-based\npanel function for use with levelplot.\n","example_call":"panel.levelplot(x, y, z, subscripts, at = pretty(z), shrink, labels = FALSE,"}

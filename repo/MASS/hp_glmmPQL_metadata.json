@@ -1,1 +1,0 @@
-{"description":"Fit a GLMM model with multivariate normal random effects, using\nPenalized Quasi-Likelihood.\n","example_call":"glmmPQL(fixed, random, family, data, correlation, weights,"}

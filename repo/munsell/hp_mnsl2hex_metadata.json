@@ -1,1 +1,0 @@
-{"description":"Take a character string representation of a Munsell colour and returns the \nhex specification of that colour\n","example_call":"mnsl2hex(col, ...)"}

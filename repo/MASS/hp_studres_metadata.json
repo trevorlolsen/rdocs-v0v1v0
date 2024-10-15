@@ -1,1 +1,0 @@
-{"description":"The Studentized residuals.  Like standardized residuals, these are\nnormalized to unit variance, but the Studentized version is fitted\nignoring the current data point. (They are sometimes called jackknifed\nresiduals).\n","example_call":"studres(object)"}

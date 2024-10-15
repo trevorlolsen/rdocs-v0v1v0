@@ -1,1 +1,0 @@
-{"description":"A call to callNextMethod can only appear inside a method\ndefinition.  It then results in a call to the first inherited method\nafter the current method, with the arguments to the current method\npassed down to the next method.  The value of that method call is the\nvalue of callNextMethod.\n","example_call":"callNextMethod(...)"}

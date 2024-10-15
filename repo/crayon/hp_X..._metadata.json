@@ -1,1 +1,0 @@
-{"description":"The length of the two arguments must match, or\none of them must be of length one. If the length of\none argument is one, then the output's length will\nmatch the length of the other argument. See examples\nbelow.\n","example_call":"%+%(lhs, rhs)"}

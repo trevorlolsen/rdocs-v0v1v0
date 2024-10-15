@@ -1,1 +1,0 @@
-{"description":"Rcpp.package.skeleton automates the creation of \na new source package that intends to use features of Rcpp. \n","example_call":"Rcpp.package.skeleton(name = \"anRpackage\", list = character(), environment = .GlobalEnv,"}

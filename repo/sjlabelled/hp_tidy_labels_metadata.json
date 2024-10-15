@@ -1,1 +1,0 @@
-{"description":"Duplicated value labels in variables may cause troubles when\nsaving labelled data, or computing cross tabs (cf.\nsjmisc::flat_table() or sjPlot::plot_xtab()).\ntidy_labels() repairs duplicated value labels by suffixing\nthem with the associated value.\n","example_call":"tidy_labels(x, ..., sep = \"_\", remove = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"lapply returns a list of the same length as X, each\nelement of which is the result of applying FUN to the\ncorresponding element of X.\n","example_call":"lapply(X, FUN, ...)"}

@@ -1,1 +1,0 @@
-{"description":"If the rate's internal counter exceeds the maximum number of times\nit is allowed to sleep, rate_sleep() throws an error of class\npurrr_error_rate_excess.\n","example_call":"rate_reset(rate)"}

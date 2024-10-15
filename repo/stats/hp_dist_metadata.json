@@ -1,1 +1,0 @@
-{"description":"This function computes and returns the distance matrix computed by\nusing the specified distance measure to compute the distances between\nthe rows of a data matrix.\n","example_call":"dist(x, method = \"euclidean\", diag = FALSE, upper = FALSE,"}

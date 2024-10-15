@@ -1,1 +1,0 @@
-{"description":"Given (x,y) points, determine their multiplicity <U+2013> checking for\nequality only up to some (crude kind of) noise.  Note that this is\nspecial kind of 2D binning.\n","example_call":"xyTable(x, y = NULL, digits)"}

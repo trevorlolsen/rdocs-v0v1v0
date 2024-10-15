@@ -1,1 +1,0 @@
-{"description":"cols_condense() takes a spec object and condenses its definition by setting\nthe default column type to the most frequent type and only listing columns\nwith a different type.\n","example_call":"spec(x)"}

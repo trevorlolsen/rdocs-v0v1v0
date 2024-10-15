@@ -1,1 +1,0 @@
-{"description":"Returns the number of parameters (coefficients) of a model.\n","example_call":"n_parameters(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Leaves values unchanged - useful when the data is already scaled.\n","example_call":"pal_identity()"}

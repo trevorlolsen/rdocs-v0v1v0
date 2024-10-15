@@ -1,1 +1,0 @@
-{"description":"This function returns the number of environments between env and\nthe empty environment, including env. The depth of\nenv is also the number of parents of env (since the empty\nenvironment counts as a parent).\n","example_call":"env_depth(env)"}

@@ -1,1 +1,0 @@
-{"description":"Get a method for an S3 generic, possibly from a namespace or the\ngeneric's registry.\n","example_call":"getS3method(f, class, optional = FALSE, envir = parent.frame())"}

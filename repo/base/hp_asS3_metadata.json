@@ -1,1 +1,0 @@
-{"description":"Tests whether the object is an instance of an S4 class.\n","example_call":"asS3(object, flag = TRUE, complete = TRUE)"}

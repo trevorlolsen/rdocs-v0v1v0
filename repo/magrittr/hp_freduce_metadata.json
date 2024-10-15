@@ -1,1 +1,0 @@
-{"description":"This function applies the first function to value, then the\nnext function to the result of the previous function call, etc.\n","example_call":"freduce(value, function_list)"}

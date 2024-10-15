@@ -1,1 +1,0 @@
-{"description":"Whereas <U+2060>%>%<U+2060> is lazy and only evaluates the piped expressions when\nneeded, <U+2060>%!>%<U+2060> is eager and evaluates the piped input at each step.\nThis produces more intuitive behaviour when functions are called\nfor their side effects, such as displaying a message.\n","example_call":"%!>%(lhs, rhs)"}

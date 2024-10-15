@@ -1,1 +1,0 @@
-{"description":"When parsing dates, you often need to know how weekdays of the week and\nmonths are represented as text. This pair of functions allows you to either\ncreate your own, or retrieve from a standard list. The standard list is\nderived from ICU (<U+2060>https://site.icu-project.org<U+2060>) via the stringi package.\n","example_call":"date_names_lang(language)"}

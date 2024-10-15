@@ -1,1 +1,0 @@
-{"description":"keep() selects all elements where .p evaluates to TRUE;\ndiscard() selects all elements where .p evaluates to FALSE.\ncompact() discards elements where .p evaluates to an empty vector.\n","example_call":"discard(.x, .p, ...)"}

@@ -1,1 +1,0 @@
-{"description":"Gives the list of encodings that are supported by ICU.\n","example_call":"stri_enc_list(simplify = TRUE)"}

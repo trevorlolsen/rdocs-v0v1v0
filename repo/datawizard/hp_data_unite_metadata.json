@@ -1,1 +1,0 @@
-{"description":"Merge values of multiple variables per observation into one new variable.\n","example_call":"data_unite(data, new_column = NULL, select = NULL, exclude = NULL,"}

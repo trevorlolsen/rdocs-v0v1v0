@@ -1,1 +1,0 @@
-{"description":"These functions take a unit object and convert it to an\nequivalent\nunit object in a different coordinate system.\n","example_call":"convertX(x, unitTo, valueOnly = FALSE)"}

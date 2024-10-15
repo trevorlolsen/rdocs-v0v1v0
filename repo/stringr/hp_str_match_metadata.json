@@ -1,1 +1,0 @@
-{"description":"Extract any number of matches defined by unnamed, (pattern), and\nnamed, <U+2060>(?<name>pattern)<U+2060> capture groups.\n","example_call":"str_match(string, pattern)"}

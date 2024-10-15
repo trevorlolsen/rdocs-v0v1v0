@@ -1,1 +1,0 @@
-{"description":"Gives the current default settings used by the ICU library.\n","example_call":"stri_info(short = FALSE)"}

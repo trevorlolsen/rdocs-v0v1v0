@@ -1,1 +1,0 @@
-{"description":"explore() invokes a function that starts an interactive, pre-defined widget\n(e.g. plotly visualization, shiny app, etc.) to investigate the results.\n","example_call":"explore(x, ...)"}

@@ -1,1 +1,0 @@
-{"description":"The polar coordinate system is most commonly used for pie charts, which\nare a stacked bar chart in polar coordinates. coord_radial() has extended\noptions.\n","example_call":"coord_polar(theta = \"x\", start = 0, direction = 1, clip = \"on\")"}

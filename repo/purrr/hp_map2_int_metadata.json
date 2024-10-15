@@ -1,1 +1,0 @@
-{"description":"These functions are variants of map() that iterate over two arguments at\na time.\n","example_call":"map2_int(.x, .y, .f, ..., .progress = FALSE)"}
