@@ -1,1 +1,0 @@
-{"description":"ansi_hyperlink() creates an ANSI hyperlink.\n","example_call":"style_hyperlink(text, url, params = NULL)"}

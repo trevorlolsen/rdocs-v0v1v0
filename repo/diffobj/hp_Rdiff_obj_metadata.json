@@ -1,1 +1,0 @@
-{"description":"These functions are here for reference and testing purposes.  They are\nwrappers to tools::Rdiff and rely on an existing system diff utility.\nYou should be using ses or diffChr instead of\nRdiff_chr and diffPrint instead of Rdiff_obj.\nSee limitations in note.\n","example_call":"Rdiff_obj(from, to, silent = FALSE, minimal = FALSE, nullPointers = TRUE)"}

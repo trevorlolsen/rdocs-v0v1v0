@@ -1,1 +1,0 @@
-{"description":"Every attribute represents the seconds the CPU has spent in the given\nmode. The attributes availability varies depending on the platform:\n","example_call":"ps_system_cpu_times()"}

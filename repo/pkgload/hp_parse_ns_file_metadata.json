@@ -1,1 +1,0 @@
-{"description":"Parses the NAMESPACE file for a package\n","example_call":"parse_ns_file(path = \".\")"}

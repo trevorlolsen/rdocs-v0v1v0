@@ -1,1 +1,0 @@
-{"description":"Parse package dependency strings.\n","example_call":"parse_deps(string)"}

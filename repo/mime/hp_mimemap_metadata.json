@@ -1,1 +1,0 @@
-{"description":"The data mimemap is a named character vector that stores the filename\nextensions and the corresponding MIME types, e.g. c(html = 'text/html',\npdf = 'application/pdf', ...). The character vector mimeextra stores\nsome additional types that we know, such as Markdown files (<U+2018>.md<U+2019>), or R\nscripts (<U+2018>.R<U+2019>).\n","example_call":"NULL"}

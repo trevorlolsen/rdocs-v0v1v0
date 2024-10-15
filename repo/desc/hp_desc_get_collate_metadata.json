@@ -1,1 +1,0 @@
-{"description":"Query the Collate field in DESCRIPTION\n","example_call":"desc_get_collate(which = c(\"main\", \"windows\", \"unix\"), file = \".\")"}

@@ -1,0 +1,1 @@
+{"description":"Removes variable label, leaving unlabelled vectors as is.\n","example_call":"zap_label(x)"}

@@ -1,1 +1,0 @@
-{"description":"Fast versions of union, intersect, \nsetdiff, symmetric difference and setequal\nfor integers.\n","example_call":"bit_intersect(x, y)"}

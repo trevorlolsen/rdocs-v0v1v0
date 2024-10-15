@@ -1,1 +1,0 @@
-{"description":"File system information for files\n","example_call":"ps_fs_info(paths = \"/\")"}

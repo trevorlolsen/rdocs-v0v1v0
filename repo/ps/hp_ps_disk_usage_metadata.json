@@ -1,1 +1,0 @@
-{"description":"The output is similar to the Unix df command.\n","example_call":"ps_disk_usage(paths = ps_disk_partitions()$mountpoint)"}

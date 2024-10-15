@@ -1,1 +1,0 @@
-{"description":"cpp_source() compiles and loads a single C++ file for use in R.\ncpp_function() compiles and loads a single function for use in R.\ncpp_eval() evaluates a single C++ expression and returns the result.\n","example_call":"cpp_source(file, code = NULL, env = parent.frame(), clean = TRUE,"}

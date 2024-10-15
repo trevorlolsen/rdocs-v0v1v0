@@ -1,1 +1,0 @@
-{"description":"Wikipedia provides a useful list of common http headers:\nhttps://en.wikipedia.org/wiki/List_of_HTTP_header_fields.\n","example_call":"add_headers(..., .headers = character())"}

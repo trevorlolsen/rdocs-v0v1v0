@@ -1,1 +1,0 @@
-{"description":"The builtin theme leaves an empty line between paragraphs.\nSee also containers.\n","example_call":"cli_par(id = NULL, class = NULL, .auto_close = TRUE, .envir = parent.frame())"}

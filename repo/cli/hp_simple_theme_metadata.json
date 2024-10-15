@@ -1,1 +1,0 @@
-{"description":"To use this theme, you can set it as the cli.theme option.\nNote that this is in addition to the builtin theme, which is still in\neffect.\n","example_call":"simple_theme(dark = getOption(\"cli.theme_dark\", \"auto\"))"}

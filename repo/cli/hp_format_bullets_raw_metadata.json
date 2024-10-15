@@ -1,1 +1,0 @@
-{"description":"cli_format_bullets_raw() is similar to cli_bullets(), but it does\nnot perform any inline styling or glue substitutions in the input.\n","example_call":"format_bullets_raw(text, id = NULL, class = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Memory usage information\n","example_call":"ps_memory_full_info(p = ps_handle())"}

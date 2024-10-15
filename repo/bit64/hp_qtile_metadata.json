@@ -1,1 +1,0 @@
-{"description":"Function prank.integer64  projects the values [min..max] via ranks [1..n] to [0..1]. \nqtile.ineger64 is the inverse function of 'prank.integer64' and projects [0..1] to [min..max].\n","example_call":"qtile(x, probs = seq(0, 1, 0.25), ...)"}

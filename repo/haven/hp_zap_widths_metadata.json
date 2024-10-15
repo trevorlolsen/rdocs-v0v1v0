@@ -1,0 +1,1 @@
+{"description":"To provide some mild support for round-tripping variables between SPSS\nand R, haven stores display widths in an attribute: display_width. If this\ncauses problems for your code, you can get rid of them with zap_widths.\n","example_call":"zap_widths(x)"}

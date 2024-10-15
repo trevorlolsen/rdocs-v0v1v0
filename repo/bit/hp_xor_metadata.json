@@ -1,1 +1,0 @@
-{"description":"Boolean NEGATION '!', AND '&', OR '|' and EXCLUSIVE OR xor', see Logic.\n","example_call":"xor(x, y)"}

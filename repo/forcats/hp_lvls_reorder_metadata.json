@@ -1,0 +1,1 @@
+{"description":"lvls_reorder leaves values as they are, but changes the order.\nlvls_revalue changes the values of existing levels; there must\nbe one new level for each old level.\nlvls_expand expands the set of levels; the new levels must\ninclude the old levels.\n","example_call":"lvls_reorder(f, idx, ordered = NA)"}

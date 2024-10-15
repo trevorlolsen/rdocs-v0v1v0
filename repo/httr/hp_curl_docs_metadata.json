@@ -1,1 +1,0 @@
-{"description":"This function lists all available options for config().\nIt provides both the short R name which you use with httr, and the longer\nCurl name, which is useful when searching the documentation. curl_doc\nopens a link to the libcurl documentation for an option in your browser.\n","example_call":"curl_docs(x)"}

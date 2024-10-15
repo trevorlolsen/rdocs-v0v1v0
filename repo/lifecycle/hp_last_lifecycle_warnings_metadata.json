@@ -1,1 +1,0 @@
-{"description":"last_lifecycle_warnings() returns a list of all warnings that\noccurred during the last top-level R command, along with a\nbacktrace.\n","example_call":"last_lifecycle_warnings()"}

@@ -1,1 +1,0 @@
-{"description":"Containers aut0-close by default, but sometimes you need to explicitly\nclose them. Closing a container also closes all of its nested\ncontainers.\n","example_call":"cli_end(id = NULL)"}

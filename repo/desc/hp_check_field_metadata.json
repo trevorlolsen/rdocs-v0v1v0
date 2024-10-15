@@ -1,1 +1,0 @@
-{"description":"Syntactical check of a DESCRIPTION field\n","example_call":"check_field(x, warn = FALSE, ...)"}

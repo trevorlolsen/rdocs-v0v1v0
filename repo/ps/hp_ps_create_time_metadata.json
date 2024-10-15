@@ -1,1 +1,0 @@
-{"description":"The pid and the start time pair serves as the identifier of the process,\nas process ids might be reused, but the chance of starting two processes\nwith identical ids within the resolution of the timer is minimal.\n","example_call":"ps_create_time(p = ps_handle())"}

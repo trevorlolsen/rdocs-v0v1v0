@@ -1,1 +1,0 @@
-{"description":"Helper function that assembles user provided HTML and CSS into a temporary\ntext file, and by default displays it in the browser.  Intended for use in\nexamples.\n","example_call":"in_html(x, css = character(), pre = TRUE, display = TRUE, clean = display)"}

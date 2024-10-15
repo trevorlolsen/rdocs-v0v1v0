@@ -1,1 +1,0 @@
-{"description":"Remove all URLs from the URL field of DESCRIPTION\n","example_call":"desc_clear_urls(file = \".\", normalize = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"Query a configuration parameter key, and return the value\nset in the calling package(s).\n","example_call":"get_config(key, fallback = NULL)"}

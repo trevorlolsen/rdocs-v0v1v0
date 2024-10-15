@@ -1,1 +1,0 @@
-{"description":"Check for a dependency\n","example_call":"desc_has_dep(package, type = c(\"any\", desc::dep_types), file = \".\")"}

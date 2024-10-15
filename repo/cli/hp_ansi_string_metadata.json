@@ -1,1 +1,0 @@
-{"description":"This function sets the class of its argument, activating\nANSI-string-specific methods such as for printing.\n","example_call":"ansi_string(x)"}

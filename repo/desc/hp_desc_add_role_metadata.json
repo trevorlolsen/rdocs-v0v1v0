@@ -1,1 +1,0 @@
-{"description":"The author(s) can be specified by a combination of the given,\nfamily, email, comment and orcid fields.\nIf multiple filters are specified, then all must match\nto identify the author(s).\n","example_call":"desc_add_role(role, given = NULL, family = NULL, email = NULL, comment = NULL,"}

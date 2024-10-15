@@ -1,1 +1,0 @@
-{"description":"Send PATCH request to a server.\n","example_call":"PATCH(url = NULL, config = list(), ..., body = NULL, encode = c(\"multipart\","}

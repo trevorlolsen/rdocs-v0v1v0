@@ -1,1 +1,0 @@
-{"description":"Throws a zombie_process() error for zombie processes.\n","example_call":"ps_num_threads(p = ps_handle())"}

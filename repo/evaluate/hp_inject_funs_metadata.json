@@ -1,1 +1,0 @@
-{"description":"Create functions in the environment specified in the envir argument of\nevaluate(). This can be helpful if you want to substitute certain\nfunctions when evaluating the code. To make sure it does not wipe out\nexisting functions in the environment, only functions that do not exist in\nthe environment are injected.\n","example_call":"inject_funs(...)"}

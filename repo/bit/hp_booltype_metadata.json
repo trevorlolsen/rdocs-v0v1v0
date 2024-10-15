@@ -1,1 +1,0 @@
-{"description":"Specific methods for booltype are required, where non-unary methods can combine multiple bollean types, particularly boolean binary operators.\n","example_call":"booltype(x)"}

@@ -1,1 +1,0 @@
-{"description":"Converts http errors to R errors or warnings - these should always\nbe used whenever you're creating requests inside a function, so\nthat the user knows why a request has failed.\n","example_call":"warn_for_status(x, task = NULL)"}

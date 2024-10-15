@@ -1,1 +1,0 @@
-{"description":"Works very similarly to parse, but also keeps original formatting and\ncomments.\n","example_call":"parse_all(x, filename = NULL, allow_error = FALSE)"}

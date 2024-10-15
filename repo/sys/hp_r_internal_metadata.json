@@ -1,1 +1,0 @@
-{"description":"Convenience wrappers for exec_wait and exec_internal that shell out to\nR itself: R.home(\"bin/R\").\n","example_call":"r_internal(args = \"--vanilla\", std_in = NULL, error = TRUE)"}

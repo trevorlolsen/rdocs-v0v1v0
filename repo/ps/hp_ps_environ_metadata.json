@@ -1,1 +1,0 @@
-{"description":"ps_environ() returns the environment variables of the process, in a\nnamed vector, similarly to the return value of Sys.getenv()\n(without arguments).\n","example_call":"ps_environ(p = ps_handle())"}

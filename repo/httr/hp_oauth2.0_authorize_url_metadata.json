@@ -1,1 +1,0 @@
-{"description":"See demos for use.\n","example_call":"oauth2.0_authorize_url(endpoint, app, scope, redirect_uri = app$redirect_uri,"}

@@ -1,1 +1,0 @@
-{"description":"This is a variant of tryCatch() that also captures the call\nstack if an error occurs.\n","example_call":"try_capture_stack(quoted_code, env)"}

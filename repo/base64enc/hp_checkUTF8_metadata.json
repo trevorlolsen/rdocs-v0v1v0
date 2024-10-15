@@ -1,1 +1,0 @@
-{"description":"checkUTF8 check whether a given raw vector can be used as a\nvalid string encoded in UTF8.\n","example_call":"checkUTF8(what, quiet = FALSE, charlen = FALSE, min.char = 1L)"}

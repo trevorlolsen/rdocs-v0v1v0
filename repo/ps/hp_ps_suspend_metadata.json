@@ -1,1 +1,0 @@
-{"description":"Suspend process execution with SIGSTOP preemptively checking\nwhether PID has been reused. On Windows this has the effect of\nsuspending all process threads.\n","example_call":"ps_suspend(p = ps_handle())"}

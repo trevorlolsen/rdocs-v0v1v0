@@ -1,1 +1,0 @@
-{"description":"PKCS7 and PKCS12 are container formats for storing multiple certificates and/or keys.\n","example_call":"write_p7b(ca, path = NULL)"}

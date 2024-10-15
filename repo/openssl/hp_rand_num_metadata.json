@@ -1,1 +1,0 @@
-{"description":"this set of functions generates random bytes or numbers from OpenSSL. This\nprovides a cryptographically secure alternative to R's default random number generator.\nrand_bytes generates n random cryptographically secure bytes\n","example_call":"rand_num(n = 1)"}

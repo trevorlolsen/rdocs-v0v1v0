@@ -1,1 +1,0 @@
-{"description":"Remove a package dependency from DESCRIPTION\n","example_call":"desc_del_dep(package, type = c(\"all\", desc::dep_types), file = \".\","}

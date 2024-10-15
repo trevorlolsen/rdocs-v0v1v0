@@ -1,1 +1,0 @@
-{"description":"This S3 object allows you to control how the response body is saved.\n","example_call":"write_function(subclass, ...)"}

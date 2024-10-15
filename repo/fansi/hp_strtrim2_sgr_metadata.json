@@ -1,1 +1,0 @@
-{"description":"These functions are deprecated in favor of the strtrim_ctl flavors.\n","example_call":"strtrim2_sgr(x, width, warn = getOption(\"fansi.warn\", TRUE), tabs.as.spaces = getOption(\"fansi.tabs.as.spaces\","}

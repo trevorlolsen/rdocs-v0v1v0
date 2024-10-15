@@ -1,1 +1,0 @@
-{"description":"Compares the str output of target and current.  If\nthe max.level parameter to str is left unspecified, will\nattempt to find the largest max.level that fits within\nline.limit and shows at least one difference.\n","example_call":"diffStr(target, current, ...)"}

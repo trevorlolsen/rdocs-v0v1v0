@@ -1,1 +1,0 @@
-{"description":"vecseq returns concatenated multiple sequences\n","example_call":"vecseq(x, y = NULL, concat = TRUE, eval = TRUE)"}

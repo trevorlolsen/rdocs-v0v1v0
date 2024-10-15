@@ -1,1 +1,0 @@
-{"description":"Parses a raw vector as lines of text. This is similar to charToRaw but\nsplits output by (platform specific) linebreaks and allows for marking\noutput with a given encoding.\n","example_call":"as_text(x, ...)"}

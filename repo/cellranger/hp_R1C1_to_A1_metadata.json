@@ -1,1 +1,0 @@
-{"description":"Convert cell reference strings from R1C1 to A1 format. This only makes sense\nfor absolute references, such as \"R4C2\". Why? Because otherwise, we'd\nhave to know the host cell of the reference. Relative and mixed references,\nlike (\"R[3]C[-1]\" and \"R[1]C5\"), will therefore return\nNA.\n","example_call":"R1C1_to_A1(x, strict = TRUE)"}

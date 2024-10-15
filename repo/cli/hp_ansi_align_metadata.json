@@ -1,1 +1,0 @@
-{"description":"Align an ANSI colored string\n","example_call":"ansi_align(text, width = console_width(), align = c(\"left\", \"center\","}

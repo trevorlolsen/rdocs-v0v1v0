@@ -1,1 +1,0 @@
-{"description":"In one pass over the vector NAs are handled according to parameter\nna.last by range_sortna, then, if the vector is unsorted, \ncounting sort is invoked.\n","example_call":"countsort(x, na.last = NA)"}

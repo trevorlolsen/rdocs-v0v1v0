@@ -1,1 +1,0 @@
-{"description":"Convert various representations of a cell reference into an object of class\nra_ref.\n","example_call":"as.ra_ref(x, ...)"}

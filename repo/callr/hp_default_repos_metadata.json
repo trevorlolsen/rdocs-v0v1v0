@@ -1,1 +1,0 @@
-{"description":"callr sets the repos option in subprocesses, to make sure that\na CRAN mirror is set up. This is because the subprocess cannot bring\nup the menu of CRAN mirrors for the user to choose from.\n","example_call":"default_repos()"}

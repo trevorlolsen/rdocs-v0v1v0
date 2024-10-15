@@ -1,1 +1,0 @@
-{"description":"Coercing integer64 vector to data.frame.\n","example_call":"as.data.frame.integer64(x, ...)"}

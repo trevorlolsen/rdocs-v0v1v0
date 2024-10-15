@@ -1,1 +1,0 @@
-{"description":"Draw a tree using box drawing characters. Unicode characters are\nused if available. (Set the cli.unicode option if auto-detection\nfails.)\n","example_call":"tree(data, root = data[[1]][[1]], style = NULL, width = console_width(),"}

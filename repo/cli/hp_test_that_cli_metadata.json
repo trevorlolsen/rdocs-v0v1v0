@@ -1,1 +1,0 @@
-{"description":"Use this function in your testthat test files, to test cli output.\nIt requires testthat edition 3, and works best with snapshot tests.\n","example_call":"test_that_cli(desc, code, configs = c(\"plain\", \"ansi\", \"unicode\","}

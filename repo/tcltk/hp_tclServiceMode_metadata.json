@@ -1,1 +1,0 @@
-{"description":"This function controls or reports on the Tcl service mode,\ni.e., whether Tcl will respond to events.\n","example_call":"tclServiceMode(on = NULL)"}

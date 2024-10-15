@@ -1,1 +1,0 @@
-{"description":"The input may be of class cli_ansi_string class, this is also dropped\nfrom the result.\n","example_call":"ansi_strip(string, sgr = TRUE, csi = TRUE, link = TRUE)"}

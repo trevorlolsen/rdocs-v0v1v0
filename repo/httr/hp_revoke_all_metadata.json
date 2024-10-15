@@ -1,1 +1,0 @@
-{"description":"Use this function if you think that your token may have been compromised,\ne.g. you accidentally uploaded the cache file to github. It's not possible\nto automatically revoke all tokens - this function will warn when it can't.\n","example_call":"revoke_all(cache_path = NA)"}

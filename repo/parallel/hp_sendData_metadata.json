@@ -1,1 +1,0 @@
-{"description":"Creates a set of copies of R running in parallel and communicating\nover sockets.\n","example_call":"sendData(node, data)"}

@@ -1,1 +1,0 @@
-{"description":"A utility to compare integer64 objects 'x' and 'y' testing for <80><98>near equality<80><99>, see all.equal.\n","example_call":"all.equal.integer64(target, current, tolerance = sqrt(.Machine$double.eps),"}

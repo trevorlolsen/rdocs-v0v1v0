@@ -1,1 +1,0 @@
-{"description":"Returns the value of the LINES system variable if it is reasonable,\n48 otherwise.\n","example_call":"console_lines()"}

@@ -1,0 +1,1 @@
+{"description":"This family of functions changes only the order of the levels.\n","example_call":"fct_inorder(f, ordered = NA)"}

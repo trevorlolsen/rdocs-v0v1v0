@@ -1,1 +1,0 @@
-{"description":"Checks whether tools::Rdiff issues a warning when\nrunning with useDiff=TRUE and if it does assumes this is because the\ndiff utility is not available.  Intended primarily for testing purposes.\n","example_call":"has_Rdiff(test.with = tools::Rdiff)"}

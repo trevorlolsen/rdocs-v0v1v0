@@ -1,1 +1,0 @@
-{"description":"The name of the program, which is typically the name of the executable.\n","example_call":"ps_name(p = ps_handle())"}

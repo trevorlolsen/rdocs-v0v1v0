@@ -1,0 +1,1 @@
+{"description":"To provide some mild support for round-tripping variables between Stata/SPSS\nand R, haven stores variable formats in an attribute: format.stata,\nformat.spss, or format.sas. If this causes problems for your\ncode, you can get rid of them with zap_formats.\n","example_call":"zap_formats(x)"}

@@ -1,1 +1,0 @@
-{"description":"Retrieve a text string with the rtools version needed\n","example_call":"rtools_needed(r_version = getRversion())"}

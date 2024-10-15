@@ -1,1 +1,0 @@
-{"description":"You can then throw this message with stop() or rlang::abort().\n","example_call":"format_error(message, .envir = parent.frame())"}

@@ -1,1 +1,0 @@
-{"description":"Key agreement is one-step method of creating a shared secret between two\npeers. Both peers can independently derive the joined secret by combining\nhis or her private key with the public key from the peer.\n","example_call":"ec_dh(key = my_key(), peerkey, password = askpass)"}

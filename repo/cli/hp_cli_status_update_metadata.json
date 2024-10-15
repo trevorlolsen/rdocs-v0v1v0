@@ -1,1 +1,0 @@
-{"description":"The <U+2060>cli_status_*()<U+2060> functions are superseded by\nthe cli_progress_message() and cli_progress_step() functions,\nbecause they have a better default behavior.\n","example_call":"cli_status_update(id = NULL, msg = NULL, msg_done = NULL, msg_failed = NULL,"}

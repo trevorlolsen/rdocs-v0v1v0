@@ -1,1 +1,0 @@
-{"description":"Password based key derivation function with bcrypt. This is not\npart of openssl. It is needed to parse private key files which are\nencoded in the new openssh format.\n","example_call":"bcrypt_pbkdf(password, salt, rounds = 16L, size = 32L)"}

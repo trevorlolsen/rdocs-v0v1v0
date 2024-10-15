@@ -1,1 +1,0 @@
-{"description":"Resume process execution with SIGCONT preemptively checking\nwhether PID has been reused. On Windows this has the effect of resuming\nall process threads.\n","example_call":"ps_resume(p = ps_handle())"}

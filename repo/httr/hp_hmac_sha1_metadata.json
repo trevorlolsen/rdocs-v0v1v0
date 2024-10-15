@@ -1,1 +1,0 @@
-{"description":"As described in https://datatracker.ietf.org/doc/rfc2104/.\n","example_call":"hmac_sha1(key, string)"}

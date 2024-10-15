@@ -1,1 +1,0 @@
-{"description":"Print the helpful ruler to the screen\n","example_call":"ruler(width = console_width())"}

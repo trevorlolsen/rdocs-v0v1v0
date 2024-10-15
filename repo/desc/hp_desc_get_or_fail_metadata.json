@@ -1,1 +1,0 @@
-{"description":"desc_get_list() parses a comma separated list into a character\nvector.\n","example_call":"desc_get_or_fail(keys, file = \".\")"}

@@ -1,1 +1,0 @@
-{"description":"Helper functions to help define parameters for selecting an appropriate\ncontext value.\n","example_call":"auto_context(min = getOption(\"diffobj.context.auto.min\"), max = getOption(\"diffobj.context.auto.max\"))"}

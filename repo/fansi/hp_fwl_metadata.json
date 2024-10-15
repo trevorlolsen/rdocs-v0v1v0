@@ -1,1 +1,0 @@
-{"description":"Shortcut for writeLines with an additional terminating \"ESC[0m\".\n","example_call":"fwl(..., end = \"<END>\\033[0m\")"}

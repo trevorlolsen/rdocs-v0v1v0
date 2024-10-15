@@ -1,1 +1,0 @@
-{"description":"Like base::nzchar(), but for ANSI strings\n","example_call":"ansi_nzchar(x, ...)"}

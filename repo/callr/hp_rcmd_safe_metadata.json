@@ -1,1 +1,0 @@
-{"description":"Run an <U+2060>R CMD<U+2060> command form within R. This will usually start\nanother R process, from a shell script.\n","example_call":"rcmd_safe(cmd, cmdargs = character(), libpath = .libPaths(),"}

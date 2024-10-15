@@ -1,1 +1,0 @@
-{"description":"CleanupReporter takes an existing testthat Reporter object, and\nwraps it, so it checks for leftover child processes, at the specified\nplace, see the proc_unit argument below.\n","example_call":"CleanupReporter(reporter = testthat::ProgressReporter)"}

@@ -1,1 +1,0 @@
-{"description":"A permanent R session that runs in the background. This is an R6 class\nthat extends the processx::process class.\n","example_call":"NULL"}

@@ -1,1 +1,0 @@
-{"description":"The rule can include either a centered text label, or labels on the\nleft and right side.\n","example_call":"rule(left = \"\", center = \"\", right = \"\", line = 1, col = NULL,"}

@@ -1,1 +1,0 @@
-{"description":"has_ctl checks for any Control Sequence.  You can check for different\ntypes of sequences with the ctl parameter.  Warnings are only emitted for\nmalformed CSI or OSC sequences.\n","example_call":"has_ctl(x, ctl = \"all\", warn = getOption(\"fansi.warn\", TRUE),"}

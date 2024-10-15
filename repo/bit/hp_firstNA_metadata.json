@@ -1,1 +1,0 @@
-{"description":"This is substantially faster than which.max(is.na(x))\n","example_call":"firstNA(x)"}

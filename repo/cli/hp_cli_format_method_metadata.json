@@ -1,1 +1,0 @@
-{"description":"This method can be typically used in format() S3 methods. Then the\nprint() method of the class can be easily defined in terms of such a\nformat() method. See examples below.\n","example_call":"cli_format_method(expr, theme = getOption(\"cli.theme\"))"}

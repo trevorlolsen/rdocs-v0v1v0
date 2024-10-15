@@ -1,1 +1,0 @@
-{"description":"Rendered using block elements.\nIn most common fixed width fonts these are rendered wider than regular\ncharacters which means they are not suitable if you need precise alignment.\n","example_call":"spark_bar(x)"}

@@ -1,1 +1,0 @@
-{"description":"Create a pollable object from a curl multi handle's file descriptors\n","example_call":"curl_fds(fds)"}

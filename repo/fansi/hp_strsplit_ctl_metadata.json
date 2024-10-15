@@ -1,1 +1,0 @@
-{"description":"A drop-in replacement for base::strsplit.\n","example_call":"strsplit_ctl(x, split, fixed = FALSE, perl = FALSE, useBytes = FALSE,"}

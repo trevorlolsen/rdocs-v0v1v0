@@ -1,1 +1,0 @@
-{"description":"This handle preserves settings and cookies across multiple requests. It is\nthe foundation of all requests performed through the httr package, although\nit will mostly be hidden from the user.\n","example_call":"handle(url, cookies = TRUE)"}

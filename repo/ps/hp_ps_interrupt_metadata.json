@@ -1,1 +1,0 @@
-{"description":"Sends SIGINT on POSIX, and 'CTRL+C' or 'CTRL+BREAK' on Windows.\n","example_call":"ps_interrupt(p = ps_handle(), ctrl_c = TRUE)"}

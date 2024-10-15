@@ -1,1 +1,0 @@
-{"description":"Powerful replacements for system2 with support for interruptions, background\ntasks and fine grained control over STDOUT / STDERR binary or text streams.\n","example_call":"exec_status(pid, wait = TRUE)"}

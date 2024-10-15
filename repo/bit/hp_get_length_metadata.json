@@ -1,1 +1,0 @@
-{"description":"Gets C length of a vector ignoring any length-methods dispatched by classes\n","example_call":"get_length(x)"}

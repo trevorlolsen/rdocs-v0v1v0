@@ -1,1 +1,0 @@
-{"description":"User ids and group ids of the process. Both return integer vectors with\nnames: real, effective and saved.\n","example_call":"ps_gids(p = ps_handle())"}

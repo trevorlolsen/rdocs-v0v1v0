@@ -1,1 +1,0 @@
-{"description":"Encrypt or decrypt messages using PKCS7 smime format.\nNote PKCS7 only supports RSA keys.\n","example_call":"pkcs7_decrypt(input, key, der = is.raw(input))"}

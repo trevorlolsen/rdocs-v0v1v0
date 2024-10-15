@@ -1,1 +1,0 @@
-{"description":"These functions and variables provide the basic glue between R and the\nTcl interpreter and Tk GUI toolkit. Tk\nwindows may be represented via R objects. Tcl variables can be accessed\nvia objects of class tclVar and the C level interface to Tcl\nobjects is accessed via objects of class tclObj.\n","example_call":"tclObj(x)"}

@@ -1,1 +1,0 @@
-{"description":"Override the default RCurl user agent of NULL\n","example_call":"user_agent(agent)"}

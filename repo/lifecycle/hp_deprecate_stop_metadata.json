@@ -1,1 +1,0 @@
-{"description":"These functions provide three levels of verbosity for deprecated\nfunctions. Learn how to use them in vignette(\"communicate\").\n","example_call":"deprecate_stop(when, what, with = NULL, details = NULL, env = caller_env())"}

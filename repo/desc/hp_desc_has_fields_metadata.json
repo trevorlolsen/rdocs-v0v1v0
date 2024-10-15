@@ -1,1 +1,0 @@
-{"description":"Check if some fields are present in a DESCRIPTION file\n","example_call":"desc_has_fields(keys, file = \".\")"}

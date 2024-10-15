@@ -1,1 +1,0 @@
-{"description":"This function differs from write_lines() in that it writes the data in\ntext directly, without any checking or adding any newlines.\n","example_call":"write_file_raw(raw, path)"}

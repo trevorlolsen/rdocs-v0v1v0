@@ -1,1 +1,0 @@
-{"description":"gdo(x) is equivalent to getOption(sprintf(\"diffobj.%s\", x)).\n","example_call":"gdo(x)"}

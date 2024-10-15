@@ -1,1 +1,0 @@
-{"description":"You can use this function to format a line of cli text, without emitting\nit to the screen. It uses cli_text() internally.\n","example_call":"format_inline(..., .envir = parent.frame(), collapse = TRUE, keep_whitespace = TRUE)"}

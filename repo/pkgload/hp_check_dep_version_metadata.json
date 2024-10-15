@@ -1,1 +1,0 @@
-{"description":"Check that the version of an imported package satisfies the requirements\n","example_call":"check_dep_version(dep_name, dep_ver = \"*\")"}

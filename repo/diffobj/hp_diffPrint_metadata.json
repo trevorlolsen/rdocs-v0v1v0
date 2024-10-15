@@ -1,1 +1,0 @@
-{"description":"Runs the diff between the print or show output produced by\ntarget and current.  Given the extensive parameter list, this\ndocumentation page is intended as a reference for all the diff*\nmethods.  For a high level introduction see vignette(\"diffobj\").\n","example_call":"diffPrint(target, current, ...)"}

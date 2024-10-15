@@ -1,1 +1,0 @@
-{"description":"Sign and verify a message digest. RSA supports both MD5 and SHA signatures\nwhereas DSA and EC keys only support SHA. ED25591 can sign any payload so you can\nset hash to NULL to sign the raw input data.\n","example_call":"signature_create(data, hash = sha1, key = my_key(), password = askpass)"}

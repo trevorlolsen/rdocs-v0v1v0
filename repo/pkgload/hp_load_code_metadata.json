@@ -1,1 +1,0 @@
-{"description":"Sources all .R/.r files in the <U+2060>R/<U+2060> directory, storing results into\nthe package namespace.\n","example_call":"load_code(path = \".\", quiet = NULL)"}

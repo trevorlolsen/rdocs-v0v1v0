@@ -1,1 +1,0 @@
-{"description":"All hash functions either calculate a hash-digest for key == NULL or HMAC\n(hashed message authentication code) when key is not NULL. Supported\ninputs are binary (raw vector), strings (character vector) or a connection object.\n","example_call":"sha512(x, key = NULL)"}

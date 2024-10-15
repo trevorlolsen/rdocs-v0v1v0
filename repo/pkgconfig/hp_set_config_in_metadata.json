@@ -1,1 +1,0 @@
-{"description":"This is a more flexible variant of link{set_config},\nand it allows creating an custom API in the package that\nuses pkgconfig for its configuration.\n","example_call":"set_config_in(..., .in = parent.frame())"}

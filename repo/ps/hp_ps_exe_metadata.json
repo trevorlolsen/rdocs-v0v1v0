@@ -1,1 +1,0 @@
-{"description":"Path to the executable of the process. May also be an empty string or\nNA if it cannot be determined.\n","example_call":"ps_exe(p = ps_handle())"}

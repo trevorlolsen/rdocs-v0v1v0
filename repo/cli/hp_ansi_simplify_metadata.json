@@ -1,1 +1,0 @@
-{"description":"It creates an equivalent, but possibly shorter ANSI styled string, by\nremoving duplicate and empty tags.\n","example_call":"ansi_simplify(x, csi = c(\"keep\", \"drop\"))"}

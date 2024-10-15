@@ -1,1 +1,0 @@
-{"description":"cli has three levels of headings.\n","example_call":"cli_h1(text, id = NULL, class = NULL, .envir = parent.frame())"}

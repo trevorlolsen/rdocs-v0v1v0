@@ -1,1 +1,0 @@
-{"description":"Reads text files with readLines and performs a diff on the\nresulting character vectors.\n","example_call":"diffFile(target, current, ...)"}

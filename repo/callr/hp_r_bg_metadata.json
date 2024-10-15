@@ -1,1 +1,0 @@
-{"description":"Starts evaluating an R function call in a background R process, and\nreturns immediately.\nUse p$get_result() to collect the result or to throw an error\nif the background computation failed.\n","example_call":"r_bg(func, args = list(), libpath = .libPaths(), repos = default_repos(),"}

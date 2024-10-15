@@ -1,1 +1,0 @@
-{"description":"These functions provide several ways to parallelize computations using\na cluster.\n","example_call":"parRapply(cl = NULL, x, FUN, ..., chunk.size = NULL)"}

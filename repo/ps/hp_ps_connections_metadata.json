@@ -1,1 +1,0 @@
-{"description":"For a zombie process it throws a zombie_process error.\n","example_call":"ps_connections(p = ps_handle())"}

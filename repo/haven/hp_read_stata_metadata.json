@@ -1,0 +1,1 @@
+{"description":"Currently haven can read and write logical, integer, numeric, character\nand factors. See labelled() for how labelled variables in\nStata are handled in R.\n","example_call":"read_stata(file, encoding = NULL, col_select = NULL, skip = 0,"}

@@ -1,1 +1,0 @@
-{"description":"The text is converted to UTF-8 encoding before writing.\n","example_call":"write_lines(text, path, eol = \"\\n\")"}

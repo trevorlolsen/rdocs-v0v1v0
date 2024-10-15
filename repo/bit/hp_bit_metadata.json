@@ -1,1 +1,0 @@
-{"description":"Bit vectors are a boolean type wihout NA that requires by factor 32 less RAM than logical.\nFor details on usage see the usage-vignette and for details on performance see performance-vignette\n","example_call":"bit(length = 0L)"}

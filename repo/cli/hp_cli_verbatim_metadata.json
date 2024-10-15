@@ -1,1 +1,0 @@
-{"description":"It is not wrapped, but printed as is. Long lines will overflow.\nNo glue substitution is performed on verbatim text.\n","example_call":"cli_verbatim(..., .envir = parent.frame())"}

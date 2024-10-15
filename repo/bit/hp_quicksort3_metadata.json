@@ -1,1 +1,0 @@
-{"description":"In one pass over the vector NAs are handled according to parameter\nna.last by range_sortna, then, if the vector is unsorted, \nthreeway quicksort is invoked.\n","example_call":"quicksort3(x, na.last = NA)"}

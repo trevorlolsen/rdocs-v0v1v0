@@ -1,0 +1,1 @@
+{"description":"This is a useful way of patching together factors from multiple sources\nthat really should have the same levels but don't.\n","example_call":"fct_c(...)"}

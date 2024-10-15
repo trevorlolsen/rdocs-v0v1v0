@@ -1,1 +1,0 @@
-{"description":"cache_info() gives details of cacheability of a response,\nrerequest() re-performs the original request doing as little work\nas possible (if not expired, returns response as is, or performs\nrevalidation if Etag or Last-Modified headers are present).\n","example_call":"cache_info(r)"}

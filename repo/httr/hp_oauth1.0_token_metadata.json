@@ -1,1 +1,0 @@
-{"description":"This is the final object in the OAuth dance - it encapsulates the app,\nthe endpoint, other parameters and the received credentials.\n","example_call":"oauth1.0_token(endpoint, app, permission = NULL, as_header = TRUE,"}

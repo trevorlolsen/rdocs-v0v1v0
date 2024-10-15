@@ -1,1 +1,0 @@
-{"description":"dataURI creates URI with the data: scheme by encoding\nthe payload either using base64 ot URI encoding.\n","example_call":"dataURI(data, mime = \"\", encoding = \"base64\", file)"}

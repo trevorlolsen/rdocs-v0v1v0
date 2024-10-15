@@ -1,1 +1,0 @@
-{"description":"Kill the process with SIGKILL preemptively checking whether PID has\nbeen reused. On Windows it uses TerminateProcess().\n","example_call":"ps_kill(p = ps_handle(), grace = 200)"}

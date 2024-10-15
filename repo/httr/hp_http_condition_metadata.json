@@ -1,1 +1,0 @@
-{"description":"This function generate S3 condition objects which are passed to\nstop() or warning() to generate classes warnings\nand error. These can be used in conjunction with tryCatch()\nto respond differently to different type of failure.\n","example_call":"http_condition(x, type, task = NULL, call = sys.call(-1))"}

@@ -1,1 +1,0 @@
-{"description":"This is roughly an implementation of hash functionality but based on sorting instead on a hasmap.\nSince sorting is more informative than hashingwe can do some more interesting things.\n","example_call":"orderdup(table, order, ...)"}

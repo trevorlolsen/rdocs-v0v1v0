@@ -1,1 +1,0 @@
-{"description":"Only works with the Authors@R field.\n","example_call":"desc_change_maintainer(given = NULL, family = NULL, email = NULL, comment = NULL,"}

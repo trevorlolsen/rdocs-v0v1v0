@@ -1,1 +1,0 @@
-{"description":"Combine two or more styles or style functions into a new style function\nthat can be called on strings to style them.\n","example_call":"combine_ansi_styles(...)"}

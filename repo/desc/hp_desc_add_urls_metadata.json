@@ -1,1 +1,0 @@
-{"description":"Add URLs to the URL field in DESCRIPTION\n","example_call":"desc_add_urls(urls, file = \".\", normalize = FALSE)"}

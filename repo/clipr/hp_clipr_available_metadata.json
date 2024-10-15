@@ -1,1 +1,0 @@
-{"description":"Checks to see if the system clipboard is write-able/read-able. This may be\nuseful if you are developing a package that relies on clipr and need to\nensure that it will skip tests on machines (e.g. CRAN, Travis) where the\nsystem clipboard may not be available.\n","example_call":"clipr_available(...)"}

@@ -1,1 +1,0 @@
-{"description":"If cannot be determined, it returns NA. It also returns NA on older\nWindows systems, e.g. Vista or older and Windows Server 2008 or older.\n","example_call":"ps_cpu_count(logical = TRUE)"}

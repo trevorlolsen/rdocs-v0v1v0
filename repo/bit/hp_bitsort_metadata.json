@@ -1,1 +1,0 @@
-{"description":"In one pass over the vector NAs are handled according to parameter\nna.last by range_sortna, then, if the vector is unsorted, \nbit sort is invoked.\n","example_call":"bitsort(x, na.last = NA, depth = 1)"}

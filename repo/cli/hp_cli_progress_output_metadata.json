@@ -1,1 +1,0 @@
-{"description":"The text is calculated via cli_text(), so all cli features can be\nused here, including progress variables.\n","example_call":"cli_progress_output(text, id = NULL, .envir = parent.frame())"}

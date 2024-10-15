@@ -1,1 +1,0 @@
-{"description":"First ANSI sequences will be stripped with ansi_strip(), both\n","example_call":"ansi_grep(pattern, x, ignore.case = FALSE, perl = FALSE, value = FALSE,"}

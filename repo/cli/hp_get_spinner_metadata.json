@@ -1,1 +1,0 @@
-{"description":"cli contains many different spinners, you choose one according to your\ntaste.\n","example_call":"get_spinner(which = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"Basic utilities for rle packing and unpacking and apropriate methods for\nrev and unique.\n","example_call":"rleunpack(x)"}

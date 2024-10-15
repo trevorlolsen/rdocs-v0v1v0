@@ -1,1 +1,0 @@
-{"description":"benchmark64 compares high-level integer64 functions against the integer functions from Base R optimizer64 compares for each high-level integer64 function the Base R integer function with several low-level integer64 functions with and without caching ","example_call":"optimizer64(nsmall = 2^16, nbig = 2^25, timefun = repeat.time,"}

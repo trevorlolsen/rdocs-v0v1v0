@@ -1,1 +1,0 @@
-{"description":"The write_pem functions exports a key or certificate to the standard\nbase64 PEM format. For private keys it is possible to set a password.\n","example_call":"write_ssh(pubkey, path = NULL)"}

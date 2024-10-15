@@ -1,1 +1,0 @@
-{"description":"(This isn't really a http verb, but it seems to follow the same format).\n","example_call":"BROWSE(url = NULL, config = list(), ..., handle = NULL)"}

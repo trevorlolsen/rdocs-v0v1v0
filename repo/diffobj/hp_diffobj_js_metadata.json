@@ -1,1 +1,0 @@
-{"description":"File location for default CSS and JS files.  Note that these files are read\nand injected into the output HTML rather than referenced to simplify serving.\n","example_call":"diffobj_js()"}

@@ -1,1 +1,0 @@
-{"description":"This is the most general way of processing the response from the server -\nyou receive the raw bytes as they come in, and you can do whatever you want\nwith them.\n","example_call":"write_stream(f)"}

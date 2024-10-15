@@ -1,1 +1,0 @@
-{"description":"This function is currently not implemented on Windows.\n","example_call":"ps_fs_stat(paths, follow = TRUE)"}

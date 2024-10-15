@@ -1,1 +1,0 @@
-{"description":"Print the contents of a DESCRIPTION file to the screen\n","example_call":"desc_print(file = \".\")"}

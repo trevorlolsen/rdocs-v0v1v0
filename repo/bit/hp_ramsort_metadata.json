@@ -1,1 +1,0 @@
-{"description":"These are generic stubs for low-level sorting and ordering methods\nimplemented in packages 'bit64' and 'ff'.  The ..sortorder methods do\nsorting and ordering at once, which requires more RAM than ordering but is\n(almost) as fast as as sorting.\n","example_call":"ramsort(x, ...)"}

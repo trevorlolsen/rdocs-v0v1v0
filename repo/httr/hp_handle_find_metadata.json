@@ -1,1 +1,0 @@
-{"description":"The handle pool is used to automatically reuse Curl handles for the same\nscheme/host/port combination. This ensures that the http session is\nautomatically reused, and cookies are maintained across requests to a site\nwithout user intervention.\n","example_call":"handle_find(url)"}

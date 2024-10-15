@@ -1,1 +1,0 @@
-{"description":"Convert various representations of a cell reference to character\n","example_call":"to_string(x, fo = c(\"R1C1\", \"A1\"), strict = TRUE, sheet = NULL,"}

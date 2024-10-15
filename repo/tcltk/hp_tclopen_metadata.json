@@ -1,1 +1,0 @@
-{"description":"These functions interface to Tk non-widget commands, such as the\nwindow manager interface commands and the geometry managers.\n","example_call":"tclopen(...)"}

@@ -1,1 +1,0 @@
-{"description":"Calculate the SHA-256 hash of each element of a character vector.\n","example_call":"hash_file_sha256(paths)"}

@@ -1,1 +1,0 @@
-{"description":"Get url HEADers.\n","example_call":"HEAD(url = NULL, config = list(), ..., handle = NULL)"}

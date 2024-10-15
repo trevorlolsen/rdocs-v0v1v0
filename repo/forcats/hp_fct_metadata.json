@@ -1,0 +1,1 @@
+{"description":"fct() is a stricter version of factor() that errors if your\nspecification of levels is inconsistent with the values in x.\n","example_call":"fct(x = character(), levels = NULL, na = character())"}

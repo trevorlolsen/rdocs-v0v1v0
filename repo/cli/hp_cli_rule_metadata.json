@@ -1,1 +1,0 @@
-{"description":"It can be used to separate parts of the output.\n","example_call":"cli_rule(left = \"\", center = \"\", right = \"\", id = NULL, .envir = parent.frame())"}

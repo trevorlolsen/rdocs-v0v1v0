@@ -1,1 +1,0 @@
-{"description":"Set the Collate field in DESCRIPTION\n","example_call":"desc_set_collate(files, which = c(\"main\", \"windows\", \"unix\"), file = \".\","}

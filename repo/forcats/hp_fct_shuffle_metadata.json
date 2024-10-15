@@ -1,0 +1,1 @@
+{"description":"Randomly permute factor levels\n","example_call":"fct_shuffle(f)"}

@@ -1,1 +1,0 @@
-{"description":"This divides up 1:nx into ncl lists of approximately\nequal size, as a way to allocate tasks to nodes in a cluster.\n","example_call":"splitIndices(nx, ncl)"}

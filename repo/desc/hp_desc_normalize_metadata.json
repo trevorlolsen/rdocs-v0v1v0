@@ -1,1 +1,0 @@
-{"description":"Re-formats and re-orders fields in DESCRIPTION in a standard way.\nReorders the packages alphabetically.\n","example_call":"desc_normalize(file = \".\")"}

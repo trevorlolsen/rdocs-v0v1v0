@@ -1,1 +1,0 @@
-{"description":"ps_get_nice() returns the current priority, ps_set_nice() sets a\nnew priority, ps_windows_nice_values() list the possible priority\nvalues on Windows.\n","example_call":"ps_set_nice(p = ps_handle(), value)"}

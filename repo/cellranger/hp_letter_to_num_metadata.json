@@ -1,1 +1,0 @@
-{"description":"Convert \"A1\"-style column IDs from a letter representation to an integer,\ne.g. column A becomes 1, column D becomes 4, etc. Or go the other way around.\n","example_call":"letter_to_num(x)"}

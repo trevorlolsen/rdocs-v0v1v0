@@ -1,1 +1,0 @@
-{"description":"Write a character vector to the system clipboard\n","example_call":"write_clip(content, object_type = c(\"auto\", \"character\", \"table\"),"}

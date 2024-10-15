@@ -1,1 +1,0 @@
-{"description":"Loads all .RData files in the data subdirectory.\n","example_call":"load_data(path = \".\")"}

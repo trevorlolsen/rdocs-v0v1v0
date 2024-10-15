@@ -1,1 +1,0 @@
-{"description":"The specified locations replace the current ones. The Remotes field is\ncreated if it does not exist currently.\n","example_call":"desc_set_remotes(remotes, file = \".\", normalize = FALSE)"}

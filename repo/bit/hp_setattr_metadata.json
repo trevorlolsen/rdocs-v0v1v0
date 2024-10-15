@@ -1,1 +1,0 @@
-{"description":"Function setattr sets a singe attribute and function\nsetattributes sets a list of attributes.\n","example_call":"setattr(x, which, value)"}

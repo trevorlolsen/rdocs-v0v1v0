@@ -1,1 +1,0 @@
-{"description":"Attempt to detect the number of CPU cores on the current host.\n","example_call":"detectCores(all.tests = FALSE, logical = TRUE)"}

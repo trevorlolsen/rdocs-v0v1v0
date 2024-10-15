@@ -1,1 +1,0 @@
-{"description":"Remove files from the Collate field.\n","example_call":"desc_del_from_collate(files, which = c(\"all\", \"main\", \"windows\", \"unix\"),"}

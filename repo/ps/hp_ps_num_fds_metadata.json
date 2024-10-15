@@ -1,1 +1,0 @@
-{"description":"Note that in some IDEs, e.g. RStudio or R.app on macOS, the IDE itself\nopens files from other threads, in addition to the files opened from the\nmain R thread.\n","example_call":"ps_num_fds(p = ps_handle())"}

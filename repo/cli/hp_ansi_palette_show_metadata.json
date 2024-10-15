@@ -1,1 +1,0 @@
-{"description":"If your platform supports at least 256 colors, then you can configure\nthe colors that cli uses for the eight base and the eight bright colors.\n(I.e. the colors of col_black(), col_red(), and col_br_black(),\ncol_br_red(), etc.\n","example_call":"ansi_palette_show(palette = NULL, colors = num_ansi_colors(), rows = 4)"}

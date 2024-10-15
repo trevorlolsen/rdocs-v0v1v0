@@ -1,1 +1,0 @@
-{"description":"Convert a cell_limits object to a cell range\n","example_call":"as.range(x, fo = c(\"R1C1\", \"A1\"), strict = FALSE, sheet = NULL)"}

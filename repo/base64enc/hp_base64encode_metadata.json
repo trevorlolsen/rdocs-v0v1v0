@@ -1,1 +1,0 @@
-{"description":"base64encode encodes a data into base64 encoding. The source\ncan be a file, binary connection or a raw vector.\n","example_call":"base64encode(what, linewidth, newline)"}

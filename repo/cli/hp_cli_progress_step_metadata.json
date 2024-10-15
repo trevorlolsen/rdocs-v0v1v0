@@ -1,1 +1,0 @@
-{"description":"This is a simplified progress bar, a single (dynamic)\nmessage, without progress units.\n","example_call":"cli_progress_step(msg, msg_done = msg, msg_failed = msg, spinner = FALSE,"}

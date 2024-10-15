@@ -1,1 +1,0 @@
-{"description":"dev_help() searches for source documentation provided in packages\nloaded by devtools. To improve performance, the .Rd files are\nparsed to create to index once, then cached. Use\ndev_topic_index_reset() to clear that index. You can manually\nretrieve the index for a local package with dev_topic_index().\n","example_call":"dev_topic_index(path = \".\")"}

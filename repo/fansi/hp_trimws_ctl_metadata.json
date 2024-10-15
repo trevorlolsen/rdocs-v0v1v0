@@ -1,1 +1,0 @@
-{"description":"Removes any whitespace before the first and/or after the last non-Control\nSequence character.  Unlike with the base::trimws, only the default\nwhitespace specification is supported.\n","example_call":"trimws_ctl(x, which = c(\"both\", \"left\", \"right\"), whitespace = \"[ \\t\\r\\n]\","}

@@ -1,1 +1,0 @@
-{"description":"This theme is always active, and it is at the bottom of the theme\nstack. See themes.\n","example_call":"builtin_theme(dark = getOption(\"cli.theme_dark\", \"auto\"))"}

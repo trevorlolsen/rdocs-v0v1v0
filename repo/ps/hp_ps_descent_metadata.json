@@ -1,1 +1,0 @@
-{"description":"Query the parent processes recursively, up to the first process.\n(On some platforms, like Windows, the process tree is not a tree\nand may contain loops, in which case ps_descent() only goes up\nuntil the first repetition.)\n","example_call":"ps_descent(p = ps_handle())"}

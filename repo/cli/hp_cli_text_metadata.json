@@ -1,1 +1,0 @@
-{"description":"Write some text to the screen. This function is most appropriate for\nlonger paragraphs. See cli_alert() for shorter status messages.\n","example_call":"cli_text(..., .envir = parent.frame())"}

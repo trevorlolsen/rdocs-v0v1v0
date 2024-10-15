@@ -1,1 +1,0 @@
-{"description":"An R process that runs in the background. This is an R6 class that\nextends the processx::process class. The process starts in the\nbackground, evaluates an R function call, and then quits.\n","example_call":"NULL"}

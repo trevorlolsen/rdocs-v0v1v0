@@ -1,1 +1,0 @@
-{"description":"Returns the terminal of the process. Not implemented on Windows, always\nreturns NA_character_. On Unix it returns NA_character_ if the\nprocess has no terminal.\n","example_call":"ps_terminal(p = ps_handle())"}

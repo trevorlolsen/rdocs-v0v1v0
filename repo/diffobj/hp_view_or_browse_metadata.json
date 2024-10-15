@@ -1,1 +1,0 @@
-{"description":"Use getOption(\"viewer\") to view HTML output if it is available as\nper RStudio. Fallback to browseURL\nif not available.\n","example_call":"view_or_browse(url)"}

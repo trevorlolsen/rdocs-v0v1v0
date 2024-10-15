@@ -1,1 +1,0 @@
-{"description":"Set a configuration parameter, for the package we are calling from.\nIf called from the R prompt and not from a package, then it sets\nthe parameter for global environment.\n","example_call":"set_config(...)"}

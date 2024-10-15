@@ -1,0 +1,1 @@
+{"description":"\"Tagged\" missing values work exactly like regular R missing values except\nthat they store one additional byte of information a tag, which is usually\na letter (\"a\" to \"z\"). When by loading a SAS and Stata file, the tagged\nmissing values always use lower case values.\n","example_call":"is_tagged_na(x, tag = NULL)"}

@@ -1,1 +1,0 @@
-{"description":"There are currently three ways to retrieve the contents of a request:\nas a raw object (as = \"raw\"), as a character vector,\n(as = \"text\"), and as parsed into an R object where possible,\n(as = \"parsed\"). If as is not specified, content\ndoes its best to guess which output is most appropriate.\n","example_call":"parsed_content(x, ...)"}

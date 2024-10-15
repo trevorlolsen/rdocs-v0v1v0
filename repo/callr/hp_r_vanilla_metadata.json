@@ -1,1 +1,0 @@
-{"description":"It tries to mimic a fresh R installation. In particular:\n","example_call":"r_vanilla(func, args = list(), libpath = character(), repos = c(CRAN = \"@CRAN@\"),"}

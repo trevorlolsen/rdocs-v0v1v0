@@ -1,1 +1,0 @@
-{"description":null,"example_call":"pkg_lifecycle_statuses(package, which = c(\"superseded\", \"deprecated\", \"questioning\","}

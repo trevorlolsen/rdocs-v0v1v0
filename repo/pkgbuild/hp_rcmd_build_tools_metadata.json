@@ -1,1 +1,0 @@
-{"description":"This is a wrapper around callr::rcmd_safe() that checks\nthat you have build tools available, and on Windows, automatically sets\nthe path to include Rtools.\n","example_call":"rcmd_build_tools(..., env = character(), required = TRUE, quiet = FALSE)"}

@@ -1,1 +1,0 @@
-{"description":"UTF-8 cli characters can be turned on by setting the cli.unicode\noption to TRUE. They can be turned off by setting if to FALSE.\nIf this option is not set, then base::l10n_info() is used to detect\nUTF-8 support.\n","example_call":"is_utf8_output()"}

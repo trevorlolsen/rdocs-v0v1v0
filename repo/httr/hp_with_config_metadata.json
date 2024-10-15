@@ -1,1 +1,0 @@
-{"description":"Execute code with configuration set.\n","example_call":"with_config(config = config(), expr, override = FALSE)"}

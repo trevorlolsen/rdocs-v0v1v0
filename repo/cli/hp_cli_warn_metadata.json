@@ -1,1 +1,0 @@
-{"description":"These functions let you create error, warning or diagnostic\nmessages with cli formatting, including inline styling,\npluralization and glue substitutions.\n","example_call":"cli_warn(message, ..., .envir = parent.frame())"}

@@ -1,1 +1,0 @@
-{"description":"If the file has no Built field then it throws an error.\n","example_call":"desc_get_built(file = \".\", normalize = FALSE)"}

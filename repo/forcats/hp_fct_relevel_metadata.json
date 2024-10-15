@@ -1,0 +1,1 @@
+{"description":"This is a generalisation of stats::relevel() that allows you to move any\nnumber of levels to any location.\n","example_call":"fct_relevel(.f, ..., after = 0L)"}

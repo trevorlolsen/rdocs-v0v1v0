@@ -1,0 +1,1 @@
+{"description":"Compared to base R, when x is a character, this function creates\nlevels in the order in which they appear, which will be the same on every\nplatform. (Base R sorts in the current locale which can vary from place\nto place.) When x is numeric, the ordering is based on the numeric\nvalue and consistent with base R.\n","example_call":"as_factor(x, ...)"}

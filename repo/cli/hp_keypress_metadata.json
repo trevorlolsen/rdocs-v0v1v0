@@ -1,1 +1,0 @@
-{"description":"It currently only works at Linux/Unix and OSX terminals,\nand at the Windows command line. see has_keypress_support.\n","example_call":"keypress(block = TRUE)"}

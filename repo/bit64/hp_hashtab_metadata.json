@@ -1,1 +1,0 @@
-{"description":"This is an explicit implementation of hash functionality that underlies \nmatching and other functions in R. Explicit means that you can create, \nstore and use hash functionality directly. One advantage is that you can\nre-use hashmaps, which avoid re-building hashmaps again and again.\n","example_call":"hashtab(cache, ...)"}

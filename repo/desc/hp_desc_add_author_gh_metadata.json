@@ -1,1 +1,0 @@
-{"description":"Uses the Authors@R field.\n","example_call":"desc_add_author_gh(username, role = \"ctb\", comment = NULL, orcid = NULL,"}

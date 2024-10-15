@@ -1,1 +1,0 @@
-{"description":"fast %in% for integers\n","example_call":"bit_in(x, table, retFUN = as.bit)"}

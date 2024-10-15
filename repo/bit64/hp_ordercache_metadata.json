@@ -1,1 +1,0 @@
-{"description":"Functions to create cache that accelerates many operations\n","example_call":"ordercache(x, has.na = NULL, stable = NULL, optimize = \"time\")"}

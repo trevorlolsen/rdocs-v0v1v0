@@ -1,1 +1,0 @@
-{"description":"read_file() reads an entire file into a single character vector.\nread_file_raw() reads an entire file into a raw vector.\n","example_call":"read_file_raw(path)"}

@@ -1,1 +1,0 @@
-{"description":"A section that is quoted from another source. It is typically indented.\n","example_call":"cli_blockquote(quote, citation = NULL, id = NULL, class = NULL, .envir = parent.frame())"}

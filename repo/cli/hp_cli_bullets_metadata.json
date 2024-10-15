@@ -1,1 +1,0 @@
-{"description":"It is often useful to print out a list of items, tasks a function or\npackage performs, or a list of notes.\n","example_call":"cli_bullets(text, id = NULL, class = NULL, .envir = parent.frame())"}

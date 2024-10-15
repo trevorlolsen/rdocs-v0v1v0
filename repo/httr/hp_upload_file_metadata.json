@@ -1,1 +1,0 @@
-{"description":"Upload a file with POST() or PUT().\n","example_call":"upload_file(path, type = NULL)"}

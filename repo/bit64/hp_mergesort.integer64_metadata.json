@@ -1,1 +1,0 @@
-{"description":"Fast low-level methods for sorting and ordering. \nThe ..sortorder methods do sorting and ordering at once, which requires more RAM than ordering but is (almost) as fast as as sorting.\n","example_call":"mergesort.integer64(x, has.na = TRUE, na.last = FALSE, decreasing = FALSE,"}

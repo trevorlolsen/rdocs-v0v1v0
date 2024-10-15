@@ -1,1 +1,0 @@
-{"description":"Repeats timing expr until minSec is reached\n","example_call":"repeat.time(expr, gcFirst = TRUE, minSec = 0.5, envir = parent.frame())"}

@@ -1,1 +1,0 @@
-{"description":"Read, download, analyze and verify X.509 certificates.\n","example_call":"download_ssl_cert(host = \"localhost\", port = 443, ipv4_only = FALSE)"}

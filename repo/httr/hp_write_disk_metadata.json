@@ -1,1 +1,0 @@
-{"description":"The default behaviour is to use write_memory(), which caches\nthe response locally in memory. This is useful when talking to APIs as\nit avoids a round-trip to disk. If you want to save a file that's bigger\nthan memory, use write_disk() to save it to a known path.\n","example_call":"write_disk(path, overwrite = FALSE)"}

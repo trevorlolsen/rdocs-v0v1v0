@@ -1,1 +1,0 @@
-{"description":"This is a drop in replacement for base::writeLines() with restricted\nfunctionality. Compared to base::writeLines() it:\n","example_call":"writeLines(text, con, sep = \"\\n\", useBytes)"}
